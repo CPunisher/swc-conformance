@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+source ("source") -> #2
+c ("c") -> #3
+a ("a") -> #3
+c ("c") -> #3
+a ("a") -> #3
+a ("a") -> #3
+b ("b") -> #3
+c ("c") -> #3
+console ("console") -> #1
+a ("a") -> #3
+b ("b") -> #3
+c ("c") -> #3

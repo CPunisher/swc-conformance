@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+init ("init") -> #2
+bar ("bar") -> #3
+foo ("foo") -> #2
+bar ("bar") -> #3
+console ("console") -> #1
+bar ("bar") -> #3
+bar ("bar") -> #2
+foo ("foo") -> #2
+bar ("bar") -> #2
+console ("console") -> #1
+init1 ("init1") -> #2
+bar ("bar") -> #2

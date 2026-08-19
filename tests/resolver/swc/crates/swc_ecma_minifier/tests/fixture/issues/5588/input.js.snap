@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+getFoo ("getFoo") -> #2
+getFoo2 ("getFoo2") -> #2
+Foo ("Foo") -> #2
+getFoo2 ("getFoo2") -> #2
+getFoo ("getFoo") -> #2
+expect ("expect") -> #1
+getFoo ("getFoo") -> #2
+expect ("expect") -> #1
+getFoo2 ("getFoo2") -> #2

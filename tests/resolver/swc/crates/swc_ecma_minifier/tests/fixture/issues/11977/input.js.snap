@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+Subscription ("Subscription") -> #2
+Subscription1 ("Subscription1") -> #3
+listeners ("listeners") -> #4
+listener ("listener") -> #4
+Subscription1 ("Subscription1") -> #3
+subscription ("subscription") -> #5
+serverOnlyRequire ("serverOnlyRequire") -> #1
+eval ("eval") -> #1
+err ("err") -> #8
+__require ("__require") -> #2
+x ("x") -> #9
+__turbopack_context__ ("__turbopack_context__") -> #1
+x ("x") -> #10
+ErrorType ("ErrorType") -> #1
+isRequestError ("isRequestError") -> #2
+error ("error") -> #11
+u ("u") -> #11
+i ("i") -> #1
+p ("p") -> #12
+s ("s") -> #12
+f ("f") -> #11
+s ("s") -> #15
+x ("x") -> #2
+d ("d") -> #1

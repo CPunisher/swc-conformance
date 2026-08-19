@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+gen ("gen") -> #3
+foo ("foo") -> #3
+foo ("foo") -> #3
+length ("length") -> #5
+length ("length") -> #5
+a ("a") -> #3
+gen ("gen") -> #3
+b ("b") -> #3
+gen ("gen") -> #3
+console ("console") -> #1
+a ("a") -> #3
+b ("b") -> #3
+gen ("gen") -> #6
+g ("g") -> #1
+foo ("foo") -> #6
+foo ("foo") -> #6
+length ("length") -> #8
+length ("length") -> #8
+a ("a") -> #6
+gen ("gen") -> #6
+b ("b") -> #6
+gen ("gen") -> #6
+console ("console") -> #1
+a ("a") -> #6
+b ("b") -> #6

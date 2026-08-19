@@ -4,7 +4,6 @@ callgrind*
 input.*
 profile.json
 local
-tasks/testsuite/fixtures
 
 node_modules
 *.node
@@ -12,3 +11,4 @@ node_modules
 dist
 
 fixtures
+!tests/*/**

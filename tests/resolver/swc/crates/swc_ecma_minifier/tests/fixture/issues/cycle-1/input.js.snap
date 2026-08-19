@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+A ("A") -> #3
+B ("B") -> #3
+B ("B") -> #3
+A ("A") -> #3
+ExtendsA1 ("ExtendsA1") -> #3
+sideEffectWith ("sideEffectWith") -> #1
+A ("A") -> #3
+Unused1 ("Unused1") -> #3
+ExtendsA1 ("ExtendsA1") -> #3
+ExtendsA2 ("ExtendsA2") -> #3
+sideEffectWith ("sideEffectWith") -> #1
+A ("A") -> #3
+Unused2 ("Unused2") -> #3
+ExtendsA2 ("ExtendsA2") -> #3

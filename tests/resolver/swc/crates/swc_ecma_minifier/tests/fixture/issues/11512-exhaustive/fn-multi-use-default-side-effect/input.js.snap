@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+sideCalls ("sideCalls") -> #2
+side ("side") -> #2
+sideCalls ("sideCalls") -> #2
+keep ("keep") -> #2
+a ("a") -> #4
+b ("b") -> #4
+side ("side") -> #2
+a ("a") -> #4
+fnMultiUseDefaultSideEffect ("fnMultiUseDefaultSideEffect") -> #2
+value ("value") -> #5
+keep ("keep") -> #2
+value ("value") -> #5
+keep ("keep") -> #2
+value ("value") -> #5

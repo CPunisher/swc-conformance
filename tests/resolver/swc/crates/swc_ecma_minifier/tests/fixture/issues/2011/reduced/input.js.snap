@@ -1,0 +1,7 @@
+Top level: #2
+Unresolved: #1
+ClassA ("ClassA") -> #2
+module ("module") -> #1
+ClassB ("ClassB") -> #3
+ClassA ("ClassA") -> #2
+ClassB ("ClassB") -> #3

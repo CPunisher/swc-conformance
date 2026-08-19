@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+inner ("inner") -> #3
+inner ("inner") -> #3
+bar ("bar") -> #2
+outer ("outer") -> #4
+outer ("outer") -> #4
+baz ("baz") -> #2
+a ("a") -> #5
+a ("a") -> #5
+qux ("qux") -> #2
+first ("first") -> #6
+second ("second") -> #6
+first ("first") -> #6
+example ("example") -> #2
+foo ("foo") -> #2
+bar ("bar") -> #2
+baz ("baz") -> #2
+qux ("qux") -> #2

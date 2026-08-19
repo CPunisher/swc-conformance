@@ -37,6 +37,8 @@ struct FixtureSet {
     input: &'static str,
     output: &'static str,
     extensions: &'static [&'static str],
+    file_name: Option<&'static str>,
+    jsx: bool,
 }
 
 const RESOLVER_FIXTURE_SETS: &[FixtureSet] = &[
@@ -44,21 +46,36 @@ const RESOLVER_FIXTURE_SETS: &[FixtureSet] = &[
         input: "fixtures/test262/test/annexB/language",
         output: "tests/resolver/test262/test/annexB/language",
         extensions: &["js"],
+        file_name: None,
+        jsx: false,
     },
     FixtureSet {
         input: "fixtures/test262/test/language",
         output: "tests/resolver/test262/test/language",
         extensions: &["js"],
+        file_name: None,
+        jsx: false,
     },
     FixtureSet {
         input: "fixtures/typescript/tests/cases/compiler",
         output: "tests/resolver/typescript/tests/cases/compiler",
         extensions: &["js", "jsx", "ts", "tsx"],
+        file_name: None,
+        jsx: false,
     },
     FixtureSet {
         input: "fixtures/typescript/tests/cases/conformance",
         output: "tests/resolver/typescript/tests/cases/conformance",
         extensions: &["js", "jsx", "ts", "tsx"],
+        file_name: None,
+        jsx: false,
+    },
+    FixtureSet {
+        input: "fixtures/swc/crates/swc_ecma_minifier/tests/fixture/issues",
+        output: "tests/resolver/swc/crates/swc_ecma_minifier/tests/fixture/issues",
+        extensions: &["js"],
+        file_name: Some("input.js"),
+        jsx: true,
     },
 ];
 
@@ -103,8 +120,8 @@ fn generate_resolver_snapshots() -> Result<(), Box<dyn Error>> {
 
         let mut generated = 0;
         let mut skipped = 0;
-        for path in fixture_files(&input_root, fixture_set.extensions) {
-            let Some(program) = parse(&path) else {
+        for path in fixture_files(&input_root, fixture_set.extensions, fixture_set.file_name) {
+            let Some(program) = parse(&path, fixture_set.jsx) else {
                 skipped += 1;
                 continue;
             };
@@ -142,23 +159,25 @@ fn clean_output_root(output_root: &Path) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn fixture_files(root: &Path, extensions: &[&str]) -> Vec<PathBuf> {
+fn fixture_files(root: &Path, extensions: &[&str], file_name: Option<&str>) -> Vec<PathBuf> {
     let mut files = WalkDir::new(root)
         .into_iter()
         .filter_map(Result::ok)
         .filter(|entry| entry.file_type().is_file())
         .map(|entry| entry.into_path())
         .filter(|path| {
-            path.extension()
-                .and_then(|extension| extension.to_str())
-                .is_some_and(|extension| extensions.contains(&extension))
+            file_name.is_none_or(|file_name| path.file_name().is_some_and(|name| name == file_name))
+                && path
+                    .extension()
+                    .and_then(|extension| extension.to_str())
+                    .is_some_and(|extension| extensions.contains(&extension))
         })
         .collect::<Vec<_>>();
     files.sort_unstable();
     files
 }
 
-fn syntax_for(path: &Path) -> Syntax {
+fn syntax_for(path: &Path, jsx: bool) -> Syntax {
     match path.extension().and_then(|extension| extension.to_str()) {
         Some("ts" | "tsx") => Syntax::Typescript(TsSyntax {
             tsx: path.extension().is_some_and(|extension| extension == "tsx"),
@@ -169,7 +188,7 @@ fn syntax_for(path: &Path) -> Syntax {
             ..Default::default()
         }),
         _ => Syntax::Es(EsSyntax {
-            jsx: path.extension().is_some_and(|extension| extension == "jsx"),
+            jsx: jsx || path.extension().is_some_and(|extension| extension == "jsx"),
             decorators: true,
             decorators_before_export: true,
             auto_accessors: true,
@@ -179,7 +198,7 @@ fn syntax_for(path: &Path) -> Syntax {
     }
 }
 
-fn parse(path: &Path) -> Option<Program> {
+fn parse(path: &Path, jsx: bool) -> Option<Program> {
     let source_text = fs::read_to_string(path).ok()?;
     let source_map: Lrc<SourceMap> = Default::default();
     let source_file =
@@ -194,7 +213,7 @@ fn parse(path: &Path) -> Option<Program> {
     let parsed = catch_unwind(AssertUnwindSafe(|| {
         parse_file_as_program(
             &source_file,
-            syntax_for(path),
+            syntax_for(path, jsx),
             EsVersion::EsNext,
             None,
             &mut recovered_errors,
