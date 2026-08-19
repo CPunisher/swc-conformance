@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+obj ("obj") -> #2
+fromLiteral ("fromLiteral") -> #3
+fromExpr ("fromExpr") -> #3
+fromHole ("fromHole") -> #3
+assert ("assert") -> #1
+fromLiteral ("fromLiteral") -> #3
+assert ("assert") -> #1
+fromExpr ("fromExpr") -> #3
+assert ("assert") -> #1
+fromHole ("fromHole") -> #3
+callCount ("callCount") -> #2
+callCount ("callCount") -> #2
+ref ("ref") -> #2
+obj ("obj") -> #2
+ref ("ref") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+callCount ("callCount") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

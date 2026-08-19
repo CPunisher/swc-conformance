@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+A ("A") -> #2
+T ("T") -> #4
+T ("T") -> #4
+T ("T") -> #3
+needsRenameForShadowing ("needsRenameForShadowing") -> #2
+A ("A") -> #5
+T ("T") -> #5
+O ("O") -> #6
+t ("t") -> #7
+A ("A") -> #5
+t2 ("t2") -> #7
+T ("T") -> #7
+T ("T") -> #7
+T ("T") -> #5

@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+foo2 ("foo2") -> #2
+foo ("foo") -> #2
+foo2 ("foo2") -> #2
+m1 ("m1") -> #2
+foo3 ("foo3") -> #5
+foo4 ("foo4") -> #5
+foo ("foo") -> #2
+foo2 ("foo2") -> #2
+foo3 ("foo3") -> #5
+foo4 ("foo4") -> #5
+m2 ("m2") -> #2
+foo3 ("foo3") -> #8
+foo4 ("foo4") -> #8
+foo ("foo") -> #2
+foo2 ("foo2") -> #2
+foo3 ("foo3") -> #8
+foo4 ("foo4") -> #8
+m1 ("m1") -> #2

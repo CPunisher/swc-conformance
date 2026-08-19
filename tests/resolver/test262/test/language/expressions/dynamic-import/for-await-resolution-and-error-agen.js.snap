@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+agen ("agen") -> #2
+imported ("imported") -> #4
+imported ("imported") -> #4
+aiter ("aiter") -> #2
+agen ("agen") -> #2
+fn ("fn") -> #2
+a ("a") -> #6
+aiter ("aiter") -> #2
+b ("b") -> #6
+aiter ("aiter") -> #2
+c ("c") -> #6
+aiter ("aiter") -> #2
+assert ("assert") -> #1
+a ("a") -> #6
+assert ("assert") -> #1
+b ("b") -> #6
+error ("error") -> #6
+c ("c") -> #6
+e ("e") -> #8
+error ("error") -> #6
+e ("e") -> #8
+assert ("assert") -> #1
+error ("error") -> #6
+asyncTest ("asyncTest") -> #1
+fn ("fn") -> #2

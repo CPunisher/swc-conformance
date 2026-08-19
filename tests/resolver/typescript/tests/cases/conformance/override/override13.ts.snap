@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+Foo ("Foo") -> #2
+SubFoo ("SubFoo") -> #2
+Foo ("Foo") -> #2
+StaticSubFoo ("StaticSubFoo") -> #2
+Foo ("Foo") -> #2
+Intermediate ("Intermediate") -> #2
+Foo ("Foo") -> #2
+Derived ("Derived") -> #2
+Intermediate ("Intermediate") -> #2
+StaticDerived ("StaticDerived") -> #2
+Intermediate ("Intermediate") -> #2

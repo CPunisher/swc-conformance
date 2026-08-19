@@ -1,0 +1,10 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+Promise ("Promise") -> #1
+foo ("foo") -> #2
+$DONE ("$DONE") -> #1
+e ("e") -> #5
+assert ("assert") -> #1
+e ("e") -> #5
+$DONE ("$DONE") -> #1

@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+probeDefault ("probeDefault") -> #2
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
+probeCase ("probeCase") -> #2
+x ("x") -> #3
+probeDefault ("probeDefault") -> #2
+x ("x") -> #3
+assert ("assert") -> #1
+probeDefault ("probeDefault") -> #2
+assert ("assert") -> #1
+x ("x") -> #2
+x ("x") -> #5
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
+x ("x") -> #5
+probeCase ("probeCase") -> #2
+x ("x") -> #5
+assert ("assert") -> #1
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
+assert ("assert") -> #1
+probeCase ("probeCase") -> #2

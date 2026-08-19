@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+Promise ("Promise") -> #1
+x ("x") -> #2
+self ("self") -> #2
+assert ("assert") -> #1
+x ("x") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+self ("self") -> #2
+Promise ("Promise") -> #1
+assert ("assert") -> #1
+x ("x") -> #2
+assert ("assert") -> #1
+self ("self") -> #2
+$DONE ("$DONE") -> #1

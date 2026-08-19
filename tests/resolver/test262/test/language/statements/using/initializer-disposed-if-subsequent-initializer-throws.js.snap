@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+resource ("resource") -> #2
+Symbol ("Symbol") -> #1
+getResource ("getResource") -> #2
+Error ("Error") -> #1
+assert ("assert") -> #1
+Error ("Error") -> #1
+_1 ("_1") -> #5
+resource ("resource") -> #2
+_2 ("_2") -> #5
+getResource ("getResource") -> #2
+assert ("assert") -> #1
+resource ("resource") -> #2

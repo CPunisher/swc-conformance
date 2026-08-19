@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+Foo ("Foo") -> #2
+interfaceFooMethod ("interfaceFooMethod") -> #0
+interfaceFooProperty ("interfaceFooProperty") -> #0
+Foo ("Foo") -> #2
+Bar ("Bar") -> #2
+interfaceBarMethod ("interfaceBarMethod") -> #0
+interfaceBarProperty ("interfaceBarProperty") -> #0
+Bar ("Bar") -> #2
+Foo ("Foo") -> #2
+bar ("bar") -> #2
+Bar ("Bar") -> #2
+bar ("bar") -> #2
+foo ("foo") -> #2
+Foo ("Foo") -> #2
+foo ("foo") -> #2
+bar ("bar") -> #2

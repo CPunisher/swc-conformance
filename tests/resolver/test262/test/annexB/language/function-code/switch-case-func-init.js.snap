@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+init ("init") -> #2
+changed ("changed") -> #2
+init ("init") -> #2
+f ("f") -> #3
+f ("f") -> #3
+changed ("changed") -> #2
+f ("f") -> #3
+f ("f") -> #3
+assert ("assert") -> #1
+init ("init") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+changed ("changed") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+f ("f") -> #1

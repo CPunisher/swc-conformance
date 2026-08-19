@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+self1 ("self1") -> #2
+self2 ("self2") -> #2
+other1 ("other1") -> #2
+self3 ("self3") -> #2
+other2 ("other2") -> #2
+testNs ("testNs") -> #2
+assert ("assert") -> #1
+self1 ("self1") -> #2
+self2 ("self2") -> #2
+assert ("assert") -> #1
+self1 ("self1") -> #2
+self3 ("self3") -> #2
+assert ("assert") -> #1
+other1 ("other1") -> #2
+other2 ("other2") -> #2
+assert ("assert") -> #1
+self1 ("self1") -> #2
+testNs ("testNs") -> #2
+assert ("assert") -> #1
+self1 ("self1") -> #2
+other1 ("other1") -> #2

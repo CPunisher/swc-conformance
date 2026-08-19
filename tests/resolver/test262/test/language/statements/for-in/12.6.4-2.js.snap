@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+proto ("proto") -> #2
+ConstructFun ("ConstructFun") -> #2
+ConstructFun ("ConstructFun") -> #2
+proto ("proto") -> #2
+child ("child") -> #2
+ConstructFun ("ConstructFun") -> #2
+Object ("Object") -> #1
+child ("child") -> #2
+accessedProp ("accessedProp") -> #2
+p ("p") -> #2
+child ("child") -> #2
+p ("p") -> #2
+accessedProp ("accessedProp") -> #2
+assert ("assert") -> #1
+accessedProp ("accessedProp") -> #2

@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+caught ("caught") -> #2
+f ("f") -> #2
+eval ("eval") -> #1
+err ("err") -> #5
+caught ("caught") -> #2
+err ("err") -> #5
+f ("f") -> #2
+assert ("assert") -> #1
+caught ("caught") -> #2
+assert ("assert") -> #1
+caught ("caught") -> #2
+SyntaxError ("SyntaxError") -> #1

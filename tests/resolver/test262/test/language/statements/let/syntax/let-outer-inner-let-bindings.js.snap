@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+y ("y") -> #2
+x ("x") -> #3
+i ("i") -> #3
+i ("i") -> #3
+i ("i") -> #3
+y ("y") -> #4
+assert ("assert") -> #1
+x ("x") -> #3
+assert ("assert") -> #1
+y ("y") -> #4
+assert ("assert") -> #1
+x ("x") -> #2
+assert ("assert") -> #1
+y ("y") -> #2

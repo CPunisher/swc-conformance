@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+require ("require") -> #2
+a ("a") -> #3
+has ("has") -> #2
+a ("a") -> #4
+require ("require") -> #2
+has ("has") -> #2
+hello ("hello") -> #2
+has ("has") -> #2
+require ("require") -> #2
+hello ("hello") -> #2
+hello ("hello") -> #2

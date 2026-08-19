@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+Class ("Class") -> #2
+T ("T") -> #3
+T ("T") -> #3
+fn ("fn") -> #2
+T ("T") -> #4
+T ("T") -> #4
+ClassAlias ("ClassAlias") -> #2
+T ("T") -> #5
+Class ("Class") -> #2
+T ("T") -> #5
+FnAlias ("FnAlias") -> #2
+T ("T") -> #6
+fn ("fn") -> #2
+T ("T") -> #6
+Wat ("Wat") -> #2
+T ("T") -> #7
+ClassAlias ("ClassAlias") -> #2
+T ("T") -> #7
+FnAlias ("FnAlias") -> #2
+T ("T") -> #7
+wat ("wat") -> #2
+Wat ("Wat") -> #2
+wat ("wat") -> #2
+Wat ("Wat") -> #2

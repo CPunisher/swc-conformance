@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+fs ("fs") -> #2
+TruffleContract ("TruffleContract") -> #2
+console ("console") -> #1
+fs ("fs") -> #2
+console ("console") -> #1
+TruffleContract ("TruffleContract") -> #2
+TruffleContract ("TruffleContract") -> #2
+ContractObject ("ContractObject") -> #3
+foo ("foo") -> #0
+TruffleContract ("TruffleContract") -> #3
+Contract ("Contract") -> #4
+ContractObject ("ContractObject") -> #3
+TruffleContract ("TruffleContract") -> #3

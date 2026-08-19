@@ -1,0 +1,10 @@
+Top level: #2
+Unresolved: #1
+testcase ("testcase") -> #2
+x ("x") -> #3
+inner ("inner") -> #3
+eval ("eval") -> #1
+assert ("assert") -> #1
+x ("x") -> #3
+inner ("inner") -> #3
+testcase ("testcase") -> #2

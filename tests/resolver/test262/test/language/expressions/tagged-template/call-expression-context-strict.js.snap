@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+context ("context") -> #2
+fn ("fn") -> #2
+context ("context") -> #2
+fn ("fn") -> #2
+assert ("assert") -> #1
+context ("context") -> #2
+undefined ("undefined") -> #1
+fn ("fn") -> #2
+context ("context") -> #2
+context ("context") -> #2
+fn ("fn") -> #2
+assert ("assert") -> #1
+context ("context") -> #2
+undefined ("undefined") -> #1

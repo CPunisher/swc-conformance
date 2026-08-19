@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+initial ("initial") -> #2
+postAssignment ("postAssignment") -> #2
+eval ("eval") -> #1
+assert ("assert") -> #1
+initial ("initial") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+postAssignment ("postAssignment") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+x ("x") -> #1

@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+thrown ("thrown") -> #2
+Test262Error ("Test262Error") -> #1
+caught ("caught") -> #2
+Parent ("Parent") -> #2
+thrown ("thrown") -> #2
+Child ("Child") -> #2
+err ("err") -> #6
+caught ("caught") -> #2
+err ("err") -> #6
+Parent ("Parent") -> #2
+Child ("Child") -> #2
+_ ("_") -> #8
+assert ("assert") -> #1
+caught ("caught") -> #2
+thrown ("thrown") -> #2

@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+f ("f") -> #3
+n ("n") -> #4
+n ("n") -> #4
+callCount ("callCount") -> #2
+x ("x") -> #4
+x ("x") -> #4
+x ("x") -> #4
+x ("x") -> #4
+f ("f") -> #3
+n ("n") -> #4
+$MAX_ITERATIONS ("$MAX_ITERATIONS") -> #1
+assert ("assert") -> #1
+callCount ("callCount") -> #2

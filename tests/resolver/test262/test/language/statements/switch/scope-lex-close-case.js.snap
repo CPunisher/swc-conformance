@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+probe1 ("probe1") -> #2
+probe2 ("probe2") -> #2
+x ("x") -> #3
+probe1 ("probe1") -> #2
+x ("x") -> #3
+probe2 ("probe2") -> #2
+x ("x") -> #3
+assert ("assert") -> #1
+probe1 ("probe1") -> #2
+assert ("assert") -> #1
+probe2 ("probe2") -> #2
+assert ("assert") -> #1
+x ("x") -> #2

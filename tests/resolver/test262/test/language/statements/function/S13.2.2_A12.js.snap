@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+FACTORY ("FACTORY") -> #2
+func ("func") -> #3
+func ("func") -> #3
+obj ("obj") -> #2
+FACTORY ("FACTORY") -> #2
+e ("e") -> #6
+Test262Error ("Test262Error") -> #1
+e ("e") -> #6
+obj ("obj") -> #2
+Test262Error ("Test262Error") -> #1
+obj ("obj") -> #2

@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+FirstInterface ("FirstInterface") -> #2
+commonProperty ("commonProperty") -> #0
+SecondInterface ("SecondInterface") -> #2
+commonProperty ("commonProperty") -> #0
+myFirstFunction ("myFirstFunction") -> #2
+param1 ("param1") -> #3
+T ("T") -> #3
+newParam ("newParam") -> #3
+T ("T") -> #3
+otherProperty ("otherProperty") -> #0
+Object ("Object") -> #1
+param1 ("param1") -> #3
+mySecondFunction ("mySecondFunction") -> #2
+newParam ("newParam") -> #3
+T ("T") -> #3
+FirstInterface ("FirstInterface") -> #2
+SecondInterface ("SecondInterface") -> #2
+mySecondFunction ("mySecondFunction") -> #2
+newParam ("newParam") -> #4
+T ("T") -> #4
+newParam ("newParam") -> #4
+T ("T") -> #4
+commonProperty ("commonProperty") -> #0
+otherProperty ("otherProperty") -> #0

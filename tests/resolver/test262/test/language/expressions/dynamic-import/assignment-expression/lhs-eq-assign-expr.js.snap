@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+y ("y") -> #2
+a ("a") -> #2
+b ("b") -> #2
+fn ("fn") -> #2
+ns1 ("ns1") -> #3
+x ("x") -> #2
+a ("a") -> #2
+assert ("assert") -> #1
+ns1 ("ns1") -> #3
+assert ("assert") -> #1
+ns1 ("ns1") -> #3
+ns2 ("ns2") -> #3
+y ("y") -> #2
+b ("b") -> #2
+assert ("assert") -> #1
+ns2 ("ns2") -> #3
+assert ("assert") -> #1
+ns2 ("ns2") -> #3
+asyncTest ("asyncTest") -> #1
+fn ("fn") -> #2

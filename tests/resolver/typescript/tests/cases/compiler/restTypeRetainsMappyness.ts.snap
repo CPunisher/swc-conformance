@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+Foo ("Foo") -> #2
+T ("T") -> #3
+P ("P") -> #3
+T ("T") -> #3
+T ("T") -> #3
+P ("P") -> #3
+test ("test") -> #2
+fn ("fn") -> #4
+args ("args") -> #1
+Foo ("Foo") -> #2
+T ("T") -> #4
+arr ("arr") -> #4
+Foo ("Foo") -> #2
+T ("T") -> #4
+fn ("fn") -> #4
+arr ("arr") -> #4
+T ("T") -> #4

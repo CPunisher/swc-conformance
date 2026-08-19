@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+abruptCompletion ("abruptCompletion") -> #2
+Test262Error ("Test262Error") -> #1
+neverExecuted ("neverExecuted") -> #2
+sideEffect ("sideEffect") -> #2
+neverExecuted ("neverExecuted") -> #2
+C ("C") -> #2
+abruptCompletion ("abruptCompletion") -> #2
+sideEffect ("sideEffect") -> #2
+assert ("assert") -> #1
+Test262Error ("Test262Error") -> #1
+c ("c") -> #5
+C ("C") -> #2
+assert ("assert") -> #1
+neverExecuted ("neverExecuted") -> #2
+assert ("assert") -> #1
+Test262Error ("Test262Error") -> #1
+D ("D") -> #6
+abruptCompletion ("abruptCompletion") -> #2
+sideEffect ("sideEffect") -> #2
+assert ("assert") -> #1
+neverExecuted ("neverExecuted") -> #2

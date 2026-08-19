@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+Outer ("Outer") -> #2
+self ("self") -> #3
+self ("self") -> #3
+Outer ("Outer") -> #2
+Inner ("Inner") -> #2
+Outer ("Outer") -> #2
+i ("i") -> #2
+Inner ("Inner") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+i ("i") -> #2

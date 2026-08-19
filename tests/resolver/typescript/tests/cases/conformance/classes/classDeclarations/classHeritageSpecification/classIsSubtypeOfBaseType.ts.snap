@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+Base ("Base") -> #2
+T ("T") -> #3
+T ("T") -> #3
+Derived ("Derived") -> #2
+bar ("bar") -> #0
+baz ("baz") -> #0
+Base ("Base") -> #2
+bar ("bar") -> #0
+Derived2 ("Derived2") -> #2
+bar ("bar") -> #0
+Base ("Base") -> #2
+bar ("bar") -> #0

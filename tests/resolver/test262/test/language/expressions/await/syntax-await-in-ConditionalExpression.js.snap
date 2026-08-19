@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+x ("x") -> #3
+shouldNotBeAwaited ("shouldNotBeAwaited") -> #3
+onFulfilled ("onFulfilled") -> #4
+x ("x") -> #3
+Promise ("Promise") -> #1
+onFulfilled ("onFulfilled") -> #4
+shouldNotBeAwaited ("shouldNotBeAwaited") -> #3
+assert ("assert") -> #1
+x ("x") -> #3
+asyncTest ("asyncTest") -> #1
+foo ("foo") -> #2

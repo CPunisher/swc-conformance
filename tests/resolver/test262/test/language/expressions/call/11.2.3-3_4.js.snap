@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+fooCalled ("fooCalled") -> #2
+foo ("foo") -> #2
+fooCalled ("fooCalled") -> #2
+o ("o") -> #2
+Object ("Object") -> #1
+o ("o") -> #2
+x ("x") -> #5
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+o ("o") -> #2
+foo ("foo") -> #2
+Test262Error ("Test262Error") -> #1
+assert ("assert") -> #1
+fooCalled ("fooCalled") -> #2
+assert ("assert") -> #1
+o ("o") -> #2
+assert ("assert") -> #1
+o ("o") -> #2
+undefined ("undefined") -> #1

@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+f1 ("f1") -> #2
+x ("x") -> #3
+arguments ("arguments") -> #1
+x ("x") -> #3
+f1 ("f1") -> #2
+Test262Error ("Test262Error") -> #1
+e ("e") -> #8
+Test262Error ("Test262Error") -> #1
+f2 ("f2") -> #2
+x ("x") -> #9
+arguments ("arguments") -> #1
+x ("x") -> #9
+f2 ("f2") -> #2
+Test262Error ("Test262Error") -> #1
+e ("e") -> #14
+Test262Error ("Test262Error") -> #1

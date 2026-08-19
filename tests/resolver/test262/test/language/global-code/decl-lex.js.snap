@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+test262let ("test262let") -> #2
+test262let ("test262let") -> #2
+assert ("assert") -> #1
+test262let ("test262let") -> #2
+assert ("assert") -> #1
+test262const ("test262const") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+test262const ("test262const") -> #2
+assert ("assert") -> #1
+test262const ("test262const") -> #2
+assert ("assert") -> #1
+test262class ("test262class") -> #2
+test262class ("test262class") -> #2
+assert ("assert") -> #1
+test262class ("test262class") -> #2
+assert ("assert") -> #1

@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+newTarget ("newTarget") -> #2
+getNewTarget ("getNewTarget") -> #2
+newTarget ("newTarget") -> #2
+eval ("eval") -> #1
+getNewTarget ("getNewTarget") -> #2
+assert ("assert") -> #1
+newTarget ("newTarget") -> #2
+undefined ("undefined") -> #1
+getNewTarget ("getNewTarget") -> #2
+assert ("assert") -> #1
+newTarget ("newTarget") -> #2
+getNewTarget ("getNewTarget") -> #2

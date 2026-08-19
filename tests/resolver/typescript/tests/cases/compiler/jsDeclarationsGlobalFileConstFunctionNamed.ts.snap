@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+SomeConstructor ("SomeConstructor") -> #2
+Named ("Named") -> #3
+SomeConstructor2 ("SomeConstructor2") -> #2
+Named ("Named") -> #5
+SomeConstructor2 ("SomeConstructor2") -> #2
+SomeConstructor3 ("SomeConstructor3") -> #2
+Named ("Named") -> #7
+SomeConstructor3 ("SomeConstructor3") -> #2
+SelfReference ("SelfReference") -> #2
+Named ("Named") -> #9
+Named ("Named") -> #9
+Named ("Named") -> #9
+SelfReference ("SelfReference") -> #2

@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+__10_4_2_1_2 ("__10_4_2_1_2") -> #2
+testcase ("testcase") -> #2
+_eval ("_eval") -> #3
+eval ("eval") -> #1
+__10_4_2_1_2 ("__10_4_2_1_2") -> #3
+foo ("foo") -> #3
+__10_4_2_1_2 ("__10_4_2_1_2") -> #4
+assert ("assert") -> #1
+_eval ("_eval") -> #3
+foo ("foo") -> #3
+testcase ("testcase") -> #2

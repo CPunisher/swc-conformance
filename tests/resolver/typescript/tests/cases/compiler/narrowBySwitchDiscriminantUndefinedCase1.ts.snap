@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+A ("A") -> #2
+optionalProp ("optionalProp") -> #0
+func ("func") -> #2
+arg ("arg") -> #3
+A ("A") -> #2
+optionalProp ("optionalProp") -> #3
+arg ("arg") -> #3
+optionalProp ("optionalProp") -> #3
+undefined ("undefined") -> #1
+undefined ("undefined") -> #1
+assertUnreachable ("assertUnreachable") -> #2
+optionalProp ("optionalProp") -> #3
+func2 ("func2") -> #2
+optionalProp ("optionalProp") -> #5
+Math ("Math") -> #1
+optionalProp ("optionalProp") -> #5
+undefined ("undefined") -> #1
+undefined ("undefined") -> #1
+assertUnreachable ("assertUnreachable") -> #2
+optionalProp ("optionalProp") -> #5
+assertUnreachable ("assertUnreachable") -> #2
+_ ("_") -> #7
+Error ("Error") -> #1

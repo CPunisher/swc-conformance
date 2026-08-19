@@ -1,0 +1,12 @@
+Top level: #2
+Unresolved: #1
+otherParseInt ("otherParseInt") -> #2
+$262 ("$262") -> #1
+assert ("assert") -> #1
+otherParseInt ("otherParseInt") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+otherParseInt ("otherParseInt") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+otherParseInt ("otherParseInt") -> #2

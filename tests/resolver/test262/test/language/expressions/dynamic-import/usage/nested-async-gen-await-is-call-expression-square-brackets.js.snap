@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+f ("f") -> #2
+x ("x") -> #4
+x ("x") -> #4
+imported ("imported") -> #5
+assert ("assert") -> #1
+imported ("imported") -> #5
+callCount ("callCount") -> #2
+f ("f") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

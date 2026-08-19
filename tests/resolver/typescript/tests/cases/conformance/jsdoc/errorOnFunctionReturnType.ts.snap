@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+testPromise1 ("testPromise1") -> #2
+console ("console") -> #1
+testPromise2 ("testPromise2") -> #2
+testPromise3 ("testPromise3") -> #2
+console ("console") -> #1
+testPromise4 ("testPromise4") -> #2
+console ("console") -> #1
+testNever1 ("testNever1") -> #2
+testNever2 ("testNever2") -> #2
+testNever3 ("testNever3") -> #2
+console ("console") -> #1
+testNever4 ("testNever4") -> #2
+console ("console") -> #1

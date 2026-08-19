@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+flag1 ("flag1") -> #2
+flag2 ("flag2") -> #2
+_ ("_") -> #2
+result ("result") -> #2
+vals ("vals") -> #2
+result ("result") -> #2
+_ ("_") -> #2
+flag1 ("flag1") -> #2
+_ ("_") -> #2
+flag2 ("flag2") -> #2
+vals ("vals") -> #2
+assert ("assert") -> #1
+flag1 ("flag1") -> #2
+assert ("assert") -> #1
+flag2 ("flag2") -> #2
+assert ("assert") -> #1
+result ("result") -> #2
+vals ("vals") -> #2

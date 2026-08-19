@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+StaticToString ("StaticToString") -> #2
+foo ("foo") -> #2
+staticToString ("staticToString") -> #4
+StaticToString ("StaticToString") -> #2
+staticToString ("staticToString") -> #4
+StaticToString ("StaticToString") -> #2
+StaticToNumber ("StaticToNumber") -> #2
+bar ("bar") -> #2
+staticToNumber ("staticToNumber") -> #6
+StaticToNumber ("StaticToNumber") -> #2
+staticToNumber ("staticToNumber") -> #6
+StaticToNumber ("StaticToNumber") -> #2
+NormalToString ("NormalToString") -> #2
+baz ("baz") -> #2
+normal ("normal") -> #8
+NormalToString ("NormalToString") -> #2
+normal ("normal") -> #8
+NormalToString ("NormalToString") -> #2

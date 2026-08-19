@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+error ("error") -> #2
+thenable ("thenable") -> #2
+resolve ("resolve") -> #3
+reject ("reject") -> #3
+error ("error") -> #2
+caught ("caught") -> #2
+thenable ("thenable") -> #2
+e ("e") -> #5
+caught ("caught") -> #2
+e ("e") -> #5
+assert ("assert") -> #1
+caught ("caught") -> #2
+error ("error") -> #2
+$DONE ("$DONE") -> #1

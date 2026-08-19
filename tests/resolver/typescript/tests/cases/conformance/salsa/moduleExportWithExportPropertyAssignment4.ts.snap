@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+module ("module") -> #2
+exports ("exports") -> #0
+require ("require") -> #2
+name ("name") -> #3
+module ("module") -> #2
+A ("A") -> #2
+A ("A") -> #2
+A ("A") -> #2
+module ("module") -> #2
+A ("A") -> #2
+A ("A") -> #2
+module ("module") -> #2
+module ("module") -> #2
+mod1 ("mod1") -> #2
+require ("require") -> #2
+mod1 ("mod1") -> #2
+mod1 ("mod1") -> #2
+mod1 ("mod1") -> #2
+mod1 ("mod1") -> #2

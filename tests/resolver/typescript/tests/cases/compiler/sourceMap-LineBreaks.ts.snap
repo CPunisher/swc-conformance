@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+endsWithlineSeparator ("endsWithlineSeparator") -> #2
+endsWithParagraphSeparator ("endsWithParagraphSeparator") -> #2
+endsWithNextLine ("endsWithNextLine") -> #2
+endsWithLineFeed ("endsWithLineFeed") -> #2
+endsWithCarriageReturnLineFeed ("endsWithCarriageReturnLineFeed") -> #2
+endsWithCarriageReturn ("endsWithCarriageReturn") -> #2
+endsWithLineFeedCarriageReturn ("endsWithLineFeedCarriageReturn") -> #2
+endsWithLineFeedCarriageReturnLineFeed ("endsWithLineFeedCarriageReturnLineFeed") -> #2
+stringLiteralWithLineFeed ("stringLiteralWithLineFeed") -> #2
+stringLiteralWithCarriageReturnLineFeed ("stringLiteralWithCarriageReturnLineFeed") -> #2
+stringLiteralWithCarriageReturn ("stringLiteralWithCarriageReturn") -> #2
+stringLiteralWithLineSeparator ("stringLiteralWithLineSeparator") -> #2
+stringLiteralWithParagraphSeparator ("stringLiteralWithParagraphSeparator") -> #2
+stringLiteralWithNextLine ("stringLiteralWithNextLine") -> #2

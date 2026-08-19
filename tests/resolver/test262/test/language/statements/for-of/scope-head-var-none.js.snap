@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+probeBefore ("probeBefore") -> #2
+x ("x") -> #2
+x ("x") -> #2
+probeDecl ("probeDecl") -> #2
+probeExpr ("probeExpr") -> #2
+probeBody ("probeBody") -> #2
+_ ("_") -> #4
+probeDecl ("probeDecl") -> #2
+x ("x") -> #2
+eval ("eval") -> #1
+probeExpr ("probeExpr") -> #2
+x ("x") -> #2
+probeBody ("probeBody") -> #2
+x ("x") -> #2
+assert ("assert") -> #1
+probeBefore ("probeBefore") -> #2
+assert ("assert") -> #1
+probeDecl ("probeDecl") -> #2
+assert ("assert") -> #1
+probeExpr ("probeExpr") -> #2
+assert ("assert") -> #1
+probeBody ("probeBody") -> #2
+assert ("assert") -> #1
+x ("x") -> #2

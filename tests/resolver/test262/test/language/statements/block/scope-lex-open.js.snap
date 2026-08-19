@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+probeBefore ("probeBefore") -> #2
+x ("x") -> #2
+probeInside ("probeInside") -> #2
+x ("x") -> #4
+probeInside ("probeInside") -> #2
+x ("x") -> #4
+assert ("assert") -> #1
+probeBefore ("probeBefore") -> #2
+assert ("assert") -> #1
+probeInside ("probeInside") -> #2

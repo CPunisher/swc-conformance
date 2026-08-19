@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+log ("log") -> #2
+message ("message") -> #3
+x ("x") -> #4
+log ("log") -> #2
+x ("x") -> #4
+aString ("aString") -> #2
+x ("x") -> #6
+aString ("aString") -> #2
+log ("log") -> #2
+x ("x") -> #6
+aNumber ("aNumber") -> #2
+x ("x") -> #8
+aNumber ("aNumber") -> #2
+log ("log") -> #2
+x ("x") -> #8
+anObject ("anObject") -> #2
+foo ("foo") -> #0
+x ("x") -> #10
+anObject ("anObject") -> #2
+log ("log") -> #2
+x ("x") -> #10

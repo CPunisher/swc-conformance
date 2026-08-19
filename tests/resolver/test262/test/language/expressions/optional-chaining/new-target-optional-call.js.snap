@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+newTargetContext ("newTargetContext") -> #2
+called ("called") -> #2
+context ("context") -> #2
+Base ("Base") -> #2
+called ("called") -> #2
+context ("context") -> #2
+Foo ("Foo") -> #2
+blerg ("blerg") -> #5
+Reflect ("Reflect") -> #1
+Foo ("Foo") -> #2
+Base ("Base") -> #2
+assert ("assert") -> #1
+context ("context") -> #2
+newTargetContext ("newTargetContext") -> #2
+assert ("assert") -> #1
+called ("called") -> #2

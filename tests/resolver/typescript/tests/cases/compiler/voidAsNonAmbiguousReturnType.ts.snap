@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+mkdirSync ("mkdirSync") -> #2
+path ("path") -> #3
+mode ("mode") -> #3
+mkdirSync ("mkdirSync") -> #2
+path ("path") -> #4
+mode ("mode") -> #4
+fs ("fs") -> #2
+main ("main") -> #2
+fs ("fs") -> #2

@@ -1,0 +1,24 @@
+Top level: #2
+Unresolved: #1
+define ("define") -> #2
+name ("name") -> #3
+modules ("modules") -> #3
+ready ("ready") -> #3
+modules ("modules") -> #3
+T ("T") -> #3
+T ("T") -> #3
+BaseClass ("BaseClass") -> #4
+a ("a") -> #5
+A ("A") -> #5
+A ("A") -> #5
+A ("A") -> #5
+BaseClass ("BaseClass") -> #4
+BaseClass ("BaseClass") -> #4
+define ("define") -> #2
+BaseClass ("BaseClass") -> #6
+ExtendedClass ("ExtendedClass") -> #6
+BaseClass ("BaseClass") -> #6
+module ("module") -> #6
+module ("module") -> #6
+ExtendedClass ("ExtendedClass") -> #6
+module ("module") -> #6

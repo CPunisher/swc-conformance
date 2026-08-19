@@ -1,0 +1,8 @@
+Top level: #2
+Unresolved: #1
+recurser ("recurser") -> #2
+foo ("foo") -> #3
+foo ("foo") -> #3
+recurser ("recurser") -> #2
+bar ("bar") -> #5
+bar ("bar") -> #5

@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+symbol ("symbol") -> #2
+Symbol ("Symbol") -> #1
+target ("target") -> #2
+descriptors ("descriptors") -> #2
+log ("log") -> #2
+options ("options") -> #2
+Proxy ("Proxy") -> #1
+_ ("_") -> #4
+name ("name") -> #4
+log ("log") -> #2
+name ("name") -> #4
+target ("target") -> #5
+name ("name") -> #5
+options ("options") -> #2
+module ("module") -> #6
+assert ("assert") -> #1
+module ("module") -> #6
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1
+assert ("assert") -> #1
+log ("log") -> #2
+assert ("assert") -> #1
+log ("log") -> #2

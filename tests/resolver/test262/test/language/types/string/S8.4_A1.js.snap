@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+str ("str") -> #2
+str ("str") -> #2
+Test262Error ("Test262Error") -> #1
+str ("str") -> #2
+str2 ("str2") -> #2
+str2 ("str2") -> #2
+Test262Error ("Test262Error") -> #1
+str2 ("str2") -> #2
+__str ("__str") -> #2
+__str ("__str") -> #2
+Test262Error ("Test262Error") -> #1
+__str ("__str") -> #2
+str__ ("str__") -> #2
+str__ ("str__") -> #2
+Test262Error ("Test262Error") -> #1
+str__ ("str__") -> #2

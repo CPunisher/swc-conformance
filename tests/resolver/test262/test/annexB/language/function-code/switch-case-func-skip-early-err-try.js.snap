@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+f ("f") -> #1
+assert ("assert") -> #1
+f ("f") -> #1
+f ("f") -> #6
+f ("f") -> #7
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+f ("f") -> #1
+assert ("assert") -> #1
+f ("f") -> #1

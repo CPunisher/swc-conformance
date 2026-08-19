@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+fn ("fn") -> #2
+x ("x") -> #3
+y ("y") -> #3
+assert ("assert") -> #1
+x ("x") -> #3
+assert ("assert") -> #1
+y ("y") -> #3
+undefined ("undefined") -> #1
+fn ("fn") -> #2

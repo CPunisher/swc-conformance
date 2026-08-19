@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+first ("first") -> #2
+third ("third") -> #2
+resolveSecond ("resolveSecond") -> #2
+rejectDone ("rejectDone") -> #2
+resolveDone ("resolveDone") -> #2
+ns ("ns") -> #2
+ns ("ns") -> #2
+error ("error") -> #4
+globalThis ("globalThis") -> #1
+error ("error") -> #4
+first ("first") -> #2
+ns ("ns") -> #2
+error ("error") -> #7
+globalThis ("globalThis") -> #1
+error ("error") -> #7
+resolveSecond ("resolveSecond") -> #2
+third ("third") -> #2
+foo ("foo") -> #9
+ns ("ns") -> #2
+globalThis ("globalThis") -> #1
+foo ("foo") -> #9
+resolveDone ("resolveDone") -> #2
+rejectDone ("rejectDone") -> #2

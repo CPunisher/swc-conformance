@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+o ("o") -> #2
+Object ("Object") -> #1
+o ("o") -> #2
+callCount ("callCount") -> #2
+Test262ParentClass ("Test262ParentClass") -> #2
+obj ("obj") -> #3
+assert ("assert") -> #1
+obj ("obj") -> #3
+assert ("assert") -> #1
+obj ("obj") -> #3
+verifyProperty ("verifyProperty") -> #1
+obj ("obj") -> #3
+verifyProperty ("verifyProperty") -> #1
+obj ("obj") -> #3
+callCount ("callCount") -> #2
+Test262ChildClass ("Test262ChildClass") -> #2
+o ("o") -> #2
+Test262ParentClass ("Test262ParentClass") -> #2
+Test262ChildClass ("Test262ChildClass") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2

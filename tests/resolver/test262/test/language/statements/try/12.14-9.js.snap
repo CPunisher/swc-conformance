@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+o ("o") -> #3
+x ("x") -> #3
+innerf ("innerf") -> #3
+o ("o") -> #4
+o ("o") -> #4
+e ("e") -> #6
+x ("x") -> #3
+innerf ("innerf") -> #3
+o ("o") -> #3
+assert ("assert") -> #1
+f ("f") -> #2

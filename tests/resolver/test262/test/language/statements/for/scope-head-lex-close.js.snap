@@ -1,0 +1,24 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+run ("run") -> #2
+probeTest ("probeTest") -> #2
+probeIncr ("probeIncr") -> #2
+probeBody ("probeBody") -> #2
+x ("x") -> #3
+probeTest ("probeTest") -> #2
+x ("x") -> #3
+run ("run") -> #2
+probeIncr ("probeIncr") -> #2
+x ("x") -> #3
+probeBody ("probeBody") -> #2
+x ("x") -> #3
+run ("run") -> #2
+assert ("assert") -> #1
+probeBody ("probeBody") -> #2
+assert ("assert") -> #1
+probeIncr ("probeIncr") -> #2
+assert ("assert") -> #1
+probeTest ("probeTest") -> #2
+assert ("assert") -> #1
+x ("x") -> #2

@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+items ("items") -> #3
+index ("index") -> #1
+T ("T") -> #3
+undefined ("undefined") -> #1
+T ("T") -> #3
+T ("T") -> #3
+bar ("bar") -> #2
+items ("items") -> #4
+index ("index") -> #1
+T ("T") -> #4
+undefined ("undefined") -> #1
+T ("T") -> #4
+T ("T") -> #4
+x1 ("x1") -> #2
+foo ("foo") -> #2
+x2 ("x2") -> #2
+bar ("bar") -> #2
+x3 ("x3") -> #2
+bar ("bar") -> #2

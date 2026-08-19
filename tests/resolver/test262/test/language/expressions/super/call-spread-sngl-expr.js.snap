@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+source ("source") -> #2
+target ("target") -> #2
+callCount ("callCount") -> #2
+Test262ParentClass ("Test262ParentClass") -> #2
+assert ("assert") -> #1
+arguments ("arguments") -> #1
+assert ("assert") -> #1
+arguments ("arguments") -> #1
+assert ("assert") -> #1
+arguments ("arguments") -> #1
+assert ("assert") -> #1
+arguments ("arguments") -> #1
+assert ("assert") -> #1
+target ("target") -> #2
+source ("source") -> #2
+callCount ("callCount") -> #2
+Test262ChildClass ("Test262ChildClass") -> #2
+target ("target") -> #2
+source ("source") -> #2
+Test262ParentClass ("Test262ParentClass") -> #2
+Test262ChildClass ("Test262ChildClass") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2

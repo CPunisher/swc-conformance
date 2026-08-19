@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+x ("x") -> #3
+b ("b") -> #3
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #3
+b ("b") -> #3
+undefined ("undefined") -> #1
+used ("used") -> #3
+x ("x") -> #3
+used ("used") -> #3
+b ("b") -> #3
+undefined ("undefined") -> #1
+y ("y") -> #3
+f ("f") -> #2
+y ("y") -> #3
+z ("z") -> #3
+f ("f") -> #2
+z ("z") -> #3
+f2 ("f2") -> #2
+_ ("_") -> #4
+ReadonlyArray ("ReadonlyArray") -> #1

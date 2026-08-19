@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+newTarget ("newTarget") -> #2
+Parent ("Parent") -> #2
+newTarget ("newTarget") -> #2
+Child ("Child") -> #2
+Parent ("Parent") -> #2
+Child ("Child") -> #2
+assert ("assert") -> #1
+newTarget ("newTarget") -> #2
+undefined ("undefined") -> #1

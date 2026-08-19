@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+f ("f") -> #2
+f ("f") -> #2
+h ("h") -> #3
+cls ("cls") -> #4
+xCls ("xCls") -> #4
+X ("X") -> #5
+xCls2 ("xCls2") -> #4
+assert ("assert") -> #1
+cls ("cls") -> #4
+assert ("assert") -> #1
+xCls ("xCls") -> #4
+assert ("assert") -> #1
+xCls2 ("xCls2") -> #4
+callCount ("callCount") -> #2
+callCount ("callCount") -> #2
+f ("f") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

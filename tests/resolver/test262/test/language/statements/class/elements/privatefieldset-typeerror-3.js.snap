@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+Outer ("Outer") -> #2
+Outer ("Outer") -> #2
+outer ("outer") -> #2
+Outer ("Outer") -> #2
+Inner ("Inner") -> #2
+outer ("outer") -> #2
+i ("i") -> #2
+Inner ("Inner") -> #2
+assert ("assert") -> #1
+outer ("outer") -> #2
+assert ("assert") -> #1
+i ("i") -> #2
+i ("i") -> #2
+assert ("assert") -> #1
+outer ("outer") -> #2
+assert ("assert") -> #1
+i ("i") -> #2

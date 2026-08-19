@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+count ("count") -> #2
+C ("C") -> #2
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #5
+x ("x") -> #5
+asyncFn ("asyncFn") -> #2
+C ("C") -> #2
+C ("C") -> #2
+asyncFn ("asyncFn") -> #2
+retFn ("retFn") -> #6
+count ("count") -> #2
+retFn ("retFn") -> #6
+result ("result") -> #7
+assert ("assert") -> #1
+result ("result") -> #7
+assert ("assert") -> #1
+count ("count") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

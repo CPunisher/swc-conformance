@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+require ("require") -> #2
+id ("id") -> #3
+module ("module") -> #2
+exports ("exports") -> #2
+A ("A") -> #2
+require ("require") -> #2
+a ("a") -> #2
+A ("A") -> #2
+B ("B") -> #2
+B ("B") -> #2
+b ("b") -> #2
+B ("B") -> #2
+b ("b") -> #2
+b ("b") -> #2
+A ("A") -> #2
+module ("module") -> #2
+A ("A") -> #2

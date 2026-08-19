@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+x ("x") -> #3
+y ("y") -> #0
+x ("x") -> #3
+y ("y") -> #0
+f ("f") -> #2
+undefined ("undefined") -> #1
+g ("g") -> #2
+t ("t") -> #4
+a ("a") -> #0
+b ("b") -> #4
+t ("t") -> #4
+c ("c") -> #4
+b ("b") -> #4
+g ("g") -> #2
+g ("g") -> #2
+undefined ("undefined") -> #1
+g ("g") -> #2
+nullAndUndefinedUnion ("nullAndUndefinedUnion") -> #2
+x ("x") -> #2
+nullAndUndefinedUnion ("nullAndUndefinedUnion") -> #2
+nullAndUndefinedUnion ("nullAndUndefinedUnion") -> #2
+y ("y") -> #2
+nullAndUndefinedUnion ("nullAndUndefinedUnion") -> #2

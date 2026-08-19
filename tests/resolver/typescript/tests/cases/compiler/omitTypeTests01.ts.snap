@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+Foo ("Foo") -> #2
+a ("a") -> #0
+b ("b") -> #0
+c ("c") -> #0
+Bar ("Bar") -> #2
+Omit ("Omit") -> #1
+Foo ("Foo") -> #2
+Baz ("Baz") -> #2
+Omit ("Omit") -> #1
+Foo ("Foo") -> #2
+getBarA ("getBarA") -> #2
+bar ("bar") -> #3
+Bar ("Bar") -> #2
+bar ("bar") -> #3
+getBazA ("getBazA") -> #2
+baz ("baz") -> #4
+Baz ("Baz") -> #2
+baz ("baz") -> #4

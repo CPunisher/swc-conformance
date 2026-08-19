@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+o ("o") -> #2
+catchAccessed ("catchAccessed") -> #2
+o ("o") -> #2
+expObj ("expObj") -> #4
+catchAccessed ("catchAccessed") -> #2
+expObj ("expObj") -> #4
+assert ("assert") -> #1
+catchAccessed ("catchAccessed") -> #2
+catchAccessed ("catchAccessed") -> #2
+expObj ("expObj") -> #1
+e ("e") -> #6
+catchAccessed ("catchAccessed") -> #2
+e ("e") -> #6
+ReferenceError ("ReferenceError") -> #1
+assert ("assert") -> #1
+catchAccessed ("catchAccessed") -> #2

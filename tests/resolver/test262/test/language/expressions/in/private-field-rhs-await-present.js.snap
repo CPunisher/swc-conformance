@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+C ("C") -> #2
+value ("value") -> #3
+value ("value") -> #3
+C ("C") -> #2
+C ("C") -> #2
+result ("result") -> #4
+assert ("assert") -> #1
+result ("result") -> #4
+C ("C") -> #2
+result ("result") -> #5
+assert ("assert") -> #1
+result ("result") -> #5
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

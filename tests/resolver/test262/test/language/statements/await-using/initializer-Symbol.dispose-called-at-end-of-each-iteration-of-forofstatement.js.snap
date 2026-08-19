@@ -1,0 +1,24 @@
+Top level: #2
+Unresolved: #1
+asyncTest ("asyncTest") -> #1
+resource ("resource") -> #3
+Symbol ("Symbol") -> #1
+wasDisposedBeforeBody ("wasDisposedBeforeBody") -> #3
+wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> #3
+wasDisposedAfterIteration ("wasDisposedAfterIteration") -> #3
+g ("g") -> #3
+wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> #3
+resource ("resource") -> #3
+resource ("resource") -> #3
+wasDisposedAfterIteration ("wasDisposedAfterIteration") -> #3
+resource ("resource") -> #3
+_ ("_") -> #3
+g ("g") -> #3
+wasDisposedBeforeBody ("wasDisposedBeforeBody") -> #3
+resource ("resource") -> #3
+assert ("assert") -> #1
+wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> #3
+assert ("assert") -> #1
+wasDisposedBeforeBody ("wasDisposedBeforeBody") -> #3
+assert ("assert") -> #1
+wasDisposedAfterIteration ("wasDisposedAfterIteration") -> #3

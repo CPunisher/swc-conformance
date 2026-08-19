@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+Query ("Query") -> #2
+T ("T") -> #3
+selectMany ("selectMany") -> #0
+selector ("selector") -> #4
+item ("item") -> #1
+T ("T") -> #3
+U ("U") -> #4
+Query ("Query") -> #2
+U ("U") -> #4
+U ("U") -> #4
+selectMany ("selectMany") -> #0
+arraySelector ("arraySelector") -> #5
+item ("item") -> #1
+T ("T") -> #3
+U ("U") -> #5
+resultSelector ("resultSelector") -> #5
+outer ("outer") -> #1
+T ("T") -> #3
+inner ("inner") -> #1
+U ("U") -> #5
+R ("R") -> #1
+Query ("Query") -> #2
+R ("R") -> #1
+U ("U") -> #5

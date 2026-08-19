@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+outside ("outside") -> #2
+eval ("eval") -> #1
+eval ("eval") -> #1
+eval ("eval") -> #1
+assert ("assert") -> #1
+xNonStrict ("xNonStrict") -> #1
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+xNonStrict ("xNonStrict") -> #1
+eval ("eval") -> #1
+assert ("assert") -> #1
+xStrict ("xStrict") -> #1
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+xStrict ("xStrict") -> #1

@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+MyError ("MyError") -> #2
+Error ("Error") -> #1
+assert ("assert") -> #1
+MyError ("MyError") -> #2
+_1 ("_1") -> #3
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #2
+_2 ("_2") -> #3
+Symbol ("Symbol") -> #1
+assert ("assert") -> #1
+MyError ("MyError") -> #2
+_1 ("_1") -> #6
+Symbol ("Symbol") -> #1
+_2 ("_2") -> #6
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #2
+assert ("assert") -> #1
+MyError ("MyError") -> #2
+_1 ("_1") -> #9
+Symbol ("Symbol") -> #1
+_2 ("_2") -> #9
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #2

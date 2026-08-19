@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+IFoo ("IFoo") -> #2
+baz ("baz") -> #0
+Baz ("Baz") -> #2
+Base ("Base") -> #2
+T ("T") -> #3
+Derived ("Derived") -> #2
+Base ("Base") -> #2
+T ("T") -> #4
+T ("T") -> #4
+IBar ("IBar") -> #2
+T ("T") -> #5
+derived ("derived") -> #0
+Derived ("Derived") -> #2
+T ("T") -> #5
+Baz ("Baz") -> #2
+Derived ("Derived") -> #2
+Baz ("Baz") -> #2
+IBar ("IBar") -> #2
+Baz ("Baz") -> #2

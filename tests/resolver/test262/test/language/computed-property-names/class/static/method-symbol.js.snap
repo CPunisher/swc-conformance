@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+sym1 ("sym1") -> #2
+Symbol ("Symbol") -> #1
+sym2 ("sym2") -> #2
+Symbol ("Symbol") -> #1
+C ("C") -> #2
+sym1 ("sym1") -> #2
+sym2 ("sym2") -> #2
+assert ("assert") -> #1
+C ("C") -> #2
+assert ("assert") -> #1
+C ("C") -> #2
+sym1 ("sym1") -> #2
+assert ("assert") -> #1
+C ("C") -> #2
+assert ("assert") -> #1
+C ("C") -> #2
+sym2 ("sym2") -> #2
+assert ("assert") -> #1
+Object ("Object") -> #1
+C ("C") -> #2

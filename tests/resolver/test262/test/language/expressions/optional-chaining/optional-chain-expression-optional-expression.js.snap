@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+a ("a") -> #2
+undefined ("undefined") -> #1
+b ("b") -> #2
+c ("c") -> #2
+c ("c") -> #2
+undefined ("undefined") -> #1
+d ("d") -> #2
+assert ("assert") -> #1
+undefined ("undefined") -> #1
+a ("a") -> #2
+a ("a") -> #2
+assert ("assert") -> #1
+c ("c") -> #2
+a ("a") -> #2
+assert ("assert") -> #1
+d ("d") -> #2
+b ("b") -> #2

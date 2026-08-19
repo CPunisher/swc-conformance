@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+notAnyArray ("notAnyArray") -> #2
+numberArray ("numberArray") -> #2
+returnNotAnyArray ("returnNotAnyArray") -> #2
+arr ("arr") -> #3
+arr ("arr") -> #3
+notAnyPromise ("notAnyPromise") -> #2
+Promise ("Promise") -> #1
+numberPromise ("numberPromise") -> #2
+Promise ("Promise") -> #1
+returnNotAnyPromise ("returnNotAnyPromise") -> #2
+pr ("pr") -> #4
+pr ("pr") -> #4
+notAnyObject ("notAnyObject") -> #2
+paramedObject ("paramedObject") -> #2
+returnNotAnyObject ("returnNotAnyObject") -> #2
+obj ("obj") -> #5
+obj ("obj") -> #5

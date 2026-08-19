@@ -1,0 +1,7 @@
+Top level: #2
+Unresolved: #1
+indirectEval ("indirectEval") -> #2
+eval ("eval") -> #1
+assert ("assert") -> #1
+SyntaxError ("SyntaxError") -> #1
+indirectEval ("indirectEval") -> #2

@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+err ("err") -> #2
+eval ("eval") -> #1
+e ("e") -> #4
+err ("err") -> #2
+e ("e") -> #4
+assert ("assert") -> #1
+err ("err") -> #2
+SyntaxError ("SyntaxError") -> #1
+assert ("assert") -> #1
+public ("public") -> #1
+assert ("assert") -> #1
+anotherVariableNotReserveWord ("anotherVariableNotReserveWord") -> #1

@@ -1,0 +1,12 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+x ("x") -> #1
+g ("g") -> #2
+f ("f") -> #2
+abc ("abc") -> #3
+abc ("abc") -> #3
+gg ("gg") -> #2
+f ("f") -> #2
+abc ("abc") -> #4
+abc ("abc") -> #4

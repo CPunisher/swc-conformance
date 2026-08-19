@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+i1 ("i1") -> #2
+i ("i") -> #1
+arguments ("arguments") -> #1
+i12 ("i12") -> #2
+arguments ("arguments") -> #1
+rest ("rest") -> #1
+i1NoError ("i1NoError") -> #2
+arguments ("arguments") -> #1
+i2 ("i2") -> #2
+i ("i") -> #1
+arguments ("arguments") -> #1
+i21 ("i21") -> #2
+arguments ("arguments") -> #1
+rest ("rest") -> #1
+i2NoError ("i2NoError") -> #2
+arguments ("arguments") -> #1
+i3 ("i3") -> #2
+foo ("foo") -> #0
+i ("i") -> #1
+arguments ("arguments") -> #1
+foo1 ("foo1") -> #0
+arguments ("arguments") -> #1
+rest ("rest") -> #1
+fooNoError ("fooNoError") -> #0
+arguments ("arguments") -> #1

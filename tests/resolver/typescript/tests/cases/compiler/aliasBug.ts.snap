@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+Provide ("Provide") -> #3
+bar ("bar") -> #3
+baz ("baz") -> #4
+boo ("boo") -> #5
+provide ("provide") -> #2
+foo ("foo") -> #2
+booz ("booz") -> #2
+foo ("foo") -> #2
+p ("p") -> #2
+provide ("provide") -> #2
+use ("use") -> #2
+p1 ("p1") -> #6
+provide ("provide") -> #2
+p2 ("p2") -> #6
+foo ("foo") -> #2
+p3 ("p3") -> #6
+booz ("booz") -> #2
+p22 ("p22") -> #6
+provide ("provide") -> #2

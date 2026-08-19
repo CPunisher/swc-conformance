@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+NS1 ("NS1") -> #2
+foo ("foo") -> #3
+NS2 ("NS2") -> #2
+foo ("foo") -> #4
+NS1 ("NS1") -> #2
+NS1 ("NS1") -> #2
+NNS1 ("NNS1") -> #1
+NS2 ("NS2") -> #2
+NS2 ("NS2") -> #2
+NNS2 ("NNS2") -> #1
+NS1 ("NS1") -> #2
+NNNS1 ("NNNS1") -> #1
+NS2 ("NS2") -> #2
+NNNS2 ("NNNS2") -> #1

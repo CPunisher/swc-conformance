@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+A ("A") -> #2
+B ("B") -> #3
+C ("C") -> #3
+B ("B") -> #3
+A ("A") -> #2
+B ("B") -> #4
+EventManager ("EventManager") -> #4
+A ("A") -> #2
+B ("B") -> #5
+C ("C") -> #5
+ContextMenu ("ContextMenu") -> #5
+EventManager ("EventManager") -> #1

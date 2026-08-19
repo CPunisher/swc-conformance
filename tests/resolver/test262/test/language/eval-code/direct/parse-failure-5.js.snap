@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+eval ("eval") -> #1
+Test262Error ("Test262Error") -> #1
+eval ("eval") -> #1
+e ("e") -> #4
+e ("e") -> #4
+SyntaxError ("SyntaxError") -> #1
+Test262Error ("Test262Error") -> #1
+e ("e") -> #4
+f ("f") -> #2
+eval ("eval") -> #1
+f ("f") -> #2
+Test262Error ("Test262Error") -> #1
+f ("f") -> #2
+e ("e") -> #8
+e ("e") -> #8
+SyntaxError ("SyntaxError") -> #1
+Test262Error ("Test262Error") -> #1
+e ("e") -> #8

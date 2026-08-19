@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+poison ("poison") -> #2
+Test262Error ("Test262Error") -> #1
+morePoison ("morePoison") -> #2
+x ("x") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+Test262Error ("Test262Error") -> #1
+undefined ("undefined") -> #1
+poison ("poison") -> #2
+morePoison ("morePoison") -> #2
+x ("x") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+Test262Error ("Test262Error") -> #1
+poison ("poison") -> #2
+morePoison ("morePoison") -> #2
+assert ("assert") -> #1
+Test262Error ("Test262Error") -> #1
+poison ("poison") -> #2
+morePoison ("morePoison") -> #2

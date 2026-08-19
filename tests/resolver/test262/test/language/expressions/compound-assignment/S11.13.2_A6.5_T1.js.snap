@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+testCompoundAssignment ("testCompoundAssignment") -> #2
+x ("x") -> #3
+innerX ("innerX") -> #3
+x ("x") -> #3
+eval ("eval") -> #1
+x ("x") -> #3
+innerX ("innerX") -> #3
+Test262Error ("Test262Error") -> #1
+innerX ("innerX") -> #3
+x ("x") -> #3
+Test262Error ("Test262Error") -> #1
+x ("x") -> #3
+testCompoundAssignment ("testCompoundAssignment") -> #2

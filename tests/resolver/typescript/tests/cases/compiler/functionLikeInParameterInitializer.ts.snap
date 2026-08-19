@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+bar ("bar") -> #2
+func ("func") -> #3
+foo ("foo") -> #1
+foo ("foo") -> #3
+baz1 ("baz1") -> #2
+func ("func") -> #5
+foo ("foo") -> #1
+foo ("foo") -> #5
+baz2 ("baz2") -> #2
+func ("func") -> #7
+foo ("foo") -> #1
+foo ("foo") -> #7
+baz3 ("baz3") -> #2
+func ("func") -> #9
+foo ("foo") -> #1
+foo ("foo") -> #9

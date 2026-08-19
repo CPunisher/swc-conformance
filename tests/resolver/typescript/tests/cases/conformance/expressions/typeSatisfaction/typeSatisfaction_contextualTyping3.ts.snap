@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+obj ("obj") -> #2
+param ("param") -> #3
+param ("param") -> #3
+key ("key") -> #1
+params ("params") -> #1
+obj2 ("obj2") -> #2
+param ("param") -> #4
+param ("param") -> #4
+key ("key") -> #1
+Function ("Function") -> #1
+StringOrNumberFunc ("StringOrNumberFunc") -> #2
+x ("x") -> #1
+fn ("fn") -> #2
+x ("x") -> #5
+StringOrNumberFunc ("StringOrNumberFunc") -> #2
+fn ("fn") -> #2
+fn ("fn") -> #2

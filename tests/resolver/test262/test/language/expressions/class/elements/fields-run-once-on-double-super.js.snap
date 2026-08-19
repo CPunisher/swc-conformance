@@ -1,0 +1,24 @@
+Top level: #2
+Unresolved: #1
+baseCtorCalled ("baseCtorCalled") -> #2
+fieldInitCalled ("fieldInitCalled") -> #2
+Base ("Base") -> #2
+baseCtorCalled ("baseCtorCalled") -> #2
+C ("C") -> #2
+fieldInitCalled ("fieldInitCalled") -> #2
+assert ("assert") -> #1
+baseCtorCalled ("baseCtorCalled") -> #2
+assert ("assert") -> #1
+fieldInitCalled ("fieldInitCalled") -> #2
+assert ("assert") -> #1
+baseCtorCalled ("baseCtorCalled") -> #2
+assert ("assert") -> #1
+fieldInitCalled ("fieldInitCalled") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+Base ("Base") -> #2
+C ("C") -> #2
+assert ("assert") -> #1
+baseCtorCalled ("baseCtorCalled") -> #2
+assert ("assert") -> #1
+fieldInitCalled ("fieldInitCalled") -> #2

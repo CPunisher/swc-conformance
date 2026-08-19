@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+A ("A") -> #2
+B ("B") -> #2
+x ("x") -> #4
+assert ("assert") -> #1
+x ("x") -> #4
+A ("A") -> #2
+child ("child") -> #2
+B ("B") -> #2
+child ("child") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

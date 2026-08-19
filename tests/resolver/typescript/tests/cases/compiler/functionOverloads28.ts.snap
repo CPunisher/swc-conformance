@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+foo ("foo") -> #2
+bar ("bar") -> #4
+foo ("foo") -> #2
+bar ("bar") -> #5
+t ("t") -> #2
+x ("x") -> #2
+foo ("foo") -> #2
+t ("t") -> #2

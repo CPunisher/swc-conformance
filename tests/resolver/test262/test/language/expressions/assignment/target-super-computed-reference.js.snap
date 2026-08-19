@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+DummyError ("DummyError") -> #2
+assert ("assert") -> #1
+DummyError ("DummyError") -> #2
+prop ("prop") -> #4
+DummyError ("DummyError") -> #2
+expr ("expr") -> #4
+Test262Error ("Test262Error") -> #1
+C ("C") -> #4
+prop ("prop") -> #4
+expr ("expr") -> #4
+C ("C") -> #4
+assert ("assert") -> #1
+DummyError ("DummyError") -> #2
+prop ("prop") -> #8
+Test262Error ("Test262Error") -> #1
+expr ("expr") -> #8
+DummyError ("DummyError") -> #2
+C ("C") -> #8
+prop ("prop") -> #8
+expr ("expr") -> #8
+C ("C") -> #8

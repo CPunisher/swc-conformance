@@ -1,0 +1,10 @@
+Top level: #2
+Unresolved: #1
+CustomError ("CustomError") -> #2
+Error ("Error") -> #1
+err ("err") -> #2
+CustomError ("CustomError") -> #2
+assert ("assert") -> #1
+err ("err") -> #2
+assert ("assert") -> #1
+err ("err") -> #2

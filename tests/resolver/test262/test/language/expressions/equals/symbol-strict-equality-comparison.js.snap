@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+symA ("symA") -> #2
+Symbol ("Symbol") -> #1
+symB ("symB") -> #2
+Symbol ("Symbol") -> #1
+assert ("assert") -> #1
+symA ("symA") -> #2
+symA ("symA") -> #2
+assert ("assert") -> #1
+symA ("symA") -> #2
+symA ("symA") -> #2
+assert ("assert") -> #1
+symA ("symA") -> #2
+symA ("symA") -> #2
+assert ("assert") -> #1
+symB ("symB") -> #2
+symB ("symB") -> #2
+assert ("assert") -> #1
+symB ("symB") -> #2
+symB ("symB") -> #2
+assert ("assert") -> #1
+symB ("symB") -> #2
+symB ("symB") -> #2
+assert ("assert") -> #1
+symA ("symA") -> #2
+symB ("symB") -> #2

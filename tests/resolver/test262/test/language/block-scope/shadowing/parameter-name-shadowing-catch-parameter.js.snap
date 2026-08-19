@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+fn ("fn") -> #2
+c ("c") -> #3
+c ("c") -> #5
+c ("c") -> #6
+c ("c") -> #6
+assert ("assert") -> #1
+c ("c") -> #6
+assert ("assert") -> #1
+c ("c") -> #5
+assert ("assert") -> #1
+c ("c") -> #3
+fn ("fn") -> #2

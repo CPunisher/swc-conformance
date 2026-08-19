@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+thenable ("thenable") -> #2
+resolve ("resolve") -> #3
+reject ("reject") -> #3
+resolve ("resolve") -> #3
+iter ("iter") -> #2
+thenable ("thenable") -> #2
+iter ("iter") -> #2
+result ("result") -> #5
+assert ("assert") -> #1
+result ("result") -> #5
+assert ("assert") -> #1
+result ("result") -> #5
+undefined ("undefined") -> #1
+$DONE ("$DONE") -> #1
+iter ("iter") -> #2
+result ("result") -> #6
+assert ("assert") -> #1
+result ("result") -> #6
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+result ("result") -> #6
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

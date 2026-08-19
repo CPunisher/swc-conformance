@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+x ("x") -> #3
+y ("y") -> #3
+x ("x") -> #3
+y ("y") -> #3
+noop ("noop") -> #2
+fail ("fail") -> #2
+f1 ("f1") -> #2
+x ("x") -> #8
+x ("x") -> #8
+fail ("fail") -> #2
+noop ("noop") -> #2
+Behavior ("Behavior") -> #2
+Direction ("Direction") -> #2
+Transition ("Transition") -> #2
+behavior ("behavior") -> #0
+Behavior ("Behavior") -> #2
+direction ("direction") -> #0
+Direction ("Direction") -> #2
+f2 ("f2") -> #2
+transition ("transition") -> #10
+Transition ("Transition") -> #2
+transition ("transition") -> #10
+transition ("transition") -> #10
+transition ("transition") -> #10

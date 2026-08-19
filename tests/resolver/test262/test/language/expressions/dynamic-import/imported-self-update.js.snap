@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+x ("x") -> #2
+x ("x") -> #2
+y ("y") -> #1
+fn ("fn") -> #2
+imported ("imported") -> #3
+assert ("assert") -> #1
+imported ("imported") -> #3
+assert ("assert") -> #1
+imported ("imported") -> #3
+x ("x") -> #2
+assert ("assert") -> #1
+imported ("imported") -> #3
+assert ("assert") -> #1
+imported ("imported") -> #3
+fn ("fn") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

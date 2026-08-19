@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+Query ("Query") -> #2
+T ("T") -> #3
+foo ("foo") -> #0
+x ("x") -> #1
+Query ("Query") -> #2
+T ("T") -> #3
+from ("from") -> #2
+arg ("arg") -> #4
+T ("T") -> #4
+Query ("Query") -> #2
+T ("T") -> #4
+from ("from") -> #2
+arg ("arg") -> #5
+undefined ("undefined") -> #1
+T ("T") -> #5
+Query ("Query") -> #2
+T ("T") -> #5

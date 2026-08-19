@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+first ("first") -> #2
+second ("second") -> #2
+iter ("iter") -> #2
+first ("first") -> #2
+Test262Error ("Test262Error") -> #1
+second ("second") -> #2
+gen ("gen") -> #2
+x ("x") -> #4
+iter ("iter") -> #2
+gen ("gen") -> #2
+_ ("_") -> #6
+Test262Error ("Test262Error") -> #1
+constructor ("constructor") -> #7
+assert ("assert") -> #1
+constructor ("constructor") -> #7
+Test262Error ("Test262Error") -> #1
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+a ("a") -> #3
+a ("a") -> #3
+assert ("assert") -> #1
+f ("f") -> #2
+g ("g") -> #2
+f ("f") -> #2
+assert ("assert") -> #1
+g ("g") -> #2
+assert ("assert") -> #1
+g ("g") -> #2

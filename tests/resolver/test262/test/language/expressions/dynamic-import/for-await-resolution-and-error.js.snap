@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+r ("r") -> #2
+aiter ("aiter") -> #2
+imported ("imported") -> #4
+r ("r") -> #2
+imported ("imported") -> #4
+aiter ("aiter") -> #2
+error ("error") -> #7
+assert ("assert") -> #1
+r ("r") -> #2
+assert ("assert") -> #1
+error ("error") -> #7
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

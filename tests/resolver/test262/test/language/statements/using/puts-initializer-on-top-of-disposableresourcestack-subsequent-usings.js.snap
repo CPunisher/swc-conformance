@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+disposed ("disposed") -> #2
+resource1 ("resource1") -> #2
+Symbol ("Symbol") -> #1
+disposed ("disposed") -> #2
+resource2 ("resource2") -> #2
+Symbol ("Symbol") -> #1
+disposed ("disposed") -> #2
+r1 ("r1") -> #5
+resource1 ("resource1") -> #2
+r2 ("r2") -> #5
+resource2 ("resource2") -> #2
+assert ("assert") -> #1
+disposed ("disposed") -> #2
+assert ("assert") -> #1
+disposed ("disposed") -> #2
+resource2 ("resource2") -> #2
+assert ("assert") -> #1
+disposed ("disposed") -> #2
+resource1 ("resource1") -> #2

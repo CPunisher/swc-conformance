@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+DummyError ("DummyError") -> #2
+assert ("assert") -> #1
+DummyError ("DummyError") -> #2
+base ("base") -> #4
+undefined ("undefined") -> #1
+prop ("prop") -> #4
+DummyError ("DummyError") -> #2
+base ("base") -> #4
+prop ("prop") -> #4
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+base ("base") -> #6
+undefined ("undefined") -> #1
+prop ("prop") -> #6
+Test262Error ("Test262Error") -> #1
+base ("base") -> #6
+prop ("prop") -> #6

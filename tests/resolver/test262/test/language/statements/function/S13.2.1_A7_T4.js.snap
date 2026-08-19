@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+__func ("__func") -> #2
+x ("x") -> #3
+x ("x") -> #3
+x ("x") -> #1
+x ("x") -> #1
+Test262Error ("Test262Error") -> #1
+e ("e") -> #5
+e ("e") -> #5
+Test262Error ("Test262Error") -> #1
+e ("e") -> #5
+__x ("__x") -> #2
+__func ("__func") -> #2
+e ("e") -> #7
+Test262Error ("Test262Error") -> #1
+e ("e") -> #7
+__x ("__x") -> #2
+Test262Error ("Test262Error") -> #1
+__x ("__x") -> #2
+x ("x") -> #1
+x ("x") -> #1
+Test262Error ("Test262Error") -> #1
+e ("e") -> #10
+e ("e") -> #10
+Test262Error ("Test262Error") -> #1
+e ("e") -> #10

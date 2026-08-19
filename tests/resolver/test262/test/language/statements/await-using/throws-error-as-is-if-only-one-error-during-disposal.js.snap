@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+asyncTest ("asyncTest") -> #1
+MyError ("MyError") -> #3
+Error ("Error") -> #1
+assert ("assert") -> #1
+MyError ("MyError") -> #3
+_1 ("_1") -> #4
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #3
+_2 ("_2") -> #4
+Symbol ("Symbol") -> #1
+assert ("assert") -> #1
+MyError ("MyError") -> #3
+_1 ("_1") -> #7
+Symbol ("Symbol") -> #1
+_2 ("_2") -> #7
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #3
+assert ("assert") -> #1
+MyError ("MyError") -> #3
+_1 ("_1") -> #10
+Symbol ("Symbol") -> #1
+_2 ("_2") -> #10
+Symbol ("Symbol") -> #1
+MyError ("MyError") -> #3

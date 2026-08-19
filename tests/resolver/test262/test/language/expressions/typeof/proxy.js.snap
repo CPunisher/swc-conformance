@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+assert ("assert") -> #1
+Proxy ("Proxy") -> #1
+assert ("assert") -> #1
+Proxy ("Proxy") -> #1
+rp1 ("rp1") -> #2
+Proxy ("Proxy") -> #1
+rp1 ("rp1") -> #2
+assert ("assert") -> #1
+rp1 ("rp1") -> #2
+rp2 ("rp2") -> #2
+Proxy ("Proxy") -> #1
+rp2 ("rp2") -> #2
+assert ("assert") -> #1
+rp2 ("rp2") -> #2

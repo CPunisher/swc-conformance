@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+f ("f") -> #3
+x ("x") -> #1
+T ("T") -> #3
+T ("T") -> #3
+x ("x") -> #1
+T ("T") -> #3
+g ("g") -> #2
+x ("x") -> #4
+foo ("foo") -> #0
+T ("T") -> #4
+T ("T") -> #4
+h ("h") -> #2
+f ("f") -> #2
+g ("g") -> #2
+FirstParameter ("FirstParameter") -> #2
+T ("T") -> #5
+T ("T") -> #5
+x ("x") -> #1
+P ("P") -> #1
+P ("P") -> #1
+X ("X") -> #2
+FirstParameter ("FirstParameter") -> #2
+h ("h") -> #2

@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+Rectangle ("Rectangle") -> #2
+console ("console") -> #1
+module ("module") -> #1
+Rectangle ("Rectangle") -> #2
+Rectangle ("Rectangle") -> #2
+require ("require") -> #1
+Render ("Render") -> #2
+obj ("obj") -> #5
+Rectangle ("Rectangle") -> #2
+obj ("obj") -> #5
+obj ("obj") -> #5
+module ("module") -> #1
+Render ("Render") -> #2
+Render ("Render") -> #2
+require ("require") -> #1
+render ("render") -> #2
+Render ("Render") -> #2
+render ("render") -> #2
+console ("console") -> #1
+render ("render") -> #2

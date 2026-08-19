@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+probeBefore ("probeBefore") -> #2
+x ("x") -> #2
+probeExpr ("probeExpr") -> #2
+x ("x") -> #4
+probeExpr ("probeExpr") -> #2
+x ("x") -> #4
+assert ("assert") -> #1
+probeBefore ("probeBefore") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+probeExpr ("probeExpr") -> #2

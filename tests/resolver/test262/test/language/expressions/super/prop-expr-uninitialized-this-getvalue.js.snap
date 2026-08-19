@@ -1,0 +1,9 @@
+Top level: #2
+Unresolved: #1
+Base ("Base") -> #2
+Test262Error ("Test262Error") -> #1
+Derived ("Derived") -> #2
+Base ("Base") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+Derived ("Derived") -> #2

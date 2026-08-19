@@ -1,0 +1,24 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+obj ("obj") -> #2
+a ("a") -> #3
+b ("b") -> #3
+rest ("rest") -> #3
+assert ("assert") -> #1
+rest ("rest") -> #3
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+rest ("rest") -> #3
+undefined ("undefined") -> #1
+verifyProperty ("verifyProperty") -> #1
+rest ("rest") -> #3
+verifyProperty ("verifyProperty") -> #1
+rest ("rest") -> #3
+callCount ("callCount") -> #2
+callCount ("callCount") -> #2
+obj ("obj") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+asyncTest ("asyncTest") -> #1
+disposed ("disposed") -> #3
+resource1 ("resource1") -> #3
+Symbol ("Symbol") -> #1
+disposed ("disposed") -> #3
+resource2 ("resource2") -> #3
+Symbol ("Symbol") -> #1
+disposed ("disposed") -> #3
+r1 ("r1") -> #6
+resource1 ("resource1") -> #3
+r2 ("r2") -> #6
+resource2 ("resource2") -> #3
+assert ("assert") -> #1
+disposed ("disposed") -> #3
+assert ("assert") -> #1
+disposed ("disposed") -> #3
+resource2 ("resource2") -> #3
+assert ("assert") -> #1
+disposed ("disposed") -> #3
+resource1 ("resource1") -> #3

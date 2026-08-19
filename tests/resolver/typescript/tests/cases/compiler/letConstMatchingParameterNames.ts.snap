@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+parent ("parent") -> #2
+parent2 ("parent2") -> #2
+use ("use") -> #2
+a ("a") -> #3
+a ("a") -> #2
+parent ("parent") -> #4
+parent2 ("parent2") -> #4
+b ("b") -> #4
+parent ("parent") -> #5
+parent2 ("parent2") -> #5
+use ("use") -> #2
+parent ("parent") -> #5
+use ("use") -> #2
+parent2 ("parent2") -> #5

@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+normal ("normal") -> #2
+notSpecial ("notSpecial") -> #3
+notSpecial ("notSpecial") -> #3
+normal ("normal") -> #2
+foo1 ("foo1") -> #2
+opts1 ("opts1") -> #4
+opts1 ("opts1") -> #4
+foo1 ("foo1") -> #2
+foo2 ("foo2") -> #2
+opts2 ("opts2") -> #5
+opts2 ("opts2") -> #5
+foo2 ("foo2") -> #2
+foo3 ("foo3") -> #2
+opts3 ("opts3") -> #6
+opts3 ("opts3") -> #6
+foo3 ("foo3") -> #2
+foo4 ("foo4") -> #2
+opts4 ("opts4") -> #7
+opts4 ("opts4") -> #7
+foo4 ("foo4") -> #2
+foo5 ("foo5") -> #2
+opts5 ("opts5") -> #8
+opts5 ("opts5") -> #8
+opts5 ("opts5") -> #8
+foo5 ("foo5") -> #2

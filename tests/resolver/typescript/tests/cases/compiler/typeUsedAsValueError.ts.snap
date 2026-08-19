@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+Interface ("Interface") -> #2
+SomeClass ("SomeClass") -> #2
+TypeAliasForSomeClass ("TypeAliasForSomeClass") -> #2
+SomeClass ("SomeClass") -> #2
+someType ("someType") -> #2
+x ("x") -> #0
+acceptsSomeType ("acceptsSomeType") -> #2
+a ("a") -> #3
+someType ("someType") -> #2
+one ("one") -> #2
+Interface ("Interface") -> #1
+two ("two") -> #2
+InterfaceNotFound ("InterfaceNotFound") -> #1
+three ("three") -> #2
+TypeAliasForSomeClass ("TypeAliasForSomeClass") -> #1
+four ("four") -> #2
+TypeAliasForSomeClass ("TypeAliasForSomeClass") -> #1
+five ("five") -> #2
+TypeAliasForSomeClassNotFound ("TypeAliasForSomeClassNotFound") -> #1
+six ("six") -> #2
+someType ("someType") -> #1
+acceptsSomeType ("acceptsSomeType") -> #2
+someType ("someType") -> #1
+acceptsSomeType ("acceptsSomeType") -> #2
+someTypeNotFound ("someTypeNotFound") -> #1

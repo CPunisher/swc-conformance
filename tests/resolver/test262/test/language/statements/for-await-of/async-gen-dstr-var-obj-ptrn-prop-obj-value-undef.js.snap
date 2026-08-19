@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+gen ("gen") -> #2
+x ("x") -> #3
+y ("y") -> #3
+z ("z") -> #3
+undefined ("undefined") -> #1
+gen ("gen") -> #2
+_ ("_") -> #5
+Test262Error ("Test262Error") -> #1
+constructor ("constructor") -> #6
+assert ("assert") -> #1
+constructor ("constructor") -> #6
+TypeError ("TypeError") -> #1
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

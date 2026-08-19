@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+initialBV ("initialBV") -> #2
+currentBV ("currentBV") -> #2
+varBinding ("varBinding") -> #2
+f ("f") -> #3
+initialBV ("initialBV") -> #2
+f ("f") -> #3
+f ("f") -> #3
+currentBV ("currentBV") -> #2
+f ("f") -> #3
+varBinding ("varBinding") -> #2
+f ("f") -> #3
+f ("f") -> #3
+assert ("assert") -> #1
+initialBV ("initialBV") -> #2
+assert ("assert") -> #1
+currentBV ("currentBV") -> #2
+assert ("assert") -> #1
+varBinding ("varBinding") -> #2

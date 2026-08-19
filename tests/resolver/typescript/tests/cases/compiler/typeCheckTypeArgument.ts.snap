@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+f ("f") -> #2
+T ("T") -> #3
+UNKNOWN ("UNKNOWN") -> #1
+IFoo ("IFoo") -> #2
+T ("T") -> #4
+UNKNOWN ("UNKNOWN") -> #1
+Foo ("Foo") -> #2
+T ("T") -> #5
+UNKNOWN ("UNKNOWN") -> #1
+bar ("bar") -> #2
+T ("T") -> #6
+UNKNOWN ("UNKNOWN") -> #1
+Foo2 ("Foo2") -> #2
+T ("T") -> #7
+UNKNOWN ("UNKNOWN") -> #1
+a ("a") -> #8
+T ("T") -> #8
+UNKNOWN ("UNKNOWN") -> #1

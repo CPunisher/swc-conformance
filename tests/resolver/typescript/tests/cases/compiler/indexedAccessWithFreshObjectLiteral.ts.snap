@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+id ("id") -> #3
+id ("id") -> #3
+bar ("bar") -> #2
+id ("id") -> #4
+id ("id") -> #4
+baz ("baz") -> #2
+id ("id") -> #5
+id ("id") -> #5
+qux ("qux") -> #2
+id ("id") -> #6
+id ("id") -> #6
+quux ("quux") -> #2
+id ("id") -> #7
+id ("id") -> #7
+corge ("corge") -> #2
+id ("id") -> #8
+Record ("Record") -> #1
+id ("id") -> #8
+grault ("grault") -> #2
+id ("id") -> #9
+k ("k") -> #1
+id ("id") -> #9

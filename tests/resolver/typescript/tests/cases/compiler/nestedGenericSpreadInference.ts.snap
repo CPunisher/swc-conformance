@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+wrap ("wrap") -> #2
+x ("x") -> #3
+X ("X") -> #3
+X ("X") -> #3
+x ("x") -> #0
+X ("X") -> #3
+call ("call") -> #2
+x ("x") -> #4
+x ("x") -> #0
+args ("args") -> #1
+A ("A") -> #4
+T ("T") -> #4
+args ("args") -> #4
+A ("A") -> #4
+A ("A") -> #4
+T ("T") -> #4
+T ("T") -> #4
+leak ("leak") -> #2
+call ("call") -> #2
+wrap ("wrap") -> #2
+x ("x") -> #5
+T ("T") -> #5
+x ("x") -> #5
+T ("T") -> #5

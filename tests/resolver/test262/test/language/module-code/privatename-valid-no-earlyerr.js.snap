@@ -1,0 +1,12 @@
+Top level: #2
+Unresolved: #1
+outer ("outer") -> #2
+self ("self") -> #3
+inner ("inner") -> #4
+self ("self") -> #3
+innerclass ("innerclass") -> #2
+outer ("outer") -> #2
+test ("test") -> #2
+innerclass ("innerclass") -> #2
+assert ("assert") -> #1
+test ("test") -> #2

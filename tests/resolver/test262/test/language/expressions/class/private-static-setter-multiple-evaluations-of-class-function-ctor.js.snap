@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+classStringExpression ("classStringExpression") -> #2
+createClass ("createClass") -> #2
+classFactoryFunction ("classFactoryFunction") -> #3
+Function ("Function") -> #1
+classStringExpression ("classStringExpression") -> #2
+classFactoryFunction ("classFactoryFunction") -> #3
+C1 ("C1") -> #2
+createClass ("createClass") -> #2
+C2 ("C2") -> #2
+createClass ("createClass") -> #2
+C1 ("C1") -> #2
+assert ("assert") -> #1
+C1 ("C1") -> #2
+C2 ("C2") -> #2
+assert ("assert") -> #1
+C2 ("C2") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+C1 ("C1") -> #2
+C2 ("C2") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+C2 ("C2") -> #2
+C1 ("C1") -> #2

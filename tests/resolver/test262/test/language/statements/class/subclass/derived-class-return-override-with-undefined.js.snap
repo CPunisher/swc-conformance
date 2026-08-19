@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+calls ("calls") -> #2
+Base ("Base") -> #2
+calls ("calls") -> #2
+Derived ("Derived") -> #2
+undefined ("undefined") -> #1
+Base ("Base") -> #2
+object ("object") -> #2
+Derived ("Derived") -> #2
+assert ("assert") -> #1
+calls ("calls") -> #2
+assert ("assert") -> #1
+object ("object") -> #2
+assert ("assert") -> #1
+object ("object") -> #2
+Derived ("Derived") -> #2
+assert ("assert") -> #1
+object ("object") -> #2
+Base ("Base") -> #2

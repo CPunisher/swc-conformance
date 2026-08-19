@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+openFile ("openFile") -> #2
+closeFile ("closeFile") -> #2
+someOperation ("someOperation") -> #2
+result ("result") -> #2
+openFile ("openFile") -> #2
+result ("result") -> #2
+someOperation ("someOperation") -> #2
+closeFile ("closeFile") -> #2
+result ("result") -> #2

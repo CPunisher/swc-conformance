@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+test ("test") -> #2
+method ("method") -> #3
+p ("p") -> #3
+method ("method") -> #0
+nested ("nested") -> #0
+p ("p") -> #0
+method ("method") -> #3
+p ("p") -> #3
+test ("test") -> #2
+test ("test") -> #2
+test ("test") -> #2
+test ("test") -> #2

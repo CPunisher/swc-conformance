@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+ns ("ns") -> #2
+assert ("assert") -> #1
+globalThis ("globalThis") -> #1
+Marker ("Marker") -> #2
+obj ("obj") -> #4
+Marker ("Marker") -> #2
+obj ("obj") -> #4
+obj ("obj") -> #5
+obj ("obj") -> #5
+x ("x") -> #3
+x ("x") -> #3
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+Marker ("Marker") -> #2
+ns ("ns") -> #2
+assert ("assert") -> #1
+Marker ("Marker") -> #2
+ns ("ns") -> #2
+assert ("assert") -> #1
+globalThis ("globalThis") -> #1

@@ -1,0 +1,27 @@
+Top level: #2
+Unresolved: #1
+a ("a") -> #2
+err ("err") -> #2
+Error ("Error") -> #1
+Error ("Error") -> #1
+err ("err") -> #2
+anotherErr ("anotherErr") -> #2
+Error ("Error") -> #1
+a ("a") -> #2
+anotherErr ("anotherErr") -> #2
+EvalError ("EvalError") -> #1
+Error ("Error") -> #1
+EvalError ("EvalError") -> #1
+a ("a") -> #2
+RangeError ("RangeError") -> #1
+Error ("Error") -> #1
+ReferenceError ("ReferenceError") -> #1
+Error ("Error") -> #1
+SyntaxError ("SyntaxError") -> #1
+Error ("Error") -> #1
+TypeError ("TypeError") -> #1
+Error ("Error") -> #1
+URIError ("URIError") -> #1
+Error ("Error") -> #1
+AggregateError ("AggregateError") -> #1
+Error ("Error") -> #1

@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+outerScope ("outerScope") -> #2
+innerScope ("innerScope") -> #2
+outerScope ("outerScope") -> #2
+innerScope ("innerScope") -> #2
+x ("x") -> #1
+innerScope ("innerScope") -> #2
+innerScope ("innerScope") -> #2
+Test262Error ("Test262Error") -> #1
+innerScope ("innerScope") -> #2
+outerScope ("outerScope") -> #2
+Test262Error ("Test262Error") -> #1
+outerScope ("outerScope") -> #2

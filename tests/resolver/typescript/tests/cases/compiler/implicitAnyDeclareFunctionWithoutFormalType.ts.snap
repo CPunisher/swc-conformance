@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+x ("x") -> #3
+bar ("bar") -> #2
+x ("x") -> #4
+y ("y") -> #4
+func2 ("func2") -> #2
+a ("a") -> #5
+b ("b") -> #5
+c ("c") -> #5
+func3 ("func3") -> #2
+args ("args") -> #6
+func4 ("func4") -> #2
+z ("z") -> #7
+w ("w") -> #7
+undefined ("undefined") -> #1
+noError1 ("noError1") -> #2
+x ("x") -> #8
+y ("y") -> #8
+noError2 ("noError2") -> #2
+x ("x") -> #9
+y ("y") -> #9

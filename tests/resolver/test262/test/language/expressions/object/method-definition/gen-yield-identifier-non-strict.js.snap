@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+gen ("gen") -> #2
+callCount ("callCount") -> #2
+arg ("arg") -> #4
+yield ("yield") -> #4
+arg ("arg") -> #4
+yield ("yield") -> #4
+iter ("iter") -> #2
+gen ("gen") -> #2
+item ("item") -> #2
+iter ("iter") -> #2
+assert ("assert") -> #1
+item ("item") -> #2
+assert ("assert") -> #1
+item ("item") -> #2
+undefined ("undefined") -> #1
+item ("item") -> #2
+iter ("iter") -> #2
+assert ("assert") -> #1
+item ("item") -> #2
+assert ("assert") -> #1
+item ("item") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2

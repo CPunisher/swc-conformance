@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+unreachable ("unreachable") -> #2
+reachable ("reachable") -> #2
+C ("C") -> #2
+reachable ("reachable") -> #2
+unreachable ("unreachable") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+C ("C") -> #2
+assert ("assert") -> #1
+reachable ("reachable") -> #2
+assert ("assert") -> #1
+unreachable ("unreachable") -> #2

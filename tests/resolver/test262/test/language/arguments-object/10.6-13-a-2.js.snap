@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+called ("called") -> #2
+test1 ("test1") -> #2
+flag ("flag") -> #3
+flag ("flag") -> #3
+test2 ("test2") -> #2
+called ("called") -> #2
+test2 ("test2") -> #2
+arguments ("arguments") -> #1
+undefined ("undefined") -> #1
+called ("called") -> #2
+arguments ("arguments") -> #1
+test1 ("test1") -> #2
+assert ("assert") -> #1
+called ("called") -> #2

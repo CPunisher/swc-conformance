@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+http ("http") -> #2
+TcpSocketConnectOpts ("TcpSocketConnectOpts") -> #3
+port ("port") -> #0
+AgentOptions ("AgentOptions") -> #3
+Partial ("Partial") -> #1
+TcpSocketConnectOpts ("TcpSocketConnectOpts") -> #3
+keepAlive ("keepAlive") -> #0
+tls ("tls") -> #2
+ConnectionOptions ("ConnectionOptions") -> #4
+port ("port") -> #0
+AgentOptions ("AgentOptions") -> #2
+http ("http") -> #2
+tls ("tls") -> #2
+maxCachedSessions ("maxCachedSessions") -> #0

@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+callCount ("callCount") -> #2
+C ("C") -> #2
+x ("x") -> #3
+y ("y") -> #3
+z ("z") -> #3
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+x ("x") -> #3
+assert ("assert") -> #1
+y ("y") -> #3
+assert ("assert") -> #1
+z ("z") -> #3
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+w ("w") -> #1
+callCount ("callCount") -> #2
+callCount ("callCount") -> #2
+C ("C") -> #2
+assert ("assert") -> #1
+callCount ("callCount") -> #2

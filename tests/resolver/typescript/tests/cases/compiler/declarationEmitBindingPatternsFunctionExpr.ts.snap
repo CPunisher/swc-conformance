@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+Named ("Named") -> #2
+name ("name") -> #0
+notReferenced ("notReferenced") -> #2
+alias ("alias") -> #3
+Named ("Named") -> #2
+duplicateIndetifiers ("duplicateIndetifiers") -> #2
+alias ("alias") -> #4
+alias2 ("alias2") -> #4
+Named ("Named") -> #2
+duplicateIndetifiers2 ("duplicateIndetifiers2") -> #2
+name ("name") -> #5
+alias ("alias") -> #5
+Named ("Named") -> #2
+duplicateIndetifiers3 ("duplicateIndetifiers3") -> #2
+alias ("alias") -> #6
+Named ("Named") -> #2
+alias2 ("alias2") -> #6
+Named ("Named") -> #2
+value ("value") -> #2
+shadowedVariable ("shadowedVariable") -> #2
+alias ("alias") -> #7
+value ("value") -> #0
+value ("value") -> #2
+value ("value") -> #2

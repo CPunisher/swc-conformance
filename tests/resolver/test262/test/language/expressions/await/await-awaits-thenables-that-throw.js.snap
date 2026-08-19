@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+error ("error") -> #2
+thenable ("thenable") -> #2
+resolve ("resolve") -> #3
+reject ("reject") -> #3
+error ("error") -> #2
+foo ("foo") -> #2
+caught ("caught") -> #4
+thenable ("thenable") -> #2
+e ("e") -> #6
+caught ("caught") -> #4
+assert ("assert") -> #1
+e ("e") -> #6
+error ("error") -> #2
+assert ("assert") -> #1
+caught ("caught") -> #4
+asyncTest ("asyncTest") -> #1
+foo ("foo") -> #2

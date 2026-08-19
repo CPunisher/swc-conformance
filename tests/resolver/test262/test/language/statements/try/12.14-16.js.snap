@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+global ("global") -> #2
+result ("result") -> #2
+e ("e") -> #6
+obj ("obj") -> #3
+obj ("obj") -> #3
+e ("e") -> #6
+obj ("obj") -> #3
+e ("e") -> #6
+result ("result") -> #2
+global ("global") -> #2
+assert ("assert") -> #1
+result ("result") -> #2

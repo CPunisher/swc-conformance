@@ -1,0 +1,9 @@
+Top level: #2
+Unresolved: #1
+Base ("Base") -> #2
+Derived ("Derived") -> #2
+Symbol ("Symbol") -> #1
+Base ("Base") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+Derived ("Derived") -> #2

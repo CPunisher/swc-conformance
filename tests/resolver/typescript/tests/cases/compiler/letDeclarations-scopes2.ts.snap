@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+global ("global") -> #2
+local ("local") -> #3
+local ("local") -> #3
+global ("global") -> #2
+local2 ("local2") -> #1
+local2 ("local2") -> #4
+local ("local") -> #3
+global ("global") -> #2
+local2 ("local2") -> #4
+local ("local") -> #3
+global ("global") -> #2
+local2 ("local2") -> #1
+local ("local") -> #1
+global ("global") -> #2
+local2 ("local2") -> #1

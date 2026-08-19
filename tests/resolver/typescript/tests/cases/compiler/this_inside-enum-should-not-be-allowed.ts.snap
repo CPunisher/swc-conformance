@@ -1,0 +1,7 @@
+Top level: #2
+Unresolved: #1
+TopLevelEnum ("TopLevelEnum") -> #2
+ThisWasAllowedButShouldNotBe ("ThisWasAllowedButShouldNotBe") -> #0
+ModuleEnum ("ModuleEnum") -> #2
+EnumInModule ("EnumInModule") -> #3
+WasADifferentError ("WasADifferentError") -> #0

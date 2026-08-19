@@ -1,0 +1,21 @@
+Top level: #2
+Unresolved: #1
+fromA ("fromA") -> #2
+fromB ("fromB") -> #2
+A ("A") -> #2
+B ("B") -> #2
+A ("A") -> #2
+C ("C") -> #2
+fromA ("fromA") -> #2
+fromB ("fromB") -> #2
+B ("B") -> #2
+A ("A") -> #2
+A ("A") -> #2
+B ("B") -> #2
+C ("C") -> #2
+C ("C") -> #2
+C ("C") -> #2
+assert ("assert") -> #1
+fromA ("fromA") -> #2
+assert ("assert") -> #1
+fromB ("fromB") -> #2

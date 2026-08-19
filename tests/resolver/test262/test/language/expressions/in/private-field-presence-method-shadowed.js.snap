@@ -1,0 +1,22 @@
+Top level: #2
+Unresolved: #1
+Child ("Child") -> #2
+parentCount ("parentCount") -> #2
+childCount ("childCount") -> #2
+Parent ("Parent") -> #2
+parentCount ("parentCount") -> #2
+Child ("Child") -> #2
+childCount ("childCount") -> #2
+value ("value") -> #6
+value ("value") -> #6
+Parent ("Parent") -> #2
+assert ("assert") -> #1
+Child ("Child") -> #2
+Parent ("Parent") -> #2
+assert ("assert") -> #1
+parentCount ("parentCount") -> #2
+assert ("assert") -> #1
+Child ("Child") -> #2
+Child ("Child") -> #2
+assert ("assert") -> #1
+childCount ("childCount") -> #2

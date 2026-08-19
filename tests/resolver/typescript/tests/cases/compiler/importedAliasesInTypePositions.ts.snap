@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+elaborate ("elaborate") -> #2
+nested ("nested") -> #3
+mod ("mod") -> #3
+name ("name") -> #3
+ReferredTo ("ReferredTo") -> #3
+RT_ALIAS ("RT_ALIAS") -> #2
+ReferredTo ("ReferredTo") -> #2
+RT_ALIAS ("RT_ALIAS") -> #2
+ImportingModule ("ImportingModule") -> #2
+UsesReferredType ("UsesReferredType") -> #5
+referred ("referred") -> #6
+ReferredTo ("ReferredTo") -> #2

@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+thrown ("thrown") -> #2
+Test262Error ("Test262Error") -> #1
+caught ("caught") -> #2
+sameBlock ("sameBlock") -> #2
+subsequentField ("subsequentField") -> #2
+subsequentBlock ("subsequentBlock") -> #2
+C ("C") -> #3
+thrown ("thrown") -> #2
+sameBlock ("sameBlock") -> #2
+subsequentField ("subsequentField") -> #2
+subsequentBlock ("subsequentBlock") -> #2
+error ("error") -> #6
+caught ("caught") -> #2
+error ("error") -> #6
+assert ("assert") -> #1
+caught ("caught") -> #2
+thrown ("thrown") -> #2
+assert ("assert") -> #1
+sameBlock ("sameBlock") -> #2
+assert ("assert") -> #1
+subsequentField ("subsequentField") -> #2
+assert ("assert") -> #1
+subsequentBlock ("subsequentBlock") -> #2

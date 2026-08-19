@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+outer ("outer") -> #2
+inner ("inner") -> #3
+x ("x") -> #4
+inner ("inner") -> #3
+x ("x") -> #5
+inner ("inner") -> #3
+a ("a") -> #6
+a ("a") -> #6
+inner ("inner") -> #3
+x ("x") -> #2
+outer ("outer") -> #2

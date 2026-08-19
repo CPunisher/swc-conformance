@@ -1,0 +1,23 @@
+Top level: #2
+Unresolved: #1
+BoxOfFoo ("BoxOfFoo") -> #2
+T ("T") -> #3
+Foo ("Foo") -> #2
+T ("T") -> #3
+item ("item") -> #0
+T ("T") -> #3
+Foo ("Foo") -> #2
+T ("T") -> #4
+Foo ("Foo") -> #2
+T ("T") -> #4
+self ("self") -> #0
+T ("T") -> #4
+Bar ("Bar") -> #2
+T ("T") -> #5
+Bar ("Bar") -> #2
+T ("T") -> #5
+Foo ("Foo") -> #2
+T ("T") -> #5
+other ("other") -> #0
+BoxOfFoo ("BoxOfFoo") -> #2
+T ("T") -> #5

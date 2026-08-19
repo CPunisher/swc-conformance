@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+err ("err") -> #2
+eval ("eval") -> #1
+f ("f") -> #1
+exception ("exception") -> #4
+err ("err") -> #2
+exception ("exception") -> #4
+assert ("assert") -> #1
+err ("err") -> #2
+ReferenceError ("ReferenceError") -> #1

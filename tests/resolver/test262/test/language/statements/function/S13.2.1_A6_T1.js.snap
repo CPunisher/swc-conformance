@@ -1,0 +1,26 @@
+Top level: #2
+Unresolved: #1
+__func ("__func") -> #2
+arg1 ("arg1") -> #3
+arg2 ("arg2") -> #3
+arg1 ("arg1") -> #3
+arg2 ("arg2") -> #3
+x ("x") -> #2
+y ("y") -> #1
+a ("a") -> #2
+b ("b") -> #1
+__func ("__func") -> #2
+x ("x") -> #2
+a ("a") -> #2
+__func ("__func") -> #2
+y ("y") -> #1
+b ("b") -> #1
+x ("x") -> #2
+y ("y") -> #1
+a ("a") -> #2
+b ("b") -> #1
+Test262Error ("Test262Error") -> #1
+x ("x") -> #2
+y ("y") -> #1
+a ("a") -> #2
+b ("b") -> #1

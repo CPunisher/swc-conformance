@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+Test ("Test") -> #2
+outerArray ("outerArray") -> #3
+Array ("Array") -> #1
+innerArray ("innerArray") -> #3
+Array ("Array") -> #1
+outer ("outer") -> #4
+outerArray ("outerArray") -> #3
+inner ("inner") -> #5
+innerArray ("innerArray") -> #3
+newValue ("newValue") -> #7
+oldValue ("oldValue") -> #7
+x ("x") -> #7
+outer ("outer") -> #4
+inner ("inner") -> #5
+newValue ("newValue") -> #7
+func ("func") -> #8
+newValue ("newValue") -> #1
+oldValue ("oldValue") -> #1

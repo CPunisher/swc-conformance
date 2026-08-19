@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+BuildWorkspaceService ("BuildWorkspaceService") -> #2
+service ("service") -> #3
+P0 ("P0") -> #3
+X ("X") -> #1
+service ("service") -> #3
+P0 ("P0") -> #3
+P1 ("P1") -> #3
+P2 ("P2") -> #3
+service ("service") -> #4
+P0 ("P0") -> #4
+P0 ("P0") -> #4

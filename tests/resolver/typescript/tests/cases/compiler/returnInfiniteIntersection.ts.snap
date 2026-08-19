@@ -1,0 +1,13 @@
+Top level: #2
+Unresolved: #1
+recursive ("recursive") -> #2
+x ("x") -> #3
+subkey ("subkey") -> #4
+T ("T") -> #4
+recursive ("recursive") -> #2
+T ("T") -> #4
+x ("x") -> #3
+x ("x") -> #3
+p ("p") -> #0
+result ("result") -> #2
+recursive ("recursive") -> #2

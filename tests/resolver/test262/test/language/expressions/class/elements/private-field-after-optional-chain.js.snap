@@ -1,0 +1,25 @@
+Top level: #2
+Unresolved: #1
+C ("C") -> #2
+o ("o") -> #3
+o ("o") -> #3
+c ("c") -> #2
+C ("C") -> #2
+o ("o") -> #2
+c ("c") -> #2
+assert ("assert") -> #1
+c ("c") -> #2
+o ("o") -> #2
+assert ("assert") -> #1
+c ("c") -> #2
+undefined ("undefined") -> #1
+assert ("assert") -> #1
+c ("c") -> #2
+undefined ("undefined") -> #1
+undefined ("undefined") -> #1
+o ("o") -> #2
+Object ("Object") -> #1
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+c ("c") -> #2
+o ("o") -> #2

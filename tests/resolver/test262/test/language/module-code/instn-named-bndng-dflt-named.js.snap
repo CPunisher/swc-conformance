@@ -1,0 +1,12 @@
+Top level: #2
+Unresolved: #1
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+x ("x") -> #2
+assert ("assert") -> #1
+y ("y") -> #2
+undefined ("undefined") -> #1
+attr ("attr") -> #2
+x ("x") -> #2
+y ("y") -> #2
+attr ("attr") -> #0

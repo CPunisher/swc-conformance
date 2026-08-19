@@ -1,0 +1,8 @@
+Top level: #2
+Unresolved: #1
+global ("global") -> #2
+globalThis ("globalThis") -> #3
+test ("test") -> #4
+globalThis ("globalThis") -> #1
+console ("console") -> #1
+globalThis ("globalThis") -> #1

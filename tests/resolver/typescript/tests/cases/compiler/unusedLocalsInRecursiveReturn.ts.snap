@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+recursive ("recursive") -> #2
+arg ("arg") -> #3
+other ("other") -> #3
+someLocalVar ("someLocalVar") -> #3
+arg ("arg") -> #3
+other ("other") -> #3
+recursive ("recursive") -> #2
+someLocalVar ("someLocalVar") -> #3
+arg ("arg") -> #3

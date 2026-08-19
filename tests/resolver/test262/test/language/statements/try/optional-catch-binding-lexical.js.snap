@@ -1,0 +1,16 @@
+Top level: #2
+Unresolved: #1
+x ("x") -> #2
+ranCatch ("ranCatch") -> #2
+x ("x") -> #2
+Error ("Error") -> #1
+x ("x") -> #4
+y ("y") -> #4
+ranCatch ("ranCatch") -> #2
+assert ("assert") -> #1
+ranCatch ("ranCatch") -> #2
+assert ("assert") -> #1
+x ("x") -> #2
+assert ("assert") -> #1
+ReferenceError ("ReferenceError") -> #1
+y ("y") -> #1

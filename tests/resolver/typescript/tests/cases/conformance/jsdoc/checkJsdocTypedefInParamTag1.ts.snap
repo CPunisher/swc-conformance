@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+opts ("opts") -> #3
+opts ("opts") -> #3
+foo ("foo") -> #2
+foo1 ("foo1") -> #2
+opts ("opts") -> #4
+opts ("opts") -> #4
+foo1 ("foo1") -> #2
+foo2 ("foo2") -> #2
+opts ("opts") -> #5
+opts ("opts") -> #5
+foo2 ("foo2") -> #2

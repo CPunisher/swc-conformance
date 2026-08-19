@@ -1,0 +1,15 @@
+Top level: #2
+Unresolved: #1
+caught ("caught") -> #2
+Parent ("Parent") -> #2
+Child ("Child") -> #2
+err ("err") -> #6
+caught ("caught") -> #2
+err ("err") -> #6
+Parent ("Parent") -> #2
+Child ("Child") -> #2
+assert ("assert") -> #1
+caught ("caught") -> #2
+assert ("assert") -> #1
+caught ("caught") -> #2
+ReferenceError ("ReferenceError") -> #1

@@ -1,0 +1,19 @@
+Top level: #2
+Unresolved: #1
+S ("S") -> #2
+C ("C") -> #2
+S ("S") -> #2
+c ("c") -> #2
+C ("C") -> #2
+assert ("assert") -> #1
+c ("c") -> #2
+assert ("assert") -> #1
+c ("c") -> #2
+s ("s") -> #2
+S ("S") -> #2
+assert ("assert") -> #1
+s ("s") -> #2
+assert ("assert") -> #1
+TypeError ("TypeError") -> #1
+c ("c") -> #2
+s ("s") -> #2

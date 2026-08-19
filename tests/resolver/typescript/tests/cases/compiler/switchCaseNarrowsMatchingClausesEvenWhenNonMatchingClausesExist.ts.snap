@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+narrowToLiterals ("narrowToLiterals") -> #2
+str ("str") -> #3
+str ("str") -> #3
+str ("str") -> #3
+narrowToString ("narrowToString") -> #2
+str ("str") -> #6
+someOtherStr ("someOtherStr") -> #6
+str ("str") -> #6
+str ("str") -> #6
+someOtherStr ("someOtherStr") -> #6
+str ("str") -> #6
+narrowToStringOrNumber ("narrowToStringOrNumber") -> #2
+str ("str") -> #10
+someNumber ("someNumber") -> #10
+str ("str") -> #10
+str ("str") -> #10
+someNumber ("someNumber") -> #10
+str ("str") -> #10

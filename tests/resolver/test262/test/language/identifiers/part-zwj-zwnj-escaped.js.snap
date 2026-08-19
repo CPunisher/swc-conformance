@@ -1,0 +1,11 @@
+Top level: #2
+Unresolved: #1
+$ ("$") -> #2
+$‍ ("$\u{200d}") -> #2
+$‌ ("$\u{200c}") -> #2
+assert ("assert") -> #1
+$ ("$") -> #2
+assert ("assert") -> #1
+$‍ ("$\u{200d}") -> #2
+assert ("assert") -> #1
+$‌ ("$\u{200c}") -> #2

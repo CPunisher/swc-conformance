@@ -1,0 +1,10 @@
+Top level: #2
+Unresolved: #1
+resolveFirst ("resolveFirst") -> #2
+resolveThird ("resolveThird") -> #2
+second ("second") -> #2
+Promise ("Promise") -> #1
+resolveFirst ("resolveFirst") -> #2
+second ("second") -> #2
+resolveThird ("resolveThird") -> #2
+foo ("foo") -> #2

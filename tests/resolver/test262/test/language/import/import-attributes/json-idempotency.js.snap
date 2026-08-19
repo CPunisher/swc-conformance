@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+viaStaticImport1 ("viaStaticImport1") -> #2
+viaStaticImport2 ("viaStaticImport2") -> #2
+default ("default") -> #0
+assert ("assert") -> #1
+viaStaticImport1 ("viaStaticImport1") -> #2
+viaStaticImport2 ("viaStaticImport2") -> #2
+assert ("assert") -> #1
+globalThis ("globalThis") -> #1
+viaStaticImport1 ("viaStaticImport1") -> #2
+viaDynamicImport ("viaDynamicImport") -> #3
+assert ("assert") -> #1
+viaDynamicImport ("viaDynamicImport") -> #3
+viaStaticImport1 ("viaStaticImport1") -> #2
+$DONE ("$DONE") -> #1
+$DONE ("$DONE") -> #1

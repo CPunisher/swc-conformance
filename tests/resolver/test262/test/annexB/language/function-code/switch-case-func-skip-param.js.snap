@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+init ("init") -> #2
+after ("after") -> #2
+f ("f") -> #3
+init ("init") -> #2
+f ("f") -> #3
+f ("f") -> #4
+after ("after") -> #2
+f ("f") -> #3
+assert ("assert") -> #1
+init ("init") -> #2
+assert ("assert") -> #1
+after ("after") -> #2

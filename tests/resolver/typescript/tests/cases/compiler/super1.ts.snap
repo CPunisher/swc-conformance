@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+Base1 ("Base1") -> #2
+Sub1 ("Sub1") -> #2
+Base1 ("Base1") -> #2
+SubSub1 ("SubSub1") -> #2
+Sub1 ("Sub1") -> #2
+Base2 ("Base2") -> #2
+SubE2 ("SubE2") -> #2
+Base2 ("Base2") -> #2
+Base3 ("Base3") -> #2
+SubE3 ("SubE3") -> #2
+Base3 ("Base3") -> #2
+Base4 ("Base4") -> #2
+Sub4 ("Sub4") -> #10
+SubSub4 ("SubSub4") -> #10
+Sub4 ("Sub4") -> #10
+Sub4E ("Sub4E") -> #10

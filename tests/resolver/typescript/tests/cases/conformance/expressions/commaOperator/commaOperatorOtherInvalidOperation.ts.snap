@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+foo ("foo") -> #2
+x ("x") -> #3
+y ("y") -> #3
+x ("x") -> #3
+y ("y") -> #3
+resultIsString ("resultIsString") -> #2
+foo ("foo") -> #2
+foo1 ("foo1") -> #2
+x ("x") -> #4
+T1 ("T1") -> #4
+y ("y") -> #4
+T2 ("T2") -> #4
+result ("result") -> #4
+T1 ("T1") -> #4
+x ("x") -> #4
+y ("y") -> #4
+T1 ("T1") -> #4
+T2 ("T2") -> #4

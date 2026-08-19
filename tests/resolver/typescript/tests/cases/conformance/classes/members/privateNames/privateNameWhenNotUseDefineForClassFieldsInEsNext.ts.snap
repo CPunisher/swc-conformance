@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+TestWithStatics ("TestWithStatics") -> #2
+TestWithStatics ("TestWithStatics") -> #2
+Inner ("Inner") -> #3
+TestWithStatics ("TestWithStatics") -> #2
+InnerInner ("InnerInner") -> #5
+TestWithStatics ("TestWithStatics") -> #2
+Inner ("Inner") -> #3
+TestWithStatics ("TestWithStatics") -> #2
+Inner ("Inner") -> #3
+TestNonStatics ("TestNonStatics") -> #2
+TestNonStatics ("TestNonStatics") -> #2
+Inner ("Inner") -> #9
+TestNonStatics ("TestNonStatics") -> #2
+InnerInner ("InnerInner") -> #11
+TestNonStatics ("TestNonStatics") -> #2
+Inner ("Inner") -> #9
+TestNonStatics ("TestNonStatics") -> #2
+Inner ("Inner") -> #9

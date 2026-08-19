@@ -1,0 +1,17 @@
+Top level: #2
+Unresolved: #1
+C ("C") -> #2
+other ("other") -> #3
+C ("C") -> #2
+obj ("obj") -> #3
+other ("other") -> #3
+obj ("obj") -> #3
+rest ("rest") -> #3
+other ("other") -> #3
+rest ("rest") -> #3
+statics ("statics") -> #3
+C ("C") -> #2
+statics ("statics") -> #3
+sRest ("sRest") -> #3
+C ("C") -> #2
+sRest ("sRest") -> #3

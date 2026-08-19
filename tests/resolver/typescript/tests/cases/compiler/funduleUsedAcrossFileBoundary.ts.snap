@@ -1,0 +1,20 @@
+Top level: #2
+Unresolved: #1
+Q ("Q") -> #2
+value ("value") -> #3
+T ("T") -> #3
+T ("T") -> #3
+Q ("Q") -> #2
+Promise ("Promise") -> #4
+T ("T") -> #5
+foo ("foo") -> #0
+defer ("defer") -> #4
+T ("T") -> #6
+promiseWithCancellation ("promiseWithCancellation") -> #2
+promise ("promise") -> #7
+Q ("Q") -> #2
+T ("T") -> #7
+deferred ("deferred") -> #7
+Q ("Q") -> #2
+T ("T") -> #7
+T ("T") -> #7

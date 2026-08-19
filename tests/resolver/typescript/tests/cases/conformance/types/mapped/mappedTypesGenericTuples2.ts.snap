@@ -1,0 +1,14 @@
+Top level: #2
+Unresolved: #1
+getT ("getT") -> #2
+T ("T") -> #3
+T ("T") -> #3
+Promise ("Promise") -> #1
+getT ("getT") -> #2
+getT ("getT") -> #2
+result ("result") -> #4
+head ("head") -> #4
+result ("result") -> #4
+tail ("tail") -> #4
+result ("result") -> #4
+tail ("tail") -> #4

@@ -1,0 +1,18 @@
+Top level: #2
+Unresolved: #1
+__err ("__err") -> #2
+Error ("Error") -> #1
+__err ("__err") -> #2
+Error ("Error") -> #1
+Test262Error ("Test262Error") -> #1
+__err ("__err") -> #2
+TypeError ("TypeError") -> #1
+Test262Error ("Test262Error") -> #1
+err__ ("err__") -> #2
+Error ("Error") -> #1
+err__ ("err__") -> #2
+Error ("Error") -> #1
+Test262Error ("Test262Error") -> #1
+err__ ("err__") -> #2
+TypeError ("TypeError") -> #1
+Test262Error ("Test262Error") -> #1
