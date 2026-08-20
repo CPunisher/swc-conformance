@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #2
-o ("o") -> #3
-innerf ("innerf") -> #3
-o ("o") -> #4
-x ("x") -> #4
-o ("o") -> #4
-e ("e") -> #6
-x ("x") -> #4
-innerf ("innerf") -> #3
-o ("o") -> #3
-assert ("assert") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(2)
+o ("o") -> ScopeId(3)
+innerf ("innerf") -> ScopeId(3)
+o ("o") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+o ("o") -> ScopeId(4)
+e ("e") -> ScopeId(6)
+x ("x") -> ScopeId(4)
+innerf ("innerf") -> ScopeId(3)
+o ("o") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+f ("f") -> ScopeId(2)

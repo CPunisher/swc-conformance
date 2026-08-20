@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-varBinding ("varBinding") -> #2
-assert ("assert") -> #1
-varBinding ("varBinding") -> #2
-varBinding ("varBinding") -> #2
-assert ("assert") -> #1
-varBinding ("varBinding") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+varBinding ("varBinding") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+varBinding ("varBinding") -> ScopeId(2)
+varBinding ("varBinding") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+varBinding ("varBinding") -> ScopeId(2)

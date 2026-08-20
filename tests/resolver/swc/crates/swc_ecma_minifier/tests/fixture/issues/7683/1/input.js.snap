@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-Infinity ("Infinity") -> #3
-console ("console") -> #1
-Infinity ("Infinity") -> #3
-Infinity ("Infinity") -> #3
-console ("console") -> #1
-NaN ("NaN") -> #4
-console ("console") -> #1
-NaN ("NaN") -> #4
-NaN ("NaN") -> #4
-console ("console") -> #1
-undefined ("undefined") -> #5
-console ("console") -> #1
-undefined ("undefined") -> #5
-undefined ("undefined") -> #5
-console ("console") -> #1
-x ("x") -> #6
-console ("console") -> #1
-x ("x") -> #6
-x ("x") -> #6
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Infinity ("Infinity") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+Infinity ("Infinity") -> ScopeId(3)
+Infinity ("Infinity") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+NaN ("NaN") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+NaN ("NaN") -> ScopeId(4)
+NaN ("NaN") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+undefined ("undefined") -> ScopeId(5)
+console ("console") -> ScopeId(1)
+undefined ("undefined") -> ScopeId(5)
+undefined ("undefined") -> ScopeId(5)
+console ("console") -> ScopeId(1)
+x ("x") -> ScopeId(6)
+console ("console") -> ScopeId(1)
+x ("x") -> ScopeId(6)
+x ("x") -> ScopeId(6)
+console ("console") -> ScopeId(1)

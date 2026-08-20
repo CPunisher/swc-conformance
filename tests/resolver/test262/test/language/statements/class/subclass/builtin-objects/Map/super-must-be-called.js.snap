@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-M1 ("M1") -> #2
-Map ("Map") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-M1 ("M1") -> #2
-M2 ("M2") -> #2
-Map ("Map") -> #1
-M2 ("M2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+M1 ("M1") -> ScopeId(2)
+Map ("Map") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+M1 ("M1") -> ScopeId(2)
+M2 ("M2") -> ScopeId(2)
+Map ("Map") -> ScopeId(1)
+M2 ("M2") -> ScopeId(2)

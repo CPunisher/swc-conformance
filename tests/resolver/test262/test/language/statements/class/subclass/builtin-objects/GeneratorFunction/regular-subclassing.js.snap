@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-GeneratorFunction ("GeneratorFunction") -> #2
-Object ("Object") -> #1
-Gfn ("Gfn") -> #2
-GeneratorFunction ("GeneratorFunction") -> #2
-gfn ("gfn") -> #2
-Gfn ("Gfn") -> #2
-iter ("iter") -> #2
-gfn ("gfn") -> #2
-assert ("assert") -> #1
-iter ("iter") -> #2
-assert ("assert") -> #1
-iter ("iter") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+GeneratorFunction ("GeneratorFunction") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Gfn ("Gfn") -> ScopeId(2)
+GeneratorFunction ("GeneratorFunction") -> ScopeId(2)
+gfn ("gfn") -> ScopeId(2)
+Gfn ("Gfn") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+gfn ("gfn") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter ("iter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter ("iter") -> ScopeId(2)

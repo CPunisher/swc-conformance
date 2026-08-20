@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #2
-miniDynamics ("miniDynamics") -> #2
-url ("url") -> #4
-url ("url") -> #4
-URL ("URL") -> #1
-url ("url") -> #4
-url ("url") -> #2
-miniDynamics ("miniDynamics") -> #2
-assert ("assert") -> #2
-url ("url") -> #2
-Home ("Home") -> #2
-React ("React") -> #1
-url ("url") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(2)
+miniDynamics ("miniDynamics") -> ScopeId(2)
+url ("url") -> ScopeId(4)
+url ("url") -> ScopeId(4)
+URL ("URL") -> ScopeId(1)
+url ("url") -> ScopeId(4)
+url ("url") -> ScopeId(2)
+miniDynamics ("miniDynamics") -> ScopeId(2)
+assert ("assert") -> ScopeId(2)
+url ("url") -> ScopeId(2)
+Home ("Home") -> ScopeId(2)
+React ("React") -> ScopeId(1)
+url ("url") -> ScopeId(2)

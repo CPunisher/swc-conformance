@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-IsHTMLDDA ("IsHTMLDDA") -> #2
-$262 ("$262") -> #1
-assert ("assert") -> #1
-IsHTMLDDA ("IsHTMLDDA") -> #2
-undefined ("undefined") -> #1
-IsHTMLDDA ("IsHTMLDDA") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)
+$262 ("$262") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)

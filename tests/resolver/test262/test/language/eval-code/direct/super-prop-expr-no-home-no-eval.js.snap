@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-evaluated ("evaluated") -> #2
-f ("f") -> #2
-eval ("eval") -> #1
-_ ("_") -> #5
-f ("f") -> #2
-assert ("assert") -> #1
-evaluated ("evaluated") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+_ ("_") -> ScopeId(5)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)

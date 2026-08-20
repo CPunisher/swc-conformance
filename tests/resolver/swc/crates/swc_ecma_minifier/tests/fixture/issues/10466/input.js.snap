@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-G ("G") -> #2
-packageName ("packageName") -> #3
-packageName ("packageName") -> #3
-packageName ("packageName") -> #3
-packageName ("packageName") -> #2
-packageName ("packageName") -> #2
-G ("G") -> #2
-packageName ("packageName") -> #2
-console ("console") -> #1
-G ("G") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+G ("G") -> ScopeId(2)
+packageName ("packageName") -> ScopeId(4)
+packageName ("packageName") -> ScopeId(4)
+packageName ("packageName") -> ScopeId(4)
+packageName ("packageName") -> ScopeId(2)
+packageName ("packageName") -> ScopeId(2)
+G ("G") -> ScopeId(2)
+packageName ("packageName") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+G ("G") -> ScopeId(2)

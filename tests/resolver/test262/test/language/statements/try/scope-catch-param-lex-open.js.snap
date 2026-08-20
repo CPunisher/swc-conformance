@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-probeBefore ("probeBefore") -> #2
-x ("x") -> #2
-probeTry ("probeTry") -> #2
-probeParam ("probeParam") -> #2
-x ("x") -> #2
-probeTry ("probeTry") -> #2
-x ("x") -> #2
-x ("x") -> #6
-_ ("_") -> #6
-probeParam ("probeParam") -> #2
-x ("x") -> #6
-assert ("assert") -> #1
-probeBefore ("probeBefore") -> #2
-assert ("assert") -> #1
-probeTry ("probeTry") -> #2
-assert ("assert") -> #1
-probeParam ("probeParam") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+probeBefore ("probeBefore") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+probeTry ("probeTry") -> ScopeId(2)
+probeParam ("probeParam") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+probeTry ("probeTry") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(6)
+_ ("_") -> ScopeId(6)
+probeParam ("probeParam") -> ScopeId(2)
+x ("x") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+probeBefore ("probeBefore") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeTry ("probeTry") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeParam ("probeParam") -> ScopeId(2)

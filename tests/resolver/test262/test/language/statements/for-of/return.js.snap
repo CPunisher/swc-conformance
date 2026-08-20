@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-values ("values") -> #2
-Test262Error ("Test262Error") -> #1
-iterator ("iterator") -> #2
-values ("values") -> #2
-i ("i") -> #2
-result ("result") -> #2
-x ("x") -> #4
-iterator ("iterator") -> #2
-i ("i") -> #2
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-result ("result") -> #2
-assert ("assert") -> #1
-i ("i") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+values ("values") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+iterator ("iterator") -> ScopeId(2)
+values ("values") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+iterator ("iterator") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+i ("i") -> ScopeId(2)

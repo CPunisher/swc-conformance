@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-Function ("Function") -> #1
-Symbol ("Symbol") -> #1
-xCover ("xCover") -> #4
-cover ("cover") -> #4
-assert ("assert") -> #1
-xCover ("xCover") -> #4
-assert ("assert") -> #1
-cover ("cover") -> #4
-verifyNotEnumerable ("verifyNotEnumerable") -> #1
-cover ("cover") -> #4
-verifyNotWritable ("verifyNotWritable") -> #1
-cover ("cover") -> #4
-verifyConfigurable ("verifyConfigurable") -> #1
-cover ("cover") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Function ("Function") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+xCover ("xCover") -> ScopeId(4)
+cover ("cover") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xCover ("xCover") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+cover ("cover") -> ScopeId(4)
+verifyNotEnumerable ("verifyNotEnumerable") -> ScopeId(1)
+cover ("cover") -> ScopeId(4)
+verifyNotWritable ("verifyNotWritable") -> ScopeId(1)
+cover ("cover") -> ScopeId(4)
+verifyConfigurable ("verifyConfigurable") -> ScopeId(1)
+cover ("cover") -> ScopeId(4)

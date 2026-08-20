@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-a ("a") -> #3
-assert ("assert") -> #1
-a ("a") -> #3
-obj ("obj") -> #2
-foo ("foo") -> #2
-obj ("obj") -> #2
-obj ("obj") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+obj ("obj") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

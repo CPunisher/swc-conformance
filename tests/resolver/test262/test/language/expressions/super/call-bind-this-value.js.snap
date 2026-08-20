@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-customThisValue ("customThisValue") -> #2
-boundThisValue ("boundThisValue") -> #2
-Parent ("Parent") -> #2
-customThisValue ("customThisValue") -> #2
-Child ("Child") -> #2
-boundThisValue ("boundThisValue") -> #2
-Parent ("Parent") -> #2
-Child ("Child") -> #2
-assert ("assert") -> #1
-boundThisValue ("boundThisValue") -> #2
-customThisValue ("customThisValue") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+customThisValue ("customThisValue") -> ScopeId(2)
+boundThisValue ("boundThisValue") -> ScopeId(2)
+Parent ("Parent") -> ScopeId(2)
+customThisValue ("customThisValue") -> ScopeId(2)
+Child ("Child") -> ScopeId(2)
+boundThisValue ("boundThisValue") -> ScopeId(2)
+Parent ("Parent") -> ScopeId(2)
+Child ("Child") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+boundThisValue ("boundThisValue") -> ScopeId(2)
+customThisValue ("customThisValue") -> ScopeId(2)

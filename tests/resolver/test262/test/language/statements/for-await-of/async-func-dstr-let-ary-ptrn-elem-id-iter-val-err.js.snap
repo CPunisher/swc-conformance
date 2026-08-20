@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-poisonedValue ("poisonedValue") -> #2
-Object ("Object") -> #1
-Test262Error ("Test262Error") -> #1
-g ("g") -> #2
-g ("g") -> #2
-Symbol ("Symbol") -> #1
-poisonedValue ("poisonedValue") -> #2
-fn ("fn") -> #2
-x ("x") -> #7
-g ("g") -> #2
-fn ("fn") -> #2
-_ ("_") -> #9
-Test262Error ("Test262Error") -> #1
-constructor ("constructor") -> #10
-assert ("assert") -> #1
-constructor ("constructor") -> #10
-Test262Error ("Test262Error") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+poisonedValue ("poisonedValue") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+g ("g") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+poisonedValue ("poisonedValue") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+x ("x") -> ScopeId(11)
+g ("g") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+_ ("_") -> ScopeId(13)
+Test262Error ("Test262Error") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(14)
+assert ("assert") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(14)
+Test262Error ("Test262Error") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

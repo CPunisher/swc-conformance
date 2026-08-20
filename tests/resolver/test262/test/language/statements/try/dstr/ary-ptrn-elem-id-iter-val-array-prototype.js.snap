@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-Array ("Array") -> #1
-Symbol ("Symbol") -> #1
-ranCatch ("ranCatch") -> #2
-x ("x") -> #8
-y ("y") -> #8
-z ("z") -> #8
-assert ("assert") -> #1
-x ("x") -> #8
-assert ("assert") -> #1
-y ("y") -> #8
-assert ("assert") -> #1
-z ("z") -> #8
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-ranCatch ("ranCatch") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Array ("Array") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)
+x ("x") -> ScopeId(8)
+y ("y") -> ScopeId(8)
+z ("z") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+y ("y") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+z ("z") -> ScopeId(8)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)

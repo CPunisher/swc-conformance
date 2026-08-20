@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-funObj ("funObj") -> #3
-Function ("Function") -> #1
-funObj ("funObj") -> #3
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+funObj ("funObj") -> ScopeId(3)
+Function ("Function") -> ScopeId(1)
+funObj ("funObj") -> ScopeId(3)
+testcase ("testcase") -> ScopeId(2)

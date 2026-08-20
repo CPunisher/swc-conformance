@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-keep ("keep") -> #2
-a ("a") -> #3
-b ("b") -> #3
-a ("a") -> #3
-a ("a") -> #3
-fnMultiUseDefaultRefPrev ("fnMultiUseDefaultRefPrev") -> #2
-value ("value") -> #4
-keep ("keep") -> #2
-value ("value") -> #4
-keep ("keep") -> #2
-value ("value") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+keep ("keep") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+fnMultiUseDefaultRefPrev ("fnMultiUseDefaultRefPrev") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+keep ("keep") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+keep ("keep") -> ScopeId(2)
+value ("value") -> ScopeId(4)

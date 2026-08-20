@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-g_star ("g_star") -> #2
-g_star ("g_star") -> #2
-h_starRenamed ("h_starRenamed") -> #1
-a_local1 ("a_local1") -> #0
-i_starIndirect ("i_starIndirect") -> #0
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+g_star ("g_star") -> ScopeId(2)
+g_star ("g_star") -> ScopeId(2)
+h_starRenamed ("h_starRenamed") -> ScopeId(1)
+a_local1 ("a_local1") -> ScopeId(1)
+i_starIndirect ("i_starIndirect") -> ScopeId(1)

@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-wrap ("wrap") -> #2
-cb ("cb") -> #3
-cb ("cb") -> #3
-Base ("Base") -> #2
-props ("props") -> #5
-props ("props") -> #5
-C ("C") -> #2
-wrap ("wrap") -> #2
-Base ("Base") -> #2
-a ("a") -> #2
-C ("C") -> #2
-b ("b") -> #2
-C ("C") -> #2
-result ("result") -> #2
-a ("a") -> #2
-console ("console") -> #1
-result ("result") -> #2
-result ("result") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+wrap ("wrap") -> ScopeId(2)
+cb ("cb") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)
+Base ("Base") -> ScopeId(2)
+props ("props") -> ScopeId(6)
+props ("props") -> ScopeId(6)
+C ("C") -> ScopeId(2)
+wrap ("wrap") -> ScopeId(2)
+Base ("Base") -> ScopeId(2)
+a ("a") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+b ("b") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+a ("a") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+result ("result") -> ScopeId(2)

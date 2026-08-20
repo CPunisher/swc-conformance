@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-inner ("inner") -> #3
-inner ("inner") -> #3
-bar ("bar") -> #2
-outer ("outer") -> #4
-outer ("outer") -> #4
-baz ("baz") -> #2
-a ("a") -> #5
-a ("a") -> #5
-qux ("qux") -> #2
-first ("first") -> #6
-second ("second") -> #6
-first ("first") -> #6
-example ("example") -> #2
-foo ("foo") -> #2
-bar ("bar") -> #2
-baz ("baz") -> #2
-qux ("qux") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+inner ("inner") -> ScopeId(3)
+inner ("inner") -> ScopeId(3)
+bar ("bar") -> ScopeId(2)
+outer ("outer") -> ScopeId(4)
+outer ("outer") -> ScopeId(4)
+baz ("baz") -> ScopeId(2)
+a ("a") -> ScopeId(6)
+a ("a") -> ScopeId(6)
+qux ("qux") -> ScopeId(2)
+first ("first") -> ScopeId(8)
+second ("second") -> ScopeId(8)
+first ("first") -> ScopeId(8)
+example ("example") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+bar ("bar") -> ScopeId(2)
+baz ("baz") -> ScopeId(2)
+qux ("qux") -> ScopeId(2)

@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-viaCall ("viaCall") -> #2
-viaMember ("viaMember") -> #2
-parent ("parent") -> #2
-obj ("obj") -> #2
-viaCall ("viaCall") -> #2
-viaMember ("viaMember") -> #2
-Object ("Object") -> #1
-obj ("obj") -> #2
-parent ("parent") -> #2
-obj ("obj") -> #2
-assert ("assert") -> #1
-viaCall ("viaCall") -> #2
-obj ("obj") -> #2
-assert ("assert") -> #1
-viaMember ("viaMember") -> #2
-obj ("obj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+viaCall ("viaCall") -> ScopeId(2)
+viaMember ("viaMember") -> ScopeId(2)
+parent ("parent") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+viaCall ("viaCall") -> ScopeId(2)
+viaMember ("viaMember") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+parent ("parent") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+viaCall ("viaCall") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+viaMember ("viaMember") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)

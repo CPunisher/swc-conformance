@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-symbol ("symbol") -> #2
-Symbol ("Symbol") -> #1
-target ("target") -> #2
-symbol ("symbol") -> #2
-descriptors ("descriptors") -> #2
-symbol ("symbol") -> #2
-options ("options") -> #2
-Proxy ("Proxy") -> #1
-symbol ("symbol") -> #2
-Error ("Error") -> #1
-target ("target") -> #5
-name ("name") -> #5
-descriptors ("descriptors") -> #2
-name ("name") -> #5
-options ("options") -> #2
-module ("module") -> #6
-assert ("assert") -> #1
-module ("module") -> #6
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+symbol ("symbol") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+target ("target") -> ScopeId(2)
+symbol ("symbol") -> ScopeId(2)
+descriptors ("descriptors") -> ScopeId(2)
+symbol ("symbol") -> ScopeId(2)
+options ("options") -> ScopeId(2)
+Proxy ("Proxy") -> ScopeId(1)
+symbol ("symbol") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+target ("target") -> ScopeId(12)
+name ("name") -> ScopeId(12)
+descriptors ("descriptors") -> ScopeId(2)
+name ("name") -> ScopeId(12)
+options ("options") -> ScopeId(2)
+module ("module") -> ScopeId(13)
+assert ("assert") -> ScopeId(1)
+module ("module") -> ScopeId(13)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

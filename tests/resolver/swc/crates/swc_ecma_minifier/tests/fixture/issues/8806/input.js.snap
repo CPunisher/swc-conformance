@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-logTheNine ("logTheNine") -> #2
-theThree ("theThree") -> #4
-theNine ("theNine") -> #4
-console ("console") -> #1
-theNine ("theNine") -> #4
-logTheNine ("logTheNine") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+logTheNine ("logTheNine") -> ScopeId(2)
+theThree ("theThree") -> ScopeId(4)
+theNine ("theNine") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+theNine ("theNine") -> ScopeId(4)
+logTheNine ("logTheNine") -> ScopeId(2)

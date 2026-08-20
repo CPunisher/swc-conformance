@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-classfactory ("classfactory") -> #2
-C1 ("C1") -> #2
-classfactory ("classfactory") -> #2
-C2 ("C2") -> #2
-classfactory ("classfactory") -> #2
-c1 ("c1") -> #2
-C1 ("C1") -> #2
-c2 ("c2") -> #2
-C2 ("C2") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-c1 ("c1") -> #2
-c2 ("c2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+classfactory ("classfactory") -> ScopeId(2)
+C1 ("C1") -> ScopeId(2)
+classfactory ("classfactory") -> ScopeId(2)
+C2 ("C2") -> ScopeId(2)
+classfactory ("classfactory") -> ScopeId(2)
+c1 ("c1") -> ScopeId(2)
+C1 ("C1") -> ScopeId(2)
+c2 ("c2") -> ScopeId(2)
+C2 ("C2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+c1 ("c1") -> ScopeId(2)
+c2 ("c2") -> ScopeId(2)

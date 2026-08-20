@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-iter ("iter") -> #2
-iter ("iter") -> #2
-result ("result") -> #4
-assert ("assert") -> #1
-result ("result") -> #4
-assert ("assert") -> #1
-result ("result") -> #4
-undefined ("undefined") -> #1
-$DONE ("$DONE") -> #1
-iter ("iter") -> #2
-result ("result") -> #5
-assert ("assert") -> #1
-result ("result") -> #5
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-result ("result") -> #5
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+result ("result") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(4)
+undefined ("undefined") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+iter ("iter") -> ScopeId(2)
+result ("result") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(5)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(5)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

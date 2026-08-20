@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-bitwise1 ("bitwise1") -> #2
-a ("a") -> #3
-b ("b") -> #3
-a ("a") -> #3
-b ("b") -> #3
-bitwise2 ("bitwise2") -> #2
-a ("a") -> #4
-a ("a") -> #4
-bitwise3 ("bitwise3") -> #2
-a ("a") -> #5
-b ("b") -> #5
-a ("a") -> #5
-b ("b") -> #5
-console ("console") -> #1
-a ("a") -> #5
-b ("b") -> #5
-a ("a") -> #5
-b ("b") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+bitwise1 ("bitwise1") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+bitwise2 ("bitwise2") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+bitwise3 ("bitwise3") -> ScopeId(2)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)

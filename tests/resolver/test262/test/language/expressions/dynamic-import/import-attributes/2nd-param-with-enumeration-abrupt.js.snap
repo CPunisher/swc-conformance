@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-thrown ("thrown") -> #2
-Test262Error ("Test262Error") -> #1
-options ("options") -> #2
-Proxy ("Proxy") -> #1
-thrown ("thrown") -> #2
-options ("options") -> #2
-Test262Error ("Test262Error") -> #1
-error ("error") -> #5
-assert ("assert") -> #1
-error ("error") -> #5
-thrown ("thrown") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thrown ("thrown") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+options ("options") -> ScopeId(2)
+Proxy ("Proxy") -> ScopeId(1)
+thrown ("thrown") -> ScopeId(2)
+options ("options") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+error ("error") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(8)
+thrown ("thrown") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

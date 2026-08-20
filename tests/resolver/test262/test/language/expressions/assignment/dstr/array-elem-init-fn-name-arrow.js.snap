@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-arrow ("arrow") -> #2
-result ("result") -> #2
-vals ("vals") -> #2
-result ("result") -> #2
-arrow ("arrow") -> #2
-vals ("vals") -> #2
-verifyProperty ("verifyProperty") -> #1
-arrow ("arrow") -> #2
-assert ("assert") -> #1
-result ("result") -> #2
-vals ("vals") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+arrow ("arrow") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+arrow ("arrow") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+arrow ("arrow") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)

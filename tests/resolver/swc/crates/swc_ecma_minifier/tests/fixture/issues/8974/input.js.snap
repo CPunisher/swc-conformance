@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-one ("one") -> #2
-two ("two") -> #2
-one ("one") -> #2
-three ("three") -> #2
-a ("a") -> #1
-one ("one") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+one ("one") -> ScopeId(2)
+two ("two") -> ScopeId(2)
+one ("one") -> ScopeId(2)
+three ("three") -> ScopeId(2)
+a ("a") -> ScopeId(1)
+one ("one") -> ScopeId(2)

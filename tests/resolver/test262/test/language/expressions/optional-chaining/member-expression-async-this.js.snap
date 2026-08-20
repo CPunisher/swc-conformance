@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-thisFn ("thisFn") -> #2
-thisFn ("thisFn") -> #2
-Promise ("Promise") -> #1
-arg ("arg") -> #4
-assert ("assert") -> #1
-arg ("arg") -> #4
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thisFn ("thisFn") -> ScopeId(2)
+thisFn ("thisFn") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+arg ("arg") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+arg ("arg") -> ScopeId(5)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

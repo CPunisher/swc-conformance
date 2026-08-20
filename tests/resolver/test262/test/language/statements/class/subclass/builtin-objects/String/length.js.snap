@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-S ("S") -> #2
-String ("String") -> #1
-s1 ("s1") -> #2
-S ("S") -> #2
-verifyProperty ("verifyProperty") -> #1
-s1 ("s1") -> #2
-s2 ("s2") -> #2
-S ("S") -> #2
-verifyProperty ("verifyProperty") -> #1
-s2 ("s2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+S ("S") -> ScopeId(2)
+String ("String") -> ScopeId(1)
+s1 ("s1") -> ScopeId(2)
+S ("S") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+s1 ("s1") -> ScopeId(2)
+s2 ("s2") -> ScopeId(2)
+S ("S") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+s2 ("s2") -> ScopeId(2)

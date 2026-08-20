@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-ranCatch ("ranCatch") -> #2
-x ("x") -> #2
-Error ("Error") -> #1
-x ("x") -> #4
-y ("y") -> #4
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-y ("y") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+ranCatch ("ranCatch") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+x ("x") -> ScopeId(4)
+y ("y") -> ScopeId(4)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+y ("y") -> ScopeId(1)

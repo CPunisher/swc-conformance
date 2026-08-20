@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-initCount ("initCount") -> #2
-thrower ("thrower") -> #2
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-a ("a") -> #6
-b ("b") -> #6
-thrower ("thrower") -> #2
-c ("c") -> #6
-initCount ("initCount") -> #2
-assert ("assert") -> #1
-initCount ("initCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+initCount ("initCount") -> ScopeId(2)
+thrower ("thrower") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+a ("a") -> ScopeId(7)
+b ("b") -> ScopeId(7)
+thrower ("thrower") -> ScopeId(2)
+c ("c") -> ScopeId(7)
+initCount ("initCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+initCount ("initCount") -> ScopeId(2)

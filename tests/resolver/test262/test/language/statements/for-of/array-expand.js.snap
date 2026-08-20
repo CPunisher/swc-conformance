@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-array ("array") -> #2
-iterationCount ("iterationCount") -> #2
-first ("first") -> #2
-second ("second") -> #2
-x ("x") -> #2
-array ("array") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-first ("first") -> #2
-first ("first") -> #2
-second ("second") -> #2
-second ("second") -> #2
-first ("first") -> #2
-array ("array") -> #2
-iterationCount ("iterationCount") -> #2
-assert ("assert") -> #1
-iterationCount ("iterationCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+array ("array") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+array ("array") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+array ("array") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)

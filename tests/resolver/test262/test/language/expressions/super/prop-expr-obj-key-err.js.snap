@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-thrown ("thrown") -> #2
-Test262Error ("Test262Error") -> #1
-badToString ("badToString") -> #2
-thrown ("thrown") -> #2
-caught ("caught") -> #2
-obj ("obj") -> #2
-badToString ("badToString") -> #2
-err ("err") -> #6
-caught ("caught") -> #2
-err ("err") -> #6
-obj ("obj") -> #2
-assert ("assert") -> #1
-caught ("caught") -> #2
-thrown ("thrown") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thrown ("thrown") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+badToString ("badToString") -> ScopeId(2)
+thrown ("thrown") -> ScopeId(2)
+caught ("caught") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+badToString ("badToString") -> ScopeId(2)
+err ("err") -> ScopeId(8)
+caught ("caught") -> ScopeId(2)
+err ("err") -> ScopeId(8)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+caught ("caught") -> ScopeId(2)
+thrown ("thrown") -> ScopeId(2)

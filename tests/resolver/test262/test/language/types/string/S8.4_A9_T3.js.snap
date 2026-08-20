@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-str ("str") -> #2
-strObj ("strObj") -> #2
-String ("String") -> #1
-str ("str") -> #2
-strObj ("strObj") -> #2
-Test262Error ("Test262Error") -> #1
-str ("str") -> #2
-strObj ("strObj") -> #2
-Test262Error ("Test262Error") -> #1
-str ("str") -> #2
-strObj ("strObj") -> #2
-Test262Error ("Test262Error") -> #1
-str ("str") -> #2
-strObj ("strObj") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+str ("str") -> ScopeId(2)
+strObj ("strObj") -> ScopeId(2)
+String ("String") -> ScopeId(1)
+str ("str") -> ScopeId(2)
+strObj ("strObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+str ("str") -> ScopeId(2)
+strObj ("strObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+str ("str") -> ScopeId(2)
+strObj ("strObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+str ("str") -> ScopeId(2)
+strObj ("strObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

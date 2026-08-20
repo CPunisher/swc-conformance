@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-gen ("gen") -> #3
-xGen ("xGen") -> #3
-x ("x") -> #5
-assert ("assert") -> #1
-gen ("gen") -> #3
-assert ("assert") -> #1
-xGen ("xGen") -> #3
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+gen ("gen") -> ScopeId(4)
+xGen ("xGen") -> ScopeId(4)
+x ("x") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xGen ("xGen") -> ScopeId(4)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

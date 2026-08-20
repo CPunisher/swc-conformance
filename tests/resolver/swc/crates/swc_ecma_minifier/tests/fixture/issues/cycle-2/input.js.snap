@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #3
-D ("D") -> #3
-D ("D") -> #3
-C ("C") -> #3
-ExtendsC ("ExtendsC") -> #3
-sideEffectWith ("sideEffectWith") -> #1
-C ("C") -> #3
-Unused ("Unused") -> #3
-ExtendsC ("ExtendsC") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(3)
+D ("D") -> ScopeId(3)
+D ("D") -> ScopeId(3)
+C ("C") -> ScopeId(3)
+ExtendsC ("ExtendsC") -> ScopeId(3)
+sideEffectWith ("sideEffectWith") -> ScopeId(1)
+C ("C") -> ScopeId(3)
+Unused ("Unused") -> ScopeId(3)
+ExtendsC ("ExtendsC") -> ScopeId(3)

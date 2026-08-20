@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-f ("f") -> #2
-f ("f") -> #2
-g ("g") -> #3
-_ ("_") -> #4
-Test262Error ("Test262Error") -> #1
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+g ("g") -> ScopeId(3)
+_ ("_") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

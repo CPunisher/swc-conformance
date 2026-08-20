@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-P ("P") -> #3
-Proxy ("Proxy") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+P ("P") -> ScopeId(3)
+Proxy ("Proxy") -> ScopeId(1)

@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-A ("A") -> #3
-B ("B") -> #3
-B ("B") -> #3
-A ("A") -> #3
-ExtendsA1 ("ExtendsA1") -> #3
-sideEffectWith ("sideEffectWith") -> #1
-A ("A") -> #3
-Unused1 ("Unused1") -> #3
-ExtendsA1 ("ExtendsA1") -> #3
-ExtendsA2 ("ExtendsA2") -> #3
-sideEffectWith ("sideEffectWith") -> #1
-A ("A") -> #3
-Unused2 ("Unused2") -> #3
-ExtendsA2 ("ExtendsA2") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+A ("A") -> ScopeId(3)
+B ("B") -> ScopeId(3)
+B ("B") -> ScopeId(3)
+A ("A") -> ScopeId(3)
+ExtendsA1 ("ExtendsA1") -> ScopeId(3)
+sideEffectWith ("sideEffectWith") -> ScopeId(1)
+A ("A") -> ScopeId(3)
+Unused1 ("Unused1") -> ScopeId(3)
+ExtendsA1 ("ExtendsA1") -> ScopeId(3)
+ExtendsA2 ("ExtendsA2") -> ScopeId(3)
+sideEffectWith ("sideEffectWith") -> ScopeId(1)
+A ("A") -> ScopeId(3)
+Unused2 ("Unused2") -> ScopeId(3)
+ExtendsA2 ("ExtendsA2") -> ScopeId(3)

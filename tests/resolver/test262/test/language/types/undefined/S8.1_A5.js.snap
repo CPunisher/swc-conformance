@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-test ("test") -> #2
-arg ("arg") -> #3
-arg ("arg") -> #3
-Test262Error ("Test262Error") -> #1
-arg ("arg") -> #3
-test ("test") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test ("test") -> ScopeId(2)
+arg ("arg") -> ScopeId(3)
+arg ("arg") -> ScopeId(3)
+Test262Error ("Test262Error") -> ScopeId(1)
+arg ("arg") -> ScopeId(3)
+test ("test") -> ScopeId(2)

@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-evaluated ("evaluated") -> #2
-name ("name") -> #3
-evaluated ("evaluated") -> #2
-evaluated ("evaluated") -> #2
-evaluated ("evaluated") -> #2
-name ("name") -> #3
-check ("check") -> #2
-promise ("promise") -> #5
-promise ("promise") -> #5
-assert ("assert") -> #1
-evaluated ("evaluated") -> #2
-assert ("assert") -> #1
-evaluated ("evaluated") -> #2
-assert ("assert") -> #1
-evaluated ("evaluated") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+name ("name") -> ScopeId(3)
+evaluated ("evaluated") -> ScopeId(2)
+evaluated ("evaluated") -> ScopeId(2)
+evaluated ("evaluated") -> ScopeId(2)
+name ("name") -> ScopeId(3)
+check ("check") -> ScopeId(2)
+promise ("promise") -> ScopeId(5)
+promise ("promise") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

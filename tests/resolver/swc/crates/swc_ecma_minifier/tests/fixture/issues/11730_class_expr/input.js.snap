@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-someFunction ("someFunction") -> #1
-f ("f") -> #3
-Dead ("Dead") -> #5
-Dead ("Dead") -> #5
-Unknown ("Unknown") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+someFunction ("someFunction") -> ScopeId(1)
+f ("f") -> ScopeId(3)
+Dead ("Dead") -> ScopeId(5)
+Dead ("Dead") -> ScopeId(5)
+Unknown ("Unknown") -> ScopeId(1)

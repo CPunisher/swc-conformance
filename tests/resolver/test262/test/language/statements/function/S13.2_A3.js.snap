@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-__func ("__func") -> #2
-__func ("__func") -> #2
-Test262Error ("Test262Error") -> #1
-__func ("__func") -> #2
-__gunc ("__gunc") -> #2
-a ("a") -> #5
-b ("b") -> #5
-c ("c") -> #5
-__gunc ("__gunc") -> #2
-Test262Error ("Test262Error") -> #1
-__gunc ("__gunc") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__gunc ("__gunc") -> ScopeId(2)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+c ("c") -> ScopeId(5)
+__gunc ("__gunc") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__gunc ("__gunc") -> ScopeId(2)

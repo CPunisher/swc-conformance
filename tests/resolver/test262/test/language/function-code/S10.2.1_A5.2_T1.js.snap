@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-f1 ("f1") -> #2
-x ("x") -> #3
-x ("x") -> #3
-x ("x") -> #3
-assert ("assert") -> #1
-f1 ("f1") -> #2
-f2 ("f2") -> #2
-x ("x") -> #4
-x ("x") -> #4
-x ("x") -> #4
-assert ("assert") -> #1
-f2 ("f2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f1 ("f1") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+f1 ("f1") -> ScopeId(2)
+f2 ("f2") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+f2 ("f2") -> ScopeId(2)

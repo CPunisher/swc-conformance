@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-AB1 ("AB1") -> #2
-ArrayBuffer ("ArrayBuffer") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-AB1 ("AB1") -> #2
-AB2 ("AB2") -> #2
-length ("length") -> #5
-length ("length") -> #5
-ArrayBuffer ("ArrayBuffer") -> #1
-AB2 ("AB2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+AB1 ("AB1") -> ScopeId(2)
+ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+AB1 ("AB1") -> ScopeId(2)
+AB2 ("AB2") -> ScopeId(2)
+length ("length") -> ScopeId(7)
+length ("length") -> ScopeId(7)
+ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
+AB2 ("AB2") -> ScopeId(2)

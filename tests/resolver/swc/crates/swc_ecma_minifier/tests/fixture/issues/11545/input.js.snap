@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-joinArrayWithUndefined ("joinArrayWithUndefined") -> #2
-bool ("bool") -> #3
-bool ("bool") -> #3
-undefined ("undefined") -> #1
-console ("console") -> #1
-joinArrayWithUndefined ("joinArrayWithUndefined") -> #2
-console ("console") -> #1
-joinArrayWithUndefined ("joinArrayWithUndefined") -> #2
-x ("x") -> #2
-undefined ("undefined") -> #1
-console ("console") -> #1
-x ("x") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+joinArrayWithUndefined ("joinArrayWithUndefined") -> ScopeId(2)
+bool ("bool") -> ScopeId(3)
+bool ("bool") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+console ("console") -> ScopeId(1)
+joinArrayWithUndefined ("joinArrayWithUndefined") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+joinArrayWithUndefined ("joinArrayWithUndefined") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+console ("console") -> ScopeId(1)
+x ("x") -> ScopeId(2)

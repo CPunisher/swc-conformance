@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-globalArray ("globalArray") -> #2
-module ("module") -> #1
-localArray ("localArray") -> #3
-globalArray ("globalArray") -> #2
-localArray ("localArray") -> #3
-localArray ("localArray") -> #3
-localArray ("localArray") -> #3
-localArray ("localArray") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+globalArray ("globalArray") -> ScopeId(2)
+module ("module") -> ScopeId(1)
+localArray ("localArray") -> ScopeId(3)
+globalArray ("globalArray") -> ScopeId(2)
+localArray ("localArray") -> ScopeId(3)
+localArray ("localArray") -> ScopeId(3)
+localArray ("localArray") -> ScopeId(3)
+localArray ("localArray") -> ScopeId(3)

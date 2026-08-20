@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-bar ("bar") -> #1
-RegExp ("RegExp") -> #1
-bar ("bar") -> #1
-RegExp ("RegExp") -> #1
-bar ("bar") -> #1
-RegExp ("RegExp") -> #1
-bar ("bar") -> #1
-RegExp ("RegExp") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+bar ("bar") -> ScopeId(1)
+RegExp ("RegExp") -> ScopeId(1)
+bar ("bar") -> ScopeId(1)
+RegExp ("RegExp") -> ScopeId(1)
+bar ("bar") -> ScopeId(1)
+RegExp ("RegExp") -> ScopeId(1)
+bar ("bar") -> ScopeId(1)
+RegExp ("RegExp") -> ScopeId(1)

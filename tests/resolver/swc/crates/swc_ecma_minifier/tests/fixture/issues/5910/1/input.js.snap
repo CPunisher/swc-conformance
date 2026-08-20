@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-fn1 ("fn1") -> #2
-walkingIndex ("walkingIndex") -> #3
-fn2 ("fn2") -> #3
-myIndex ("myIndex") -> #4
-walkingIndex ("walkingIndex") -> #3
-walkingIndex ("walkingIndex") -> #3
-console ("console") -> #1
-myIndex ("myIndex") -> #4
-walkingIndex ("walkingIndex") -> #3
-fn2 ("fn2") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn1 ("fn1") -> ScopeId(2)
+walkingIndex ("walkingIndex") -> ScopeId(3)
+fn2 ("fn2") -> ScopeId(3)
+myIndex ("myIndex") -> ScopeId(4)
+walkingIndex ("walkingIndex") -> ScopeId(3)
+walkingIndex ("walkingIndex") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+myIndex ("myIndex") -> ScopeId(4)
+walkingIndex ("walkingIndex") -> ScopeId(3)
+fn2 ("fn2") -> ScopeId(3)

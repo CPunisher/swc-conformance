@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-asyncIterable ("asyncIterable") -> #2
-asyncIterable ("asyncIterable") -> #2
-Symbol ("Symbol") -> #1
-Symbol ("Symbol") -> #1
-iterationCount ("iterationCount") -> #2
-promise ("promise") -> #2
-x ("x") -> #6
-asyncIterable ("asyncIterable") -> #2
-iterationCount ("iterationCount") -> #2
-promise ("promise") -> #2
-value ("value") -> #8
-Test262Error ("Test262Error") -> #1
-value ("value") -> #8
-error ("error") -> #9
-assert ("assert") -> #1
-error ("error") -> #9
-TypeError ("TypeError") -> #1
-assert ("assert") -> #1
-iterationCount ("iterationCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+asyncIterable ("asyncIterable") -> ScopeId(2)
+asyncIterable ("asyncIterable") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)
+promise ("promise") -> ScopeId(2)
+x ("x") -> ScopeId(9)
+asyncIterable ("asyncIterable") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+promise ("promise") -> ScopeId(2)
+value ("value") -> ScopeId(11)
+Test262Error ("Test262Error") -> ScopeId(1)
+value ("value") -> ScopeId(11)
+error ("error") -> ScopeId(12)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(12)
+TypeError ("TypeError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

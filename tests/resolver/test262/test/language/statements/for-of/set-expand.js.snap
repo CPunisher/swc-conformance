@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-set ("set") -> #2
-Set ("Set") -> #1
-iterationCount ("iterationCount") -> #2
-first ("first") -> #2
-second ("second") -> #2
-set ("set") -> #2
-x ("x") -> #2
-set ("set") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-first ("first") -> #2
-first ("first") -> #2
-second ("second") -> #2
-second ("second") -> #2
-set ("set") -> #2
-iterationCount ("iterationCount") -> #2
-assert ("assert") -> #1
-iterationCount ("iterationCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+set ("set") -> ScopeId(2)
+Set ("Set") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+set ("set") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+set ("set") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+set ("set") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)

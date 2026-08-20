@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-data ("data") -> #2
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-obj ("obj") -> #3
-Object ("Object") -> #1
-obj ("obj") -> #3
-value ("value") -> #4
-test262unresolvable ("test262unresolvable") -> #1
-data ("data") -> #2
-value ("value") -> #4
-obj ("obj") -> #3
-assert ("assert") -> #1
-data ("data") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+data ("data") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+obj ("obj") -> ScopeId(3)
+Object ("Object") -> ScopeId(1)
+obj ("obj") -> ScopeId(3)
+value ("value") -> ScopeId(6)
+test262unresolvable ("test262unresolvable") -> ScopeId(1)
+data ("data") -> ScopeId(2)
+value ("value") -> ScopeId(6)
+obj ("obj") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+data ("data") -> ScopeId(2)

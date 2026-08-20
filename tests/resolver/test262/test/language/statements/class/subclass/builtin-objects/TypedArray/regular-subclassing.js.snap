@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-testWithTypedArrayConstructors ("testWithTypedArrayConstructors") -> #1
-Constructor ("Constructor") -> #3
-Typed ("Typed") -> #3
-Constructor ("Constructor") -> #3
-arr ("arr") -> #3
-Typed ("Typed") -> #3
-assert ("assert") -> #1
-arr ("arr") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testWithTypedArrayConstructors ("testWithTypedArrayConstructors") -> ScopeId(1)
+Constructor ("Constructor") -> ScopeId(3)
+Typed ("Typed") -> ScopeId(3)
+Constructor ("Constructor") -> ScopeId(3)
+arr ("arr") -> ScopeId(3)
+Typed ("Typed") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+arr ("arr") -> ScopeId(3)

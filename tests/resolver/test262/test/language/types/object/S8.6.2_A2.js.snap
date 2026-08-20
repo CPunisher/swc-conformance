@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-FooObj ("FooObj") -> #2
-FooObj ("FooObj") -> #2
-foo ("foo") -> #2
-FooObj ("FooObj") -> #2
-foo ("foo") -> #2
-Test262Error ("Test262Error") -> #1
-foo ("foo") -> #2
-foo ("foo") -> #2
-foo__ ("foo__") -> #2
-FooObj ("FooObj") -> #2
-foo__ ("foo__") -> #2
-Test262Error ("Test262Error") -> #1
-foo__ ("foo__") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+FooObj ("FooObj") -> ScopeId(2)
+FooObj ("FooObj") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+FooObj ("FooObj") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+foo__ ("foo__") -> ScopeId(2)
+FooObj ("FooObj") -> ScopeId(2)
+foo__ ("foo__") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+foo__ ("foo__") -> ScopeId(2)

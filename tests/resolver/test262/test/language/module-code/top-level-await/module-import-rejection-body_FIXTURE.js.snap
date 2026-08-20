@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-named ("named") -> #2
-rejection ("rejection") -> #2
-Promise ("Promise") -> #1
-TypeError ("TypeError") -> #1
-rejection ("rejection") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+named ("named") -> ScopeId(2)
+rejection ("rejection") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+rejection ("rejection") -> ScopeId(2)

@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-probeDefault ("probeDefault") -> #2
-probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
-probeCase ("probeCase") -> #2
-x ("x") -> #3
-probeDefault ("probeDefault") -> #2
-x ("x") -> #3
-assert ("assert") -> #1
-probeDefault ("probeDefault") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-x ("x") -> #5
-probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
-x ("x") -> #5
-probeCase ("probeCase") -> #2
-x ("x") -> #5
-assert ("assert") -> #1
-probeDefaultBeforeCase ("probeDefaultBeforeCase") -> #2
-assert ("assert") -> #1
-probeCase ("probeCase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+probeDefault ("probeDefault") -> ScopeId(2)
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> ScopeId(2)
+probeCase ("probeCase") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+probeDefault ("probeDefault") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+probeDefault ("probeDefault") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(5)
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> ScopeId(2)
+x ("x") -> ScopeId(5)
+probeCase ("probeCase") -> ScopeId(2)
+x ("x") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+probeDefaultBeforeCase ("probeDefaultBeforeCase") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeCase ("probeCase") -> ScopeId(2)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-__key ("__key") -> #1
-key ("key") -> #2
-__key ("__key") -> #1
-e ("e") -> #5
-Test262Error ("Test262Error") -> #1
-key ("key") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-key ("key") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__key ("__key") -> ScopeId(1)
+key ("key") -> ScopeId(2)
+__key ("__key") -> ScopeId(1)
+e ("e") -> ScopeId(6)
+Test262Error ("Test262Error") -> ScopeId(1)
+key ("key") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+key ("key") -> ScopeId(2)

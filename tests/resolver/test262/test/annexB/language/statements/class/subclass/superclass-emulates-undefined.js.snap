@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-superclass ("superclass") -> #2
-$262 ("$262") -> #1
-prototypeGets ("prototypeGets") -> #2
-Object ("Object") -> #1
-superclass ("superclass") -> #2
-prototypeGets ("prototypeGets") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #4
-superclass ("superclass") -> #2
-assert ("assert") -> #1
-prototypeGets ("prototypeGets") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+superclass ("superclass") -> ScopeId(2)
+$262 ("$262") -> ScopeId(1)
+prototypeGets ("prototypeGets") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+superclass ("superclass") -> ScopeId(2)
+prototypeGets ("prototypeGets") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(5)
+superclass ("superclass") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+prototypeGets ("prototypeGets") -> ScopeId(2)

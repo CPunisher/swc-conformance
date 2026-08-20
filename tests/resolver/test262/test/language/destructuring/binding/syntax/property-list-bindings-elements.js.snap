@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-fna ("fna") -> #2
-y ("y") -> #3
-fnb ("fnb") -> #2
-y ("y") -> #4
-fnc ("fnc") -> #2
-fnd ("fnd") -> #2
-y ("y") -> #6
-fne ("fne") -> #2
-fnf ("fnf") -> #2
-y ("y") -> #8
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fna ("fna") -> ScopeId(2)
+y ("y") -> ScopeId(3)
+fnb ("fnb") -> ScopeId(2)
+y ("y") -> ScopeId(4)
+fnc ("fnc") -> ScopeId(2)
+fnd ("fnd") -> ScopeId(2)
+y ("y") -> ScopeId(6)
+fne ("fne") -> ScopeId(2)
+fnf ("fnf") -> ScopeId(2)
+y ("y") -> ScopeId(8)

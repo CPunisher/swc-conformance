@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-Symbol ("Symbol") -> #1
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)

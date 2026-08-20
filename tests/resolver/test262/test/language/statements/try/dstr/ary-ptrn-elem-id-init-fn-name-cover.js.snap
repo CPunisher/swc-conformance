@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-ranCatch ("ranCatch") -> #2
-cover ("cover") -> #4
-xCover ("xCover") -> #4
-assert ("assert") -> #1
-cover ("cover") -> #4
-assert ("assert") -> #1
-xCover ("xCover") -> #4
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-ranCatch ("ranCatch") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)
+cover ("cover") -> ScopeId(4)
+xCover ("xCover") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+cover ("cover") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xCover ("xCover") -> ScopeId(4)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)

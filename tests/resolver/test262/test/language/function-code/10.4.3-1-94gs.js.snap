@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-global ("global") -> #2
-f ("f") -> #2
-global ("global") -> #2
-f ("f") -> #2
-global ("global") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+global ("global") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+global ("global") -> ScopeId(2)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-updated ("updated") -> #2
-f ("f") -> #3
-f ("f") -> #3
-updated ("updated") -> #2
-f ("f") -> #3
-assert ("assert") -> #1
-updated ("updated") -> #2
-assert ("assert") -> #1
-updated ("updated") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+updated ("updated") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+updated ("updated") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+updated ("updated") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+updated ("updated") -> ScopeId(2)

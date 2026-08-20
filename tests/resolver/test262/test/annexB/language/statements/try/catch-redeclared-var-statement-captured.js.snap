@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-capturedFoo ("capturedFoo") -> #2
-foo ("foo") -> #2
-foo ("foo") -> #2
-Error ("Error") -> #1
-foo ("foo") -> #2
-foo ("foo") -> #2
-assert ("assert") -> #1
-capturedFoo ("capturedFoo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+capturedFoo ("capturedFoo") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+capturedFoo ("capturedFoo") -> ScopeId(2)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-startTime ("startTime") -> #2
-Date ("Date") -> #1
-endTime ("endTime") -> #2
-endTime ("endTime") -> #2
-time ("time") -> #1
-endTime ("endTime") -> #2
-Date ("Date") -> #1
-startTime ("startTime") -> #2
-endTime ("endTime") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+startTime ("startTime") -> ScopeId(2)
+Date ("Date") -> ScopeId(1)
+endTime ("endTime") -> ScopeId(2)
+endTime ("endTime") -> ScopeId(2)
+time ("time") -> ScopeId(1)
+endTime ("endTime") -> ScopeId(2)
+Date ("Date") -> ScopeId(1)
+startTime ("startTime") -> ScopeId(2)
+endTime ("endTime") -> ScopeId(2)

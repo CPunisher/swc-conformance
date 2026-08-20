@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-length ("length") -> #2
-counter ("counter") -> #2
-x ("x") -> #2
-length ("length") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-assert ("assert") -> #1
-length ("length") -> #2
-counter ("counter") -> #2
-assert ("assert") -> #1
-counter ("counter") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+length ("length") -> ScopeId(2)
+counter ("counter") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+length ("length") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+length ("length") -> ScopeId(2)
+counter ("counter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+counter ("counter") -> ScopeId(2)

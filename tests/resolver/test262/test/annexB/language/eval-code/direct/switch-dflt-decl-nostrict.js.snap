@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-err ("err") -> #2
-eval ("eval") -> #1
-f ("f") -> #1
-exception ("exception") -> #4
-err ("err") -> #2
-exception ("exception") -> #4
-assert ("assert") -> #1
-err ("err") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+err ("err") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+f ("f") -> ScopeId(1)
+exception ("exception") -> ScopeId(4)
+err ("err") -> ScopeId(2)
+exception ("exception") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+err ("err") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

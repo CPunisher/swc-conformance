@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-intry__var ("intry__var") -> #2
-intry__var ("intry__var") -> #2
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-incatch__var ("incatch__var") -> #2
-incatch__var ("incatch__var") -> #2
-e ("e") -> #6
-Test262Error ("Test262Error") -> #1
-intry__var ("intry__var") -> #2
-e ("e") -> #8
-incatch__var ("incatch__var") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+intry__var ("intry__var") -> ScopeId(2)
+intry__var ("intry__var") -> ScopeId(2)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+incatch__var ("incatch__var") -> ScopeId(2)
+incatch__var ("incatch__var") -> ScopeId(2)
+e ("e") -> ScopeId(6)
+Test262Error ("Test262Error") -> ScopeId(1)
+intry__var ("intry__var") -> ScopeId(2)
+e ("e") -> ScopeId(8)
+incatch__var ("incatch__var") -> ScopeId(2)

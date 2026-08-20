@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-webpackJsonpCallback ("webpackJsonpCallback") -> #2
-parentChunkLoadingFunction ("parentChunkLoadingFunction") -> #3
-data ("data") -> #3
-runtime ("runtime") -> #3
-data ("data") -> #3
-runtime ("runtime") -> #3
-result ("result") -> #3
-runtime ("runtime") -> #3
-__webpack_require__ ("__webpack_require__") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+webpackJsonpCallback ("webpackJsonpCallback") -> ScopeId(2)
+parentChunkLoadingFunction ("parentChunkLoadingFunction") -> ScopeId(3)
+data ("data") -> ScopeId(3)
+runtime ("runtime") -> ScopeId(3)
+data ("data") -> ScopeId(3)
+runtime ("runtime") -> ScopeId(3)
+result ("result") -> ScopeId(3)
+runtime ("runtime") -> ScopeId(3)
+__webpack_require__ ("__webpack_require__") -> ScopeId(1)

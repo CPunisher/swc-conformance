@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-zero ("zero") -> #3
-one ("one") -> #3
-console ("console") -> #1
-arguments ("arguments") -> #1
-arguments ("arguments") -> #1
-arguments ("arguments") -> #1
-arguments ("arguments") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+zero ("zero") -> ScopeId(3)
+one ("one") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(1)

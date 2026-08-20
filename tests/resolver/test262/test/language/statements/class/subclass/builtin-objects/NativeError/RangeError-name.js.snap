@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-Err ("Err") -> #2
-RangeError ("RangeError") -> #1
-err1 ("err1") -> #2
-Err ("Err") -> #2
-assert ("assert") -> #1
-err1 ("err1") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Err ("Err") -> ScopeId(2)
+RangeError ("RangeError") -> ScopeId(1)
+err1 ("err1") -> ScopeId(2)
+Err ("Err") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+err1 ("err1") -> ScopeId(2)

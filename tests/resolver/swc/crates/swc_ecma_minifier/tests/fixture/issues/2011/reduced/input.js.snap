@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-ClassA ("ClassA") -> #2
-module ("module") -> #1
-ClassB ("ClassB") -> #3
-ClassA ("ClassA") -> #2
-ClassB ("ClassB") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ClassA ("ClassA") -> ScopeId(2)
+module ("module") -> ScopeId(1)
+ClassB ("ClassB") -> ScopeId(4)
+ClassA ("ClassA") -> ScopeId(2)
+ClassB ("ClassB") -> ScopeId(4)

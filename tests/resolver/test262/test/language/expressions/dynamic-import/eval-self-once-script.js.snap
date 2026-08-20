@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-global ("global") -> #2
-fnGlobalObject ("fnGlobalObject") -> #1
-isFirstScript ("isFirstScript") -> #2
-global ("global") -> #2
-isFirstScript ("isFirstScript") -> #2
-global ("global") -> #2
-global ("global") -> #2
-p ("p") -> #2
-Promise ("Promise") -> #1
-assert ("assert") -> #1
-global ("global") -> #2
-isFirstScript ("isFirstScript") -> #2
-p ("p") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+global ("global") -> ScopeId(2)
+fnGlobalObject ("fnGlobalObject") -> ScopeId(1)
+isFirstScript ("isFirstScript") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+isFirstScript ("isFirstScript") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+p ("p") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+global ("global") -> ScopeId(2)
+isFirstScript ("isFirstScript") -> ScopeId(2)
+p ("p") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

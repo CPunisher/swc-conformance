@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-__JEDI ("__JEDI") -> #2
-__FUNC ("__FUNC") -> #2
-__GUNC ("__GUNC") -> #3
-arguments ("arguments") -> #1
-__GUNC ("__GUNC") -> #3
-__FUNC ("__FUNC") -> #2
-__JEDI ("__JEDI") -> #2
-__JEDI ("__JEDI") -> #2
-Test262Error ("Test262Error") -> #1
-__FUNC ("__FUNC") -> #2
-__JEDI ("__JEDI") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__JEDI ("__JEDI") -> ScopeId(2)
+__FUNC ("__FUNC") -> ScopeId(2)
+__GUNC ("__GUNC") -> ScopeId(3)
+arguments ("arguments") -> ScopeId(1)
+__GUNC ("__GUNC") -> ScopeId(3)
+__FUNC ("__FUNC") -> ScopeId(2)
+__JEDI ("__JEDI") -> ScopeId(2)
+__JEDI ("__JEDI") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__FUNC ("__FUNC") -> ScopeId(2)
+__JEDI ("__JEDI") -> ScopeId(2)

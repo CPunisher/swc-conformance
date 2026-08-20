@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-ns ("ns") -> #2
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
-key ("key") -> #2
-Symbol ("Symbol") -> #1
-A ("A") -> #2
-ns ("ns") -> #2
-B ("B") -> #2
-key ("key") -> #2
-A ("A") -> #2
-B ("B") -> #2
-_ ("_") -> #5
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns ("ns") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+key ("key") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+A ("A") -> ScopeId(2)
+ns ("ns") -> ScopeId(2)
+B ("B") -> ScopeId(2)
+key ("key") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+B ("B") -> ScopeId(2)
+_ ("_") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)

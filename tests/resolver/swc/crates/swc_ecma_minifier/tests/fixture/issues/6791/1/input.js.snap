@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-test ("test") -> #2
-Test ("Test") -> #2
-Test ("Test") -> #3
-Test ("Test") -> #3
-Test ("Test") -> #2
-Test ("Test") -> #2
-test ("test") -> #2
-Test ("Test") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test ("test") -> ScopeId(2)
+Test ("Test") -> ScopeId(2)
+Test ("Test") -> ScopeId(3)
+Test ("Test") -> ScopeId(3)
+Test ("Test") -> ScopeId(2)
+Test ("Test") -> ScopeId(2)
+test ("test") -> ScopeId(2)
+Test ("Test") -> ScopeId(2)

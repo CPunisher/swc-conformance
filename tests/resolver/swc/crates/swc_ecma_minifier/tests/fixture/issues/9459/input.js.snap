@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-Component ("Component") -> #2
-state ("state") -> #3
-setState ("setState") -> #3
-useState ("useState") -> #1
-a ("a") -> #3
-b ("b") -> #3
-call ("call") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Component ("Component") -> ScopeId(2)
+state ("state") -> ScopeId(3)
+setState ("setState") -> ScopeId(3)
+useState ("useState") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+call ("call") -> ScopeId(1)

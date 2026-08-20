@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-example ("example") -> #2
-html ("html") -> #3
-test ("test") -> #3
-html ("html") -> #3
-test ("test") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+example ("example") -> ScopeId(2)
+html ("html") -> ScopeId(3)
+test ("test") -> ScopeId(3)
+html ("html") -> ScopeId(3)
+test ("test") -> ScopeId(3)

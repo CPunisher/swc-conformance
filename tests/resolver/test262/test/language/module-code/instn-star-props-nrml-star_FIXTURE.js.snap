@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-notExportedVar2 ("notExportedVar2") -> #2
-notExportedLet2 ("notExportedLet2") -> #2
-notExportedConst2 ("notExportedConst2") -> #2
-notExportedFunc2 ("notExportedFunc2") -> #2
-notExportedGen2 ("notExportedGen2") -> #2
-notExportedClass2 ("notExportedClass2") -> #2
-starBindingId ("starBindingId") -> #2
-starVarDecl ("starVarDecl") -> #2
-starLetDecl ("starLetDecl") -> #2
-starConstDecl ("starConstDecl") -> #2
-starFuncDecl ("starFuncDecl") -> #2
-starGenDecl ("starGenDecl") -> #2
-starClassDecl ("starClassDecl") -> #2
-starBindingId ("starBindingId") -> #2
-starBindingId ("starBindingId") -> #2
-starIdName ("starIdName") -> #1
-starIndirectIdName ("starIndirectIdName") -> #0
-starIndirectIdName ("starIndirectIdName") -> #0
-starIndirectIdName2 ("starIndirectIdName2") -> #0
-starIndirectNamespaceBinding ("starIndirectNamespaceBinding") -> #0
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+notExportedVar2 ("notExportedVar2") -> ScopeId(2)
+notExportedLet2 ("notExportedLet2") -> ScopeId(2)
+notExportedConst2 ("notExportedConst2") -> ScopeId(2)
+notExportedFunc2 ("notExportedFunc2") -> ScopeId(2)
+notExportedGen2 ("notExportedGen2") -> ScopeId(2)
+notExportedClass2 ("notExportedClass2") -> ScopeId(2)
+starBindingId ("starBindingId") -> ScopeId(2)
+starVarDecl ("starVarDecl") -> ScopeId(2)
+starLetDecl ("starLetDecl") -> ScopeId(2)
+starConstDecl ("starConstDecl") -> ScopeId(2)
+starFuncDecl ("starFuncDecl") -> ScopeId(2)
+starGenDecl ("starGenDecl") -> ScopeId(2)
+starClassDecl ("starClassDecl") -> ScopeId(2)
+starBindingId ("starBindingId") -> ScopeId(2)
+starBindingId ("starBindingId") -> ScopeId(2)
+starIdName ("starIdName") -> ScopeId(1)
+starIndirectIdName ("starIndirectIdName") -> ScopeId(1)
+starIndirectIdName ("starIndirectIdName") -> ScopeId(1)
+starIndirectIdName2 ("starIndirectIdName2") -> ScopeId(1)
+starIndirectNamespaceBinding ("starIndirectNamespaceBinding") -> ScopeId(1)

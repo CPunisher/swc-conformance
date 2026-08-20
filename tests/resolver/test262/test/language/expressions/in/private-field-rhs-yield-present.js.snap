@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-iter1 ("iter1") -> #2
-C ("C") -> #2
-iter1 ("iter1") -> #2
-assert ("assert") -> #1
-iter1 ("iter1") -> #2
-C ("C") -> #2
-iter2 ("iter2") -> #2
-C ("C") -> #2
-iter2 ("iter2") -> #2
-assert ("assert") -> #1
-iter2 ("iter2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+iter1 ("iter1") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+iter1 ("iter1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter1 ("iter1") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+iter2 ("iter2") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+iter2 ("iter2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter2 ("iter2") -> ScopeId(2)

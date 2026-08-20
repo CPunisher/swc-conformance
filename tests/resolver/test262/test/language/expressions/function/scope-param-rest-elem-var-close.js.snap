@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-probeParam ("probeParam") -> #2
-probeBody ("probeBody") -> #2
-_ ("_") -> #3
-eval ("eval") -> #1
-probeParam ("probeParam") -> #2
-x ("x") -> #2
-probeBody ("probeBody") -> #2
-x ("x") -> #2
-assert ("assert") -> #1
-probeParam ("probeParam") -> #2
-assert ("assert") -> #1
-probeBody ("probeBody") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+probeParam ("probeParam") -> ScopeId(2)
+probeBody ("probeBody") -> ScopeId(2)
+_ ("_") -> ScopeId(3)
+eval ("eval") -> ScopeId(1)
+probeParam ("probeParam") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+probeBody ("probeBody") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeParam ("probeParam") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeBody ("probeBody") -> ScopeId(2)

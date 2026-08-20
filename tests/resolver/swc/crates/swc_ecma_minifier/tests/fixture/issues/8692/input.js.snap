@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-props ("props") -> #2
-props ("props") -> #2
-console ("console") -> #1
-props ("props") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+props ("props") -> ScopeId(2)
+props ("props") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+props ("props") -> ScopeId(2)

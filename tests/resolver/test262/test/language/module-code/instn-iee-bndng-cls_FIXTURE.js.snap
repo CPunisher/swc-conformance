@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-A ("A") -> #0
-B ("B") -> #0
-results ("results") -> #2
-A ("A") -> #1
-error ("error") -> #4
-results ("results") -> #2
-error ("error") -> #4
-A ("A") -> #1
-B ("B") -> #1
-error ("error") -> #6
-results ("results") -> #2
-error ("error") -> #6
-B ("B") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+A ("A") -> ScopeId(1)
+B ("B") -> ScopeId(1)
+results ("results") -> ScopeId(2)
+A ("A") -> ScopeId(1)
+error ("error") -> ScopeId(4)
+results ("results") -> ScopeId(2)
+error ("error") -> ScopeId(4)
+A ("A") -> ScopeId(1)
+B ("B") -> ScopeId(1)
+error ("error") -> ScopeId(6)
+results ("results") -> ScopeId(2)
+error ("error") -> ScopeId(6)
+B ("B") -> ScopeId(1)

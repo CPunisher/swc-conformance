@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-a ("a") -> #3
-eval ("eval") -> #1
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-_ ("_") -> #4
-Test262Error ("Test262Error") -> #1
-error ("error") -> #5
-assert ("assert") -> #1
-error ("error") -> #5
-SyntaxError ("SyntaxError") -> #1
-assert ("assert") -> #1
-callCount ("callCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+eval ("eval") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+_ ("_") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+error ("error") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(6)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-funObj ("funObj") -> #2
-Function ("Function") -> #1
-funObj ("funObj") -> #2
-assert ("assert") -> #1
-public ("public") -> #1
-assert ("assert") -> #1
-anotherVariable ("anotherVariable") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+funObj ("funObj") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+funObj ("funObj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+public ("public") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+anotherVariable ("anotherVariable") -> ScopeId(1)

@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-assert ("assert") -> #1
-a ("a") -> #4
-a ("a") -> #4
-assert ("assert") -> #1
-assert ("assert") -> #1
-a ("a") -> #6
-a ("a") -> #6
-assert ("assert") -> #1
-a ("a") -> #7
-b ("b") -> #7
-a ("a") -> #7
-b ("b") -> #7
-assert ("assert") -> #1
-a ("a") -> #8
-b ("b") -> #8
-a ("a") -> #8
-b ("b") -> #8
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(6)
+a ("a") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(7)
+b ("b") -> ScopeId(7)
+a ("a") -> ScopeId(7)
+b ("b") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(8)
+b ("b") -> ScopeId(8)
+a ("a") -> ScopeId(8)
+b ("b") -> ScopeId(8)

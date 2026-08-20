@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-_8_7_2_5 ("_8_7_2_5") -> #2
-Object ("Object") -> #1
-_8_7_2_5 ("_8_7_2_5") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-_8_7_2_5 ("_8_7_2_5") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+_8_7_2_5 ("_8_7_2_5") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+_8_7_2_5 ("_8_7_2_5") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+_8_7_2_5 ("_8_7_2_5") -> ScopeId(2)

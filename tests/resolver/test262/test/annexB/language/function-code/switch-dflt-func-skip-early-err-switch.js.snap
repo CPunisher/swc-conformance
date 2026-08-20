@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-f ("f") -> #3
-assert ("assert") -> #1
-f ("f") -> #3
-f ("f") -> #5
-f ("f") -> #3
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-f ("f") -> #3
-assert ("assert") -> #1
-f ("f") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+f ("f") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+f ("f") -> ScopeId(3)
+f ("f") -> ScopeId(5)
+f ("f") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+f ("f") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+f ("f") -> ScopeId(3)

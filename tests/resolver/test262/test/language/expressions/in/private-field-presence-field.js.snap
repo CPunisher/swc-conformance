@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-Class ("Class") -> #2
-value ("value") -> #3
-value ("value") -> #3
-assert ("assert") -> #1
-Class ("Class") -> #2
-assert ("assert") -> #1
-Class ("Class") -> #2
-Class ("Class") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Class ("Class") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+value ("value") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+Class ("Class") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Class ("Class") -> ScopeId(2)
+Class ("Class") -> ScopeId(2)

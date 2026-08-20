@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-cond ("cond") -> #3
-reserved ("reserved") -> #3
-cond ("cond") -> #3
-reserved ("reserved") -> #3
-reserved ("reserved") -> #3
-bar ("bar") -> #2
-cond ("cond") -> #3
-bar ("bar") -> #2
-cond ("cond") -> #5
-reserved ("reserved") -> #5
-cond ("cond") -> #5
-reserved ("reserved") -> #5
-reserved ("reserved") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+cond ("cond") -> ScopeId(3)
+reserved ("reserved") -> ScopeId(3)
+cond ("cond") -> ScopeId(3)
+reserved ("reserved") -> ScopeId(3)
+reserved ("reserved") -> ScopeId(3)
+bar ("bar") -> ScopeId(2)
+cond ("cond") -> ScopeId(3)
+bar ("bar") -> ScopeId(2)
+cond ("cond") -> ScopeId(5)
+reserved ("reserved") -> ScopeId(5)
+cond ("cond") -> ScopeId(5)
+reserved ("reserved") -> ScopeId(5)
+reserved ("reserved") -> ScopeId(5)

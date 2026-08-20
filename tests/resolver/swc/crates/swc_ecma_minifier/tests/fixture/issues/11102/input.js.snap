@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-decideZoomByAccuracy ("decideZoomByAccuracy") -> #2
-range ("range") -> #3
-isUnder ("isUnder") -> #3
-accuracy ("accuracy") -> #4
-range ("range") -> #3
-accuracy ("accuracy") -> #4
-isUnder ("isUnder") -> #3
-isUnder ("isUnder") -> #3
-isUnder ("isUnder") -> #3
-zoom ("zoom") -> #2
-decideZoomByAccuracy ("decideZoomByAccuracy") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+decideZoomByAccuracy ("decideZoomByAccuracy") -> ScopeId(2)
+range ("range") -> ScopeId(3)
+isUnder ("isUnder") -> ScopeId(3)
+accuracy ("accuracy") -> ScopeId(4)
+range ("range") -> ScopeId(3)
+accuracy ("accuracy") -> ScopeId(4)
+isUnder ("isUnder") -> ScopeId(3)
+isUnder ("isUnder") -> ScopeId(3)
+isUnder ("isUnder") -> ScopeId(3)
+zoom ("zoom") -> ScopeId(2)
+decideZoomByAccuracy ("decideZoomByAccuracy") -> ScopeId(2)

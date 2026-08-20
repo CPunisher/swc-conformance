@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-Number ("Number") -> #1
-assert ("assert") -> #1
-String ("String") -> #1
-assert ("assert") -> #1
-Boolean ("Boolean") -> #1
-assert ("assert") -> #1
-Symbol ("Symbol") -> #1
-assert ("assert") -> #1
-Symbol ("Symbol") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Number ("Number") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+String ("String") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Boolean ("Boolean") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)

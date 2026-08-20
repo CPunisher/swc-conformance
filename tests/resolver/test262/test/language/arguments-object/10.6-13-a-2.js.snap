@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-called ("called") -> #2
-test1 ("test1") -> #2
-flag ("flag") -> #3
-flag ("flag") -> #3
-test2 ("test2") -> #2
-called ("called") -> #2
-test2 ("test2") -> #2
-arguments ("arguments") -> #1
-undefined ("undefined") -> #1
-called ("called") -> #2
-arguments ("arguments") -> #1
-test1 ("test1") -> #2
-assert ("assert") -> #1
-called ("called") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+called ("called") -> ScopeId(2)
+test1 ("test1") -> ScopeId(2)
+flag ("flag") -> ScopeId(3)
+flag ("flag") -> ScopeId(3)
+test2 ("test2") -> ScopeId(2)
+called ("called") -> ScopeId(2)
+test2 ("test2") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+undefined ("undefined") -> ScopeId(1)
+called ("called") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+test1 ("test1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+called ("called") -> ScopeId(2)

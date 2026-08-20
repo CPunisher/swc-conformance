@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-F ("F") -> #2
-F ("F") -> #2
-Symbol ("Symbol") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-F ("F") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+F ("F") -> ScopeId(2)
+F ("F") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+F ("F") -> ScopeId(2)

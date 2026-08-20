@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-$262 ("$262") -> #1
-test262let ("test262let") -> #1
-test262let ("test262let") -> #1
-$262 ("$262") -> #1
-test262const ("test262const") -> #1
-test262const ("test262const") -> #1
-$262 ("$262") -> #1
-test262class ("test262class") -> #1
-test262class ("test262class") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+test262let ("test262let") -> ScopeId(1)
+test262let ("test262let") -> ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+test262const ("test262const") -> ScopeId(1)
+test262const ("test262const") -> ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+test262class ("test262class") -> ScopeId(1)
+test262class ("test262class") -> ScopeId(1)

@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-Blocks ("Blocks") -> #2
-React ("React") -> #1
-React ("React") -> #1
-React ("React") -> #1
-React ("React") -> #1
-RenderLayout ("RenderLayout") -> #2
-Blocks ("Blocks") -> #2
-RenderLayout ("RenderLayout") -> #2
-Comps ("Comps") -> #6
-items ("items") -> #6
-items ("items") -> #6
-item ("item") -> #7
-Comps ("Comps") -> #6
-item ("item") -> #7
-render ("render") -> #2
-React ("React") -> #1
-Blocks ("Blocks") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Blocks ("Blocks") -> ScopeId(2)
+React ("React") -> ScopeId(1)
+React ("React") -> ScopeId(1)
+React ("React") -> ScopeId(1)
+React ("React") -> ScopeId(1)
+RenderLayout ("RenderLayout") -> ScopeId(2)
+Blocks ("Blocks") -> ScopeId(2)
+RenderLayout ("RenderLayout") -> ScopeId(2)
+Comps ("Comps") -> ScopeId(7)
+items ("items") -> ScopeId(7)
+items ("items") -> ScopeId(7)
+item ("item") -> ScopeId(8)
+Comps ("Comps") -> ScopeId(7)
+item ("item") -> ScopeId(8)
+render ("render") -> ScopeId(2)
+React ("React") -> ScopeId(1)
+Blocks ("Blocks") -> ScopeId(2)

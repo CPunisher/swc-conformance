@@ -1,4 +1,4 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-unresolvable ("unresolvable") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+unresolvable ("unresolvable") -> ScopeId(1)

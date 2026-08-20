@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-probeBefore ("probeBefore") -> #2
-C ("C") -> #2
-C ("C") -> #2
-cls ("cls") -> #2
-C ("C") -> #4
-C ("C") -> #4
-C ("C") -> #4
-assert ("assert") -> #1
-probeBefore ("probeBefore") -> #2
-assert ("assert") -> #1
-cls ("cls") -> #2
-cls ("cls") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-cls ("cls") -> #2
-assert ("assert") -> #1
-cls ("cls") -> #2
-cls ("cls") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+probeBefore ("probeBefore") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+cls ("cls") -> ScopeId(2)
+C ("C") -> ScopeId(4)
+C ("C") -> ScopeId(4)
+C ("C") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+probeBefore ("probeBefore") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+cls ("cls") -> ScopeId(2)
+cls ("cls") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+cls ("cls") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+cls ("cls") -> ScopeId(2)
+cls ("cls") -> ScopeId(2)

@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-bar ("bar") -> #2
-v ("v") -> #3
-v ("v") -> #3
-foo ("foo") -> #2
-v ("v") -> #4
-v ("v") -> #4
-eval ("eval") -> #1
-bar ("bar") -> #2
-eval ("eval") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+bar ("bar") -> ScopeId(2)
+v ("v") -> ScopeId(3)
+v ("v") -> ScopeId(3)
+foo ("foo") -> ScopeId(2)
+v ("v") -> ScopeId(4)
+v ("v") -> ScopeId(4)
+eval ("eval") -> ScopeId(1)
+bar ("bar") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

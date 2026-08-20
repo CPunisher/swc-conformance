@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-getterCalled ("getterCalled") -> #2
-DummyError ("DummyError") -> #2
-Object ("Object") -> #1
-Function ("Function") -> #1
-assert ("assert") -> #1
-getterCalled ("getterCalled") -> #2
-getterCalled ("getterCalled") -> #2
-DummyError ("DummyError") -> #2
-assert ("assert") -> #1
-DummyError ("DummyError") -> #2
-Function ("Function") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+getterCalled ("getterCalled") -> ScopeId(2)
+DummyError ("DummyError") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Function ("Function") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+getterCalled ("getterCalled") -> ScopeId(2)
+getterCalled ("getterCalled") -> ScopeId(2)
+DummyError ("DummyError") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)

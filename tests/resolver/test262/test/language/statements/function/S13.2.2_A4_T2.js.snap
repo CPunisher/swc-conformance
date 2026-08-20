@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-__CUBE ("__CUBE") -> #2
-__FACTORY ("__FACTORY") -> #2
-__device ("__device") -> #2
-__CUBE ("__CUBE") -> #2
-__FACTORY ("__FACTORY") -> #2
-__FACTORY ("__FACTORY") -> #2
-__CUBE ("__CUBE") -> #2
-__device ("__device") -> #2
-__FACTORY ("__FACTORY") -> #2
-__device ("__device") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-__device ("__device") -> #2
-__device ("__device") -> #2
-__CUBE ("__CUBE") -> #2
-Test262Error ("Test262Error") -> #1
-__device ("__device") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__CUBE ("__CUBE") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__device ("__device") -> ScopeId(2)
+__CUBE ("__CUBE") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__CUBE ("__CUBE") -> ScopeId(2)
+__device ("__device") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__device ("__device") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__device ("__device") -> ScopeId(2)
+__device ("__device") -> ScopeId(2)
+__CUBE ("__CUBE") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__device ("__device") -> ScopeId(2)

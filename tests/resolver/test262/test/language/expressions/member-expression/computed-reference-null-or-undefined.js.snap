@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-base ("base") -> #3
-prop ("prop") -> #3
-Test262Error ("Test262Error") -> #1
-base ("base") -> #3
-prop ("prop") -> #3
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-base ("base") -> #5
-undefined ("undefined") -> #1
-prop ("prop") -> #5
-Test262Error ("Test262Error") -> #1
-base ("base") -> #5
-prop ("prop") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+base ("base") -> ScopeId(3)
+prop ("prop") -> ScopeId(3)
+Test262Error ("Test262Error") -> ScopeId(1)
+base ("base") -> ScopeId(3)
+prop ("prop") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+base ("base") -> ScopeId(6)
+undefined ("undefined") -> ScopeId(1)
+prop ("prop") -> ScopeId(6)
+Test262Error ("Test262Error") -> ScopeId(1)
+base ("base") -> ScopeId(6)
+prop ("prop") -> ScopeId(6)

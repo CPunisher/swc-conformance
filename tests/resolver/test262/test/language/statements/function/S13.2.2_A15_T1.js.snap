@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-__obj ("__obj") -> #2
-__FACTORY ("__FACTORY") -> #2
-obj ("obj") -> #1
-Test262Error ("Test262Error") -> #1
-obj ("obj") -> #1
-__obj ("__obj") -> #2
-Test262Error ("Test262Error") -> #1
-__obj ("__obj") -> #2
-__obj ("__obj") -> #2
-Test262Error ("Test262Error") -> #1
-__obj ("__obj") -> #2
-__FACTORY ("__FACTORY") -> #2
-obj ("obj") -> #6
-obj ("obj") -> #6
-obj ("obj") -> #6
-obj ("obj") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__obj ("__obj") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+obj ("obj") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+obj ("obj") -> ScopeId(1)
+__obj ("__obj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__obj ("__obj") -> ScopeId(2)
+__obj ("__obj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__obj ("__obj") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+obj ("obj") -> ScopeId(6)
+obj ("obj") -> ScopeId(6)
+obj ("obj") -> ScopeId(6)
+obj ("obj") -> ScopeId(6)

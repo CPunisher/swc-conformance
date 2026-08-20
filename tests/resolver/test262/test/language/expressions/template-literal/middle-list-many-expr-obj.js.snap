@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-plain ("plain") -> #2
-custom ("custom") -> #2
-assert ("assert") -> #1
-plain ("plain") -> #2
-assert ("assert") -> #1
-plain ("plain") -> #2
-assert ("assert") -> #1
-plain ("plain") -> #2
-assert ("assert") -> #1
-plain ("plain") -> #2
-assert ("assert") -> #1
-custom ("custom") -> #2
-assert ("assert") -> #1
-custom ("custom") -> #2
-assert ("assert") -> #1
-custom ("custom") -> #2
-assert ("assert") -> #1
-custom ("custom") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+plain ("plain") -> ScopeId(2)
+custom ("custom") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+plain ("plain") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+plain ("plain") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+plain ("plain") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+plain ("plain") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+custom ("custom") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+custom ("custom") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+custom ("custom") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+custom ("custom") -> ScopeId(2)

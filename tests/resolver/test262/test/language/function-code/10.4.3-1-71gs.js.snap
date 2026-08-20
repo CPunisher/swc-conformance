@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #2
-undefined ("undefined") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+f ("f") -> ScopeId(2)

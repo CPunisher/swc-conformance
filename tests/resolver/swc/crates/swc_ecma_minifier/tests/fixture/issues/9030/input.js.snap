@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-FRUITS ("FRUITS") -> #2
-getMangoLabel ("getMangoLabel") -> #2
-label ("label") -> #3
-label ("label") -> #3
-FRUITS ("FRUITS") -> #2
-name ("name") -> #4
-name ("name") -> #4
-FRUITS ("FRUITS") -> #2
-getMangoLabel ("getMangoLabel") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+FRUITS ("FRUITS") -> ScopeId(2)
+getMangoLabel ("getMangoLabel") -> ScopeId(2)
+label ("label") -> ScopeId(4)
+label ("label") -> ScopeId(4)
+FRUITS ("FRUITS") -> ScopeId(2)
+name ("name") -> ScopeId(5)
+name ("name") -> ScopeId(5)
+FRUITS ("FRUITS") -> ScopeId(2)
+getMangoLabel ("getMangoLabel") -> ScopeId(2)

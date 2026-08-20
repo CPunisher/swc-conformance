@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-eval ("eval") -> #1
-assert ("assert") -> #1
-_10_4_2_1_4_fun ("_10_4_2_1_4_fun") -> #1
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+_10_4_2_1_4_fun ("_10_4_2_1_4_fun") -> ScopeId(1)
+testcase ("testcase") -> ScopeId(2)

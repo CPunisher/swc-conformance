@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-iterCount ("iterCount") -> #2
-asyncIter ("asyncIter") -> #2
-fn ("fn") -> #2
-cls ("cls") -> #4
-xCls ("xCls") -> #4
-X ("X") -> #5
-xCls2 ("xCls2") -> #4
-asyncIter ("asyncIter") -> #2
-assert ("assert") -> #1
-cls ("cls") -> #4
-assert ("assert") -> #1
-xCls ("xCls") -> #4
-assert ("assert") -> #1
-xCls2 ("xCls2") -> #4
-iterCount ("iterCount") -> #2
-fn ("fn") -> #2
-assert ("assert") -> #1
-iterCount ("iterCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)
+asyncIter ("asyncIter") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+cls ("cls") -> ScopeId(5)
+xCls ("xCls") -> ScopeId(5)
+X ("X") -> ScopeId(8)
+xCls2 ("xCls2") -> ScopeId(5)
+asyncIter ("asyncIter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+cls ("cls") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+xCls ("xCls") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+xCls2 ("xCls2") -> ScopeId(5)
+iterCount ("iterCount") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

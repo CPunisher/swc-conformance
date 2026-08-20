@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-p ("p") -> #2
-assert ("assert") -> #1
-Promise ("Promise") -> #1
-p ("p") -> #2
-p ("p") -> #2
-Object ("Object") -> #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-Symbol ("Symbol") -> #1
-p ("p") -> #2
-error ("error") -> #4
-assert ("assert") -> #1
-error ("error") -> #4
-TypeError ("TypeError") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+p ("p") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Promise ("Promise") -> ScopeId(1)
+p ("p") -> ScopeId(2)
+p ("p") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+p ("p") -> ScopeId(2)
+error ("error") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(4)
+TypeError ("TypeError") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

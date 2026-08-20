@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-requireState ("requireState") -> #2
-hasRequiredState ("hasRequiredState") -> #2
-state ("state") -> #2
-hasRequiredState ("hasRequiredState") -> #2
-state ("state") -> #2
-o ("o") -> #4
-o ("o") -> #4
-g ("g") -> #1
-state ("state") -> #2
-hasRequiredState ("hasRequiredState") -> #2
-a ("a") -> #5
-requireState ("requireState") -> #2
-console ("console") -> #1
-a ("a") -> #5
-b ("b") -> #5
-requireState ("requireState") -> #2
-console ("console") -> #1
-b ("b") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+requireState ("requireState") -> ScopeId(2)
+hasRequiredState ("hasRequiredState") -> ScopeId(2)
+state ("state") -> ScopeId(2)
+hasRequiredState ("hasRequiredState") -> ScopeId(2)
+state ("state") -> ScopeId(2)
+o ("o") -> ScopeId(5)
+o ("o") -> ScopeId(5)
+g ("g") -> ScopeId(1)
+state ("state") -> ScopeId(2)
+hasRequiredState ("hasRequiredState") -> ScopeId(2)
+a ("a") -> ScopeId(6)
+requireState ("requireState") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+requireState ("requireState") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+b ("b") -> ScopeId(6)

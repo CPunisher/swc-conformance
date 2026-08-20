@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-using ("using") -> #2
-let ("let") -> #2
-assert ("assert") -> #1
-let ("let") -> #2
-using ("using") -> #2
-let ("let") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+using ("using") -> ScopeId(2)
+let ("let") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+let ("let") -> ScopeId(2)
+using ("using") -> ScopeId(2)
+let ("let") -> ScopeId(2)

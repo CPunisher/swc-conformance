@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-quickIter ("quickIter") -> #2
-iter ("iter") -> #2
-exprValue ("exprValue") -> #2
-throwReceived ("throwReceived") -> #2
-quickIter ("quickIter") -> #2
-Symbol ("Symbol") -> #1
-x ("x") -> #5
-throwReceived ("throwReceived") -> #2
-x ("x") -> #5
-g ("g") -> #2
-exprValue ("exprValue") -> #2
-quickIter ("quickIter") -> #2
-iter ("iter") -> #2
-g ("g") -> #2
-iter ("iter") -> #2
-iter ("iter") -> #2
-assert ("assert") -> #1
-throwReceived ("throwReceived") -> #2
-assert ("assert") -> #1
-exprValue ("exprValue") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+quickIter ("quickIter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+exprValue ("exprValue") -> ScopeId(2)
+throwReceived ("throwReceived") -> ScopeId(2)
+quickIter ("quickIter") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+x ("x") -> ScopeId(8)
+throwReceived ("throwReceived") -> ScopeId(2)
+x ("x") -> ScopeId(8)
+g ("g") -> ScopeId(2)
+exprValue ("exprValue") -> ScopeId(2)
+quickIter ("quickIter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+throwReceived ("throwReceived") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+exprValue ("exprValue") -> ScopeId(2)

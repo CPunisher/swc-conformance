@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-e ("e") -> #8
-e ("e") -> #1
-Test262Error ("Test262Error") -> #1
-err ("err") -> #10
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(8)
+e ("e") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+err ("err") -> ScopeId(10)

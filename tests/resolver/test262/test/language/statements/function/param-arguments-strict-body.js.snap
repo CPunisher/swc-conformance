@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-_13_1_20_fun ("_13_1_20_fun") -> #2
-arguments ("arguments") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+_13_1_20_fun ("_13_1_20_fun") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(3)

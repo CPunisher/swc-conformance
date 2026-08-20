@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-Test262Error ("Test262Error") -> #1
-z ("z") -> #2
-Number ("Number") -> #1
-z ("z") -> #2
-z ("z") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+z ("z") -> ScopeId(2)
+Number ("Number") -> ScopeId(1)
+z ("z") -> ScopeId(2)
+z ("z") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

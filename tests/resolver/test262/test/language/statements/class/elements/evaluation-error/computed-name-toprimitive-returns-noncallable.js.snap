@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-obj ("obj") -> #2
-Symbol ("Symbol") -> #1
-evaluate ("evaluate") -> #2
-C ("C") -> #3
-obj ("obj") -> #2
-refErrorIfEvaluated ("refErrorIfEvaluated") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-evaluate ("evaluate") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+obj ("obj") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+evaluate ("evaluate") -> ScopeId(2)
+C ("C") -> ScopeId(5)
+obj ("obj") -> ScopeId(2)
+refErrorIfEvaluated ("refErrorIfEvaluated") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+evaluate ("evaluate") -> ScopeId(2)

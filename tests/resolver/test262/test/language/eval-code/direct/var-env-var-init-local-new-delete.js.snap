@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-initial ("initial") -> #2
-postDeletion ("postDeletion") -> #2
-eval ("eval") -> #1
-assert ("assert") -> #1
-initial ("initial") -> #2
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-postDeletion ("postDeletion") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+initial ("initial") -> ScopeId(2)
+postDeletion ("postDeletion") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+initial ("initial") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+postDeletion ("postDeletion") -> ScopeId(2)

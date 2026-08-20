@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-argObj ("argObj") -> #2
-arguments ("arguments") -> #1
-assert ("assert") -> #1
-argObj ("argObj") -> #2
-verifyProperty ("verifyProperty") -> #1
-argObj ("argObj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+argObj ("argObj") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+argObj ("argObj") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+argObj ("argObj") -> ScopeId(2)

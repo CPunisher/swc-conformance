@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-error ("error") -> #2
-thenable ("thenable") -> #2
-resolve ("resolve") -> #3
-reject ("reject") -> #3
-error ("error") -> #2
-caught ("caught") -> #2
-thenable ("thenable") -> #2
-e ("e") -> #5
-caught ("caught") -> #2
-e ("e") -> #5
-assert ("assert") -> #1
-caught ("caught") -> #2
-error ("error") -> #2
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+error ("error") -> ScopeId(2)
+thenable ("thenable") -> ScopeId(2)
+resolve ("resolve") -> ScopeId(5)
+reject ("reject") -> ScopeId(5)
+error ("error") -> ScopeId(2)
+caught ("caught") -> ScopeId(2)
+thenable ("thenable") -> ScopeId(2)
+e ("e") -> ScopeId(7)
+caught ("caught") -> ScopeId(2)
+e ("e") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+caught ("caught") -> ScopeId(2)
+error ("error") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)

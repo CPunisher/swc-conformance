@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-error ("error") -> #2
-eval ("eval") -> #1
-e ("e") -> #4
-error ("error") -> #2
-e ("e") -> #4
-assert ("assert") -> #1
-error ("error") -> #2
-TypeError ("TypeError") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+error ("error") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+error ("error") -> ScopeId(2)
+e ("e") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(2)
+TypeError ("TypeError") -> ScopeId(1)

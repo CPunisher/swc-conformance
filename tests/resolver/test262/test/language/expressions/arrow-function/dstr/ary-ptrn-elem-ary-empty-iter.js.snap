@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-initCount ("initCount") -> #2
-callCount ("callCount") -> #2
-f ("f") -> #2
-f ("f") -> #2
-initCount ("initCount") -> #2
-assert ("assert") -> #1
-initCount ("initCount") -> #2
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-f ("f") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+initCount ("initCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+initCount ("initCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+initCount ("initCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

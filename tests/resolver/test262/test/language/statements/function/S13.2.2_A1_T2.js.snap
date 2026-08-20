@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-__MONSTER ("__MONSTER") -> #2
-__PREDATOR ("__PREDATOR") -> #2
-__PROTO ("__PROTO") -> #2
-__PROTO ("__PROTO") -> #2
-__MONSTER ("__MONSTER") -> #2
-e ("e") -> #5
-Test262Error ("Test262Error") -> #1
-__FACTORY ("__FACTORY") -> #2
-__FACTORY ("__FACTORY") -> #2
-__PROTO ("__PROTO") -> #2
-__monster ("__monster") -> #2
-__FACTORY ("__FACTORY") -> #2
-__PROTO ("__PROTO") -> #2
-__monster ("__monster") -> #2
-Test262Error ("Test262Error") -> #1
-__monster ("__monster") -> #2
-__MONSTER ("__MONSTER") -> #2
-Test262Error ("Test262Error") -> #1
-__monster ("__monster") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__MONSTER ("__MONSTER") -> ScopeId(2)
+__PREDATOR ("__PREDATOR") -> ScopeId(2)
+__PROTO ("__PROTO") -> ScopeId(2)
+__PROTO ("__PROTO") -> ScopeId(2)
+__MONSTER ("__MONSTER") -> ScopeId(2)
+e ("e") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__PROTO ("__PROTO") -> ScopeId(2)
+__monster ("__monster") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+__PROTO ("__PROTO") -> ScopeId(2)
+__monster ("__monster") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__monster ("__monster") -> ScopeId(2)
+__MONSTER ("__MONSTER") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__monster ("__monster") -> ScopeId(2)

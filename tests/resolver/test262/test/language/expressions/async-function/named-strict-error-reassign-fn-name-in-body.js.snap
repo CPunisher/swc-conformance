@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-ref ("ref") -> #2
-BindingIdentifier ("BindingIdentifier") -> #3
-callCount ("callCount") -> #2
-BindingIdentifier ("BindingIdentifier") -> #3
-BindingIdentifier ("BindingIdentifier") -> #3
-asyncTest ("asyncTest") -> #1
-catchCount ("catchCount") -> #5
-ref ("ref") -> #2
-error ("error") -> #7
-catchCount ("catchCount") -> #5
-assert ("assert") -> #1
-error ("error") -> #7
-TypeError ("TypeError") -> #1
-assert ("assert") -> #1
-catchCount ("catchCount") -> #5
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+ref ("ref") -> ScopeId(2)
+BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
+callCount ("callCount") -> ScopeId(2)
+BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
+BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
+asyncTest ("asyncTest") -> ScopeId(1)
+catchCount ("catchCount") -> ScopeId(5)
+ref ("ref") -> ScopeId(2)
+error ("error") -> ScopeId(7)
+catchCount ("catchCount") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(7)
+TypeError ("TypeError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+catchCount ("catchCount") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

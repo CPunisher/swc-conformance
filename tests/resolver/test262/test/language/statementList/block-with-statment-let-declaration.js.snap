@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-length ("length") -> #0
-a ("a") -> #2
-b ("b") -> #2
-c ("c") -> #2
-b ("b") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+length ("length") -> ScopeId(4294967295)
+a ("a") -> ScopeId(2)
+b ("b") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+b ("b") -> ScopeId(2)

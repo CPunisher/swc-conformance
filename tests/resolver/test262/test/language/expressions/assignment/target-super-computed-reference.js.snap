@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-DummyError ("DummyError") -> #2
-assert ("assert") -> #1
-DummyError ("DummyError") -> #2
-prop ("prop") -> #4
-DummyError ("DummyError") -> #2
-expr ("expr") -> #4
-Test262Error ("Test262Error") -> #1
-C ("C") -> #4
-prop ("prop") -> #4
-expr ("expr") -> #4
-C ("C") -> #4
-assert ("assert") -> #1
-DummyError ("DummyError") -> #2
-prop ("prop") -> #8
-Test262Error ("Test262Error") -> #1
-expr ("expr") -> #8
-DummyError ("DummyError") -> #2
-C ("C") -> #8
-prop ("prop") -> #8
-expr ("expr") -> #8
-C ("C") -> #8
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+prop ("prop") -> ScopeId(4)
+DummyError ("DummyError") -> ScopeId(2)
+expr ("expr") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+C ("C") -> ScopeId(4)
+prop ("prop") -> ScopeId(4)
+expr ("expr") -> ScopeId(4)
+C ("C") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+prop ("prop") -> ScopeId(10)
+Test262Error ("Test262Error") -> ScopeId(1)
+expr ("expr") -> ScopeId(10)
+DummyError ("DummyError") -> ScopeId(2)
+C ("C") -> ScopeId(10)
+prop ("prop") -> ScopeId(10)
+expr ("expr") -> ScopeId(10)
+C ("C") -> ScopeId(10)

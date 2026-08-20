@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-ns1 ("ns1") -> #2
-dflt1 ("dflt1") -> #2
-dflt2 ("dflt2") -> #2
-ns2 ("ns2") -> #0
-dflt3 ("dflt3") -> #2
-ns ("ns") -> #2
-x ("x") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns1 ("ns1") -> ScopeId(2)
+dflt1 ("dflt1") -> ScopeId(2)
+dflt2 ("dflt2") -> ScopeId(2)
+ns2 ("ns2") -> ScopeId(1)
+dflt3 ("dflt3") -> ScopeId(2)
+ns ("ns") -> ScopeId(2)
+x ("x") -> ScopeId(2)

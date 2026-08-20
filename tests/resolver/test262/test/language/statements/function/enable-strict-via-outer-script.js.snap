@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-_13_0_9_fun ("_13_0_9_fun") -> #2
-_13_0_9_inner ("_13_0_9_inner") -> #3
-eval ("eval") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+_13_0_9_fun ("_13_0_9_fun") -> ScopeId(2)
+_13_0_9_inner ("_13_0_9_inner") -> ScopeId(3)
+eval ("eval") -> ScopeId(1)

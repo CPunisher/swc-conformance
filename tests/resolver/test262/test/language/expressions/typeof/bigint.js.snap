@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-assert ("assert") -> #1
-BigInt ("BigInt") -> #1
-assert ("assert") -> #1
-BigInt ("BigInt") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-BigInt ("BigInt") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-BigInt ("BigInt") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+BigInt ("BigInt") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+BigInt ("BigInt") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+BigInt ("BigInt") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+BigInt ("BigInt") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)

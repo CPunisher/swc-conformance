@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-poisonedProperty ("poisonedProperty") -> #2
-Object ("Object") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
-poisoned ("poisoned") -> #4
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
-poisonedProperty ("poisonedProperty") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+poisonedProperty ("poisonedProperty") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+poisoned ("poisoned") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+poisonedProperty ("poisonedProperty") -> ScopeId(2)

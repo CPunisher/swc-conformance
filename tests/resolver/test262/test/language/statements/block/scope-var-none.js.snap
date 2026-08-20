@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-probeBefore ("probeBefore") -> #2
-x ("x") -> #2
-probeInside ("probeInside") -> #2
-x ("x") -> #2
-probeInside ("probeInside") -> #2
-x ("x") -> #2
-assert ("assert") -> #1
-probeBefore ("probeBefore") -> #2
-assert ("assert") -> #1
-probeInside ("probeInside") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+probeBefore ("probeBefore") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+probeInside ("probeInside") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+probeInside ("probeInside") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeBefore ("probeBefore") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+probeInside ("probeInside") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)

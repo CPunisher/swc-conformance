@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-asyncTest ("asyncTest") -> #1
-resource ("resource") -> #3
-Symbol ("Symbol") -> #1
-resolve ("resolve") -> #5
-resolve ("resolve") -> #5
-_ ("_") -> #6
-resource ("resource") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+asyncTest ("asyncTest") -> ScopeId(1)
+resource ("resource") -> ScopeId(3)
+Symbol ("Symbol") -> ScopeId(1)
+resolve ("resolve") -> ScopeId(7)
+resolve ("resolve") -> ScopeId(7)
+_ ("_") -> ScopeId(8)
+resource ("resource") -> ScopeId(3)

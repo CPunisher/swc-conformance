@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-useState ("useState") -> #2
-getCondition ("getCondition") -> #2
-doSomething ("doSomething") -> #2
-useMeow ("useMeow") -> #2
-state ("state") -> #3
-setState ("setState") -> #3
-useState ("useState") -> #2
-onMeow ("onMeow") -> #3
-state ("state") -> #3
-innerCondition ("innerCondition") -> #6
-getCondition ("getCondition") -> #2
-innerCondition ("innerCondition") -> #6
-doSomething ("doSomething") -> #2
-doSomething ("doSomething") -> #2
-onMeow ("onMeow") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+useState ("useState") -> ScopeId(2)
+getCondition ("getCondition") -> ScopeId(2)
+doSomething ("doSomething") -> ScopeId(2)
+useMeow ("useMeow") -> ScopeId(2)
+state ("state") -> ScopeId(3)
+setState ("setState") -> ScopeId(3)
+useState ("useState") -> ScopeId(2)
+onMeow ("onMeow") -> ScopeId(3)
+state ("state") -> ScopeId(3)
+innerCondition ("innerCondition") -> ScopeId(6)
+getCondition ("getCondition") -> ScopeId(2)
+innerCondition ("innerCondition") -> ScopeId(6)
+doSomething ("doSomething") -> ScopeId(2)
+doSomething ("doSomething") -> ScopeId(2)
+onMeow ("onMeow") -> ScopeId(3)

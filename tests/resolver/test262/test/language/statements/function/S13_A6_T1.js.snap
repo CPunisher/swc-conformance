@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-__func ("__func") -> #2
-__store__func ("__store__func") -> #2
-__func ("__func") -> #2
-__1 ("__1") -> #2
-__func ("__func") -> #2
-__func ("__func") -> #2
-__A ("__A") -> #2
-__func ("__func") -> #2
-__store__func ("__store__func") -> #2
-__func ("__func") -> #2
-Test262Error ("Test262Error") -> #1
-__store__func ("__store__func") -> #2
-__1 ("__1") -> #2
-__A ("__A") -> #2
-Test262Error ("Test262Error") -> #1
-__1 ("__1") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__store__func ("__store__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+__1 ("__1") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+__A ("__A") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+__store__func ("__store__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__store__func ("__store__func") -> ScopeId(2)
+__1 ("__1") -> ScopeId(2)
+__A ("__A") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__1 ("__1") -> ScopeId(2)

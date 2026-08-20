@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-globalThis ("globalThis") -> #1
-then ("then") -> #2
-cb ("cb") -> #3
-cb ("cb") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+then ("then") -> ScopeId(2)
+cb ("cb") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)

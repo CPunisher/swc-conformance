@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-_ref1 ("_ref1") -> #2
-tmp ("tmp") -> #2
-_ref1 ("_ref1") -> #2
-b11 ("b11") -> #2
-tmp ("tmp") -> #2
-tmp ("tmp") -> #2
-temp ("temp") -> #2
-b11 ("b11") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+_ref1 ("_ref1") -> ScopeId(2)
+tmp ("tmp") -> ScopeId(2)
+_ref1 ("_ref1") -> ScopeId(2)
+b11 ("b11") -> ScopeId(2)
+tmp ("tmp") -> ScopeId(2)
+tmp ("tmp") -> ScopeId(2)
+temp ("temp") -> ScopeId(2)
+b11 ("b11") -> ScopeId(2)

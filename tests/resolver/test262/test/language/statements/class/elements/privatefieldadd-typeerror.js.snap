@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-A ("A") -> #2
-arg ("arg") -> #3
-arg ("arg") -> #3
-C ("C") -> #2
-arg ("arg") -> #4
-arg ("arg") -> #4
-A ("A") -> #2
-containsprivatex ("containsprivatex") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #2
-containsprivatex ("containsprivatex") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+A ("A") -> ScopeId(2)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+C ("C") -> ScopeId(2)
+arg ("arg") -> ScopeId(6)
+arg ("arg") -> ScopeId(6)
+A ("A") -> ScopeId(2)
+containsprivatex ("containsprivatex") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+containsprivatex ("containsprivatex") -> ScopeId(2)

@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-NaN ("NaN") -> #1
-x_geq_0 ("x_geq_0") -> #2
-x ("x") -> #2
-x_leq_0 ("x_leq_0") -> #2
-x ("x") -> #2
-x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> #2
-x ("x") -> #2
-x ("x") -> #2
-x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> #2
-x ("x") -> #2
-x ("x") -> #2
-x_geq_0 ("x_geq_0") -> #2
-Test262Error ("Test262Error") -> #1
-x_leq_0 ("x_leq_0") -> #2
-Test262Error ("Test262Error") -> #1
-x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> #2
-Test262Error ("Test262Error") -> #1
-x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+NaN ("NaN") -> ScopeId(1)
+x_geq_0 ("x_geq_0") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x_leq_0 ("x_leq_0") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x_geq_0 ("x_geq_0") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+x_leq_0 ("x_leq_0") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

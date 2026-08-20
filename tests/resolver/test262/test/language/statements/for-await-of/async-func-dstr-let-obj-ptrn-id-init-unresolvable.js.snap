@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-x ("x") -> #4
-unresolvableReference ("unresolvableReference") -> #1
-fn ("fn") -> #2
-_ ("_") -> #6
-Test262Error ("Test262Error") -> #1
-constructor ("constructor") -> #7
-assert ("assert") -> #1
-constructor ("constructor") -> #7
-ReferenceError ("ReferenceError") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+unresolvableReference ("unresolvableReference") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)
+_ ("_") -> ScopeId(7)
+Test262Error ("Test262Error") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(8)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

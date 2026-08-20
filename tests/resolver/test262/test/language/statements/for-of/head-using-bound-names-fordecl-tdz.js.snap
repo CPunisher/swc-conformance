@@ -1,8 +1,9 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-x ("x") -> #3
-Symbol ("Symbol") -> #1
-x ("x") -> #3
-x ("x") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+Symbol ("Symbol") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+using ("using") -> ScopeId(1)
+x ("x") -> ScopeId(3)

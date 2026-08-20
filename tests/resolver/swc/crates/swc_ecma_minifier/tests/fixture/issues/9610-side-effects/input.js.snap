@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-sideEffectCounter ("sideEffectCounter") -> #2
-getSideEffect ("getSideEffect") -> #2
-sideEffectCounter ("sideEffectCounter") -> #2
-foo ("foo") -> #2
-a ("a") -> #4
-b ("b") -> #4
-getSideEffect ("getSideEffect") -> #2
-a ("a") -> #4
-bar ("bar") -> #2
-a ("a") -> #5
-b ("b") -> #5
-a ("a") -> #5
-baz ("baz") -> #2
-a ("a") -> #6
-b ("b") -> #6
-Date ("Date") -> #1
-a ("a") -> #6
-example ("example") -> #2
-foo ("foo") -> #2
-bar ("bar") -> #2
-baz ("baz") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+sideEffectCounter ("sideEffectCounter") -> ScopeId(2)
+getSideEffect ("getSideEffect") -> ScopeId(2)
+sideEffectCounter ("sideEffectCounter") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+getSideEffect ("getSideEffect") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+bar ("bar") -> ScopeId(2)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+a ("a") -> ScopeId(5)
+baz ("baz") -> ScopeId(2)
+a ("a") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+Date ("Date") -> ScopeId(1)
+a ("a") -> ScopeId(6)
+example ("example") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+bar ("bar") -> ScopeId(2)
+baz ("baz") -> ScopeId(2)

@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-Ami ("Ami") -> #2
-assert ("assert") -> #1
-Ami ("Ami") -> #2
-globalThis ("globalThis") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Ami ("Ami") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Ami ("Ami") -> ScopeId(2)
+globalThis ("globalThis") -> ScopeId(1)

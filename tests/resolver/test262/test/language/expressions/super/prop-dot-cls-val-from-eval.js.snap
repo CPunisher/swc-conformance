@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-fromA ("fromA") -> #2
-fromB ("fromB") -> #2
-A ("A") -> #2
-B ("B") -> #2
-A ("A") -> #2
-C ("C") -> #2
-fromA ("fromA") -> #2
-eval ("eval") -> #1
-fromB ("fromB") -> #2
-eval ("eval") -> #1
-B ("B") -> #2
-A ("A") -> #2
-A ("A") -> #2
-B ("B") -> #2
-C ("C") -> #2
-C ("C") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-fromA ("fromA") -> #2
-assert ("assert") -> #1
-fromB ("fromB") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fromA ("fromA") -> ScopeId(2)
+fromB ("fromB") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+B ("B") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+fromA ("fromA") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+fromB ("fromB") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+B ("B") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+B ("B") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+fromA ("fromA") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+fromB ("fromB") -> ScopeId(2)

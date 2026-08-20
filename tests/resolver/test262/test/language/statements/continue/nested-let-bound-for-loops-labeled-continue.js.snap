@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-count ("count") -> #2
-outer ("outer") -> #0
-x ("x") -> #3
-x ("x") -> #3
-x ("x") -> #3
-y ("y") -> #5
-y ("y") -> #5
-y ("y") -> #5
-count ("count") -> #2
-y ("y") -> #5
-outer ("outer") -> #0
-assert ("assert") -> #1
-count ("count") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+count ("count") -> ScopeId(2)
+outer ("outer") -> ScopeId(4294967295)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(5)
+y ("y") -> ScopeId(5)
+y ("y") -> ScopeId(5)
+count ("count") -> ScopeId(2)
+y ("y") -> ScopeId(5)
+outer ("outer") -> ScopeId(4294967295)
+assert ("assert") -> ScopeId(1)
+count ("count") -> ScopeId(2)

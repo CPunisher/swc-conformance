@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-createCounter ("createCounter") -> #2
-count ("count") -> #3
-numToAdd ("numToAdd") -> #4
-count ("count") -> #3
-numToAdd ("numToAdd") -> #4
-count ("count") -> #3
-Bar ("Bar") -> #5
-Foo ("Foo") -> #6
-createCounter ("createCounter") -> #2
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+createCounter ("createCounter") -> ScopeId(2)
+count ("count") -> ScopeId(3)
+numToAdd ("numToAdd") -> ScopeId(4)
+count ("count") -> ScopeId(3)
+numToAdd ("numToAdd") -> ScopeId(4)
+count ("count") -> ScopeId(3)
+Bar ("Bar") -> ScopeId(5)
+Foo ("Foo") -> ScopeId(6)
+createCounter ("createCounter") -> ScopeId(2)
+console ("console") -> ScopeId(1)

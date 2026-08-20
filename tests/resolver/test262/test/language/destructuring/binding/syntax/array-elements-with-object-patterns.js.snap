@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-fn1 ("fn1") -> #2
-fn2 ("fn2") -> #2
-fn3 ("fn3") -> #2
-a ("a") -> #5
-c ("c") -> #5
-fn4 ("fn4") -> #2
-a ("a") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn1 ("fn1") -> ScopeId(2)
+fn2 ("fn2") -> ScopeId(2)
+fn3 ("fn3") -> ScopeId(2)
+a ("a") -> ScopeId(5)
+c ("c") -> ScopeId(5)
+fn4 ("fn4") -> ScopeId(2)
+a ("a") -> ScopeId(6)

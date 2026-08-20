@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-cName ("cName") -> #3
-C ("C") -> #2
-assert ("assert") -> #1
-C ("C") -> #2
-assert ("assert") -> #1
-C ("C") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+cName ("cName") -> ScopeId(3)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+C ("C") -> ScopeId(2)

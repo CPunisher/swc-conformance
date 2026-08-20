@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-initCount ("initCount") -> #2
-counter ("counter") -> #2
-initCount ("initCount") -> #2
-x ("x") -> #2
-IsHTMLDDA ("IsHTMLDDA") -> #2
-$262 ("$262") -> #1
-x ("x") -> #2
-counter ("counter") -> #2
-IsHTMLDDA ("IsHTMLDDA") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-IsHTMLDDA ("IsHTMLDDA") -> #2
-assert ("assert") -> #1
-initCount ("initCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+initCount ("initCount") -> ScopeId(2)
+counter ("counter") -> ScopeId(2)
+initCount ("initCount") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)
+$262 ("$262") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+counter ("counter") -> ScopeId(2)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+IsHTMLDDA ("IsHTMLDDA") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+initCount ("initCount") -> ScopeId(2)

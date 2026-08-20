@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-p1 ("p1") -> #2
-pA_start ("pA_start") -> #2
-pB_start ("pB_start") -> #2
-logs ("logs") -> #2
-importsP ("importsP") -> #2
-Promise ("Promise") -> #1
-pB_start ("pB_start") -> #2
-logs ("logs") -> #2
-logs ("logs") -> #2
-Promise ("Promise") -> #1
-pA_start ("pA_start") -> #2
-pB_start ("pB_start") -> #2
-p1 ("p1") -> #2
-importsP ("importsP") -> #2
-assert ("assert") -> #1
-logs ("logs") -> #2
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+p1 ("p1") -> ScopeId(2)
+pA_start ("pA_start") -> ScopeId(2)
+pB_start ("pB_start") -> ScopeId(2)
+logs ("logs") -> ScopeId(2)
+importsP ("importsP") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+pB_start ("pB_start") -> ScopeId(2)
+logs ("logs") -> ScopeId(2)
+logs ("logs") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+pA_start ("pA_start") -> ScopeId(2)
+pB_start ("pB_start") -> ScopeId(2)
+p1 ("p1") -> ScopeId(2)
+importsP ("importsP") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+logs ("logs") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)

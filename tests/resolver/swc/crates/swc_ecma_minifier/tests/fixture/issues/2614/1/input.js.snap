@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-expose ("expose") -> #1
-export_default ("export_default") -> #2
-foo ("foo") -> #2
-require ("require") -> #1
-Value ("Value") -> #2
-Value ("Value") -> #2
-foo ("foo") -> #2
-export_default ("export_default") -> #2
-Value ("Value") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+expose ("expose") -> ScopeId(1)
+export_default ("export_default") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+require ("require") -> ScopeId(1)
+Value ("Value") -> ScopeId(2)
+Value ("Value") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+export_default ("export_default") -> ScopeId(2)
+Value ("Value") -> ScopeId(2)

@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-ranCatch ("ranCatch") -> #2
-gen ("gen") -> #4
-xGen ("xGen") -> #4
-x ("x") -> #6
-assert ("assert") -> #1
-gen ("gen") -> #4
-assert ("assert") -> #1
-xGen ("xGen") -> #4
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-ranCatch ("ranCatch") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)
+gen ("gen") -> ScopeId(4)
+xGen ("xGen") -> ScopeId(4)
+x ("x") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xGen ("xGen") -> ScopeId(4)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)

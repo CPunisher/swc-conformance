@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-decorator ("decorator") -> #2
-yield ("yield") -> #2
-decorator ("decorator") -> #2
-C ("C") -> #2
-yield ("yield") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+decorator ("decorator") -> ScopeId(2)
+yield ("yield") -> ScopeId(2)
+decorator ("decorator") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+yield ("yield") -> ScopeId(2)

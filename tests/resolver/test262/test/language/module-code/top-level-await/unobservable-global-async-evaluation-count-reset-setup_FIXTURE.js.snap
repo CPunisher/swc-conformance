@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-logs ("logs") -> #2
-pB ("pB") -> #2
-Promise ("Promise") -> #1
-pB_start ("pB_start") -> #2
-Promise ("Promise") -> #1
-pE_start ("pE_start") -> #2
-Promise ("Promise") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+logs ("logs") -> ScopeId(2)
+pB ("pB") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+pB_start ("pB_start") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+pE_start ("pE_start") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)

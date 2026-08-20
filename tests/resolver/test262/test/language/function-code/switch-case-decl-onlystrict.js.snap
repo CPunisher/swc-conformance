@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-err1 ("err1") -> #2
-err2 ("err2") -> #2
-f ("f") -> #3
-exception ("exception") -> #5
-err1 ("err1") -> #2
-exception ("exception") -> #5
-f ("f") -> #3
-f ("f") -> #3
-exception ("exception") -> #9
-err2 ("err2") -> #2
-exception ("exception") -> #9
-assert ("assert") -> #1
-err1 ("err1") -> #2
-ReferenceError ("ReferenceError") -> #1
-assert ("assert") -> #1
-err2 ("err2") -> #2
-ReferenceError ("ReferenceError") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+err1 ("err1") -> ScopeId(2)
+err2 ("err2") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+exception ("exception") -> ScopeId(5)
+err1 ("err1") -> ScopeId(2)
+exception ("exception") -> ScopeId(5)
+f ("f") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+exception ("exception") -> ScopeId(9)
+err2 ("err2") -> ScopeId(2)
+exception ("exception") -> ScopeId(9)
+assert ("assert") -> ScopeId(1)
+err1 ("err1") -> ScopeId(2)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+err2 ("err2") -> ScopeId(2)
+ReferenceError ("ReferenceError") -> ScopeId(1)

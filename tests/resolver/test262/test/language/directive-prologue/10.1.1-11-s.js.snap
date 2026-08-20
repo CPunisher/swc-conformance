@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-err ("err") -> #2
-eval ("eval") -> #1
-e ("e") -> #4
-err ("err") -> #2
-e ("e") -> #4
-assert ("assert") -> #1
-err ("err") -> #2
-SyntaxError ("SyntaxError") -> #1
-assert ("assert") -> #1
-public ("public") -> #1
-assert ("assert") -> #1
-anotherVariableNotReserveWord ("anotherVariableNotReserveWord") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+err ("err") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+err ("err") -> ScopeId(2)
+e ("e") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+err ("err") -> ScopeId(2)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+public ("public") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+anotherVariableNotReserveWord ("anotherVariableNotReserveWord") -> ScopeId(1)

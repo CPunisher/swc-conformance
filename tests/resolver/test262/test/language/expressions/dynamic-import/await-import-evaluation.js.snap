@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-startTime ("startTime") -> #2
-Date ("Date") -> #1
-imported ("imported") -> #3
-endTime ("endTime") -> #3
-Date ("Date") -> #1
-startTime ("startTime") -> #2
-assert ("assert") -> #1
-imported ("imported") -> #3
-String ("String") -> #1
-imported ("imported") -> #3
-assert ("assert") -> #1
-imported ("imported") -> #3
-endTime ("endTime") -> #3
-String ("String") -> #1
-imported ("imported") -> #3
-String ("String") -> #1
-endTime ("endTime") -> #3
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+startTime ("startTime") -> ScopeId(2)
+Date ("Date") -> ScopeId(1)
+imported ("imported") -> ScopeId(3)
+endTime ("endTime") -> ScopeId(3)
+Date ("Date") -> ScopeId(1)
+startTime ("startTime") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+imported ("imported") -> ScopeId(3)
+String ("String") -> ScopeId(1)
+imported ("imported") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+imported ("imported") -> ScopeId(3)
+endTime ("endTime") -> ScopeId(3)
+String ("String") -> ScopeId(1)
+imported ("imported") -> ScopeId(3)
+String ("String") -> ScopeId(1)
+endTime ("endTime") -> ScopeId(3)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-g ("g") -> #1
-y ("y") -> #0
-console ("console") -> #1
-x ("x") -> #0
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+g ("g") -> ScopeId(1)
+y ("y") -> ScopeId(4294967295)
+console ("console") -> ScopeId(1)
+x ("x") -> ScopeId(4294967295)
+console ("console") -> ScopeId(1)

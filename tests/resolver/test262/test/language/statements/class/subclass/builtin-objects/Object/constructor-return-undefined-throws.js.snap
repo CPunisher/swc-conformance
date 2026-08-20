@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-Obj ("Obj") -> #2
-undefined ("undefined") -> #1
-Object ("Object") -> #1
-Obj2 ("Obj2") -> #2
-Object ("Object") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-Obj ("Obj") -> #2
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-Obj2 ("Obj2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Obj ("Obj") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Obj2 ("Obj2") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+Obj ("Obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+Obj2 ("Obj2") -> ScopeId(2)

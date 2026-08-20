@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-fn ("fn") -> #2
-verifyProperty ("verifyProperty") -> #1
-fn ("fn") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)

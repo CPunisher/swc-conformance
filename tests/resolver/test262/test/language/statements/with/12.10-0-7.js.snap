@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-o ("o") -> #2
-o ("o") -> #2
-foo ("foo") -> #1
-foo ("foo") -> #1
-Error ("Error") -> #1
-e ("e") -> #5
-assert ("assert") -> #1
-e ("e") -> #5
-ReferenceError ("ReferenceError") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+o ("o") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+foo ("foo") -> ScopeId(1)
+foo ("foo") -> ScopeId(1)
+Error ("Error") -> ScopeId(1)
+e ("e") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+e ("e") -> ScopeId(6)
+ReferenceError ("ReferenceError") -> ScopeId(1)

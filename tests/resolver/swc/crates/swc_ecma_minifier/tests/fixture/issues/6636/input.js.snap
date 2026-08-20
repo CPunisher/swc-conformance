@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-memo ("memo") -> #2
-fn ("fn") -> #3
-opts ("opts") -> #3
-result ("result") -> #3
-result ("result") -> #3
-fn ("fn") -> #3
-newDeps ("newDeps") -> #1
-opts ("opts") -> #3
-result ("result") -> #3
-result ("result") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+memo ("memo") -> ScopeId(2)
+fn ("fn") -> ScopeId(3)
+opts ("opts") -> ScopeId(3)
+result ("result") -> ScopeId(3)
+result ("result") -> ScopeId(3)
+fn ("fn") -> ScopeId(3)
+newDeps ("newDeps") -> ScopeId(1)
+opts ("opts") -> ScopeId(3)
+result ("result") -> ScopeId(3)
+result ("result") -> ScopeId(3)

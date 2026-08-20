@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-AB ("AB") -> #2
-ArrayBuffer ("ArrayBuffer") -> #1
-ab ("ab") -> #2
-AB ("AB") -> #2
-sliced ("sliced") -> #2
-ab ("ab") -> #2
-assert ("assert") -> #1
-sliced ("sliced") -> #2
-AB ("AB") -> #2
-assert ("assert") -> #1
-sliced ("sliced") -> #2
-ArrayBuffer ("ArrayBuffer") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+AB ("AB") -> ScopeId(2)
+ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
+ab ("ab") -> ScopeId(2)
+AB ("AB") -> ScopeId(2)
+sliced ("sliced") -> ScopeId(2)
+ab ("ab") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+sliced ("sliced") -> ScopeId(2)
+AB ("AB") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+sliced ("sliced") -> ScopeId(2)
+ArrayBuffer ("ArrayBuffer") -> ScopeId(1)

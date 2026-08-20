@@ -1,0 +1,7 @@
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+c ("c") -> ScopeId(3)

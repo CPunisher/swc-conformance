@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-__var ("__var") -> #2
-__var ("__var") -> #3
-__var ("__var") -> #3
-__var ("__var") -> #5
-__var ("__var") -> #3
-Test262Error ("Test262Error") -> #1
-__var ("__var") -> #3
-__var ("__var") -> #2
-Test262Error ("Test262Error") -> #1
-__var ("__var") -> #2
-__var ("__var") -> #2
-__var ("__var") -> #2
-__var ("__var") -> #10
-__var ("__var") -> #2
-Test262Error ("Test262Error") -> #1
-__var ("__var") -> #2
-__var ("__var") -> #2
-Test262Error ("Test262Error") -> #1
-__var ("__var") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__var ("__var") -> ScopeId(2)
+__var ("__var") -> ScopeId(3)
+__var ("__var") -> ScopeId(3)
+__var ("__var") -> ScopeId(5)
+__var ("__var") -> ScopeId(3)
+Test262Error ("Test262Error") -> ScopeId(1)
+__var ("__var") -> ScopeId(3)
+__var ("__var") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__var ("__var") -> ScopeId(2)
+__var ("__var") -> ScopeId(2)
+__var ("__var") -> ScopeId(2)
+__var ("__var") -> ScopeId(10)
+__var ("__var") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__var ("__var") -> ScopeId(2)
+__var ("__var") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__var ("__var") -> ScopeId(2)

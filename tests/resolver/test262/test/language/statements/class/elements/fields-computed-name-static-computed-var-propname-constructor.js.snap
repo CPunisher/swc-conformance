@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-C1 ("C1") -> #2
-x ("x") -> #2
-verifyProperty ("verifyProperty") -> #1
-C1 ("C1") -> #2
-undefined ("undefined") -> #1
-C2 ("C2") -> #2
-x ("x") -> #2
-verifyProperty ("verifyProperty") -> #1
-C2 ("C2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+C1 ("C1") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+C1 ("C1") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+C2 ("C2") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+C2 ("C2") -> ScopeId(2)

@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-Function ("Function") -> #1
-assert ("assert") -> #1
-Function ("Function") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-String ("String") -> #1
-assert ("assert") -> #1
-Boolean ("Boolean") -> #1
-assert ("assert") -> #1
-Number ("Number") -> #1
-assert ("assert") -> #1
-Date ("Date") -> #1
-assert ("assert") -> #1
-Error ("Error") -> #1
-assert ("assert") -> #1
-RegExp ("RegExp") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Function ("Function") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Function ("Function") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+String ("String") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Boolean ("Boolean") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Number ("Number") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Date ("Date") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Error ("Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+RegExp ("RegExp") -> ScopeId(1)

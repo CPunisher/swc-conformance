@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-__map ("__map") -> #2
-assert ("assert") -> #1
-__map ("__map") -> #2
-NaN ("NaN") -> #1
-__map ("__map") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__map ("__map") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+__map ("__map") -> ScopeId(2)
+NaN ("NaN") -> ScopeId(1)
+__map ("__map") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

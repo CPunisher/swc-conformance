@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-WS1 ("WS1") -> #2
-WeakSet ("WeakSet") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-WS1 ("WS1") -> #2
-WS2 ("WS2") -> #2
-WeakSet ("WeakSet") -> #1
-WS2 ("WS2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+WS1 ("WS1") -> ScopeId(2)
+WeakSet ("WeakSet") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+WS1 ("WS1") -> ScopeId(2)
+WS2 ("WS2") -> ScopeId(2)
+WeakSet ("WeakSet") -> ScopeId(1)
+WS2 ("WS2") -> ScopeId(2)

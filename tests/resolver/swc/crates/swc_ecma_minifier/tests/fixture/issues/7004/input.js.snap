@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-getDescription ("getDescription") -> #2
-option ("option") -> #3
-parentGroup ("parentGroup") -> #3
-parentGroup ("parentGroup") -> #3
-parentGroup ("parentGroup") -> #3
-option ("option") -> #3
-option ("option") -> #3
-printDescription ("printDescription") -> #2
-option ("option") -> #4
-parent ("parent") -> #4
-desc ("desc") -> #4
-getDescription ("getDescription") -> #2
-option ("option") -> #4
-parent ("parent") -> #4
-console ("console") -> #1
-desc ("desc") -> #4
-printDescription ("printDescription") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+getDescription ("getDescription") -> ScopeId(2)
+option ("option") -> ScopeId(3)
+parentGroup ("parentGroup") -> ScopeId(3)
+parentGroup ("parentGroup") -> ScopeId(3)
+parentGroup ("parentGroup") -> ScopeId(3)
+option ("option") -> ScopeId(3)
+option ("option") -> ScopeId(3)
+printDescription ("printDescription") -> ScopeId(2)
+option ("option") -> ScopeId(4)
+parent ("parent") -> ScopeId(4)
+desc ("desc") -> ScopeId(4)
+getDescription ("getDescription") -> ScopeId(2)
+option ("option") -> ScopeId(4)
+parent ("parent") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+desc ("desc") -> ScopeId(4)
+printDescription ("printDescription") -> ScopeId(2)

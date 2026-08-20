@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-named ("named") -> #2
-production ("production") -> #2
-assert ("assert") -> #1
-named ("named") -> #2
-assert ("assert") -> #1
-named ("named") -> #2
-assert ("assert") -> #1
-production ("production") -> #2
-assert ("assert") -> #1
-production ("production") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+named ("named") -> ScopeId(2)
+production ("production") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+named ("named") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+named ("named") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+production ("production") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+production ("production") -> ScopeId(2)

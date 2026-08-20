@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-asyncTest ("asyncTest") -> #1
-order ("order") -> #3
-resource ("resource") -> #3
-Symbol ("Symbol") -> #1
-order ("order") -> #3
-Symbol ("Symbol") -> #1
-order ("order") -> #3
-_ ("_") -> #7
-resource ("resource") -> #3
-assert ("assert") -> #1
-order ("order") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+asyncTest ("asyncTest") -> ScopeId(1)
+order ("order") -> ScopeId(3)
+resource ("resource") -> ScopeId(3)
+Symbol ("Symbol") -> ScopeId(1)
+order ("order") -> ScopeId(3)
+Symbol ("Symbol") -> ScopeId(1)
+order ("order") -> ScopeId(3)
+_ ("_") -> ScopeId(8)
+resource ("resource") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+order ("order") -> ScopeId(3)

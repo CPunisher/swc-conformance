@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-token ("token") -> #2
-asyncIter ("asyncIter") -> #2
-Symbol ("Symbol") -> #1
-token ("token") -> #2
-f ("f") -> #2
-thrown ("thrown") -> #6
-asyncIter ("asyncIter") -> #2
-e ("e") -> #8
-thrown ("thrown") -> #6
-e ("e") -> #8
-thrown ("thrown") -> #6
-iter ("iter") -> #2
-f ("f") -> #2
-iter ("iter") -> #2
-value ("value") -> #9
-assert ("assert") -> #1
-value ("value") -> #9
-token ("token") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+token ("token") -> ScopeId(2)
+asyncIter ("asyncIter") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+token ("token") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+thrown ("thrown") -> ScopeId(9)
+asyncIter ("asyncIter") -> ScopeId(2)
+e ("e") -> ScopeId(11)
+thrown ("thrown") -> ScopeId(9)
+e ("e") -> ScopeId(11)
+thrown ("thrown") -> ScopeId(9)
+iter ("iter") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+value ("value") -> ScopeId(12)
+assert ("assert") -> ScopeId(1)
+value ("value") -> ScopeId(12)
+token ("token") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

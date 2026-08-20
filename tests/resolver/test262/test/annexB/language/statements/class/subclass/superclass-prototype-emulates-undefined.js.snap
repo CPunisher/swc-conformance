@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-Superclass ("Superclass") -> #2
-Superclass ("Superclass") -> #2
-$262 ("$262") -> #1
-C ("C") -> #2
-Superclass ("Superclass") -> #2
-c ("c") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-c ("c") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-c ("c") -> #2
-Superclass ("Superclass") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Superclass ("Superclass") -> ScopeId(2)
+Superclass ("Superclass") -> ScopeId(2)
+$262 ("$262") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+Superclass ("Superclass") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+c ("c") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+c ("c") -> ScopeId(2)
+Superclass ("Superclass") -> ScopeId(2)

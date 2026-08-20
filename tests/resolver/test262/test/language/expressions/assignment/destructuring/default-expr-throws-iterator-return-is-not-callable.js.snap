@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-MyError ("MyError") -> #2
-thrower ("thrower") -> #2
-MyError ("MyError") -> #2
-returnMethod ("returnMethod") -> #2
-Symbol ("Symbol") -> #1
-iterable ("iterable") -> #2
-Symbol ("Symbol") -> #1
-returnMethod ("returnMethod") -> #2
-assert ("assert") -> #1
-MyError ("MyError") -> #2
-a ("a") -> #8
-a ("a") -> #8
-thrower ("thrower") -> #2
-iterable ("iterable") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+MyError ("MyError") -> ScopeId(2)
+thrower ("thrower") -> ScopeId(2)
+MyError ("MyError") -> ScopeId(2)
+returnMethod ("returnMethod") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+iterable ("iterable") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+returnMethod ("returnMethod") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+MyError ("MyError") -> ScopeId(2)
+a ("a") -> ScopeId(12)
+a ("a") -> ScopeId(12)
+thrower ("thrower") -> ScopeId(2)
+iterable ("iterable") -> ScopeId(2)

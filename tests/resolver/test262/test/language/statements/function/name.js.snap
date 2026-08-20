@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-func ("func") -> #2
-verifyProperty ("verifyProperty") -> #1
-func ("func") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+func ("func") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+func ("func") -> ScopeId(2)

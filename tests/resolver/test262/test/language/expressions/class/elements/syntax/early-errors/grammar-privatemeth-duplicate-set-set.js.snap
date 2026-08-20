@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-C ("C") -> #2
-_ ("_") -> #3
-_ ("_") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+_ ("_") -> ScopeId(4)
+_ ("_") -> ScopeId(5)

@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-FluentV9ColorTokens ("FluentV9ColorTokens") -> #2
-AppIcon ("AppIcon") -> #2
-props ("props") -> #3
-dummyBool ("dummyBool") -> #3
-props ("props") -> #3
-dummyBool ("dummyBool") -> #3
-console ("console") -> #1
-FluentV9ColorTokens ("FluentV9ColorTokens") -> #2
-theme ("theme") -> #1
-ThemeColorPalette ("ThemeColorPalette") -> #1
-AppIcon ("AppIcon") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+FluentV9ColorTokens ("FluentV9ColorTokens") -> ScopeId(2)
+AppIcon ("AppIcon") -> ScopeId(2)
+props ("props") -> ScopeId(4)
+dummyBool ("dummyBool") -> ScopeId(4)
+props ("props") -> ScopeId(4)
+dummyBool ("dummyBool") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+FluentV9ColorTokens ("FluentV9ColorTokens") -> ScopeId(2)
+theme ("theme") -> ScopeId(1)
+ThemeColorPalette ("ThemeColorPalette") -> ScopeId(1)
+AppIcon ("AppIcon") -> ScopeId(2)

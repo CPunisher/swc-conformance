@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-outerScope ("outerScope") -> #2
-innerScope ("innerScope") -> #2
-outerScope ("outerScope") -> #2
-innerScope ("innerScope") -> #2
-x ("x") -> #1
-innerScope ("innerScope") -> #2
-innerScope ("innerScope") -> #2
-Test262Error ("Test262Error") -> #1
-innerScope ("innerScope") -> #2
-outerScope ("outerScope") -> #2
-Test262Error ("Test262Error") -> #1
-outerScope ("outerScope") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+outerScope ("outerScope") -> ScopeId(2)
+innerScope ("innerScope") -> ScopeId(2)
+outerScope ("outerScope") -> ScopeId(2)
+innerScope ("innerScope") -> ScopeId(2)
+x ("x") -> ScopeId(1)
+innerScope ("innerScope") -> ScopeId(2)
+innerScope ("innerScope") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+innerScope ("innerScope") -> ScopeId(2)
+outerScope ("outerScope") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+outerScope ("outerScope") -> ScopeId(2)

@@ -1,8 +1,0 @@
-Top level: #2
-Unresolved: #1
-loop1 ("loop1") -> #2
-loop2 ("loop2") -> #2
-loop2 ("loop2") -> #2
-loop1 ("loop1") -> #2
-module ("module") -> #1
-loop2 ("loop2") -> #2

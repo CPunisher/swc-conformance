@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-myArr ("myArr") -> #2
-foo ("foo") -> #2
-arr ("arr") -> #3
-arr ("arr") -> #3
-a ("a") -> #2
-Math ("Math") -> #1
-a ("a") -> #2
-b ("b") -> #2
-foo ("foo") -> #2
-myArr ("myArr") -> #2
-a ("a") -> #2
-b ("b") -> #2
-console ("console") -> #1
-a ("a") -> #2
-console ("console") -> #1
-myArr ("myArr") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+myArr ("myArr") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+arr ("arr") -> ScopeId(3)
+arr ("arr") -> ScopeId(3)
+a ("a") -> ScopeId(2)
+Math ("Math") -> ScopeId(1)
+a ("a") -> ScopeId(2)
+b ("b") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+myArr ("myArr") -> ScopeId(2)
+a ("a") -> ScopeId(2)
+b ("b") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+myArr ("myArr") -> ScopeId(2)

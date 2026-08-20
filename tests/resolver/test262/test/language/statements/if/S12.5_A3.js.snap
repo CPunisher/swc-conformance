@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-abracadabra ("abracadabra") -> #1
-e ("e") -> #5
-e ("e") -> #5
-Test262Error ("Test262Error") -> #1
-e ("e") -> #5
-abracadabra ("abracadabra") -> #1
-blablachat ("blablachat") -> #1
-e ("e") -> #9
-e ("e") -> #9
-Test262Error ("Test262Error") -> #1
-e ("e") -> #9
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+abracadabra ("abracadabra") -> ScopeId(1)
+e ("e") -> ScopeId(5)
+e ("e") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(5)
+abracadabra ("abracadabra") -> ScopeId(1)
+blablachat ("blablachat") -> ScopeId(1)
+e ("e") -> ScopeId(9)
+e ("e") -> ScopeId(9)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(9)

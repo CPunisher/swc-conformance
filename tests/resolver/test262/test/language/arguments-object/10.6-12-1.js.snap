@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-arguments ("arguments") -> #1
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+testcase ("testcase") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-strNumTuple ("strNumTuple") -> #2
-numTupleTuple ("numTupleTuple") -> #2
-unionTuple1 ("unionTuple1") -> #2
-unionTuple2 ("unionTuple2") -> #2
-strNumTuple ("strNumTuple") -> #2
-strNumTuple ("strNumTuple") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+strNumTuple ("strNumTuple") -> ScopeId(2)
+numTupleTuple ("numTupleTuple") -> ScopeId(2)
+unionTuple1 ("unionTuple1") -> ScopeId(2)
+unionTuple2 ("unionTuple2") -> ScopeId(2)
+strNumTuple ("strNumTuple") -> ScopeId(2)
+strNumTuple ("strNumTuple") -> ScopeId(2)

@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-yieldSet ("yieldSet") -> #2
-C ("C") -> #2
-iter ("iter") -> #2
-g ("g") -> #2
-C_ ("C_") -> #3
-param ("param") -> #5
-yieldSet ("yieldSet") -> #2
-param ("param") -> #5
-C ("C") -> #2
-C_ ("C_") -> #3
-iter ("iter") -> #2
-g ("g") -> #2
-iter ("iter") -> #2
-iter ("iter") -> #2
-iter ("iter") -> #2
-assert ("assert") -> #1
-C ("C") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-yieldSet ("yieldSet") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+yieldSet ("yieldSet") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+C_ ("C_") -> ScopeId(3)
+param ("param") -> ScopeId(6)
+yieldSet ("yieldSet") -> ScopeId(2)
+param ("param") -> ScopeId(6)
+C ("C") -> ScopeId(2)
+C_ ("C_") -> ScopeId(3)
+iter ("iter") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+yieldSet ("yieldSet") -> ScopeId(2)

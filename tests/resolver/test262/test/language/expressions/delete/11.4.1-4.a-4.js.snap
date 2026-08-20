@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-d ("d") -> #2
-NaN ("NaN") -> #1
-assert ("assert") -> #1
-d ("d") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+d ("d") -> ScopeId(2)
+NaN ("NaN") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+d ("d") -> ScopeId(2)

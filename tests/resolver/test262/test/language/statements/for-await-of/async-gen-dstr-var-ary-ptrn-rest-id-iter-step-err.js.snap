@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-first ("first") -> #2
-second ("second") -> #2
-iter ("iter") -> #2
-first ("first") -> #2
-Test262Error ("Test262Error") -> #1
-second ("second") -> #2
-gen ("gen") -> #2
-x ("x") -> #4
-iter ("iter") -> #2
-gen ("gen") -> #2
-_ ("_") -> #6
-Test262Error ("Test262Error") -> #1
-constructor ("constructor") -> #7
-assert ("assert") -> #1
-constructor ("constructor") -> #7
-Test262Error ("Test262Error") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+second ("second") -> ScopeId(2)
+gen ("gen") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+iter ("iter") -> ScopeId(2)
+gen ("gen") -> ScopeId(2)
+_ ("_") -> ScopeId(7)
+Test262Error ("Test262Error") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(8)
+assert ("assert") -> ScopeId(1)
+constructor ("constructor") -> ScopeId(8)
+Test262Error ("Test262Error") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

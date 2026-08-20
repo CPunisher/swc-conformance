@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-Promise ("Promise") -> #1
-a ("a") -> #3
-b ("b") -> #3
-assert ("assert") -> #1
-a ("a") -> #3
-b ("b") -> #3
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Promise ("Promise") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

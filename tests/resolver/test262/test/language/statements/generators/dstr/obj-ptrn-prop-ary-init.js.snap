@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-f ("f") -> #2
-x ("x") -> #3
-y ("y") -> #3
-z ("z") -> #3
-assert ("assert") -> #1
-x ("x") -> #3
-assert ("assert") -> #1
-y ("y") -> #3
-assert ("assert") -> #1
-z ("z") -> #3
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-w ("w") -> #1
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-f ("f") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+z ("z") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+y ("y") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+z ("z") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+w ("w") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

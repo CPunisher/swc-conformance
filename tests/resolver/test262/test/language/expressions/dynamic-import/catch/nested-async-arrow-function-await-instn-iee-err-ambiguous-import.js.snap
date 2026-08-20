@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #2
-f ("f") -> #2
-error ("error") -> #4
-assert ("assert") -> #1
-error ("error") -> #4
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+error ("error") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(4)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-Test262 ("Test262") -> #2
-verifyProperty ("verifyProperty") -> #1
-Test262 ("Test262") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Test262 ("Test262") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+Test262 ("Test262") -> ScopeId(2)

@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-o ("o") -> #3
-o ("o") -> #3
-o ("o") -> #4
-o ("o") -> #4
-c ("c") -> #2
-C ("C") -> #2
-innerB1 ("innerB1") -> #2
-c ("c") -> #2
-assert ("assert") -> #1
-innerB1 ("innerB1") -> #2
-c ("c") -> #2
-innerB2 ("innerB2") -> #2
-c ("c") -> #2
-assert ("assert") -> #1
-innerB2 ("innerB2") -> #2
-c ("c") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+o ("o") -> ScopeId(5)
+o ("o") -> ScopeId(5)
+o ("o") -> ScopeId(7)
+o ("o") -> ScopeId(7)
+c ("c") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+innerB1 ("innerB1") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+innerB1 ("innerB1") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+innerB2 ("innerB2") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+innerB2 ("innerB2") -> ScopeId(2)
+c ("c") -> ScopeId(2)

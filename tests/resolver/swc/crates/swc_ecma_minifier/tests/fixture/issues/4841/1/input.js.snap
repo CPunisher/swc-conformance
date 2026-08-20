@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-global ("global") -> #1
-_processChunk ("_processChunk") -> #3
-chunk ("chunk") -> #4
-async ("async") -> #4
-newReq ("newReq") -> #4
-chunk ("chunk") -> #4
-async ("async") -> #4
-newReq ("newReq") -> #4
-newReq ("newReq") -> #4
-callback ("callback") -> #1
-cb ("cb") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+global ("global") -> ScopeId(1)
+_processChunk ("_processChunk") -> ScopeId(3)
+chunk ("chunk") -> ScopeId(4)
+async ("async") -> ScopeId(4)
+newReq ("newReq") -> ScopeId(4)
+chunk ("chunk") -> ScopeId(4)
+async ("async") -> ScopeId(4)
+newReq ("newReq") -> ScopeId(4)
+newReq ("newReq") -> ScopeId(4)
+callback ("callback") -> ScopeId(1)
+cb ("cb") -> ScopeId(1)

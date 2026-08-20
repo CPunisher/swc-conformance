@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-cost ("cost") -> #2
-oldItem ("oldItem") -> #3
-newItem ("newItem") -> #3
-newItem ("newItem") -> #3
-oldItem ("oldItem") -> #3
-oldItem ("oldItem") -> #3
-newItem ("newItem") -> #3
-oldItem ("oldItem") -> #3
-undefined ("undefined") -> #1
-newItem ("newItem") -> #3
-undefined ("undefined") -> #1
-oldItem ("oldItem") -> #3
-newItem ("newItem") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+cost ("cost") -> ScopeId(2)
+oldItem ("oldItem") -> ScopeId(3)
+newItem ("newItem") -> ScopeId(3)
+newItem ("newItem") -> ScopeId(3)
+oldItem ("oldItem") -> ScopeId(3)
+oldItem ("oldItem") -> ScopeId(3)
+newItem ("newItem") -> ScopeId(3)
+oldItem ("oldItem") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+newItem ("newItem") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+oldItem ("oldItem") -> ScopeId(3)
+newItem ("newItem") -> ScopeId(3)

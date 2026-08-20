@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-enumed ("enumed") -> #2
-__prop ("__prop") -> #2
-__prop ("__prop") -> #2
-enumed ("enumed") -> #2
-enumed ("enumed") -> #2
-Test262Error ("Test262Error") -> #1
-__declared__var ("__declared__var") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+enumed ("enumed") -> ScopeId(2)
+__prop ("__prop") -> ScopeId(2)
+__prop ("__prop") -> ScopeId(2)
+enumed ("enumed") -> ScopeId(2)
+enumed ("enumed") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__declared__var ("__declared__var") -> ScopeId(2)

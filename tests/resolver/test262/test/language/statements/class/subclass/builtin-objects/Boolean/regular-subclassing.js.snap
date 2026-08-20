@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-Bln ("Bln") -> #2
-Boolean ("Boolean") -> #1
-b1 ("b1") -> #2
-Bln ("Bln") -> #2
-assert ("assert") -> #1
-b1 ("b1") -> #2
-assert ("assert") -> #1
-b1 ("b1") -> #2
-b2 ("b2") -> #2
-Bln ("Bln") -> #2
-assert ("assert") -> #1
-b2 ("b2") -> #2
-assert ("assert") -> #1
-b2 ("b2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Bln ("Bln") -> ScopeId(2)
+Boolean ("Boolean") -> ScopeId(1)
+b1 ("b1") -> ScopeId(2)
+Bln ("Bln") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+b1 ("b1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+b1 ("b1") -> ScopeId(2)
+b2 ("b2") -> ScopeId(2)
+Bln ("Bln") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+b2 ("b2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+b2 ("b2") -> ScopeId(2)

@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-run ("run") -> #2
-options ("options") -> #3
-cb ("cb") -> #3
-options ("options") -> #3
-cb ("cb") -> #3
-cb ("cb") -> #3
-cb ("cb") -> #3
-run ("run") -> #2
-value ("value") -> #6
-value ("value") -> #6
-undefined ("undefined") -> #1
-Error ("Error") -> #1
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+run ("run") -> ScopeId(2)
+options ("options") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)
+options ("options") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)
+cb ("cb") -> ScopeId(3)
+run ("run") -> ScopeId(2)
+value ("value") -> ScopeId(7)
+value ("value") -> ScopeId(7)
+undefined ("undefined") -> ScopeId(1)
+Error ("Error") -> ScopeId(1)
+console ("console") -> ScopeId(1)

@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-v ("v") -> #1
-a ("a") -> #3
-b ("b") -> #4
-n ("n") -> #4
-a ("a") -> #3
-t ("t") -> #5
-t ("t") -> #5
-e ("e") -> #6
-e ("e") -> #6
-t ("t") -> #5
-n ("n") -> #4
-r ("r") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+v ("v") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(4)
+n ("n") -> ScopeId(4)
+a ("a") -> ScopeId(3)
+t ("t") -> ScopeId(5)
+t ("t") -> ScopeId(5)
+e ("e") -> ScopeId(6)
+e ("e") -> ScopeId(6)
+t ("t") -> ScopeId(5)
+n ("n") -> ScopeId(4)
+r ("r") -> ScopeId(1)

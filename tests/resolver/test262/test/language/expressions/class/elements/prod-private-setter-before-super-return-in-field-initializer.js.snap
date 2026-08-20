@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-D ("D") -> #2
-val ("val") -> #4
-C ("C") -> #2
-assert ("assert") -> #1
-D ("D") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-d ("d") -> #5
-D ("D") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+D ("D") -> ScopeId(2)
+val ("val") -> ScopeId(6)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+D ("D") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+d ("d") -> ScopeId(7)
+D ("D") -> ScopeId(2)

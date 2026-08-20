@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-r ("r") -> #2
-RegExp ("RegExp") -> #1
-run ("run") -> #2
-str ("str") -> #3
-r ("r") -> #3
-m ("m") -> #3
-m ("m") -> #3
-r ("r") -> #3
-str ("str") -> #3
-console ("console") -> #1
-m ("m") -> #3
-run ("run") -> #2
-r ("r") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+r ("r") -> ScopeId(2)
+RegExp ("RegExp") -> ScopeId(1)
+run ("run") -> ScopeId(2)
+str ("str") -> ScopeId(3)
+r ("r") -> ScopeId(3)
+m ("m") -> ScopeId(3)
+m ("m") -> ScopeId(3)
+r ("r") -> ScopeId(3)
+str ("str") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+m ("m") -> ScopeId(3)
+run ("run") -> ScopeId(2)
+r ("r") -> ScopeId(2)

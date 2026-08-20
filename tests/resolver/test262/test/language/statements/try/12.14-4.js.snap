@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-o ("o") -> #2
-o ("o") -> #2
-e ("e") -> #4
-foo ("foo") -> #2
-assert ("assert") -> #1
-foo ("foo") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+o ("o") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+e ("e") -> ScopeId(5)
+foo ("foo") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

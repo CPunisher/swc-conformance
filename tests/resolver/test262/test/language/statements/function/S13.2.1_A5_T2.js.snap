@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-derivative ("derivative") -> #2
-f ("f") -> #3
-dx ("dx") -> #3
-x ("x") -> #4
-f ("f") -> #3
-x ("x") -> #4
-dx ("dx") -> #3
-f ("f") -> #3
-x ("x") -> #4
-dx ("dx") -> #3
-Math ("Math") -> #1
-derivative ("derivative") -> #2
-Math ("Math") -> #1
-derivative ("derivative") -> #2
-Math ("Math") -> #1
-Math ("Math") -> #1
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+derivative ("derivative") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+dx ("dx") -> ScopeId(3)
+x ("x") -> ScopeId(4)
+f ("f") -> ScopeId(3)
+x ("x") -> ScopeId(4)
+dx ("dx") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+x ("x") -> ScopeId(4)
+dx ("dx") -> ScopeId(3)
+Math ("Math") -> ScopeId(1)
+derivative ("derivative") -> ScopeId(2)
+Math ("Math") -> ScopeId(1)
+derivative ("derivative") -> ScopeId(2)
+Math ("Math") -> ScopeId(1)
+Math ("Math") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)

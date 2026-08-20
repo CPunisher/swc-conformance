@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-__func ("__func") -> #2
-__exp__func ("__exp__func") -> #3
-arg ("arg") -> #4
-arg ("arg") -> #4
-arg ("arg") -> #4
-__exp__func ("__exp__func") -> #3
-arg ("arg") -> #4
-arg ("arg") -> #4
-fact_of_3 ("fact_of_3") -> #2
-__func ("__func") -> #2
-fact_of_3 ("fact_of_3") -> #2
-Test262Error ("Test262Error") -> #1
-fact_of_3 ("fact_of_3") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__exp__func ("__exp__func") -> ScopeId(3)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+__exp__func ("__exp__func") -> ScopeId(3)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+fact_of_3 ("fact_of_3") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+fact_of_3 ("fact_of_3") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+fact_of_3 ("fact_of_3") -> ScopeId(2)

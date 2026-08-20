@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-calls ("calls") -> #2
-Base ("Base") -> #2
-calls ("calls") -> #2
-Derived ("Derived") -> #2
-undefined ("undefined") -> #1
-Base ("Base") -> #2
-object ("object") -> #2
-Derived ("Derived") -> #2
-assert ("assert") -> #1
-calls ("calls") -> #2
-assert ("assert") -> #1
-object ("object") -> #2
-assert ("assert") -> #1
-object ("object") -> #2
-Derived ("Derived") -> #2
-assert ("assert") -> #1
-object ("object") -> #2
-Base ("Base") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+calls ("calls") -> ScopeId(2)
+Base ("Base") -> ScopeId(2)
+calls ("calls") -> ScopeId(2)
+Derived ("Derived") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)
+object ("object") -> ScopeId(2)
+Derived ("Derived") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+calls ("calls") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+object ("object") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+object ("object") -> ScopeId(2)
+Derived ("Derived") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+object ("object") -> ScopeId(2)
+Base ("Base") -> ScopeId(2)

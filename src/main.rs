@@ -8,15 +8,10 @@ use std::{
 };
 
 use clap::{Parser, Subcommand};
-use swc_core::{
-    common::{FileName, GLOBALS, Globals, Mark, SourceMap, SyntaxContext, sync::Lrc},
-    ecma::{
-        ast::{EsVersion, Ident, Program},
-        parser::{EsSyntax, Syntax, TsSyntax, parse_file_as_program},
-        transforms::base::resolver,
-        visit::{Visit, VisitMutWith, VisitWith},
-    },
-};
+use swc_experimental_allocator::Allocator;
+use swc_experimental_ecma_ast::{EsVersion, Ident, Visit};
+use swc_experimental_ecma_parser::{EsSyntax, Syntax, parse_file_as_program};
+use swc_experimental_ecma_semantic::resolver::{Semantic, resolver};
 use walkdir::WalkDir;
 
 #[derive(Parser)]
@@ -28,7 +23,7 @@ struct Cli {
 
 #[derive(Subcommand)]
 enum Command {
-    /// Generate identifier resolution snapshots with swc_core's resolver.
+    /// Generate identifier resolution snapshots with the experimental resolver.
     Resolver,
 }
 
@@ -57,20 +52,6 @@ const RESOLVER_FIXTURE_SETS: &[FixtureSet] = &[
         jsx: false,
     },
     FixtureSet {
-        input: "fixtures/typescript/tests/cases/compiler",
-        output: "tests/resolver/typescript/tests/cases/compiler",
-        extensions: &["js", "jsx", "ts", "tsx"],
-        file_name: None,
-        jsx: false,
-    },
-    FixtureSet {
-        input: "fixtures/typescript/tests/cases/conformance",
-        output: "tests/resolver/typescript/tests/cases/conformance",
-        extensions: &["js", "jsx", "ts", "tsx"],
-        file_name: None,
-        jsx: false,
-    },
-    FixtureSet {
         input: "fixtures/swc/crates/swc_ecma_minifier/tests/fixture/issues",
         output: "tests/resolver/swc/crates/swc_ecma_minifier/tests/fixture/issues",
         extensions: &["js"],
@@ -79,17 +60,19 @@ const RESOLVER_FIXTURE_SETS: &[FixtureSet] = &[
     },
 ];
 
-struct ResolverDisplayVisitor<'a> {
-    output: &'a mut String,
+struct ResolverDisplayVisitor<'a, 'b> {
+    semantic: &'a Semantic,
+    output: &'b mut String,
 }
 
-impl Visit for ResolverDisplayVisitor<'_> {
+impl<'a> Visit<'a> for ResolverDisplayVisitor<'_, '_> {
     fn visit_ident(&mut self, node: &Ident) {
-        let _ = writeln!(
-            self.output,
-            "{} ({:?}) -> {:?}",
-            node.sym, node.sym, node.ctxt,
-        );
+        let scope = if node.symbol_id.get().is_some() {
+            self.semantic.node_scope(node)
+        } else {
+            self.semantic.unresolved_scope_id()
+        };
+        let _ = writeln!(self.output, "{} ({:?}) -> {:?}", node.sym, node.sym, scope,);
     }
 }
 
@@ -106,8 +89,6 @@ fn generate_resolver_snapshots() -> Result<(), Box<dyn Error>> {
 
     for fixture_set in RESOLVER_FIXTURE_SETS {
         let input_root = manifest_dir.join(fixture_set.input);
-        let output_root = manifest_dir.join(fixture_set.output);
-
         if !input_root.is_dir() {
             return Err(format!(
                 "fixture directory does not exist: {} (run scripts/clone_fixtures.sh first)",
@@ -115,33 +96,34 @@ fn generate_resolver_snapshots() -> Result<(), Box<dyn Error>> {
             )
             .into());
         }
+    }
 
-        clean_output_root(&output_root)?;
+    clean_output_root(&manifest_dir.join("tests/resolver"))?;
+
+    for fixture_set in RESOLVER_FIXTURE_SETS {
+        let input_root = manifest_dir.join(fixture_set.input);
+        let output_root = manifest_dir.join(fixture_set.output);
 
         let mut generated = 0;
         let mut skipped = 0;
         for path in fixture_files(&input_root, fixture_set.extensions, fixture_set.file_name) {
-            let Some(program) = parse(&path, fixture_set.jsx) else {
+            let Some(snapshot) = resolver_snapshot(&path, fixture_set.jsx) else {
                 skipped += 1;
                 continue;
             };
 
             let relative_path = path.strip_prefix(&input_root)?;
             let snapshot_path = snapshot_path(&output_root, relative_path);
-            let is_typescript = matches!(
-                path.extension().and_then(|extension| extension.to_str()),
-                Some("ts" | "tsx")
-            );
 
             if let Some(parent) = snapshot_path.parent() {
                 fs::create_dir_all(parent)?;
             }
-            fs::write(snapshot_path, resolver_snapshot(program, is_typescript))?;
+            fs::write(snapshot_path, snapshot)?;
             generated += 1;
         }
 
         println!(
-            "{}: generated {generated}, skipped {skipped} files that did not parse",
+            "{}: generated {generated}, skipped {skipped} files that could not be processed",
             fixture_set.input
         );
         total_generated += generated;
@@ -177,81 +159,48 @@ fn fixture_files(root: &Path, extensions: &[&str], file_name: Option<&str>) -> V
     files
 }
 
-fn syntax_for(path: &Path, jsx: bool) -> Syntax {
-    match path.extension().and_then(|extension| extension.to_str()) {
-        Some("ts" | "tsx") => Syntax::Typescript(TsSyntax {
-            tsx: path.extension().is_some_and(|extension| extension == "tsx"),
-            decorators: true,
-            dts: path
-                .file_name()
-                .is_some_and(|name| name.to_string_lossy().ends_with(".d.ts")),
-            ..Default::default()
-        }),
-        _ => Syntax::Es(EsSyntax {
-            jsx: jsx || path.extension().is_some_and(|extension| extension == "jsx"),
-            decorators: true,
-            decorators_before_export: true,
-            auto_accessors: true,
-            explicit_resource_management: true,
-            ..Default::default()
-        }),
-    }
+fn syntax_for(jsx: bool) -> Syntax {
+    Syntax::Es(EsSyntax {
+        jsx,
+        decorators: true,
+        decorators_before_export: true,
+        auto_accessors: true,
+        explicit_resource_management: true,
+        ..Default::default()
+    })
 }
 
-fn parse(path: &Path, jsx: bool) -> Option<Program> {
+fn resolver_snapshot(path: &Path, jsx: bool) -> Option<String> {
     let source_text = fs::read_to_string(path).ok()?;
-    let source_map: Lrc<SourceMap> = Default::default();
-    let source_file =
-        source_map.new_source_file(FileName::Real(path.to_path_buf()).into(), source_text);
-    let mut recovered_errors = Vec::new();
+    let allocator = Allocator::new();
 
-    // Some parser fixtures currently trigger internal parser panics. They are
-    // treated like any other input that cannot be parsed; resolver panics are
-    // intentionally not caught.
+    // Experimental parser and resolver panics are isolated to the current
+    // fixture so one unsupported AST does not stop the entire generation run.
     let previous_hook = std::panic::take_hook();
     std::panic::set_hook(Box::new(|_| {}));
-    let parsed = catch_unwind(AssertUnwindSafe(|| {
-        parse_file_as_program(
-            &source_file,
-            syntax_for(path, jsx),
+    let snapshot = catch_unwind(AssertUnwindSafe(|| {
+        let program = parse_file_as_program(
+            &allocator,
+            &source_text,
+            syntax_for(jsx),
             EsVersion::EsNext,
             None,
-            &mut recovered_errors,
         )
+        .ok()?;
+        let semantic = resolver(&program);
+        let mut output = String::new();
+        let _ = writeln!(output, "Top level: {:?}", semantic.top_level_scope_id());
+        let _ = writeln!(output, "Unresolved: {:?}", semantic.unresolved_scope_id());
+        let mut visitor = ResolverDisplayVisitor {
+            semantic: &semantic,
+            output: &mut output,
+        };
+        visitor.visit_program(&program);
+        Some(output)
     }));
     std::panic::set_hook(previous_hook);
 
-    let program = parsed.ok()?.ok()?;
-    recovered_errors.is_empty().then_some(program)
-}
-
-fn resolver_snapshot(mut program: Program, is_typescript: bool) -> String {
-    GLOBALS.set(&Globals::new(), || {
-        let unresolved_mark = Mark::new();
-        let top_level_mark = Mark::new();
-
-        program.visit_mut_with(&mut resolver(
-            unresolved_mark,
-            top_level_mark,
-            is_typescript,
-        ));
-
-        let mut output = String::new();
-        let _ = writeln!(
-            output,
-            "Top level: {:?}",
-            SyntaxContext::empty().apply_mark(top_level_mark)
-        );
-        let _ = writeln!(
-            output,
-            "Unresolved: {:?}",
-            SyntaxContext::empty().apply_mark(unresolved_mark)
-        );
-        program.visit_with(&mut ResolverDisplayVisitor {
-            output: &mut output,
-        });
-        output
-    })
+    snapshot.ok().flatten()
 }
 
 fn snapshot_path(output_root: &Path, relative_path: &Path) -> PathBuf {

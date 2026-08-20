@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-__func__INC ("__func__INC") -> #2
-arg ("arg") -> #3
-arg ("arg") -> #3
-__func__MULT ("__func__MULT") -> #2
-incrementator ("incrementator") -> #4
-arg ("arg") -> #4
-mult ("mult") -> #4
-incrementator ("incrementator") -> #4
-arg ("arg") -> #4
-mult ("mult") -> #4
-__func__MULT ("__func__MULT") -> #2
-__func__INC ("__func__INC") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func__INC ("__func__INC") -> ScopeId(2)
+arg ("arg") -> ScopeId(3)
+arg ("arg") -> ScopeId(3)
+__func__MULT ("__func__MULT") -> ScopeId(2)
+incrementator ("incrementator") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+mult ("mult") -> ScopeId(4)
+incrementator ("incrementator") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+mult ("mult") -> ScopeId(4)
+__func__MULT ("__func__MULT") -> ScopeId(2)
+__func__INC ("__func__INC") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

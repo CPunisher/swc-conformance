@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-err ("err") -> #3
-caught ("caught") -> #3
-Promise ("Promise") -> #1
-err ("err") -> #3
-e ("e") -> #5
-caught ("caught") -> #3
-assert ("assert") -> #1
-e ("e") -> #5
-err ("err") -> #3
-assert ("assert") -> #1
-caught ("caught") -> #3
-asyncTest ("asyncTest") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+err ("err") -> ScopeId(3)
+caught ("caught") -> ScopeId(3)
+Promise ("Promise") -> ScopeId(1)
+err ("err") -> ScopeId(3)
+e ("e") -> ScopeId(6)
+caught ("caught") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+e ("e") -> ScopeId(6)
+err ("err") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+caught ("caught") -> ScopeId(3)
+asyncTest ("asyncTest") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

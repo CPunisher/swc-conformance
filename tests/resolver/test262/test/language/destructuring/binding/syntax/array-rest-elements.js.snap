@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-fn1 ("fn1") -> #2
-args ("args") -> #3
-fn2 ("fn2") -> #2
-args ("args") -> #4
-fn3 ("fn3") -> #2
-x ("x") -> #5
-y ("y") -> #5
-z ("z") -> #5
-fn4 ("fn4") -> #2
-x ("x") -> #6
-y ("y") -> #6
-z ("z") -> #6
-fn5 ("fn5") -> #2
-y ("y") -> #7
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn1 ("fn1") -> ScopeId(2)
+args ("args") -> ScopeId(3)
+fn2 ("fn2") -> ScopeId(2)
+args ("args") -> ScopeId(4)
+fn3 ("fn3") -> ScopeId(2)
+x ("x") -> ScopeId(5)
+y ("y") -> ScopeId(5)
+z ("z") -> ScopeId(5)
+fn4 ("fn4") -> ScopeId(2)
+x ("x") -> ScopeId(6)
+y ("y") -> ScopeId(6)
+z ("z") -> ScopeId(6)
+fn5 ("fn5") -> ScopeId(2)
+y ("y") -> ScopeId(7)

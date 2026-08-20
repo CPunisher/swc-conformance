@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-sideCalls ("sideCalls") -> #2
-side ("side") -> #2
-sideCalls ("sideCalls") -> #2
-keep ("keep") -> #2
-a ("a") -> #4
-b ("b") -> #4
-side ("side") -> #2
-a ("a") -> #4
-fnMultiUseDefaultSideEffect ("fnMultiUseDefaultSideEffect") -> #2
-value ("value") -> #5
-keep ("keep") -> #2
-value ("value") -> #5
-keep ("keep") -> #2
-value ("value") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+sideCalls ("sideCalls") -> ScopeId(2)
+side ("side") -> ScopeId(2)
+sideCalls ("sideCalls") -> ScopeId(2)
+keep ("keep") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+side ("side") -> ScopeId(2)
+a ("a") -> ScopeId(4)
+fnMultiUseDefaultSideEffect ("fnMultiUseDefaultSideEffect") -> ScopeId(2)
+value ("value") -> ScopeId(5)
+keep ("keep") -> ScopeId(2)
+value ("value") -> ScopeId(5)
+keep ("keep") -> ScopeId(2)
+value ("value") -> ScopeId(5)

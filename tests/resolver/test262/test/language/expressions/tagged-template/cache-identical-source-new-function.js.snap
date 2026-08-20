@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-tag ("tag") -> #2
-templateObject ("templateObject") -> #3
-previousObject ("previousObject") -> #2
-templateObject ("templateObject") -> #3
-a ("a") -> #2
-firstObject ("firstObject") -> #2
-previousObject ("previousObject") -> #2
-tag ("tag") -> #2
-a ("a") -> #2
-firstObject ("firstObject") -> #2
-previousObject ("previousObject") -> #2
-assert ("assert") -> #1
-firstObject ("firstObject") -> #2
-previousObject ("previousObject") -> #2
-Function ("Function") -> #1
-tag ("tag") -> #2
-assert ("assert") -> #1
-previousObject ("previousObject") -> #2
-firstObject ("firstObject") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+tag ("tag") -> ScopeId(2)
+templateObject ("templateObject") -> ScopeId(3)
+previousObject ("previousObject") -> ScopeId(2)
+templateObject ("templateObject") -> ScopeId(3)
+a ("a") -> ScopeId(2)
+firstObject ("firstObject") -> ScopeId(2)
+previousObject ("previousObject") -> ScopeId(2)
+tag ("tag") -> ScopeId(2)
+a ("a") -> ScopeId(2)
+firstObject ("firstObject") -> ScopeId(2)
+previousObject ("previousObject") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+firstObject ("firstObject") -> ScopeId(2)
+previousObject ("previousObject") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+tag ("tag") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+previousObject ("previousObject") -> ScopeId(2)
+firstObject ("firstObject") -> ScopeId(2)

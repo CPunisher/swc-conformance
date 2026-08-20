@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-obj ("obj") -> #2
-str ("str") -> #2
-key ("key") -> #3
-obj ("obj") -> #2
-str ("str") -> #2
-key ("key") -> #3
-assert ("assert") -> #1
-str ("str") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+obj ("obj") -> ScopeId(2)
+str ("str") -> ScopeId(2)
+key ("key") -> ScopeId(5)
+obj ("obj") -> ScopeId(2)
+str ("str") -> ScopeId(2)
+key ("key") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+str ("str") -> ScopeId(2)

@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-ns ("ns") -> #2
-verifyProperty ("verifyProperty") -> #1
-ns ("ns") -> #2
-Symbol ("Symbol") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns ("ns") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+ns ("ns") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)

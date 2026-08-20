@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #2
-foos ("foos") -> #3
-something ("something") -> #1
-foos ("foos") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(2)
+foos ("foos") -> ScopeId(3)
+something ("something") -> ScopeId(1)
+foos ("foos") -> ScopeId(3)

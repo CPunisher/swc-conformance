@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-g1 ("g1") -> #2
-g2 ("g2") -> #2
-assert ("assert") -> #1
-g1 ("g1") -> #2
-g2 ("g2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+g1 ("g1") -> ScopeId(2)
+g2 ("g2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+g1 ("g1") -> ScopeId(2)
+g2 ("g2") -> ScopeId(2)

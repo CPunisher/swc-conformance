@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-outer ("outer") -> #2
-f ("f") -> #3
-a ("a") -> #4
-a ("a") -> #4
-eval ("eval") -> #1
-inner ("inner") -> #3
-f ("f") -> #3
-inner ("inner") -> #3
-console ("console") -> #1
-outer ("outer") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+outer ("outer") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+eval ("eval") -> ScopeId(1)
+inner ("inner") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+inner ("inner") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+outer ("outer") -> ScopeId(2)

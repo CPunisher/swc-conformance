@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-newTarget ("newTarget") -> #2
-getNewTarget ("getNewTarget") -> #2
-newTarget ("newTarget") -> #2
-eval ("eval") -> #1
-getNewTarget ("getNewTarget") -> #2
-assert ("assert") -> #1
-newTarget ("newTarget") -> #2
-undefined ("undefined") -> #1
-getNewTarget ("getNewTarget") -> #2
-assert ("assert") -> #1
-newTarget ("newTarget") -> #2
-getNewTarget ("getNewTarget") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+newTarget ("newTarget") -> ScopeId(2)
+getNewTarget ("getNewTarget") -> ScopeId(2)
+newTarget ("newTarget") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+getNewTarget ("getNewTarget") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+newTarget ("newTarget") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+getNewTarget ("getNewTarget") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+newTarget ("newTarget") -> ScopeId(2)
+getNewTarget ("getNewTarget") -> ScopeId(2)

@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-v ("v") -> #3
-v ("v") -> #3
-arrowFunction ("arrowFunction") -> #4
-arrowFunction ("arrowFunction") -> #4
-c ("c") -> #2
-C ("C") -> #2
-c ("c") -> #2
-assert ("assert") -> #1
-c ("c") -> #2
-o ("o") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-c ("c") -> #2
-o ("o") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+v ("v") -> ScopeId(4)
+v ("v") -> ScopeId(4)
+arrowFunction ("arrowFunction") -> ScopeId(5)
+arrowFunction ("arrowFunction") -> ScopeId(5)
+c ("c") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+c ("c") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+c ("c") -> ScopeId(2)
+o ("o") -> ScopeId(2)

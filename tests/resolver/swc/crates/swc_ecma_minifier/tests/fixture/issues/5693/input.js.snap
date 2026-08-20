@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-API ("API") -> #1
-target ("target") -> #3
-base ("base") -> #3
-dsn ("dsn") -> #3
-base ("base") -> #3
-dsn ("dsn") -> #3
-target ("target") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+API ("API") -> ScopeId(1)
+target ("target") -> ScopeId(3)
+base ("base") -> ScopeId(3)
+dsn ("dsn") -> ScopeId(3)
+base ("base") -> ScopeId(3)
+dsn ("dsn") -> ScopeId(3)
+target ("target") -> ScopeId(3)

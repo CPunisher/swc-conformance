@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-log ("log") -> #2
-source ("source") -> #2
-log ("log") -> #2
-log ("log") -> #2
-target ("target") -> #2
-log ("log") -> #2
-v ("v") -> #6
-log ("log") -> #2
-sourceKey ("sourceKey") -> #2
-log ("log") -> #2
-log ("log") -> #2
-targetKey ("targetKey") -> #2
-log ("log") -> #2
-log ("log") -> #2
-sourceKey ("sourceKey") -> #2
-target ("target") -> #2
-targetKey ("targetKey") -> #2
-source ("source") -> #2
-assert ("assert") -> #1
-log ("log") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+log ("log") -> ScopeId(2)
+source ("source") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+target ("target") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+v ("v") -> ScopeId(8)
+log ("log") -> ScopeId(2)
+sourceKey ("sourceKey") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+targetKey ("targetKey") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+log ("log") -> ScopeId(2)
+sourceKey ("sourceKey") -> ScopeId(2)
+target ("target") -> ScopeId(2)
+targetKey ("targetKey") -> ScopeId(2)
+source ("source") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+log ("log") -> ScopeId(2)

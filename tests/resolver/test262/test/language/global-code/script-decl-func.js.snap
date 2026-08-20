@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-$262 ("$262") -> #1
-assert ("assert") -> #1
-brandNew ("brandNew") -> #1
-verifyProperty ("verifyProperty") -> #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-Object ("Object") -> #1
-$262 ("$262") -> #1
-assert ("assert") -> #1
-configurable ("configurable") -> #1
-verifyProperty ("verifyProperty") -> #1
-$262 ("$262") -> #1
-assert ("assert") -> #1
-nonConfigurable ("nonConfigurable") -> #1
-verifyProperty ("verifyProperty") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+brandNew ("brandNew") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+configurable ("configurable") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+nonConfigurable ("nonConfigurable") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)

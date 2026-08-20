@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-defaultMessage ("defaultMessage") -> #2
-foo ("foo") -> #2
-a ("a") -> #3
-b ("b") -> #3
-defaultMessage ("defaultMessage") -> #2
-a ("a") -> #3
-bar ("bar") -> #2
-x ("x") -> #4
-y ("y") -> #4
-z ("z") -> #4
-x ("x") -> #4
-y ("y") -> #4
-example ("example") -> #2
-foo ("foo") -> #2
-bar ("bar") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+defaultMessage ("defaultMessage") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+defaultMessage ("defaultMessage") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+bar ("bar") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+y ("y") -> ScopeId(4)
+z ("z") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+y ("y") -> ScopeId(4)
+example ("example") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+bar ("bar") -> ScopeId(2)

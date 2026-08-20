@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-FACTORY ("FACTORY") -> #2
-obj ("obj") -> #2
-FACTORY ("FACTORY") -> #2
-e ("e") -> #6
-Test262Error ("Test262Error") -> #1
-e ("e") -> #6
-obj ("obj") -> #2
-Test262Error ("Test262Error") -> #1
-obj ("obj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+FACTORY ("FACTORY") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+FACTORY ("FACTORY") -> ScopeId(2)
+e ("e") -> ScopeId(6)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(6)
+obj ("obj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)

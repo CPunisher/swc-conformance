@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-result ("result") -> #2
-factory ("factory") -> #3
-factory ("factory") -> #3
-error ("error") -> #5
-error ("error") -> #5
-console ("console") -> #1
-result ("result") -> #2
-Array ("Array") -> #1
-result ("result") -> #2
-Array ("Array") -> #1
-result ("result") -> #2
-Array ("Array") -> #1
-result ("result") -> #2
-Array ("Array") -> #1
-result ("result") -> #2
-Array ("Array") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+result ("result") -> ScopeId(2)
+factory ("factory") -> ScopeId(3)
+factory ("factory") -> ScopeId(3)
+error ("error") -> ScopeId(5)
+error ("error") -> ScopeId(5)
+console ("console") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)

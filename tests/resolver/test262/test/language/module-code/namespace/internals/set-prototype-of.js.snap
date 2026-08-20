@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-ns ("ns") -> #2
-newProto ("newProto") -> #2
-assert ("assert") -> #1
-Object ("Object") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-Object ("Object") -> #1
-ns ("ns") -> #2
-newProto ("newProto") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns ("ns") -> ScopeId(2)
+newProto ("newProto") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+ns ("ns") -> ScopeId(2)
+newProto ("newProto") -> ScopeId(2)

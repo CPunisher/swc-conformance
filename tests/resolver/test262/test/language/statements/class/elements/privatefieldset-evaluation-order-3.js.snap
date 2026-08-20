@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-Base ("Base") -> #2
-o ("o") -> #3
-o ("o") -> #3
-C ("C") -> #2
-init ("init") -> #4
-C ("C") -> #2
-object ("object") -> #4
-init ("init") -> #4
-object ("object") -> #4
-assert ("assert") -> #1
-Base ("Base") -> #2
-C ("C") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Base ("Base") -> ScopeId(2)
+o ("o") -> ScopeId(4)
+o ("o") -> ScopeId(4)
+C ("C") -> ScopeId(2)
+init ("init") -> ScopeId(6)
+C ("C") -> ScopeId(2)
+object ("object") -> ScopeId(6)
+init ("init") -> ScopeId(6)
+object ("object") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)
+C ("C") -> ScopeId(2)

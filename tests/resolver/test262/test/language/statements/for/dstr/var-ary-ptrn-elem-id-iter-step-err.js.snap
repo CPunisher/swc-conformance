@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-g ("g") -> #2
-g ("g") -> #2
-Symbol ("Symbol") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-x ("x") -> #5
-g ("g") -> #2
-iterCount ("iterCount") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+g ("g") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+x ("x") -> ScopeId(7)
+g ("g") -> ScopeId(2)
+iterCount ("iterCount") -> ScopeId(1)

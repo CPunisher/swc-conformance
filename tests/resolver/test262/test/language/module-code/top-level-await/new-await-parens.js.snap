@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-Number ("Number") -> #1
-assert ("assert") -> #1
-String ("String") -> #1
-assert ("assert") -> #1
-Boolean ("Boolean") -> #1
-assert ("assert") -> #1
-Array ("Array") -> #1
-assert ("assert") -> #1
-Map ("Map") -> #1
-assert ("assert") -> #1
-Set ("Set") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Number ("Number") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+String ("String") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Boolean ("Boolean") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Array ("Array") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Map ("Map") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Set ("Set") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

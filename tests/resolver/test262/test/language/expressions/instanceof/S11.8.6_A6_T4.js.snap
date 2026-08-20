@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-MyFunct ("MyFunct") -> #2
-__my__funct ("__my__funct") -> #2
-MyFunct ("MyFunct") -> #2
-__my__funct ("__my__funct") -> #2
-MyFunct ("MyFunct") -> #2
-Test262Error ("Test262Error") -> #1
-__my__funct ("__my__funct") -> #2
-Function ("Function") -> #1
-Test262Error ("Test262Error") -> #1
-__my__funct ("__my__funct") -> #2
-Object ("Object") -> #1
-Test262Error ("Test262Error") -> #1
-__my__funct ("__my__funct") -> #2
-__my__funct ("__my__funct") -> #2
-Test262Error ("Test262Error") -> #1
-e ("e") -> #8
-e ("e") -> #8
-TypeError ("TypeError") -> #1
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+MyFunct ("MyFunct") -> ScopeId(2)
+__my__funct ("__my__funct") -> ScopeId(2)
+MyFunct ("MyFunct") -> ScopeId(2)
+__my__funct ("__my__funct") -> ScopeId(2)
+MyFunct ("MyFunct") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__my__funct ("__my__funct") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__my__funct ("__my__funct") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__my__funct ("__my__funct") -> ScopeId(2)
+__my__funct ("__my__funct") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(8)
+e ("e") -> ScopeId(8)
+TypeError ("TypeError") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)

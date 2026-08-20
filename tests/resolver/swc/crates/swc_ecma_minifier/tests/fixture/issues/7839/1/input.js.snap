@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-createCaseFirst ("createCaseFirst") -> #2
-g ("g") -> #3
-methodName ("methodName") -> #3
-chr ("chr") -> #3
-g ("g") -> #3
-console ("console") -> #1
-chr ("chr") -> #3
-methodName ("methodName") -> #3
-trailing ("trailing") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+createCaseFirst ("createCaseFirst") -> ScopeId(2)
+g ("g") -> ScopeId(3)
+methodName ("methodName") -> ScopeId(3)
+chr ("chr") -> ScopeId(3)
+g ("g") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+chr ("chr") -> ScopeId(3)
+methodName ("methodName") -> ScopeId(3)
+trailing ("trailing") -> ScopeId(1)

@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-initialBV ("initialBV") -> #2
-currentBV ("currentBV") -> #2
-f ("f") -> #2
-initialBV ("initialBV") -> #2
-f ("f") -> #2
-f ("f") -> #2
-currentBV ("currentBV") -> #2
-f ("f") -> #2
-f ("f") -> #2
-assert ("assert") -> #1
-initialBV ("initialBV") -> #2
-assert ("assert") -> #1
-currentBV ("currentBV") -> #2
-assert ("assert") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+initialBV ("initialBV") -> ScopeId(2)
+currentBV ("currentBV") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+initialBV ("initialBV") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+currentBV ("currentBV") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+initialBV ("initialBV") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+currentBV ("currentBV") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+f ("f") -> ScopeId(2)

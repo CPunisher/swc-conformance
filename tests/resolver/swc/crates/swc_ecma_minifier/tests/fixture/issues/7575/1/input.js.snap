@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-envKey ("envKey") -> #2
-environmentResolver ("environmentResolver") -> #2
-envKey ("envKey") -> #2
-envKey ("envKey") -> #2
-envKey ("envKey") -> #2
-envKey ("envKey") -> #2
-Error ("Error") -> #1
-envKey ("envKey") -> #2
-environment ("environment") -> #2
-environmentResolver ("environmentResolver") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+envKey ("envKey") -> ScopeId(2)
+environmentResolver ("environmentResolver") -> ScopeId(2)
+envKey ("envKey") -> ScopeId(2)
+envKey ("envKey") -> ScopeId(2)
+envKey ("envKey") -> ScopeId(2)
+envKey ("envKey") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+envKey ("envKey") -> ScopeId(2)
+environment ("environment") -> ScopeId(2)
+environmentResolver ("environmentResolver") -> ScopeId(2)

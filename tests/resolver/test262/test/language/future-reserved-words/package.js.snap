@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-package ("package") -> #2
-pack\u0061ge ("pack\\u0061ge") -> #2
-package ("package") -> #3
-pack\u0061ge ("pack\\u0061ge") -> #4
-package ("package") -> #5
-pack\u0061ge ("pack\\u0061ge") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+package ("package") -> ScopeId(2)
+pack\u0061ge ("pack\\u0061ge") -> ScopeId(2)
+package ("package") -> ScopeId(3)
+pack\u0061ge ("pack\\u0061ge") -> ScopeId(4)
+package ("package") -> ScopeId(5)
+pack\u0061ge ("pack\\u0061ge") -> ScopeId(6)

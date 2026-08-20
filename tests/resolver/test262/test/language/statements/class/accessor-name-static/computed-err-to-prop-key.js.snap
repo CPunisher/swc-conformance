@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-badKey ("badKey") -> #2
-Object ("Object") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #3
-badKey ("badKey") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #5
-badKey ("badKey") -> #2
-_ ("_") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+badKey ("badKey") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(3)
+badKey ("badKey") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(6)
+badKey ("badKey") -> ScopeId(2)
+_ ("_") -> ScopeId(8)

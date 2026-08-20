@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-executed ("executed") -> #2
-Object ("Object") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-$262 ("$262") -> #1
-assert ("assert") -> #1
-executed ("executed") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+executed ("executed") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+$262 ("$262") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+executed ("executed") -> ScopeId(2)

@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-context ("context") -> #2
-fn ("fn") -> #2
-context ("context") -> #2
-fn ("fn") -> #2
-assert ("assert") -> #1
-context ("context") -> #2
-undefined ("undefined") -> #1
-fn ("fn") -> #2
-context ("context") -> #2
-context ("context") -> #2
-fn ("fn") -> #2
-assert ("assert") -> #1
-context ("context") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+context ("context") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+context ("context") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+context ("context") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)
+context ("context") -> ScopeId(2)
+context ("context") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+context ("context") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-iterCount ("iterCount") -> #2
-x ("x") -> #2
-y ("y") -> #2
-z ("z") -> #2
-undefined ("undefined") -> #1
-iterCount ("iterCount") -> #2
-assert ("assert") -> #1
-x ("x") -> #2
-assert ("assert") -> #1
-y ("y") -> #2
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-z ("z") -> #2
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-w ("w") -> #1
-iterCount ("iterCount") -> #2
-assert ("assert") -> #1
-iterCount ("iterCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+y ("y") -> ScopeId(2)
+z ("z") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+y ("y") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+z ("z") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+w ("w") -> ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iterCount ("iterCount") -> ScopeId(2)

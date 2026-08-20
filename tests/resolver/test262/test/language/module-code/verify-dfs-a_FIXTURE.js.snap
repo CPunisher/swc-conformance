@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-evaluated ("evaluated") -> #2
-check ("check") -> #2
-check ("check") -> #2
-evaluated ("evaluated") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+evaluated ("evaluated") -> ScopeId(2)
+check ("check") -> ScopeId(2)
+check ("check") -> ScopeId(2)
+evaluated ("evaluated") -> ScopeId(2)

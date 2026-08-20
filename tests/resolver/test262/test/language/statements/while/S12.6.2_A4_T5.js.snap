@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-i ("i") -> #2
-woohoo ("woohoo") -> #0
-i ("i") -> #2
-i ("i") -> #2
-woohoo ("woohoo") -> #0
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-i ("i") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+i ("i") -> ScopeId(2)
+woohoo ("woohoo") -> ScopeId(4294967295)
+i ("i") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+woohoo ("woohoo") -> ScopeId(4294967295)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+i ("i") -> ScopeId(2)

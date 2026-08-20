@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-__e ("__e") -> #2
-Math ("Math") -> #1
-Math ("Math") -> #1
-Math ("Math") -> #1
-__e ("__e") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__e ("__e") -> ScopeId(2)
+Math ("Math") -> ScopeId(1)
+Math ("Math") -> ScopeId(1)
+Math ("Math") -> ScopeId(1)
+__e ("__e") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

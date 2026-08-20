@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #3
-arg ("arg") -> #4
-arg ("arg") -> #4
-arg ("arg") -> #4
-arg ("arg") -> #4
-foo ("foo") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(3)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+arg ("arg") -> ScopeId(4)
+foo ("foo") -> ScopeId(3)

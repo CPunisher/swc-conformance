@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-withinLimit ("withinLimit") -> #2
-arguments ("arguments") -> #1
-exceedsLimit ("exceedsLimit") -> #2
-arguments ("arguments") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+withinLimit ("withinLimit") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+exceedsLimit ("exceedsLimit") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)

@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-z ("z") -> #2
-z ("z") -> #3
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-z ("z") -> #2
-obj ("obj") -> #4
-Symbol ("Symbol") -> #1
-z ("z") -> #4
-obj ("obj") -> #4
-assert ("assert") -> #1
-z ("z") -> #4
-obj ("obj") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+z ("z") -> ScopeId(2)
+z ("z") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+z ("z") -> ScopeId(2)
+obj ("obj") -> ScopeId(4)
+Symbol ("Symbol") -> ScopeId(1)
+z ("z") -> ScopeId(4)
+obj ("obj") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+z ("z") -> ScopeId(4)
+obj ("obj") -> ScopeId(4)

@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-caught ("caught") -> #2
-C ("C") -> #2
-test262unresolvable ("test262unresolvable") -> #1
-err ("err") -> #5
-caught ("caught") -> #2
-err ("err") -> #5
-C ("C") -> #2
-assert ("assert") -> #1
-caught ("caught") -> #2
-assert ("assert") -> #1
-caught ("caught") -> #2
-ReferenceError ("ReferenceError") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+caught ("caught") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+test262unresolvable ("test262unresolvable") -> ScopeId(1)
+err ("err") -> ScopeId(6)
+caught ("caught") -> ScopeId(2)
+err ("err") -> ScopeId(6)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+caught ("caught") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+caught ("caught") -> ScopeId(2)
+ReferenceError ("ReferenceError") -> ScopeId(1)

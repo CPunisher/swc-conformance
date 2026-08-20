@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-flag1 ("flag1") -> #2
-flag2 ("flag2") -> #2
-x ("x") -> #2
-y ("y") -> #2
-result ("result") -> #2
-vals ("vals") -> #2
-result ("result") -> #2
-x ("x") -> #2
-flag1 ("flag1") -> #2
-y ("y") -> #2
-flag2 ("flag2") -> #2
-vals ("vals") -> #2
-assert ("assert") -> #1
-flag1 ("flag1") -> #2
-assert ("assert") -> #1
-flag2 ("flag2") -> #2
-assert ("assert") -> #1
-result ("result") -> #2
-vals ("vals") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+flag1 ("flag1") -> ScopeId(2)
+flag2 ("flag2") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+y ("y") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+flag1 ("flag1") -> ScopeId(2)
+y ("y") -> ScopeId(2)
+flag2 ("flag2") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+flag1 ("flag1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+flag2 ("flag2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)

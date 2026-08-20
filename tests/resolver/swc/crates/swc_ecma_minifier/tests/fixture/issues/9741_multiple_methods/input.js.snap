@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-a ("a") -> #2
-Object ("Object") -> #1
-b ("b") -> #2
-Object ("Object") -> #1
-c ("c") -> #2
-Object ("Object") -> #1
-d ("d") -> #2
-Object ("Object") -> #1
-e ("e") -> #2
-Array ("Array") -> #1
-f ("f") -> #2
-Array ("Array") -> #1
-console ("console") -> #1
-a ("a") -> #2
-b ("b") -> #2
-c ("c") -> #2
-d ("d") -> #2
-e ("e") -> #2
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+a ("a") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+b ("b") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+c ("c") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+d ("d") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+e ("e") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(2)
+b ("b") -> ScopeId(2)
+c ("c") -> ScopeId(2)
+d ("d") -> ScopeId(2)
+e ("e") -> ScopeId(2)
+f ("f") -> ScopeId(2)

@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-Scouts ("Scouts") -> #2
-Mercury ("Mercury") -> #0
-assert ("assert") -> #1
-Scouts ("Scouts") -> #2
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-Scouts ("Scouts") -> #2
-globalThis ("globalThis") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Scouts ("Scouts") -> ScopeId(2)
+Mercury ("Mercury") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Scouts ("Scouts") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Scouts ("Scouts") -> ScopeId(2)
+globalThis ("globalThis") -> ScopeId(1)

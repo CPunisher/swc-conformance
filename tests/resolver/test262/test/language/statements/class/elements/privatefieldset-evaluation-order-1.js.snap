@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-init ("init") -> #3
-object ("object") -> #3
-init ("init") -> #3
-object ("object") -> #3
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-C ("C") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+init ("init") -> ScopeId(5)
+object ("object") -> ScopeId(5)
+init ("init") -> ScopeId(5)
+object ("object") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+C ("C") -> ScopeId(2)

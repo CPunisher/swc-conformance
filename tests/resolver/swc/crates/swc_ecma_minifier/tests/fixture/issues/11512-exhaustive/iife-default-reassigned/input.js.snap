@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-iifeDefaultReassigned ("iifeDefaultReassigned") -> #2
-value ("value") -> #3
-a ("a") -> #4
-b ("b") -> #4
-b ("b") -> #4
-a ("a") -> #4
-value ("value") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iifeDefaultReassigned ("iifeDefaultReassigned") -> ScopeId(2)
+value ("value") -> ScopeId(3)
+a ("a") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+value ("value") -> ScopeId(3)

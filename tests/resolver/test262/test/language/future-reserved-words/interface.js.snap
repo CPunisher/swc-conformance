@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-interface ("interface") -> #2
-int\u0065rface ("int\\u0065rface") -> #2
-interface ("interface") -> #3
-int\u0065rface ("int\\u0065rface") -> #4
-interface ("interface") -> #5
-int\u0065rface ("int\\u0065rface") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+interface ("interface") -> ScopeId(2)
+int\u0065rface ("int\\u0065rface") -> ScopeId(2)
+interface ("interface") -> ScopeId(3)
+int\u0065rface ("int\\u0065rface") -> ScopeId(4)
+interface ("interface") -> ScopeId(5)
+int\u0065rface ("int\\u0065rface") -> ScopeId(6)

@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-test ("test") -> #2
-l ("l") -> #3
-i ("i") -> #1
-l ("l") -> #3
-console ("console") -> #1
-window ("window") -> #1
-test ("test") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test ("test") -> ScopeId(2)
+l ("l") -> ScopeId(3)
+i ("i") -> ScopeId(1)
+l ("l") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+window ("window") -> ScopeId(1)
+test ("test") -> ScopeId(2)

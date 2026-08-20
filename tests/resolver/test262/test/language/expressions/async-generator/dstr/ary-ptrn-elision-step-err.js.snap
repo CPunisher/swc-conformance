@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-following ("following") -> #2
-iter ("iter") -> #2
-Test262Error ("Test262Error") -> #1
-following ("following") -> #2
-f ("f") -> #2
-f ("f") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
-iter ("iter") -> #2
-iter ("iter") -> #2
-assert ("assert") -> #1
-following ("following") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+following ("following") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+following ("following") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+following ("following") -> ScopeId(2)

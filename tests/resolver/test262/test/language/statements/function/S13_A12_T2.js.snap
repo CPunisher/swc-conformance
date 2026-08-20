@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-ALIVE ("ALIVE") -> #1
-__cont ("__cont") -> #2
-__func ("__func") -> #3
-ALIVE ("ALIVE") -> #1
-__func ("__func") -> #3
-Test262Error ("Test262Error") -> #1
-__func ("__func") -> #3
-ALIVE ("ALIVE") -> #1
-Test262Error ("Test262Error") -> #1
-__func ("__func") -> #3
-__cont ("__cont") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ALIVE ("ALIVE") -> ScopeId(1)
+__cont ("__cont") -> ScopeId(2)
+__func ("__func") -> ScopeId(3)
+ALIVE ("ALIVE") -> ScopeId(1)
+__func ("__func") -> ScopeId(3)
+Test262Error ("Test262Error") -> ScopeId(1)
+__func ("__func") -> ScopeId(3)
+ALIVE ("ALIVE") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__func ("__func") -> ScopeId(3)
+__cont ("__cont") -> ScopeId(2)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-example ("example") -> #2
-MyEnum ("MyEnum") -> #3
-MyEnumInner ("MyEnumInner") -> #4
-MyEnumInner ("MyEnumInner") -> #4
-MyEnumInner ("MyEnumInner") -> #4
-MyEnumInner ("MyEnumInner") -> #4
-MyEnum ("MyEnum") -> #3
-MyEnum ("MyEnum") -> #3
-example ("example") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+example ("example") -> ScopeId(2)
+MyEnum ("MyEnum") -> ScopeId(3)
+MyEnumInner ("MyEnumInner") -> ScopeId(4)
+MyEnumInner ("MyEnumInner") -> ScopeId(4)
+MyEnumInner ("MyEnumInner") -> ScopeId(4)
+MyEnumInner ("MyEnumInner") -> ScopeId(4)
+MyEnum ("MyEnum") -> ScopeId(3)
+MyEnum ("MyEnum") -> ScopeId(3)
+example ("example") -> ScopeId(2)

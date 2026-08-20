@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-nonExtensible ("nonExtensible") -> #2
-Object ("Object") -> #1
-nonExtensible ("nonExtensible") -> #2
-Object ("Object") -> #1
-e ("e") -> #4
-nonExtensible ("nonExtensible") -> #2
-nonExtensible ("nonExtensible") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-eval ("eval") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+nonExtensible ("nonExtensible") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+nonExtensible ("nonExtensible") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+nonExtensible ("nonExtensible") -> ScopeId(2)
+nonExtensible ("nonExtensible") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)

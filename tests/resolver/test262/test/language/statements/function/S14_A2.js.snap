@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #1
-f ("f") -> #4
-arg ("arg") -> #5
-arg ("arg") -> #5
-f ("f") -> #4
-arg ("arg") -> #5
-arg ("arg") -> #5
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(1)
+f ("f") -> ScopeId(4)
+arg ("arg") -> ScopeId(5)
+arg ("arg") -> ScopeId(5)
+f ("f") -> ScopeId(4)
+arg ("arg") -> ScopeId(5)
+arg ("arg") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)

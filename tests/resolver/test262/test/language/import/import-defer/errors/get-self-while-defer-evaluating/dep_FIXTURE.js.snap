@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-ns ("ns") -> #2
-ns ("ns") -> #2
-error ("error") -> #4
-globalThis ("globalThis") -> #1
-error ("error") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns ("ns") -> ScopeId(2)
+ns ("ns") -> ScopeId(2)
+error ("error") -> ScopeId(4)
+globalThis ("globalThis") -> ScopeId(1)
+error ("error") -> ScopeId(4)

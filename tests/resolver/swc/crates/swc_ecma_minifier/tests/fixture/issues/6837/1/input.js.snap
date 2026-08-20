@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-Class1 ("Class1") -> #2
-isClass2 ("isClass2") -> #2
-node ("node") -> #3
-node ("node") -> #3
-Class2 ("Class2") -> #2
-Class1 ("Class1") -> #2
-isClass2 ("isClass2") -> #2
-Class2 ("Class2") -> #2
-var1 ("var1") -> #5
-function1 ("function1") -> #5
-var1 ("var1") -> #5
-Class2 ("Class2") -> #2
-function1 ("function1") -> #5
-console ("console") -> #1
-var1 ("var1") -> #5
-Class1 ("Class1") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Class1 ("Class1") -> ScopeId(2)
+isClass2 ("isClass2") -> ScopeId(2)
+node ("node") -> ScopeId(4)
+node ("node") -> ScopeId(4)
+Class2 ("Class2") -> ScopeId(2)
+Class1 ("Class1") -> ScopeId(2)
+isClass2 ("isClass2") -> ScopeId(2)
+Class2 ("Class2") -> ScopeId(2)
+var1 ("var1") -> ScopeId(7)
+function1 ("function1") -> ScopeId(7)
+var1 ("var1") -> ScopeId(7)
+Class2 ("Class2") -> ScopeId(2)
+function1 ("function1") -> ScopeId(7)
+console ("console") -> ScopeId(1)
+var1 ("var1") -> ScopeId(7)
+Class1 ("Class1") -> ScopeId(2)

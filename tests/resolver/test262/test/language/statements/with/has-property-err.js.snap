@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-thrower ("thrower") -> #2
-Proxy ("Proxy") -> #1
-_ ("_") -> #3
-name ("name") -> #3
-name ("name") -> #3
-Test262Error ("Test262Error") -> #1
-thrower ("thrower") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-test262 ("test262") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thrower ("thrower") -> ScopeId(2)
+Proxy ("Proxy") -> ScopeId(1)
+_ ("_") -> ScopeId(5)
+name ("name") -> ScopeId(5)
+name ("name") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+thrower ("thrower") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+test262 ("test262") -> ScopeId(1)

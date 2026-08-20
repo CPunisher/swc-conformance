@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-p_inf ("p_inf") -> #2
-Infinity ("Infinity") -> #1
-inf ("inf") -> #2
-Infinity ("Infinity") -> #1
-p_inf ("p_inf") -> #2
-inf ("inf") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+p_inf ("p_inf") -> ScopeId(2)
+Infinity ("Infinity") -> ScopeId(1)
+inf ("inf") -> ScopeId(2)
+Infinity ("Infinity") -> ScopeId(1)
+p_inf ("p_inf") -> ScopeId(2)
+inf ("inf") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

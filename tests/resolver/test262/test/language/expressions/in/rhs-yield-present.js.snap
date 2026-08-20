@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-isNameIn ("isNameIn") -> #2
-iter1 ("iter1") -> #2
-isNameIn ("isNameIn") -> #2
-iter1 ("iter1") -> #2
-assert ("assert") -> #1
-iter1 ("iter1") -> #2
-iter2 ("iter2") -> #2
-isNameIn ("isNameIn") -> #2
-iter2 ("iter2") -> #2
-assert ("assert") -> #1
-iter2 ("iter2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+isNameIn ("isNameIn") -> ScopeId(2)
+iter1 ("iter1") -> ScopeId(2)
+isNameIn ("isNameIn") -> ScopeId(2)
+iter1 ("iter1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter1 ("iter1") -> ScopeId(2)
+iter2 ("iter2") -> ScopeId(2)
+isNameIn ("isNameIn") -> ScopeId(2)
+iter2 ("iter2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iter2 ("iter2") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-verifyProperty ("verifyProperty") -> #1
-verifyProperty ("verifyProperty") -> #1
-cls ("cls") -> #3
-verifyProperty ("verifyProperty") -> #1
-verifyProperty ("verifyProperty") -> #1
-cls ("cls") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+cls ("cls") -> ScopeId(5)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+cls ("cls") -> ScopeId(10)

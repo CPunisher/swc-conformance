@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-AsyncFunction ("AsyncFunction") -> #2
-getWellKnownIntrinsicObject ("getWellKnownIntrinsicObject") -> #1
-assert ("assert") -> #1
-Object ("Object") -> #1
-AsyncFunction ("AsyncFunction") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+AsyncFunction ("AsyncFunction") -> ScopeId(2)
+getWellKnownIntrinsicObject ("getWellKnownIntrinsicObject") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+AsyncFunction ("AsyncFunction") -> ScopeId(2)

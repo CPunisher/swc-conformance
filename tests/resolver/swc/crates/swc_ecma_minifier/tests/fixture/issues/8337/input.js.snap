@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-allowInAnd ("allowInAnd") -> #2
-callback ("callback") -> #3
-flags ("flags") -> #3
-prodParamToSet ("prodParamToSet") -> #3
-ParamKind ("ParamKind") -> #1
-flags ("flags") -> #3
-prodParamToSet ("prodParamToSet") -> #3
-flags ("flags") -> #3
-ParamKind ("ParamKind") -> #1
-callback ("callback") -> #3
-callback ("callback") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+allowInAnd ("allowInAnd") -> ScopeId(2)
+callback ("callback") -> ScopeId(3)
+flags ("flags") -> ScopeId(3)
+prodParamToSet ("prodParamToSet") -> ScopeId(3)
+ParamKind ("ParamKind") -> ScopeId(1)
+flags ("flags") -> ScopeId(3)
+prodParamToSet ("prodParamToSet") -> ScopeId(3)
+flags ("flags") -> ScopeId(3)
+ParamKind ("ParamKind") -> ScopeId(1)
+callback ("callback") -> ScopeId(3)
+callback ("callback") -> ScopeId(3)

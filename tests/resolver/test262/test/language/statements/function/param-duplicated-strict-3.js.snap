@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-_13_1_7_fun ("_13_1_7_fun") -> #2
-param ("param") -> #3
-param ("param") -> #3
-param ("param") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+_13_1_7_fun ("_13_1_7_fun") -> ScopeId(2)
+param ("param") -> ScopeId(3)
+param ("param") -> ScopeId(3)
+param ("param") -> ScopeId(3)

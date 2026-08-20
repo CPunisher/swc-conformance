@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-__func ("__func") -> #2
-is_undef ("is_undef") -> #3
-i ("i") -> #3
-i ("i") -> #3
-arguments ("arguments") -> #1
-i ("i") -> #3
-arguments ("arguments") -> #1
-i ("i") -> #3
-is_undef ("is_undef") -> #3
-is_undef ("is_undef") -> #3
-arguments ("arguments") -> #1
-i ("i") -> #3
-is_undef ("is_undef") -> #3
-__func ("__func") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func ("__func") -> ScopeId(2)
+is_undef ("is_undef") -> ScopeId(3)
+i ("i") -> ScopeId(3)
+i ("i") -> ScopeId(3)
+arguments ("arguments") -> ScopeId(1)
+i ("i") -> ScopeId(3)
+arguments ("arguments") -> ScopeId(1)
+i ("i") -> ScopeId(3)
+is_undef ("is_undef") -> ScopeId(3)
+is_undef ("is_undef") -> ScopeId(3)
+arguments ("arguments") -> ScopeId(1)
+i ("i") -> ScopeId(3)
+is_undef ("is_undef") -> ScopeId(3)
+__func ("__func") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

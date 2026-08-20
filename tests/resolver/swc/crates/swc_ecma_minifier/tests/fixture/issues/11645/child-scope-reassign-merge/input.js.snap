@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-run ("run") -> #2
-cond ("cond") -> #3
-f ("f") -> #3
-a ("a") -> #4
-a ("a") -> #4
-cond ("cond") -> #3
-f ("f") -> #3
-a ("a") -> #6
-b ("b") -> #6
-b ("b") -> #6
-f ("f") -> #3
-console ("console") -> #1
-run ("run") -> #2
-run ("run") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+run ("run") -> ScopeId(2)
+cond ("cond") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+cond ("cond") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+a ("a") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+f ("f") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+run ("run") -> ScopeId(2)
+run ("run") -> ScopeId(2)

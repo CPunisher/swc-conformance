@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-test262let ("test262let") -> #2
-test262let ("test262let") -> #2
-assert ("assert") -> #1
-test262let ("test262let") -> #2
-assert ("assert") -> #1
-test262const ("test262const") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-test262const ("test262const") -> #2
-assert ("assert") -> #1
-test262const ("test262const") -> #2
-assert ("assert") -> #1
-test262class ("test262class") -> #2
-test262class ("test262class") -> #2
-assert ("assert") -> #1
-test262class ("test262class") -> #2
-assert ("assert") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test262let ("test262let") -> ScopeId(2)
+test262let ("test262let") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+test262let ("test262let") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+test262const ("test262const") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+test262const ("test262const") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+test262const ("test262const") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+test262class ("test262class") -> ScopeId(2)
+test262class ("test262class") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+test262class ("test262class") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)

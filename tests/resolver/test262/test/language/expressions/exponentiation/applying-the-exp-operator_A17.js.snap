@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-base ("base") -> #2
-exponents ("exponents") -> #2
-exponents ("exponents") -> #2
-Infinity ("Infinity") -> #1
-exponents ("exponents") -> #2
-exponents ("exponents") -> #2
-exponents ("exponents") -> #2
-i ("i") -> #2
-i ("i") -> #2
-exponents ("exponents") -> #2
-i ("i") -> #2
-base ("base") -> #2
-exponents ("exponents") -> #2
-i ("i") -> #2
-Test262Error ("Test262Error") -> #1
-base ("base") -> #2
-exponents ("exponents") -> #2
-i ("i") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+base ("base") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+Infinity ("Infinity") -> ScopeId(1)
+exponents ("exponents") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+base ("base") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+base ("base") -> ScopeId(2)
+exponents ("exponents") -> ScopeId(2)
+i ("i") -> ScopeId(2)

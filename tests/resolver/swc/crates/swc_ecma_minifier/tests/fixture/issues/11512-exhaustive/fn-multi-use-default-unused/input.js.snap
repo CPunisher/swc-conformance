@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-id ("id") -> #2
-a ("a") -> #3
-b ("b") -> #3
-a ("a") -> #3
-fnMultiUseDefaultUnused ("fnMultiUseDefaultUnused") -> #2
-value ("value") -> #4
-id ("id") -> #2
-value ("value") -> #4
-id ("id") -> #2
-value ("value") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+id ("id") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+fnMultiUseDefaultUnused ("fnMultiUseDefaultUnused") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+id ("id") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+id ("id") -> ScopeId(2)
+value ("value") -> ScopeId(4)

@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-proto ("proto") -> #2
-proto2 ("proto2") -> #2
-obj ("obj") -> #2
-proto ("proto") -> #2
-key ("key") -> #2
-key ("key") -> #2
-Object ("Object") -> #1
-obj ("obj") -> #2
-proto2 ("proto2") -> #2
-assert ("assert") -> #1
-obj ("obj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+proto ("proto") -> ScopeId(2)
+proto2 ("proto2") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+proto ("proto") -> ScopeId(2)
+key ("key") -> ScopeId(2)
+key ("key") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+proto2 ("proto2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)

@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-thrower ("thrower") -> #2
-Error ("Error") -> #1
-value ("value") -> #1
-property ("property") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thrower ("thrower") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+value ("value") -> ScopeId(1)
+property ("property") -> ScopeId(1)

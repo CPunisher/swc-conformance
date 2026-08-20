@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-tempIndex ("tempIndex") -> #3
-assert ("assert") -> #1
-tempIndex ("tempIndex") -> #3
-foo ("foo") -> #2
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+tempIndex ("tempIndex") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+tempIndex ("tempIndex") -> ScopeId(3)
+foo ("foo") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)

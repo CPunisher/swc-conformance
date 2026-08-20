@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-await ("await") -> #2
-fromParam ("fromParam") -> #2
-fromBody ("fromBody") -> #2
-C ("C") -> #2
-x ("x") -> #4
-fromParam ("fromParam") -> #2
-await ("await") -> #2
-fromBody ("fromBody") -> #2
-await ("await") -> #2
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-fromParam ("fromParam") -> #2
-assert ("assert") -> #1
-fromBody ("fromBody") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+await ("await") -> ScopeId(2)
+fromParam ("fromParam") -> ScopeId(2)
+fromBody ("fromBody") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+x ("x") -> ScopeId(6)
+fromParam ("fromParam") -> ScopeId(2)
+await ("await") -> ScopeId(2)
+fromBody ("fromBody") -> ScopeId(2)
+await ("await") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+fromParam ("fromParam") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+fromBody ("fromBody") -> ScopeId(2)

@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-fun ("fun") -> #2
-test262unresolvable ("test262unresolvable") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-fun ("fun") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fun ("fun") -> ScopeId(2)
+test262unresolvable ("test262unresolvable") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+fun ("fun") -> ScopeId(2)

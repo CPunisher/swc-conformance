@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-iter ("iter") -> #2
-iter ("iter") -> #2
-Symbol ("Symbol") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
-f ("f") -> #2
-h ("h") -> #4
-x ("x") -> #5
-iter ("iter") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iter ("iter") -> ScopeId(2)
+iter ("iter") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+h ("h") -> ScopeId(5)
+x ("x") -> ScopeId(6)
+iter ("iter") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+f ("f") -> ScopeId(2)

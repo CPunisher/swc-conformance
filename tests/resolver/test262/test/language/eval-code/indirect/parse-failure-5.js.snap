@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-value ("value") -> #2
-value ("value") -> #2
-eval ("eval") -> #1
-Test262Error ("Test262Error") -> #1
-value ("value") -> #2
-e ("e") -> #4
-e ("e") -> #4
-SyntaxError ("SyntaxError") -> #1
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-assert ("assert") -> #1
-SyntaxError ("SyntaxError") -> #1
-eval ("eval") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+value ("value") -> ScopeId(2)
+value ("value") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+value ("value") -> ScopeId(2)
+e ("e") -> ScopeId(4)
+e ("e") -> ScopeId(4)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)

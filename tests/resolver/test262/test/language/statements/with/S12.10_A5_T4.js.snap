@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-myObj ("myObj") -> #2
-eval ("eval") -> #1
-myObj ("myObj") -> #2
-Test262Error ("Test262Error") -> #1
-e ("e") -> #5
-x ("x") -> #2
-x ("x") -> #2
-Test262Error ("Test262Error") -> #1
-x ("x") -> #2
-myObj ("myObj") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-myObj ("myObj") -> #2
-myObj ("myObj") -> #2
-Test262Error ("Test262Error") -> #1
-myObj ("myObj") -> #2
-myObj ("myObj") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+myObj ("myObj") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+myObj ("myObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(7)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+myObj ("myObj") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+myObj ("myObj") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

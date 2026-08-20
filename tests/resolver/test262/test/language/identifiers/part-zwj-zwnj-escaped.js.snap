@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-$ ("$") -> #2
-$‍ ("$\u{200d}") -> #2
-$‌ ("$\u{200c}") -> #2
-assert ("assert") -> #1
-$ ("$") -> #2
-assert ("assert") -> #1
-$‍ ("$\u{200d}") -> #2
-assert ("assert") -> #1
-$‌ ("$\u{200c}") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$ ("$") -> ScopeId(2)
+$‍ ("$\u{200d}") -> ScopeId(2)
+$‌ ("$\u{200c}") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+$ ("$") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+$‍ ("$\u{200d}") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+$‌ ("$\u{200c}") -> ScopeId(2)

@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-infor_var ("infor_var") -> #2
-infor_var ("infor_var") -> #2
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-infor_var ("infor_var") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+infor_var ("infor_var") -> ScopeId(2)
+infor_var ("infor_var") -> ScopeId(2)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+infor_var ("infor_var") -> ScopeId(2)

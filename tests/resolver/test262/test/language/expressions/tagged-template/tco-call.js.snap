@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-finished ("finished") -> #3
-getF ("getF") -> #3
-f ("f") -> #3
-f ("f") -> #3
-_ ("_") -> #5
-n ("n") -> #5
-n ("n") -> #5
-finished ("finished") -> #3
-getF ("getF") -> #3
-n ("n") -> #5
-f ("f") -> #3
-$MAX_ITERATIONS ("$MAX_ITERATIONS") -> #1
-finished ("finished") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+finished ("finished") -> ScopeId(3)
+getF ("getF") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+f ("f") -> ScopeId(3)
+_ ("_") -> ScopeId(5)
+n ("n") -> ScopeId(5)
+n ("n") -> ScopeId(5)
+finished ("finished") -> ScopeId(3)
+getF ("getF") -> ScopeId(3)
+n ("n") -> ScopeId(5)
+f ("f") -> ScopeId(3)
+$MAX_ITERATIONS ("$MAX_ITERATIONS") -> ScopeId(1)
+finished ("finished") -> ScopeId(3)

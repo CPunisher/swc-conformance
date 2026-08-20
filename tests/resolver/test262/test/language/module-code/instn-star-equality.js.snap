@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-self1 ("self1") -> #2
-self2 ("self2") -> #2
-other1 ("other1") -> #2
-self3 ("self3") -> #2
-other2 ("other2") -> #2
-testNs ("testNs") -> #2
-assert ("assert") -> #1
-self1 ("self1") -> #2
-self2 ("self2") -> #2
-assert ("assert") -> #1
-self1 ("self1") -> #2
-self3 ("self3") -> #2
-assert ("assert") -> #1
-other1 ("other1") -> #2
-other2 ("other2") -> #2
-assert ("assert") -> #1
-self1 ("self1") -> #2
-testNs ("testNs") -> #2
-assert ("assert") -> #1
-self1 ("self1") -> #2
-other1 ("other1") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+self1 ("self1") -> ScopeId(2)
+self2 ("self2") -> ScopeId(2)
+other1 ("other1") -> ScopeId(2)
+self3 ("self3") -> ScopeId(2)
+other2 ("other2") -> ScopeId(2)
+testNs ("testNs") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+self1 ("self1") -> ScopeId(2)
+self2 ("self2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+self1 ("self1") -> ScopeId(2)
+self3 ("self3") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+other1 ("other1") -> ScopeId(2)
+other2 ("other2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+self1 ("self1") -> ScopeId(2)
+testNs ("testNs") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+self1 ("self1") -> ScopeId(2)
+other1 ("other1") -> ScopeId(2)

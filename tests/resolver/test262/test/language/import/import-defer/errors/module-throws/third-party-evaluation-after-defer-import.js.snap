@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-ns ("ns") -> #2
-asyncTest ("asyncTest") -> #1
-err1 ("err1") -> #3
-e ("e") -> #4
-err1 ("err1") -> #3
-e ("e") -> #4
-assert ("assert") -> #1
-err1 ("err1") -> #3
-err2 ("err2") -> #3
-ns ("ns") -> #2
-e ("e") -> #6
-err2 ("err2") -> #3
-e ("e") -> #6
-assert ("assert") -> #1
-err1 ("err1") -> #3
-err2 ("err2") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns ("ns") -> ScopeId(2)
+asyncTest ("asyncTest") -> ScopeId(1)
+err1 ("err1") -> ScopeId(3)
+e ("e") -> ScopeId(4)
+err1 ("err1") -> ScopeId(3)
+e ("e") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+err1 ("err1") -> ScopeId(3)
+err2 ("err2") -> ScopeId(3)
+ns ("ns") -> ScopeId(2)
+e ("e") -> ScopeId(6)
+err2 ("err2") -> ScopeId(3)
+e ("e") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+err1 ("err1") -> ScopeId(3)
+err2 ("err2") -> ScopeId(3)

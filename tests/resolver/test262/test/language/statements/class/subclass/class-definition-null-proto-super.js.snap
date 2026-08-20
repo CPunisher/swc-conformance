@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-unreachable ("unreachable") -> #2
-reachable ("reachable") -> #2
-C ("C") -> #2
-reachable ("reachable") -> #2
-unreachable ("unreachable") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #2
-assert ("assert") -> #1
-reachable ("reachable") -> #2
-assert ("assert") -> #1
-unreachable ("unreachable") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+unreachable ("unreachable") -> ScopeId(2)
+reachable ("reachable") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+reachable ("reachable") -> ScopeId(2)
+unreachable ("unreachable") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+reachable ("reachable") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+unreachable ("unreachable") -> ScopeId(2)

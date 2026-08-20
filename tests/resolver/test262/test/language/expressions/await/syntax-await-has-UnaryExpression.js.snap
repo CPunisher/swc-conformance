@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-x ("x") -> #3
-y ("y") -> #3
-x ("x") -> #3
-assert ("assert") -> #1
-y ("y") -> #3
-assert ("assert") -> #1
-x ("x") -> #3
-asyncTest ("asyncTest") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+y ("y") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+asyncTest ("asyncTest") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

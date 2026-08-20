@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-bar ("bar") -> #1
-C ("C") -> #3
-bar ("bar") -> #1
-D ("D") -> #2
-D ("D") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+bar ("bar") -> ScopeId(1)
+C ("C") -> ScopeId(4)
+bar ("bar") -> ScopeId(1)
+D ("D") -> ScopeId(2)
+D ("D") -> ScopeId(7)

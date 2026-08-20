@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-calls ("calls") -> #2
-side ("side") -> #2
-calls ("calls") -> #2
-iifeDefaultSideEffect ("iifeDefaultSideEffect") -> #2
-value ("value") -> #4
-a ("a") -> #5
-b ("b") -> #5
-side ("side") -> #2
-a ("a") -> #5
-value ("value") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+calls ("calls") -> ScopeId(2)
+side ("side") -> ScopeId(2)
+calls ("calls") -> ScopeId(2)
+iifeDefaultSideEffect ("iifeDefaultSideEffect") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+a ("a") -> ScopeId(5)
+b ("b") -> ScopeId(5)
+side ("side") -> ScopeId(2)
+a ("a") -> ScopeId(5)
+value ("value") -> ScopeId(4)

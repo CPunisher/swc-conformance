@@ -1,4 +1,4 @@
-Top level: #2
-Unresolved: #1
-str ("str") -> #2
-obj ("obj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+str ("str") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)

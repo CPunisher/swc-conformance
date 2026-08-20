@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-ns ("ns") -> #2
-original ("original") -> #2
-ns ("ns") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-ns ("ns") -> #2
-assert ("assert") -> #1
-ns ("ns") -> #2
-original ("original") -> #2
-ns ("ns") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ns ("ns") -> ScopeId(2)
+original ("original") -> ScopeId(2)
+ns ("ns") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+ns ("ns") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ns ("ns") -> ScopeId(2)
+original ("original") -> ScopeId(2)
+ns ("ns") -> ScopeId(2)

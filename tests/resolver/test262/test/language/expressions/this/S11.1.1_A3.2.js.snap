@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-SetThis ("SetThis") -> #2
-SetThis ("SetThis") -> #2
-Test262Error ("Test262Error") -> #1
-SetThis ("SetThis") -> #2
-SetEvalThis ("SetEvalThis") -> #2
-eval ("eval") -> #1
-SetEvalThis ("SetEvalThis") -> #2
-Test262Error ("Test262Error") -> #1
-SetEvalThis ("SetEvalThis") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+SetThis ("SetThis") -> ScopeId(2)
+SetThis ("SetThis") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+SetThis ("SetThis") -> ScopeId(2)
+SetEvalThis ("SetEvalThis") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+SetEvalThis ("SetEvalThis") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+SetEvalThis ("SetEvalThis") -> ScopeId(2)

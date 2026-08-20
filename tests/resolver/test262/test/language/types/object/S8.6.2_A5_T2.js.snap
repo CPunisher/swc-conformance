@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-seat ("seat") -> #2
-seat ("seat") -> #2
-position ("position") -> #1
-seat ("seat") -> #2
-position ("position") -> #1
-Test262Error ("Test262Error") -> #1
-position ("position") -> #1
-seat ("seat") -> #2
-position ("position") -> #1
-Test262Error ("Test262Error") -> #1
-position ("position") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+seat ("seat") -> ScopeId(2)
+seat ("seat") -> ScopeId(2)
+position ("position") -> ScopeId(1)
+seat ("seat") -> ScopeId(2)
+position ("position") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+position ("position") -> ScopeId(1)
+seat ("seat") -> ScopeId(2)
+position ("position") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+position ("position") -> ScopeId(1)

@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-aa ("aa") -> #2
-useRef ("useRef") -> #2
-A ("A") -> #2
-o1 ("o1") -> #3
-aa ("aa") -> #2
-ref ("ref") -> #3
-useRef ("useRef") -> #2
-fn2 ("fn2") -> #3
-value2 ("value2") -> #4
-_ref_current ("_ref_current") -> #5
-_ref_current ("_ref_current") -> #5
-ref ("ref") -> #3
-_ref_current ("_ref_current") -> #5
-_ref_current ("_ref_current") -> #5
-console ("console") -> #1
-o1 ("o1") -> #3
-_jsxruntime ("_jsxruntime") -> #1
-B ("B") -> #1
-fn2 ("fn2") -> #3
-A ("A") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+aa ("aa") -> ScopeId(2)
+useRef ("useRef") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+o1 ("o1") -> ScopeId(3)
+aa ("aa") -> ScopeId(2)
+ref ("ref") -> ScopeId(3)
+useRef ("useRef") -> ScopeId(2)
+fn2 ("fn2") -> ScopeId(3)
+value2 ("value2") -> ScopeId(4)
+_ref_current ("_ref_current") -> ScopeId(5)
+_ref_current ("_ref_current") -> ScopeId(5)
+ref ("ref") -> ScopeId(3)
+_ref_current ("_ref_current") -> ScopeId(5)
+_ref_current ("_ref_current") -> ScopeId(5)
+console ("console") -> ScopeId(1)
+o1 ("o1") -> ScopeId(3)
+_jsxruntime ("_jsxruntime") -> ScopeId(1)
+B ("B") -> ScopeId(1)
+fn2 ("fn2") -> ScopeId(3)
+A ("A") -> ScopeId(2)

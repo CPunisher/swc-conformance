@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-before ("before") -> #2
-during ("during") -> #2
-after ("after") -> #2
-err ("err") -> #2
-before ("before") -> #2
-err ("err") -> #2
-err ("err") -> #2
-err ("err") -> #2
-err ("err") -> #2
-during ("during") -> #2
-err ("err") -> #2
-after ("after") -> #2
-err ("err") -> #2
-assert ("assert") -> #1
-before ("before") -> #2
-assert ("assert") -> #1
-during ("during") -> #2
-assert ("assert") -> #1
-after ("after") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+before ("before") -> ScopeId(2)
+during ("during") -> ScopeId(2)
+after ("after") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+before ("before") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+during ("during") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+after ("after") -> ScopeId(2)
+err ("err") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+before ("before") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+during ("during") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+after ("after") -> ScopeId(2)

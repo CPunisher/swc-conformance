@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-EvalMutableClass ("EvalMutableClass") -> #2
-EvalMutableFunction ("EvalMutableFunction") -> #2
-out ("out") -> #1
-EvalMutableClass ("EvalMutableClass") -> #2
-out ("out") -> #1
-EvalMutableFunction ("EvalMutableFunction") -> #2
-eval ("eval") -> #1
-out ("out") -> #1
-EvalMutableClass ("EvalMutableClass") -> #2
-out ("out") -> #1
-EvalMutableFunction ("EvalMutableFunction") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
+EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+out ("out") -> ScopeId(1)
+EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)

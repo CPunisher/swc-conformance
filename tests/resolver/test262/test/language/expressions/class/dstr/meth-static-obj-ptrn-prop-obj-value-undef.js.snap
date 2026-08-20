@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-x ("x") -> #3
-y ("y") -> #3
-z ("z") -> #3
-undefined ("undefined") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-C ("C") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+y ("y") -> ScopeId(4)
+z ("z") -> ScopeId(4)
+undefined ("undefined") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+C ("C") -> ScopeId(2)

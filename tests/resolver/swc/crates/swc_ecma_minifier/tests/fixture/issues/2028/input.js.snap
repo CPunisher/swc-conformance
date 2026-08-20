@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-isSymbol ("isSymbol") -> #2
-s ("s") -> #3
-s ("s") -> #3
-isKey ("isKey") -> #2
-value ("value") -> #4
-object ("object") -> #4
-value ("value") -> #4
-isSymbol ("isSymbol") -> #2
-value ("value") -> #4
-module ("module") -> #1
-isKey ("isKey") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+isSymbol ("isSymbol") -> ScopeId(2)
+s ("s") -> ScopeId(3)
+s ("s") -> ScopeId(3)
+isKey ("isKey") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+object ("object") -> ScopeId(4)
+value ("value") -> ScopeId(4)
+isSymbol ("isSymbol") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+module ("module") -> ScopeId(1)
+isKey ("isKey") -> ScopeId(2)

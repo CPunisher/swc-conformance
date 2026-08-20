@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-__evaluated ("__evaluated") -> #2
-__in__do ("__in__do") -> #2
-__evaluated ("__evaluated") -> #2
-eval ("eval") -> #1
-__in__do ("__in__do") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-__in__do ("__in__do") -> #2
-__evaluated ("__evaluated") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-__evaluated ("__evaluated") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__evaluated ("__evaluated") -> ScopeId(2)
+__in__do ("__in__do") -> ScopeId(2)
+__evaluated ("__evaluated") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+__in__do ("__in__do") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__in__do ("__in__do") -> ScopeId(2)
+__evaluated ("__evaluated") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+__evaluated ("__evaluated") -> ScopeId(2)

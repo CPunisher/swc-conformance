@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-assert ("assert") -> #1
-C ("C") -> #2
-C2 ("C2") -> #2
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-C2 ("C2") -> #2
-C3 ("C3") -> #2
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-C3 ("C3") -> #2
-C4 ("C4") -> #2
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-C4 ("C4") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+C2 ("C2") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+C2 ("C2") -> ScopeId(2)
+C3 ("C3") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+C3 ("C3") -> ScopeId(2)
+C4 ("C4") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+C4 ("C4") -> ScopeId(2)

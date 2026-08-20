@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-Number ("Number") -> #2
-console ("console") -> #1
-Number ("Number") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Number ("Number") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+Number ("Number") -> ScopeId(2)

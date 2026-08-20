@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-ProxyBase ("ProxyBase") -> #2
-Proxy ("Proxy") -> #1
-target ("target") -> #4
-key ("key") -> #4
-descriptor ("descriptor") -> #4
-Test262Error ("Test262Error") -> #1
-Base ("Base") -> #2
-ProxyBase ("ProxyBase") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-Base ("Base") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ProxyBase ("ProxyBase") -> ScopeId(2)
+Proxy ("Proxy") -> ScopeId(1)
+target ("target") -> ScopeId(5)
+key ("key") -> ScopeId(5)
+descriptor ("descriptor") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)
+ProxyBase ("ProxyBase") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)

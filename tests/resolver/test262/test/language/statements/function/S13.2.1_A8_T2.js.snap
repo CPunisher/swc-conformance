@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> #2
-__func ("__func") -> #2
-message ("message") -> #3
-x ("x") -> #3
-message ("message") -> #3
-x ("x") -> #3
-x ("x") -> #2
-__func ("__func") -> #2
-CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> #2
-Test262Error ("Test262Error") -> #1
-e ("e") -> #5
-e ("e") -> #5
-Test262Error ("Test262Error") -> #1
-e ("e") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+message ("message") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+message ("message") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(5)
+e ("e") -> ScopeId(5)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(5)

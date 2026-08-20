@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-Base ("Base") -> #2
-Object ("Object") -> #1
-Base ("Base") -> #2
-Test262Error ("Test262Error") -> #1
-C ("C") -> #2
-Base ("Base") -> #2
-assert ("assert") -> #1
-C ("C") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Base ("Base") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+Base ("Base") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+C ("C") -> ScopeId(2)

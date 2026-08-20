@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-thrower ("thrower") -> #2
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-thrower ("thrower") -> #2
-x ("x") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+thrower ("thrower") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+thrower ("thrower") -> ScopeId(2)
+x ("x") -> ScopeId(5)

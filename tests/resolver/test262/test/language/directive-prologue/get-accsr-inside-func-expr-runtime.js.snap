@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-obj ("obj") -> #3
-Object ("Object") -> #1
-obj ("obj") -> #3
-test262unresolvable ("test262unresolvable") -> #1
-temp ("temp") -> #3
-obj ("obj") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+obj ("obj") -> ScopeId(3)
+Object ("Object") -> ScopeId(1)
+obj ("obj") -> ScopeId(3)
+test262unresolvable ("test262unresolvable") -> ScopeId(1)
+temp ("temp") -> ScopeId(3)
+obj ("obj") -> ScopeId(3)

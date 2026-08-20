@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-rab ("rab") -> #2
-CreateResizableArrayBuffer ("CreateResizableArrayBuffer") -> #1
-ctor ("ctor") -> #3
-ctors ("ctors") -> #1
-ta ("ta") -> #4
-ctor ("ctor") -> #3
-rab ("rab") -> #2
-keys ("keys") -> #4
-key ("key") -> #5
-ta ("ta") -> #4
-keys ("keys") -> #4
-key ("key") -> #5
-assert ("assert") -> #1
-keys ("keys") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+rab ("rab") -> ScopeId(2)
+CreateResizableArrayBuffer ("CreateResizableArrayBuffer") -> ScopeId(1)
+ctor ("ctor") -> ScopeId(3)
+ctors ("ctors") -> ScopeId(1)
+ta ("ta") -> ScopeId(4)
+ctor ("ctor") -> ScopeId(3)
+rab ("rab") -> ScopeId(2)
+keys ("keys") -> ScopeId(4)
+key ("key") -> ScopeId(5)
+ta ("ta") -> ScopeId(4)
+keys ("keys") -> ScopeId(4)
+key ("key") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+keys ("keys") -> ScopeId(4)

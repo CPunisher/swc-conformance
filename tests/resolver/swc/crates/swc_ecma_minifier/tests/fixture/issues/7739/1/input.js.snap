@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-formatterOpt ("formatterOpt") -> #2
-withCurrency ("withCurrency") -> #1
-formatterOpt ("formatterOpt") -> #2
-formatter ("formatter") -> #2
-Intl ("Intl") -> #1
-formatterOpt ("formatterOpt") -> #2
-console ("console") -> #1
-formatter ("formatter") -> #2
-amount ("amount") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+formatterOpt ("formatterOpt") -> ScopeId(2)
+withCurrency ("withCurrency") -> ScopeId(1)
+formatterOpt ("formatterOpt") -> ScopeId(2)
+formatter ("formatter") -> ScopeId(2)
+Intl ("Intl") -> ScopeId(1)
+formatterOpt ("formatterOpt") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+formatter ("formatter") -> ScopeId(2)
+amount ("amount") -> ScopeId(1)

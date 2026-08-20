@@ -1,14 +1,14 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-x ("x") -> #3
-shouldNotBeAwaited ("shouldNotBeAwaited") -> #3
-onFulfilled ("onFulfilled") -> #4
-x ("x") -> #3
-Promise ("Promise") -> #1
-onFulfilled ("onFulfilled") -> #4
-shouldNotBeAwaited ("shouldNotBeAwaited") -> #3
-assert ("assert") -> #1
-x ("x") -> #3
-asyncTest ("asyncTest") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+shouldNotBeAwaited ("shouldNotBeAwaited") -> ScopeId(3)
+onFulfilled ("onFulfilled") -> ScopeId(5)
+x ("x") -> ScopeId(3)
+Promise ("Promise") -> ScopeId(1)
+onFulfilled ("onFulfilled") -> ScopeId(5)
+shouldNotBeAwaited ("shouldNotBeAwaited") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+asyncTest ("asyncTest") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

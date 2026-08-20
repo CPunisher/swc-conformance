@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-__func ("__func") -> #2
-__func ("__func") -> #2
-Test262Error ("Test262Error") -> #1
-__gunc ("__gunc") -> #1
-__func ("__func") -> #2
-__func ("__func") -> #2
-Test262Error ("Test262Error") -> #1
-__gunc ("__gunc") -> #1
-__constructor_was__enumed ("__constructor_was__enumed") -> #2
-__prop ("__prop") -> #1
-__func ("__func") -> #2
-__prop ("__prop") -> #1
-__constructor_was__enumed ("__constructor_was__enumed") -> #2
-__constructor_was__enumed ("__constructor_was__enumed") -> #2
-Test262Error ("Test262Error") -> #1
-__constructor_was__enumed ("__constructor_was__enumed") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__gunc ("__gunc") -> ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__func ("__func") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__gunc ("__gunc") -> ScopeId(1)
+__constructor_was__enumed ("__constructor_was__enumed") -> ScopeId(2)
+__prop ("__prop") -> ScopeId(1)
+__func ("__func") -> ScopeId(2)
+__prop ("__prop") -> ScopeId(1)
+__constructor_was__enumed ("__constructor_was__enumed") -> ScopeId(2)
+__constructor_was__enumed ("__constructor_was__enumed") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__constructor_was__enumed ("__constructor_was__enumed") -> ScopeId(2)

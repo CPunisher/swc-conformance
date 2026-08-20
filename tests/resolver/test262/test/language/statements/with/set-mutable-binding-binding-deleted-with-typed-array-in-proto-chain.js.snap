@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-typedArray ("typedArray") -> #2
-Int32Array ("Int32Array") -> #1
-env ("env") -> #2
-Object ("Object") -> #1
-typedArray ("typedArray") -> #2
-Object ("Object") -> #1
-env ("env") -> #2
-env ("env") -> #2
-NaN ("NaN") -> #1
-env ("env") -> #2
-assert ("assert") -> #1
-Object ("Object") -> #1
-env ("env") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+typedArray ("typedArray") -> ScopeId(2)
+Int32Array ("Int32Array") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+typedArray ("typedArray") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+NaN ("NaN") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-Array ("Array") -> #1
-Symbol ("Symbol") -> #1
-f ("f") -> #2
-f ("f") -> #2
-g ("g") -> #3
-x ("x") -> #4
-y ("y") -> #4
-z ("z") -> #4
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Array ("Array") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+g ("g") -> ScopeId(3)
+x ("x") -> ScopeId(4)
+y ("y") -> ScopeId(4)
+z ("z") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+f ("f") -> ScopeId(2)

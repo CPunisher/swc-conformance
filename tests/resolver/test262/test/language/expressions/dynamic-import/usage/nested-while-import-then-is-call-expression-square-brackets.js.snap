@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-x ("x") -> #2
-x ("x") -> #2
-x ("x") -> #4
-x ("x") -> #4
-imported ("imported") -> #5
-assert ("assert") -> #1
-imported ("imported") -> #5
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+imported ("imported") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+imported ("imported") -> ScopeId(5)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

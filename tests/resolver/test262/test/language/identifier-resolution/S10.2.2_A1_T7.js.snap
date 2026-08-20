@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-myObj ("myObj") -> #2
-f1 ("f1") -> #2
-f2 ("f2") -> #3
-myObj ("myObj") -> #2
-x ("x") -> #3
-f2 ("f2") -> #3
-x ("x") -> #3
-f1 ("f1") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+f1 ("f1") -> ScopeId(2)
+f2 ("f2") -> ScopeId(4)
+myObj ("myObj") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+f2 ("f2") -> ScopeId(4)
+x ("x") -> ScopeId(4)
+f1 ("f1") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

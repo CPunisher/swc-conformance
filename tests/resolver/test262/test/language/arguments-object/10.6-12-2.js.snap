@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-desc ("desc") -> #3
-Object ("Object") -> #1
-arguments ("arguments") -> #1
-assert ("assert") -> #1
-desc ("desc") -> #3
-assert ("assert") -> #1
-desc ("desc") -> #3
-assert ("assert") -> #1
-desc ("desc") -> #3
-assert ("assert") -> #1
-desc ("desc") -> #3
-assert ("assert") -> #1
-desc ("desc") -> #3
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+desc ("desc") -> ScopeId(3)
+Object ("Object") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+desc ("desc") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+desc ("desc") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+desc ("desc") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+desc ("desc") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+desc ("desc") -> ScopeId(3)
+testcase ("testcase") -> ScopeId(2)

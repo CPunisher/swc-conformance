@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-application ("application") -> #2
-__webpack_require__ ("__webpack_require__") -> #3
-__webpack_require__ ("__webpack_require__") -> #3
-exports ("exports") -> #5
-definition ("definition") -> #5
-__webpack_require__ ("__webpack_require__") -> #3
-obj ("obj") -> #7
-prop ("prop") -> #7
-__webpack_require__ ("__webpack_require__") -> #3
-exports ("exports") -> #9
-__webpack_exports__ ("__webpack_exports__") -> #3
-__webpack_require__ ("__webpack_require__") -> #3
-__webpack_exports__ ("__webpack_exports__") -> #3
-__webpack_require__ ("__webpack_require__") -> #3
-__webpack_exports__ ("__webpack_exports__") -> #3
-bootstrap ("bootstrap") -> #3
-bootstrap ("bootstrap") -> #3
-alert ("alert") -> #1
-application ("application") -> #2
-__webpack_exports__ ("__webpack_exports__") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+application ("application") -> ScopeId(2)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+exports ("exports") -> ScopeId(6)
+definition ("definition") -> ScopeId(6)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+obj ("obj") -> ScopeId(8)
+prop ("prop") -> ScopeId(8)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+exports ("exports") -> ScopeId(10)
+__webpack_exports__ ("__webpack_exports__") -> ScopeId(3)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+__webpack_exports__ ("__webpack_exports__") -> ScopeId(3)
+__webpack_require__ ("__webpack_require__") -> ScopeId(3)
+__webpack_exports__ ("__webpack_exports__") -> ScopeId(3)
+bootstrap ("bootstrap") -> ScopeId(3)
+bootstrap ("bootstrap") -> ScopeId(3)
+alert ("alert") -> ScopeId(1)
+application ("application") -> ScopeId(2)
+__webpack_exports__ ("__webpack_exports__") -> ScopeId(3)

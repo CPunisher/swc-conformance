@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-first ("first") -> #2
-second ("second") -> #2
-g ("g") -> #2
-first ("first") -> #2
-second ("second") -> #2
-callCount ("callCount") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-first ("first") -> #2
-assert ("assert") -> #1
-second ("second") -> #2
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-C ("C") -> #2
-g ("g") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+first ("first") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+second ("second") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+g ("g") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

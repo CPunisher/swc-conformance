@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-D ("D") -> #2
-Date ("Date") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-D ("D") -> #2
-D2 ("D2") -> #2
-d ("d") -> #5
-d ("d") -> #5
-Date ("Date") -> #1
-D2 ("D2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+D ("D") -> ScopeId(2)
+Date ("Date") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+D ("D") -> ScopeId(2)
+D2 ("D2") -> ScopeId(2)
+d ("d") -> ScopeId(7)
+d ("d") -> ScopeId(7)
+Date ("Date") -> ScopeId(1)
+D2 ("D2") -> ScopeId(2)

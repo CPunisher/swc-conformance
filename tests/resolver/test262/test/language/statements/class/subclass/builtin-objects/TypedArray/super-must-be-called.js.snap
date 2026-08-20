@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-testWithTypedArrayConstructors ("testWithTypedArrayConstructors") -> #1
-Constructor ("Constructor") -> #3
-Typed ("Typed") -> #3
-Constructor ("Constructor") -> #3
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-Typed ("Typed") -> #3
-TypedWithSuper ("TypedWithSuper") -> #3
-Constructor ("Constructor") -> #3
-TypedWithSuper ("TypedWithSuper") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testWithTypedArrayConstructors ("testWithTypedArrayConstructors") -> ScopeId(1)
+Constructor ("Constructor") -> ScopeId(3)
+Typed ("Typed") -> ScopeId(3)
+Constructor ("Constructor") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+Typed ("Typed") -> ScopeId(3)
+TypedWithSuper ("TypedWithSuper") -> ScopeId(3)
+Constructor ("Constructor") -> ScopeId(3)
+TypedWithSuper ("TypedWithSuper") -> ScopeId(3)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-test262ToString ("test262ToString") -> #2
-env ("env") -> #2
-test262ToString ("test262ToString") -> #2
-env ("env") -> #2
-Symbol ("Symbol") -> #1
-env ("env") -> #2
-assert ("assert") -> #1
-toString ("toString") -> #1
-test262ToString ("test262ToString") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test262ToString ("test262ToString") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+test262ToString ("test262ToString") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+toString ("toString") -> ScopeId(1)
+test262ToString ("test262ToString") -> ScopeId(2)

@@ -1,5 +1,5 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-C ("C") -> #2
-await ("await") -> #0
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+C ("C") -> ScopeId(2)
+await ("await") -> ScopeId(4294967295)

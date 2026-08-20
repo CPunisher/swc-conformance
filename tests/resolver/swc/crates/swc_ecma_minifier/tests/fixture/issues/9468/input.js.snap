@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-func1 ("func1") -> #2
-arg1 ("arg1") -> #3
-arg2 ("arg2") -> #3
-getX ("getX") -> #2
-arg1 ("arg1") -> #3
-arg2 ("arg2") -> #3
-getX ("getX") -> #2
-x ("x") -> #4
-v ("v") -> #4
-document ("document") -> #1
-x ("x") -> #4
-v ("v") -> #4
-console ("console") -> #1
-func1 ("func1") -> #2
-getX ("getX") -> #2
-console ("console") -> #1
-func1 ("func1") -> #2
-getX ("getX") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+func1 ("func1") -> ScopeId(2)
+arg1 ("arg1") -> ScopeId(3)
+arg2 ("arg2") -> ScopeId(3)
+getX ("getX") -> ScopeId(2)
+arg1 ("arg1") -> ScopeId(3)
+arg2 ("arg2") -> ScopeId(3)
+getX ("getX") -> ScopeId(2)
+x ("x") -> ScopeId(4)
+v ("v") -> ScopeId(4)
+document ("document") -> ScopeId(1)
+x ("x") -> ScopeId(4)
+v ("v") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+func1 ("func1") -> ScopeId(2)
+getX ("getX") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+func1 ("func1") -> ScopeId(2)
+getX ("getX") -> ScopeId(2)

@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-testAssignment ("testAssignment") -> #2
-x ("x") -> #3
-innerX ("innerX") -> #3
-x ("x") -> #3
-eval ("eval") -> #1
-x ("x") -> #3
-innerX ("innerX") -> #3
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-innerX ("innerX") -> #3
-x ("x") -> #3
-Test262Error ("Test262Error") -> #1
-x ("x") -> #3
-testAssignment ("testAssignment") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testAssignment ("testAssignment") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+innerX ("innerX") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+eval ("eval") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+innerX ("innerX") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+innerX ("innerX") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+Test262Error ("Test262Error") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+testAssignment ("testAssignment") -> ScopeId(2)

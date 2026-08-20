@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-count ("count") -> #2
-obj ("obj") -> #2
-Symbol ("Symbol") -> #1
-hint ("hint") -> #3
-count ("count") -> #2
-assert ("assert") -> #1
-hint ("hint") -> #3
-assert ("assert") -> #1
-obj ("obj") -> #2
-assert ("assert") -> #1
-count ("count") -> #2
-assert ("assert") -> #1
-obj ("obj") -> #2
-assert ("assert") -> #1
-count ("count") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+count ("count") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+hint ("hint") -> ScopeId(4)
+count ("count") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+hint ("hint") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+count ("count") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+count ("count") -> ScopeId(2)

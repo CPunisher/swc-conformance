@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-other ("other") -> #2
-$262 ("$262") -> #1
-otherEval ("otherEval") -> #2
-other ("other") -> #2
-otherEval ("otherEval") -> #2
-assert ("assert") -> #1
-x ("x") -> #1
-assert ("assert") -> #1
-other ("other") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+other ("other") -> ScopeId(2)
+$262 ("$262") -> ScopeId(1)
+otherEval ("otherEval") -> ScopeId(2)
+other ("other") -> ScopeId(2)
+otherEval ("otherEval") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+other ("other") -> ScopeId(2)

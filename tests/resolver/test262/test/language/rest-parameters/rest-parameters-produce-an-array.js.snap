@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-af ("af") -> #2
-a ("a") -> #3
-assert ("assert") -> #1
-a ("a") -> #3
-Array ("Array") -> #1
-assert ("assert") -> #1
-Array ("Array") -> #1
-a ("a") -> #3
-af ("af") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+af ("af") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+Array ("Array") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Array ("Array") -> ScopeId(1)
+a ("a") -> ScopeId(3)
+af ("af") -> ScopeId(2)

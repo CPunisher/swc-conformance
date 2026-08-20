@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-items ("items") -> #2
-Array ("Array") -> #1
-itemsRef ("itemsRef") -> #2
-items ("items") -> #2
-items ("items") -> #2
-itemsRef ("itemsRef") -> #2
-items ("items") -> #2
-itemsRef ("itemsRef") -> #2
-Test262Error ("Test262Error") -> #1
-items ("items") -> #2
-Array ("Array") -> #1
-itemsRef ("itemsRef") -> #2
-items ("items") -> #2
-items ("items") -> #2
-itemsRef ("itemsRef") -> #2
-Test262Error ("Test262Error") -> #1
-itemsRef ("itemsRef") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+items ("items") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+itemsRef ("itemsRef") -> ScopeId(2)
+items ("items") -> ScopeId(2)
+items ("items") -> ScopeId(2)
+itemsRef ("itemsRef") -> ScopeId(2)
+items ("items") -> ScopeId(2)
+itemsRef ("itemsRef") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+items ("items") -> ScopeId(2)
+Array ("Array") -> ScopeId(1)
+itemsRef ("itemsRef") -> ScopeId(2)
+items ("items") -> ScopeId(2)
+items ("items") -> ScopeId(2)
+itemsRef ("itemsRef") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+itemsRef ("itemsRef") -> ScopeId(2)

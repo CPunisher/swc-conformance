@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-count ("count") -> #2
-ranCatch ("ranCatch") -> #2
-count ("count") -> #2
-x ("x") -> #5
-assert ("assert") -> #1
-count ("count") -> #2
-verifyProperty ("verifyProperty") -> #1
-x ("x") -> #5
-ranCatch ("ranCatch") -> #2
-assert ("assert") -> #1
-ranCatch ("ranCatch") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+count ("count") -> ScopeId(2)
+ranCatch ("ranCatch") -> ScopeId(2)
+count ("count") -> ScopeId(2)
+x ("x") -> ScopeId(6)
+assert ("assert") -> ScopeId(1)
+count ("count") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+x ("x") -> ScopeId(6)
+ranCatch ("ranCatch") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ranCatch ("ranCatch") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-static ("static") -> #2
-st\u0061tic ("st\\u0061tic") -> #2
-static ("static") -> #3
-st\u0061tic ("st\\u0061tic") -> #4
-static ("static") -> #5
-st\u0061tic ("st\\u0061tic") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+static ("static") -> ScopeId(2)
+st\u0061tic ("st\\u0061tic") -> ScopeId(2)
+static ("static") -> ScopeId(3)
+st\u0061tic ("st\\u0061tic") -> ScopeId(4)
+static ("static") -> ScopeId(5)
+st\u0061tic ("st\\u0061tic") -> ScopeId(6)

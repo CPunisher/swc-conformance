@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-DisappearsCompletely ("DisappearsCompletely") -> #2
-DisappearsCompletelyClass ("DisappearsCompletelyClass") -> #3
-DoesntWork ("DoesntWork") -> #2
-DoesntWorkClass ("DoesntWorkClass") -> #4
-DoesntWorkClass ("DoesntWorkClass") -> #4
-WorksClass ("WorksClass") -> #2
-WorksClass ("WorksClass") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+DisappearsCompletely ("DisappearsCompletely") -> ScopeId(2)
+DisappearsCompletelyClass ("DisappearsCompletelyClass") -> ScopeId(3)
+DoesntWork ("DoesntWork") -> ScopeId(2)
+DoesntWorkClass ("DoesntWorkClass") -> ScopeId(4)
+DoesntWorkClass ("DoesntWorkClass") -> ScopeId(4)
+WorksClass ("WorksClass") -> ScopeId(2)
+WorksClass ("WorksClass") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-public ("public") -> #2
-publi\u0063 ("publi\\u0063") -> #2
-public ("public") -> #3
-publi\u0063 ("publi\\u0063") -> #4
-public ("public") -> #5
-publi\u0063 ("publi\\u0063") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+public ("public") -> ScopeId(2)
+publi\u0063 ("publi\\u0063") -> ScopeId(2)
+public ("public") -> ScopeId(3)
+publi\u0063 ("publi\\u0063") -> ScopeId(4)
+public ("public") -> ScopeId(5)
+publi\u0063 ("publi\\u0063") -> ScopeId(6)

@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-Super ("Super") -> #2
-v ("v") -> #3
-Test262Error ("Test262Error") -> #1
-Base ("Base") -> #2
-Super ("Super") -> #2
-o ("o") -> #2
-Base ("Base") -> #2
-verifyProperty ("verifyProperty") -> #1
-o ("o") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Super ("Super") -> ScopeId(2)
+v ("v") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+Base ("Base") -> ScopeId(2)
+Super ("Super") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+Base ("Base") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+o ("o") -> ScopeId(2)

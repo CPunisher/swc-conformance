@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-executed ("executed") -> #2
-C ("C") -> #2
-assert ("assert") -> #1
-SyntaxError ("SyntaxError") -> #1
-eval ("eval") -> #1
-assert ("assert") -> #1
-executed ("executed") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+executed ("executed") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+executed ("executed") -> ScopeId(2)

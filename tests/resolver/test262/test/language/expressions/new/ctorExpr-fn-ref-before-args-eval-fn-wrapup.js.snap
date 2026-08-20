@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-x ("x") -> #3
-result ("result") -> #3
-x ("x") -> #3
-x ("x") -> #3
-assert ("assert") -> #1
-x ("x") -> #3
-assert ("assert") -> #1
-result ("result") -> #3
-fn ("fn") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+result ("result") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(3)
+fn ("fn") -> ScopeId(2)

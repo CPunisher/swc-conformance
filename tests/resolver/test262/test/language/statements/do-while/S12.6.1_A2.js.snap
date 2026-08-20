@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-__in__do ("__in__do") -> #2
-abbracadabra ("abbracadabra") -> #1
-__in__do ("__in__do") -> #2
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-e ("e") -> #4
-Test262Error ("Test262Error") -> #1
-e ("e") -> #4
-__in__do ("__in__do") -> #2
-Test262Error ("Test262Error") -> #1
-__in__do ("__in__do") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__in__do ("__in__do") -> ScopeId(2)
+abbracadabra ("abbracadabra") -> ScopeId(1)
+__in__do ("__in__do") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+e ("e") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+e ("e") -> ScopeId(4)
+__in__do ("__in__do") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__in__do ("__in__do") -> ScopeId(2)

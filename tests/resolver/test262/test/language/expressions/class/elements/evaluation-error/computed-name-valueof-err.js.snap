@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-obj ("obj") -> #2
-undefined ("undefined") -> #1
-Test262Error ("Test262Error") -> #1
-evaluate ("evaluate") -> #2
-C ("C") -> #4
-obj ("obj") -> #2
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-evaluate ("evaluate") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+obj ("obj") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+evaluate ("evaluate") -> ScopeId(2)
+C ("C") -> ScopeId(5)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+evaluate ("evaluate") -> ScopeId(2)

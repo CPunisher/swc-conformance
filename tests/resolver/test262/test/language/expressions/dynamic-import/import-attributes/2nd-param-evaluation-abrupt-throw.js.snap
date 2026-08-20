@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-beforeCount ("beforeCount") -> #2
-afterCount ("afterCount") -> #2
-throwError ("throwError") -> #2
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-Test262Error ("Test262Error") -> #1
-beforeCount ("beforeCount") -> #2
-throwError ("throwError") -> #2
-afterCount ("afterCount") -> #2
-assert ("assert") -> #1
-beforeCount ("beforeCount") -> #2
-assert ("assert") -> #1
-afterCount ("afterCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+beforeCount ("beforeCount") -> ScopeId(2)
+afterCount ("afterCount") -> ScopeId(2)
+throwError ("throwError") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+beforeCount ("beforeCount") -> ScopeId(2)
+throwError ("throwError") -> ScopeId(2)
+afterCount ("afterCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+beforeCount ("beforeCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+afterCount ("afterCount") -> ScopeId(2)

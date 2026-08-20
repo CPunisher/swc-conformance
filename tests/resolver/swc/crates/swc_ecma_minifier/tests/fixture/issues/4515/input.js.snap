@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-B ("B") -> #1
-a ("a") -> #3
-a ("a") -> #3
-a ("a") -> #3
-getChildNodes$1 ("getChildNodes$1") -> #2
-setGetChildNodes ("setGetChildNodes") -> #2
-getChildNodesImpl ("getChildNodesImpl") -> #5
-getChildNodes$1 ("getChildNodes$1") -> #2
-getChildNodesImpl ("getChildNodesImpl") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+B ("B") -> ScopeId(1)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+getChildNodes$1 ("getChildNodes$1") -> ScopeId(2)
+setGetChildNodes ("setGetChildNodes") -> ScopeId(2)
+getChildNodesImpl ("getChildNodesImpl") -> ScopeId(7)
+getChildNodes$1 ("getChildNodes$1") -> ScopeId(2)
+getChildNodesImpl ("getChildNodesImpl") -> ScopeId(7)

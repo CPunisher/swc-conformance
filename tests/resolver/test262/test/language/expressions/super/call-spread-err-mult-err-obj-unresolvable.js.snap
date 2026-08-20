@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-Test262ParentClass ("Test262ParentClass") -> #2
-Test262ChildClass ("Test262ChildClass") -> #2
-unresolvableReference ("unresolvableReference") -> #1
-Test262ParentClass ("Test262ParentClass") -> #2
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-Test262ChildClass ("Test262ChildClass") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Test262ParentClass ("Test262ParentClass") -> ScopeId(2)
+Test262ChildClass ("Test262ChildClass") -> ScopeId(2)
+unresolvableReference ("unresolvableReference") -> ScopeId(1)
+Test262ParentClass ("Test262ParentClass") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+Test262ChildClass ("Test262ChildClass") -> ScopeId(2)

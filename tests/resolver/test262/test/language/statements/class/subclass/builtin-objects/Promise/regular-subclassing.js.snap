@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-Prom ("Prom") -> #2
-Promise ("Promise") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-Prom ("Prom") -> #2
-calledExecutor ("calledExecutor") -> #2
-executorArguments ("executorArguments") -> #2
-prom1 ("prom1") -> #2
-Prom ("Prom") -> #2
-calledExecutor ("calledExecutor") -> #2
-executorArguments ("executorArguments") -> #2
-arguments ("arguments") -> #1
-assert ("assert") -> #1
-calledExecutor ("calledExecutor") -> #2
-assert ("assert") -> #1
-executorArguments ("executorArguments") -> #2
-assert ("assert") -> #1
-executorArguments ("executorArguments") -> #2
-assert ("assert") -> #1
-executorArguments ("executorArguments") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Prom ("Prom") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+Prom ("Prom") -> ScopeId(2)
+calledExecutor ("calledExecutor") -> ScopeId(2)
+executorArguments ("executorArguments") -> ScopeId(2)
+prom1 ("prom1") -> ScopeId(2)
+Prom ("Prom") -> ScopeId(2)
+calledExecutor ("calledExecutor") -> ScopeId(2)
+executorArguments ("executorArguments") -> ScopeId(2)
+arguments ("arguments") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+calledExecutor ("calledExecutor") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+executorArguments ("executorArguments") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+executorArguments ("executorArguments") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+executorArguments ("executorArguments") -> ScopeId(2)

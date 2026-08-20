@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-oldArguments ("oldArguments") -> #2
-globalThis ("globalThis") -> #1
-f ("f") -> #2
-f ("f") -> #3
-p ("p") -> #4
-eval ("eval") -> #1
-arguments ("arguments") -> #4
-f ("f") -> #2
-$DONE ("$DONE") -> #1
-error ("error") -> #5
-assert ("assert") -> #1
-error ("error") -> #5
-SyntaxError ("SyntaxError") -> #1
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
-oldArguments ("oldArguments") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+oldArguments ("oldArguments") -> ScopeId(2)
+globalThis ("globalThis") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(3)
+p ("p") -> ScopeId(4)
+eval ("eval") -> ScopeId(1)
+arguments ("arguments") -> ScopeId(4)
+f ("f") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+error ("error") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+error ("error") -> ScopeId(5)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+oldArguments ("oldArguments") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

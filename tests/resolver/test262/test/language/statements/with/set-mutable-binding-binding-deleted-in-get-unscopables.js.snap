@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-unscopablesCalled ("unscopablesCalled") -> #2
-env ("env") -> #2
-Symbol ("Symbol") -> #1
-unscopablesCalled ("unscopablesCalled") -> #2
-env ("env") -> #2
-env ("env") -> #2
-binding ("binding") -> #1
-assert ("assert") -> #1
-unscopablesCalled ("unscopablesCalled") -> #2
-verifyProperty ("verifyProperty") -> #1
-env ("env") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+binding ("binding") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+env ("env") -> ScopeId(2)

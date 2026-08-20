@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-f_arg ("f_arg") -> #2
-f_arg ("f_arg") -> #2
-x ("x") -> #1
-x ("x") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f_arg ("f_arg") -> ScopeId(2)
+f_arg ("f_arg") -> ScopeId(2)
+x ("x") -> ScopeId(1)
+x ("x") -> ScopeId(1)

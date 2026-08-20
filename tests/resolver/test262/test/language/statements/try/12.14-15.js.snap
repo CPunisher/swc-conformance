@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-global ("global") -> #2
-result ("result") -> #2
-obj ("obj") -> #3
-obj ("obj") -> #3
-obj ("obj") -> #3
-e ("e") -> #6
-e ("e") -> #6
-result ("result") -> #2
-global ("global") -> #2
-assert ("assert") -> #1
-result ("result") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+global ("global") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+obj ("obj") -> ScopeId(3)
+obj ("obj") -> ScopeId(3)
+obj ("obj") -> ScopeId(3)
+e ("e") -> ScopeId(7)
+e ("e") -> ScopeId(7)
+result ("result") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)

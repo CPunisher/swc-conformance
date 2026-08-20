@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-RE1 ("RE1") -> #2
-RegExp ("RegExp") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-RE1 ("RE1") -> #2
-RE2 ("RE2") -> #2
-RegExp ("RegExp") -> #1
-RE2 ("RE2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+RE1 ("RE1") -> ScopeId(2)
+RegExp ("RegExp") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+RE1 ("RE1") -> ScopeId(2)
+RE2 ("RE2") -> ScopeId(2)
+RegExp ("RegExp") -> ScopeId(1)
+RE2 ("RE2") -> ScopeId(2)

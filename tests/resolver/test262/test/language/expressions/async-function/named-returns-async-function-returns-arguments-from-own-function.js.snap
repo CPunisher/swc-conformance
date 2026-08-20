@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-count ("count") -> #2
-asyncFn ("asyncFn") -> #2
-asyncFn ("asyncFn") -> #3
-x ("x") -> #4
-a ("a") -> #4
-arguments ("arguments") -> #1
-a ("a") -> #4
-arguments ("arguments") -> #1
-asyncFn ("asyncFn") -> #2
-retFn ("retFn") -> #6
-count ("count") -> #2
-retFn ("retFn") -> #6
-result ("result") -> #7
-assert ("assert") -> #1
-result ("result") -> #7
-assert ("assert") -> #1
-count ("count") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+count ("count") -> ScopeId(2)
+asyncFn ("asyncFn") -> ScopeId(2)
+asyncFn ("asyncFn") -> ScopeId(3)
+x ("x") -> ScopeId(4)
+a ("a") -> ScopeId(4)
+arguments ("arguments") -> ScopeId(1)
+a ("a") -> ScopeId(4)
+arguments ("arguments") -> ScopeId(1)
+asyncFn ("asyncFn") -> ScopeId(2)
+retFn ("retFn") -> ScopeId(6)
+count ("count") -> ScopeId(2)
+retFn ("retFn") -> ScopeId(6)
+result ("result") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+count ("count") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

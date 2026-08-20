@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-obj ("obj") -> #2
-data ("data") -> #2
-Object ("Object") -> #1
-obj ("obj") -> #2
-value ("value") -> #3
-_10_1_1_28_s ("_10_1_1_28_s") -> #3
-data ("data") -> #2
-value ("value") -> #3
-obj ("obj") -> #2
-assert ("assert") -> #1
-data ("data") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+obj ("obj") -> ScopeId(2)
+data ("data") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+value ("value") -> ScopeId(5)
+_10_1_1_28_s ("_10_1_1_28_s") -> ScopeId(5)
+data ("data") -> ScopeId(2)
+value ("value") -> ScopeId(5)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+data ("data") -> ScopeId(2)

@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-__10_4_2_1_5 ("__10_4_2_1_5") -> #2
-testcase ("testcase") -> #2
-__10_4_2_1_5 ("__10_4_2_1_5") -> #3
-r ("r") -> #3
-eval ("eval") -> #1
-assert ("assert") -> #1
-r ("r") -> #3
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__10_4_2_1_5 ("__10_4_2_1_5") -> ScopeId(2)
+testcase ("testcase") -> ScopeId(2)
+__10_4_2_1_5 ("__10_4_2_1_5") -> ScopeId(3)
+r ("r") -> ScopeId(3)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+r ("r") -> ScopeId(3)
+testcase ("testcase") -> ScopeId(2)

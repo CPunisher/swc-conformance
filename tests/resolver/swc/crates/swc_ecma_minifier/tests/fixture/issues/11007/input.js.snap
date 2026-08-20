@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-profile ("profile") -> #2
-_s ("_s") -> #3
-fn ("fn") -> #3
-fn ("fn") -> #3
-profile ("profile") -> #2
-someFunction ("someFunction") -> #1
-profile ("profile") -> #2
-JSON ("JSON") -> #1
-someObj ("someObj") -> #1
-JSON ("JSON") -> #1
-someObj ("someObj") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+profile ("profile") -> ScopeId(2)
+_s ("_s") -> ScopeId(3)
+fn ("fn") -> ScopeId(3)
+fn ("fn") -> ScopeId(3)
+profile ("profile") -> ScopeId(2)
+someFunction ("someFunction") -> ScopeId(1)
+profile ("profile") -> ScopeId(2)
+JSON ("JSON") -> ScopeId(1)
+someObj ("someObj") -> ScopeId(1)
+JSON ("JSON") -> ScopeId(1)
+someObj ("someObj") -> ScopeId(1)

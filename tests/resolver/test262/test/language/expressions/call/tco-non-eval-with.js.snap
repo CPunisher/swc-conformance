@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-f ("f") -> #2
-scope ("scope") -> #2
-scope ("scope") -> #2
-f ("f") -> #2
-n ("n") -> #4
-n ("n") -> #4
-callCount ("callCount") -> #2
-eval ("eval") -> #1
-n ("n") -> #4
-scope ("scope") -> #2
-f ("f") -> #2
-f ("f") -> #2
-$MAX_ITERATIONS ("$MAX_ITERATIONS") -> #1
-assert ("assert") -> #1
-callCount ("callCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+scope ("scope") -> ScopeId(2)
+scope ("scope") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+n ("n") -> ScopeId(5)
+n ("n") -> ScopeId(5)
+callCount ("callCount") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+n ("n") -> ScopeId(5)
+scope ("scope") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+$MAX_ITERATIONS ("$MAX_ITERATIONS") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)

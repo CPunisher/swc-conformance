@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-_8_7_2_7 ("_8_7_2_7") -> #2
-_8_7_2_7_bValue ("_8_7_2_7_bValue") -> #2
-Object ("Object") -> #1
-_8_7_2_7 ("_8_7_2_7") -> #2
-_8_7_2_7_bValue ("_8_7_2_7_bValue") -> #2
-value ("value") -> #4
-_8_7_2_7_bValue ("_8_7_2_7_bValue") -> #2
-value ("value") -> #4
-_8_7_2_7 ("_8_7_2_7") -> #2
-assert ("assert") -> #1
-_8_7_2_7 ("_8_7_2_7") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+_8_7_2_7 ("_8_7_2_7") -> ScopeId(2)
+_8_7_2_7_bValue ("_8_7_2_7_bValue") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+_8_7_2_7 ("_8_7_2_7") -> ScopeId(2)
+_8_7_2_7_bValue ("_8_7_2_7_bValue") -> ScopeId(2)
+value ("value") -> ScopeId(6)
+_8_7_2_7_bValue ("_8_7_2_7_bValue") -> ScopeId(2)
+value ("value") -> ScopeId(6)
+_8_7_2_7 ("_8_7_2_7") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+_8_7_2_7 ("_8_7_2_7") -> ScopeId(2)

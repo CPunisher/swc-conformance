@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-newTarget ("newTarget") -> #2
-Parent ("Parent") -> #2
-newTarget ("newTarget") -> #2
-Child ("Child") -> #2
-Parent ("Parent") -> #2
-Child ("Child") -> #2
-assert ("assert") -> #1
-newTarget ("newTarget") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+newTarget ("newTarget") -> ScopeId(2)
+Parent ("Parent") -> ScopeId(2)
+newTarget ("newTarget") -> ScopeId(2)
+Child ("Child") -> ScopeId(2)
+Parent ("Parent") -> ScopeId(2)
+Child ("Child") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+newTarget ("newTarget") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-OuterEvalMutableClass ("OuterEvalMutableClass") -> #2
-out ("out") -> #1
-OuterEvalMutableClass ("OuterEvalMutableClass") -> #2
-constructOuterClassAfterEval ("constructOuterClassAfterEval") -> #2
-eval ("eval") -> #1
-OuterEvalMutableClass ("OuterEvalMutableClass") -> #2
-out ("out") -> #1
-constructOuterClassAfterEval ("constructOuterClassAfterEval") -> #2
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> #2
-out ("out") -> #1
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> #2
-constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> #2
-eval ("eval") -> #1
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> #2
-out ("out") -> #1
-constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
+constructOuterClassAfterEval ("constructOuterClassAfterEval") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+constructOuterClassAfterEval ("constructOuterClassAfterEval") -> ScopeId(2)
+OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
+constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
+out ("out") -> ScopeId(1)
+constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> ScopeId(2)

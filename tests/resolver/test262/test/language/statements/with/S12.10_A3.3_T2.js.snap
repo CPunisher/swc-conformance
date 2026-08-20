@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-result ("result") -> #2
-myObj ("myObj") -> #2
-__FACTORY ("__FACTORY") -> #2
-myObj ("myObj") -> #2
-p1 ("p1") -> #1
-value ("value") -> #1
-obj ("obj") -> #2
-__FACTORY ("__FACTORY") -> #2
-p1 ("p1") -> #1
-Test262Error ("Test262Error") -> #1
-p1 ("p1") -> #1
-myObj ("myObj") -> #2
-Test262Error ("Test262Error") -> #1
-myObj ("myObj") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+result ("result") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+myObj ("myObj") -> ScopeId(2)
+p1 ("p1") -> ScopeId(1)
+value ("value") -> ScopeId(1)
+obj ("obj") -> ScopeId(2)
+__FACTORY ("__FACTORY") -> ScopeId(2)
+p1 ("p1") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+p1 ("p1") -> ScopeId(1)
+myObj ("myObj") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+myObj ("myObj") -> ScopeId(2)

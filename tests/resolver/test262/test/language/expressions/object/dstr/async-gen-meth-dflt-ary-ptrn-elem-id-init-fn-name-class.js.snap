@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-cls ("cls") -> #3
-xCls ("xCls") -> #3
-X ("X") -> #4
-xCls2 ("xCls2") -> #3
-assert ("assert") -> #1
-cls ("cls") -> #3
-assert ("assert") -> #1
-xCls ("xCls") -> #3
-assert ("assert") -> #1
-xCls2 ("xCls2") -> #3
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-obj ("obj") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+cls ("cls") -> ScopeId(4)
+xCls ("xCls") -> ScopeId(4)
+X ("X") -> ScopeId(6)
+xCls2 ("xCls2") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+cls ("cls") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xCls ("xCls") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xCls2 ("xCls2") -> ScopeId(4)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

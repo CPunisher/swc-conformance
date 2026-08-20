@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-x ("x") -> #3
-a ("a") -> #3
-p ("p") -> #4
-x ("x") -> #3
-a ("a") -> #3
-p ("p") -> #4
-k ("k") -> #3
-q ("q") -> #7
-x ("x") -> #3
-assert ("assert") -> #1
-q ("q") -> #7
-a ("a") -> #3
-k ("k") -> #3
-k ("k") -> #3
-fn ("fn") -> #2
-x ("x") -> #10
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+p ("p") -> ScopeId(4)
+x ("x") -> ScopeId(3)
+a ("a") -> ScopeId(3)
+p ("p") -> ScopeId(4)
+k ("k") -> ScopeId(3)
+q ("q") -> ScopeId(7)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+q ("q") -> ScopeId(7)
+a ("a") -> ScopeId(3)
+k ("k") -> ScopeId(3)
+k ("k") -> ScopeId(3)
+fn ("fn") -> ScopeId(2)
+x ("x") -> ScopeId(12)

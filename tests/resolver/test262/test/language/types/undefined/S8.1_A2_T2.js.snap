@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-test1 ("test1") -> #2
-x ("x") -> #3
-x ("x") -> #3
-test1 ("test1") -> #2
-Test262Error ("Test262Error") -> #1
-test1 ("test1") -> #2
-test2 ("test2") -> #2
-test2 ("test2") -> #2
-Test262Error ("Test262Error") -> #1
-test2 ("test2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+test1 ("test1") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+test1 ("test1") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+test1 ("test1") -> ScopeId(2)
+test2 ("test2") -> ScopeId(2)
+test2 ("test2") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+test2 ("test2") -> ScopeId(2)

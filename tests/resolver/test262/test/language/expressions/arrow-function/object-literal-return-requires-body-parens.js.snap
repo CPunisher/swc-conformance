@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-keyMaker ("keyMaker") -> #2
-val ("val") -> #3
-val ("val") -> #3
-assert ("assert") -> #1
-keyMaker ("keyMaker") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+keyMaker ("keyMaker") -> ScopeId(2)
+val ("val") -> ScopeId(3)
+val ("val") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+keyMaker ("keyMaker") -> ScopeId(2)

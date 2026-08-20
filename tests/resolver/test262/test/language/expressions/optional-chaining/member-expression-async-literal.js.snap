@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-checkAssertions ("checkAssertions") -> #2
-assert ("assert") -> #1
-assert ("assert") -> #1
-undefined ("undefined") -> #1
-asyncTest ("asyncTest") -> #1
-checkAssertions ("checkAssertions") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+checkAssertions ("checkAssertions") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+undefined ("undefined") -> ScopeId(1)
+asyncTest ("asyncTest") -> ScopeId(1)
+checkAssertions ("checkAssertions") -> ScopeId(2)

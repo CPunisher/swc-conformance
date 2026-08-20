@@ -1,22 +1,22 @@
-Top level: #2
-Unresolved: #1
-xCls ("xCls") -> #2
-cls ("cls") -> #2
-xCls2 ("xCls2") -> #2
-result ("result") -> #2
-vals ("vals") -> #2
-result ("result") -> #2
-xCls ("xCls") -> #2
-x ("x") -> #3
-cls ("cls") -> #2
-xCls2 ("xCls2") -> #2
-vals ("vals") -> #2
-assert ("assert") -> #1
-xCls ("xCls") -> #2
-assert ("assert") -> #1
-xCls2 ("xCls2") -> #2
-verifyProperty ("verifyProperty") -> #1
-cls ("cls") -> #2
-assert ("assert") -> #1
-result ("result") -> #2
-vals ("vals") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+xCls ("xCls") -> ScopeId(2)
+cls ("cls") -> ScopeId(2)
+xCls2 ("xCls2") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+result ("result") -> ScopeId(2)
+xCls ("xCls") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+cls ("cls") -> ScopeId(2)
+xCls2 ("xCls2") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+xCls ("xCls") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+xCls2 ("xCls2") -> ScopeId(2)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+cls ("cls") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+vals ("vals") -> ScopeId(2)

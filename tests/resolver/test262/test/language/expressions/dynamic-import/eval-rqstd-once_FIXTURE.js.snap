@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-global ("global") -> #2
-Function ("Function") -> #1
-global ("global") -> #2
-Error ("Error") -> #1
-global ("global") -> #2
-global ("global") -> #2
-Error ("Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+global ("global") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+global ("global") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+global ("global") -> ScopeId(2)
+global ("global") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)

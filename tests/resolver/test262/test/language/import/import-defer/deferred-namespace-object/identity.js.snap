@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-nsEager ("nsEager") -> #2
-nsDeferred1 ("nsDeferred1") -> #2
-nsDeferred2 ("nsDeferred2") -> #2
-nsDeferred3 ("nsDeferred3") -> #2
-depDeferredNamespace ("depDeferredNamespace") -> #0
-nsDeferred4 ("nsDeferred4") -> #2
-assert ("assert") -> #1
-nsDeferred1 ("nsDeferred1") -> #2
-nsDeferred2 ("nsDeferred2") -> #2
-assert ("assert") -> #1
-nsDeferred1 ("nsDeferred1") -> #2
-nsDeferred3 ("nsDeferred3") -> #2
-assert ("assert") -> #1
-nsDeferred1 ("nsDeferred1") -> #2
-nsDeferred4 ("nsDeferred4") -> #2
-assert ("assert") -> #1
-nsDeferred1 ("nsDeferred1") -> #2
-nsEager ("nsEager") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+nsEager ("nsEager") -> ScopeId(2)
+nsDeferred1 ("nsDeferred1") -> ScopeId(2)
+nsDeferred2 ("nsDeferred2") -> ScopeId(2)
+nsDeferred3 ("nsDeferred3") -> ScopeId(2)
+depDeferredNamespace ("depDeferredNamespace") -> ScopeId(1)
+nsDeferred4 ("nsDeferred4") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+nsDeferred1 ("nsDeferred1") -> ScopeId(2)
+nsDeferred2 ("nsDeferred2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+nsDeferred1 ("nsDeferred1") -> ScopeId(2)
+nsDeferred3 ("nsDeferred3") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+nsDeferred1 ("nsDeferred1") -> ScopeId(2)
+nsDeferred4 ("nsDeferred4") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+nsDeferred1 ("nsDeferred1") -> ScopeId(2)
+nsEager ("nsEager") -> ScopeId(2)

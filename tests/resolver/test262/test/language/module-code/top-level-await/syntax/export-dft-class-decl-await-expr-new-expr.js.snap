@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-fn ("fn") -> #2
-Promise ("Promise") -> #1
-res ("res") -> #5
-rej ("rej") -> #5
-res ("res") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+Promise ("Promise") -> ScopeId(1)
+res ("res") -> ScopeId(5)
+rej ("rej") -> ScopeId(5)
+res ("res") -> ScopeId(5)

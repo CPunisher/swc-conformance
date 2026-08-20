@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-$DONOTEVALUATE ("$DONOTEVALUATE") -> #1
-Moon ("Moon") -> #0
-Usagi ("Usagi") -> #2
-Moon ("Moon") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
+Moon ("Moon") -> ScopeId(1)
+Usagi ("Usagi") -> ScopeId(2)
+Moon ("Moon") -> ScopeId(2)

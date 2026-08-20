@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-public ("public") -> #3
-assert ("assert") -> #1
-public ("public") -> #3
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+public ("public") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+public ("public") -> ScopeId(3)
+testcase ("testcase") -> ScopeId(2)

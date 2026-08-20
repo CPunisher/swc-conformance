@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-o ("o") -> #2
-Object ("Object") -> #1
-o ("o") -> #2
-callCount ("callCount") -> #2
-f ("f") -> #2
-rest ("rest") -> #3
-assert ("assert") -> #1
-rest ("rest") -> #3
-undefined ("undefined") -> #1
-verifyProperty ("verifyProperty") -> #1
-rest ("rest") -> #3
-verifyProperty ("verifyProperty") -> #1
-rest ("rest") -> #3
-callCount ("callCount") -> #2
-callCount ("callCount") -> #2
-f ("f") -> #2
-o ("o") -> #2
-assert ("assert") -> #1
-callCount ("callCount") -> #2
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+o ("o") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+o ("o") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+rest ("rest") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+rest ("rest") -> ScopeId(5)
+undefined ("undefined") -> ScopeId(1)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+rest ("rest") -> ScopeId(5)
+verifyProperty ("verifyProperty") -> ScopeId(1)
+rest ("rest") -> ScopeId(5)
+callCount ("callCount") -> ScopeId(2)
+callCount ("callCount") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+callCount ("callCount") -> ScopeId(2)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

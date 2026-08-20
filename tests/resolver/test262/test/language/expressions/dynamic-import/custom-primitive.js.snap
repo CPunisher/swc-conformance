@@ -1,19 +1,19 @@
-Top level: #2
-Unresolved: #1
-fn ("fn") -> #2
-str ("str") -> #3
-value ("value") -> #3
-assert ("assert") -> #1
-String ("String") -> #1
-str ("str") -> #3
-assert ("assert") -> #1
-Number ("Number") -> #1
-str ("str") -> #3
-assert ("assert") -> #1
-Number ("Number") -> #1
-value ("value") -> #3
-assert ("assert") -> #1
-String ("String") -> #1
-value ("value") -> #3
-asyncTest ("asyncTest") -> #1
-fn ("fn") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+fn ("fn") -> ScopeId(2)
+str ("str") -> ScopeId(3)
+value ("value") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+String ("String") -> ScopeId(1)
+str ("str") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+Number ("Number") -> ScopeId(1)
+str ("str") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+Number ("Number") -> ScopeId(1)
+value ("value") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+String ("String") -> ScopeId(1)
+value ("value") -> ScopeId(3)
+asyncTest ("asyncTest") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)

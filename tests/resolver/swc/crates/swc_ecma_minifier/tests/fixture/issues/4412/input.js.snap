@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-arg ("arg") -> #3
-arg ("arg") -> #3
-ENUM_VALUE ("ENUM_VALUE") -> #1
-data ("data") -> #5
-arg ("arg") -> #3
-call ("call") -> #1
-data ("data") -> #5
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+arg ("arg") -> ScopeId(3)
+arg ("arg") -> ScopeId(3)
+ENUM_VALUE ("ENUM_VALUE") -> ScopeId(1)
+data ("data") -> ScopeId(5)
+arg ("arg") -> ScopeId(3)
+call ("call") -> ScopeId(1)
+data ("data") -> ScopeId(5)

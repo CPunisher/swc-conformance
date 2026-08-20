@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-C ("C") -> #2
-value ("value") -> #3
-value ("value") -> #3
-C ("C") -> #2
-C ("C") -> #2
-result ("result") -> #4
-assert ("assert") -> #1
-result ("result") -> #4
-C ("C") -> #2
-result ("result") -> #5
-assert ("assert") -> #1
-result ("result") -> #5
-$DONE ("$DONE") -> #1
-$DONE ("$DONE") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+C ("C") -> ScopeId(2)
+value ("value") -> ScopeId(4)
+value ("value") -> ScopeId(4)
+C ("C") -> ScopeId(2)
+C ("C") -> ScopeId(2)
+result ("result") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(5)
+C ("C") -> ScopeId(2)
+result ("result") -> ScopeId(7)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(7)
+$DONE ("$DONE") -> ScopeId(1)
+$DONE ("$DONE") -> ScopeId(1)

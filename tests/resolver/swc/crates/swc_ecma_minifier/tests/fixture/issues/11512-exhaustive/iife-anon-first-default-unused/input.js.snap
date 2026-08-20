@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-iifeAnonFirstDefaultUnused ("iifeAnonFirstDefaultUnused") -> #2
-value ("value") -> #3
-a ("a") -> #4
-b ("b") -> #4
-b ("b") -> #4
-undefined ("undefined") -> #1
-value ("value") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+iifeAnonFirstDefaultUnused ("iifeAnonFirstDefaultUnused") -> ScopeId(2)
+value ("value") -> ScopeId(3)
+a ("a") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+undefined ("undefined") -> ScopeId(1)
+value ("value") -> ScopeId(3)

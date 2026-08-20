@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-z ("z") -> #2
-s ("s") -> #2
-x ("x") -> #3
-z ("z") -> #2
-z ("z") -> #2
-s ("s") -> #2
-x ("x") -> #3
-z ("z") -> #2
-assert ("assert") -> #1
-s ("s") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+z ("z") -> ScopeId(2)
+s ("s") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+z ("z") -> ScopeId(2)
+z ("z") -> ScopeId(2)
+s ("s") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+z ("z") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+s ("s") -> ScopeId(2)

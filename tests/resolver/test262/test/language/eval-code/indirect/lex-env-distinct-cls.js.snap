@@ -1,17 +1,17 @@
-Top level: #2
-Unresolved: #1
-outside ("outside") -> #2
-eval ("eval") -> #1
-eval ("eval") -> #1
-eval ("eval") -> #1
-assert ("assert") -> #1
-xNonStrict ("xNonStrict") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-xNonStrict ("xNonStrict") -> #1
-eval ("eval") -> #1
-assert ("assert") -> #1
-xStrict ("xStrict") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-xStrict ("xStrict") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+outside ("outside") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+xNonStrict ("xNonStrict") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+xNonStrict ("xNonStrict") -> ScopeId(1)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+xStrict ("xStrict") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+xStrict ("xStrict") -> ScopeId(1)

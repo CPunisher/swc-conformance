@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-example ("example") -> #2
-value ("value") -> #3
-value ("value") -> #3
-undefined ("undefined") -> #1
-undefined ("undefined") -> #1
-someConditional ("someConditional") -> #1
-value ("value") -> #3
-doSomething ("doSomething") -> #1
-value ("value") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+example ("example") -> ScopeId(2)
+value ("value") -> ScopeId(3)
+value ("value") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+undefined ("undefined") -> ScopeId(1)
+someConditional ("someConditional") -> ScopeId(1)
+value ("value") -> ScopeId(3)
+doSomething ("doSomething") -> ScopeId(1)
+value ("value") -> ScopeId(3)

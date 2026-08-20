@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-current_component ("current_component") -> #2
-set_current_component ("set_current_component") -> #2
-component ("component") -> #3
-current_component ("current_component") -> #2
-component ("component") -> #3
-f ("f") -> #2
-component ("component") -> #4
-parent ("parent") -> #4
-current_component ("current_component") -> #2
-set_current_component ("set_current_component") -> #2
-component ("component") -> #4
-parent ("parent") -> #4
-obj ("obj") -> #2
-console ("console") -> #1
-f ("f") -> #2
-obj ("obj") -> #2
-e ("e") -> #7
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+current_component ("current_component") -> ScopeId(2)
+set_current_component ("set_current_component") -> ScopeId(2)
+component ("component") -> ScopeId(3)
+current_component ("current_component") -> ScopeId(2)
+component ("component") -> ScopeId(3)
+f ("f") -> ScopeId(2)
+component ("component") -> ScopeId(4)
+parent ("parent") -> ScopeId(4)
+current_component ("current_component") -> ScopeId(2)
+set_current_component ("set_current_component") -> ScopeId(2)
+component ("component") -> ScopeId(4)
+parent ("parent") -> ScopeId(4)
+obj ("obj") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+f ("f") -> ScopeId(2)
+obj ("obj") -> ScopeId(2)
+e ("e") -> ScopeId(8)
+console ("console") -> ScopeId(1)

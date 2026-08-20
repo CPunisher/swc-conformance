@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-depth ("depth") -> #2
-foo ("foo") -> #2
-n ("n") -> #3
-depth ("depth") -> #2
-k ("k") -> #3
-visit ("visit") -> #1
-n ("n") -> #3
-depth ("depth") -> #2
-k ("k") -> #3
-blackbox ("blackbox") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+depth ("depth") -> ScopeId(2)
+foo ("foo") -> ScopeId(2)
+n ("n") -> ScopeId(3)
+depth ("depth") -> ScopeId(2)
+k ("k") -> ScopeId(3)
+visit ("visit") -> ScopeId(1)
+n ("n") -> ScopeId(3)
+depth ("depth") -> ScopeId(2)
+k ("k") -> ScopeId(3)
+blackbox ("blackbox") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

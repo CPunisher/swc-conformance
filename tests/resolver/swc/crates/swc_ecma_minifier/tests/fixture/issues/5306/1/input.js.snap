@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-array ("array") -> #2
-values ("values") -> #2
-array ("array") -> #2
-array ("array") -> #2
-console ("console") -> #1
-values ("values") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+array ("array") -> ScopeId(2)
+values ("values") -> ScopeId(2)
+array ("array") -> ScopeId(2)
+array ("array") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+values ("values") -> ScopeId(2)

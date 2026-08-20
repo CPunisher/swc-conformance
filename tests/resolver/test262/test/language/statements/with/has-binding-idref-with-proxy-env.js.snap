@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-log ("log") -> #2
-env ("env") -> #2
-proxy ("proxy") -> #2
-Proxy ("Proxy") -> #1
-env ("env") -> #2
-allowProxyTraps ("allowProxyTraps") -> #1
-t ("t") -> #3
-pk ("pk") -> #3
-log ("log") -> #2
-String ("String") -> #1
-pk ("pk") -> #3
-Reflect ("Reflect") -> #1
-t ("t") -> #3
-pk ("pk") -> #3
-proxy ("proxy") -> #2
-Object ("Object") -> #1
-assert ("assert") -> #1
-log ("log") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+log ("log") -> ScopeId(2)
+env ("env") -> ScopeId(2)
+proxy ("proxy") -> ScopeId(2)
+Proxy ("Proxy") -> ScopeId(1)
+env ("env") -> ScopeId(2)
+allowProxyTraps ("allowProxyTraps") -> ScopeId(1)
+t ("t") -> ScopeId(5)
+pk ("pk") -> ScopeId(5)
+log ("log") -> ScopeId(2)
+String ("String") -> ScopeId(1)
+pk ("pk") -> ScopeId(5)
+Reflect ("Reflect") -> ScopeId(1)
+t ("t") -> ScopeId(5)
+pk ("pk") -> ScopeId(5)
+proxy ("proxy") -> ScopeId(2)
+Object ("Object") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+log ("log") -> ScopeId(2)

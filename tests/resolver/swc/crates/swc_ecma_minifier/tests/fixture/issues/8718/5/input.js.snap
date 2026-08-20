@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-a ("a") -> #2
-f ("f") -> #2
-a ("a") -> #2
-console ("console") -> #1
-a ("a") -> #2
-console ("console") -> #1
-a ("a") -> #2
-a ("a") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+a ("a") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+a ("a") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a ("a") -> ScopeId(2)
+a ("a") -> ScopeId(2)

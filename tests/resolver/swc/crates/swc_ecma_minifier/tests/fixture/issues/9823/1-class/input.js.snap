@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-Element ("Element") -> #3
-PointElement ("PointElement") -> #3
-cfg ("cfg") -> #4
-Element ("Element") -> #3
-chart_elements ("chart_elements") -> #3
-Object ("Object") -> #1
-PointElement ("PointElement") -> #3
-registerables ("registerables") -> #3
-chart_elements ("chart_elements") -> #3
-chart_plugins ("chart_plugins") -> #1
-console ("console") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Element ("Element") -> ScopeId(3)
+PointElement ("PointElement") -> ScopeId(3)
+cfg ("cfg") -> ScopeId(6)
+Element ("Element") -> ScopeId(3)
+chart_elements ("chart_elements") -> ScopeId(3)
+Object ("Object") -> ScopeId(1)
+PointElement ("PointElement") -> ScopeId(3)
+registerables ("registerables") -> ScopeId(3)
+chart_elements ("chart_elements") -> ScopeId(3)
+chart_plugins ("chart_plugins") -> ScopeId(1)
+console ("console") -> ScopeId(1)

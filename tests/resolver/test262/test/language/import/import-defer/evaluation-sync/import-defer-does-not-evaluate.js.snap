@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-ns1 ("ns1") -> #2
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
-ns_1_2 ("ns_1_2") -> #2
-ns1 ("ns1") -> #2
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
-ns1 ("ns1") -> #2
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
-ns_1_2 ("ns_1_2") -> #2
-assert ("assert") -> #1
-globalThis ("globalThis") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ns1 ("ns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+ns_1_2 ("ns_1_2") -> ScopeId(2)
+ns1 ("ns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+ns1 ("ns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)
+ns_1_2 ("ns_1_2") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+globalThis ("globalThis") -> ScopeId(1)

@@ -1,23 +1,23 @@
-Top level: #2
-Unresolved: #1
-DummyError ("DummyError") -> #2
-assert ("assert") -> #1
-DummyError ("DummyError") -> #2
-base ("base") -> #4
-prop ("prop") -> #4
-DummyError ("DummyError") -> #2
-expr ("expr") -> #4
-Test262Error ("Test262Error") -> #1
-base ("base") -> #4
-prop ("prop") -> #4
-expr ("expr") -> #4
-assert ("assert") -> #1
-DummyError ("DummyError") -> #2
-base ("base") -> #7
-prop ("prop") -> #7
-Test262Error ("Test262Error") -> #1
-expr ("expr") -> #7
-DummyError ("DummyError") -> #2
-base ("base") -> #7
-prop ("prop") -> #7
-expr ("expr") -> #7
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+base ("base") -> ScopeId(4)
+prop ("prop") -> ScopeId(4)
+DummyError ("DummyError") -> ScopeId(2)
+expr ("expr") -> ScopeId(4)
+Test262Error ("Test262Error") -> ScopeId(1)
+base ("base") -> ScopeId(4)
+prop ("prop") -> ScopeId(4)
+expr ("expr") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+DummyError ("DummyError") -> ScopeId(2)
+base ("base") -> ScopeId(7)
+prop ("prop") -> ScopeId(7)
+Test262Error ("Test262Error") -> ScopeId(1)
+expr ("expr") -> ScopeId(7)
+DummyError ("DummyError") -> ScopeId(2)
+base ("base") -> ScopeId(7)
+prop ("prop") -> ScopeId(7)
+expr ("expr") -> ScopeId(7)

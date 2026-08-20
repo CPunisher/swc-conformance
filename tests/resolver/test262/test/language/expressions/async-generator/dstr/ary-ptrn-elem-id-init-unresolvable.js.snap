@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-f ("f") -> #2
-f ("f") -> #2
-x ("x") -> #3
-unresolvableReference ("unresolvableReference") -> #1
-assert ("assert") -> #1
-ReferenceError ("ReferenceError") -> #1
-f ("f") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f ("f") -> ScopeId(2)
+f ("f") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+unresolvableReference ("unresolvableReference") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+ReferenceError ("ReferenceError") -> ScopeId(1)
+f ("f") -> ScopeId(2)

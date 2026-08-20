@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-superProp ("superProp") -> #2
-o ("o") -> #2
-superProp ("superProp") -> #2
-eval ("eval") -> #1
-o ("o") -> #2
-assert ("assert") -> #1
-superProp ("superProp") -> #2
-undefined ("undefined") -> #1
-Object ("Object") -> #1
-o ("o") -> #2
-o ("o") -> #2
-assert ("assert") -> #1
-superProp ("superProp") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+superProp ("superProp") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+superProp ("superProp") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+o ("o") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+superProp ("superProp") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)
+Object ("Object") -> ScopeId(1)
+o ("o") -> ScopeId(2)
+o ("o") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+superProp ("superProp") -> ScopeId(2)

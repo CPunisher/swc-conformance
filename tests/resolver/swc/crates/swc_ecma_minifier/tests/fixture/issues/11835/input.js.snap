@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-pos ("pos") -> #2
-lst ("lst") -> #2
-other ("other") -> #2
-pos ("pos") -> #2
-test ("test") -> #2
-result ("result") -> #4
-lst ("lst") -> #2
-other ("other") -> #2
-pos ("pos") -> #2
-pos ("pos") -> #2
-lst ("lst") -> #2
-pos ("pos") -> #2
-result ("result") -> #4
-result ("result") -> #4
-console ("console") -> #1
-test ("test") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+pos ("pos") -> ScopeId(2)
+lst ("lst") -> ScopeId(2)
+other ("other") -> ScopeId(2)
+pos ("pos") -> ScopeId(2)
+test ("test") -> ScopeId(2)
+result ("result") -> ScopeId(4)
+lst ("lst") -> ScopeId(2)
+other ("other") -> ScopeId(2)
+pos ("pos") -> ScopeId(2)
+pos ("pos") -> ScopeId(2)
+lst ("lst") -> ScopeId(2)
+pos ("pos") -> ScopeId(2)
+result ("result") -> ScopeId(4)
+result ("result") -> ScopeId(4)
+console ("console") -> ScopeId(1)
+test ("test") -> ScopeId(2)

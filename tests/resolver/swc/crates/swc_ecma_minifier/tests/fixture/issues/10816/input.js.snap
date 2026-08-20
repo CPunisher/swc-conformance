@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-A ("A") -> #2
-console ("console") -> #1
-callMe ("callMe") -> #4
-B ("B") -> #4
-callMe ("callMe") -> #4
-B ("B") -> #4
-instance ("instance") -> #2
-A ("A") -> #2
-fn ("fn") -> #2
-instance ("instance") -> #2
-fn ("fn") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+A ("A") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+callMe ("callMe") -> ScopeId(5)
+B ("B") -> ScopeId(5)
+callMe ("callMe") -> ScopeId(5)
+B ("B") -> ScopeId(5)
+instance ("instance") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)
+instance ("instance") -> ScopeId(2)
+fn ("fn") -> ScopeId(2)

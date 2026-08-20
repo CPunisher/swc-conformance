@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-string ("string") -> #2
-first ("first") -> #2
-second ("second") -> #2
-third ("third") -> #2
-iterationCount ("iterationCount") -> #2
-value ("value") -> #2
-string ("string") -> #2
-assert ("assert") -> #1
-value ("value") -> #2
-first ("first") -> #2
-first ("first") -> #2
-second ("second") -> #2
-second ("second") -> #2
-third ("third") -> #2
-third ("third") -> #2
-iterationCount ("iterationCount") -> #2
-assert ("assert") -> #1
-iterationCount ("iterationCount") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+string ("string") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+third ("third") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+value ("value") -> ScopeId(2)
+string ("string") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+value ("value") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+first ("first") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+second ("second") -> ScopeId(2)
+third ("third") -> ScopeId(2)
+third ("third") -> ScopeId(2)
+iterationCount ("iterationCount") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+iterationCount ("iterationCount") -> ScopeId(2)

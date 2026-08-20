@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-commonjsGlobal ("commonjsGlobal") -> #3
-globalThis ("globalThis") -> #1
-createEventEmitter ("createEventEmitter") -> #3
-value ("value") -> #4
-index ("index") -> #3
-somethingGlobal ("somethingGlobal") -> #1
-esm ("esm") -> #3
-index ("index") -> #3
-esm ("esm") -> #3
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+commonjsGlobal ("commonjsGlobal") -> ScopeId(3)
+globalThis ("globalThis") -> ScopeId(1)
+createEventEmitter ("createEventEmitter") -> ScopeId(3)
+value ("value") -> ScopeId(4)
+index ("index") -> ScopeId(3)
+somethingGlobal ("somethingGlobal") -> ScopeId(1)
+esm ("esm") -> ScopeId(3)
+index ("index") -> ScopeId(3)
+esm ("esm") -> ScopeId(3)

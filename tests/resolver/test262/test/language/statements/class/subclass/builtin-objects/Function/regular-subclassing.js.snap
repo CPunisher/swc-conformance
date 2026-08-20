@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-Fn ("Fn") -> #2
-Function ("Function") -> #1
-fn ("fn") -> #2
-Fn ("Fn") -> #2
-assert ("assert") -> #1
-fn ("fn") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Fn ("Fn") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)
+Fn ("Fn") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+fn ("fn") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-protected ("protected") -> #2
-prot\u0065cted ("prot\\u0065cted") -> #2
-protected ("protected") -> #3
-prot\u0065cted ("prot\\u0065cted") -> #4
-protected ("protected") -> #5
-prot\u0065cted ("prot\\u0065cted") -> #6
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+protected ("protected") -> ScopeId(2)
+prot\u0065cted ("prot\\u0065cted") -> ScopeId(2)
+protected ("protected") -> ScopeId(3)
+prot\u0065cted ("prot\\u0065cted") -> ScopeId(4)
+protected ("protected") -> ScopeId(5)
+prot\u0065cted ("prot\\u0065cted") -> ScopeId(6)

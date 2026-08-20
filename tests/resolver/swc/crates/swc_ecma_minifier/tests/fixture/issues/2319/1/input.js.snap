@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-foo ("foo") -> #2
-l ("l") -> #3
-r ("r") -> #3
-lightGreeting ("lightGreeting") -> #3
-l ("l") -> #3
-greeting ("greeting") -> #3
-greeting ("greeting") -> #3
-r ("r") -> #3
-lightGreeting ("lightGreeting") -> #3
-greeting ("greeting") -> #3
-lightGreeting ("lightGreeting") -> #3
-module ("module") -> #1
-foo ("foo") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+foo ("foo") -> ScopeId(2)
+l ("l") -> ScopeId(3)
+r ("r") -> ScopeId(3)
+lightGreeting ("lightGreeting") -> ScopeId(3)
+l ("l") -> ScopeId(3)
+greeting ("greeting") -> ScopeId(3)
+greeting ("greeting") -> ScopeId(3)
+r ("r") -> ScopeId(3)
+lightGreeting ("lightGreeting") -> ScopeId(3)
+greeting ("greeting") -> ScopeId(3)
+lightGreeting ("lightGreeting") -> ScopeId(3)
+module ("module") -> ScopeId(1)
+foo ("foo") -> ScopeId(2)

@@ -1,6 +1,6 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-SyntaxError ("SyntaxError") -> #1
-fun ("fun") -> #4
-eval ("eval") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+SyntaxError ("SyntaxError") -> ScopeId(1)
+fun ("fun") -> ScopeId(4)
+eval ("eval") -> ScopeId(1)

@@ -1,18 +1,18 @@
-Top level: #2
-Unresolved: #1
-Function ("Function") -> #1
-Symbol ("Symbol") -> #1
-asyncTest ("asyncTest") -> #1
-xGen ("xGen") -> #4
-x ("x") -> #5
-gen ("gen") -> #4
-assert ("assert") -> #1
-xGen ("xGen") -> #4
-assert ("assert") -> #1
-gen ("gen") -> #4
-verifyNotEnumerable ("verifyNotEnumerable") -> #1
-gen ("gen") -> #4
-verifyNotWritable ("verifyNotWritable") -> #1
-gen ("gen") -> #4
-verifyConfigurable ("verifyConfigurable") -> #1
-gen ("gen") -> #4
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Function ("Function") -> ScopeId(1)
+Symbol ("Symbol") -> ScopeId(1)
+asyncTest ("asyncTest") -> ScopeId(1)
+xGen ("xGen") -> ScopeId(4)
+x ("x") -> ScopeId(5)
+gen ("gen") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+xGen ("xGen") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)
+verifyNotEnumerable ("verifyNotEnumerable") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)
+verifyNotWritable ("verifyNotWritable") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)
+verifyConfigurable ("verifyConfigurable") -> ScopeId(1)
+gen ("gen") -> ScopeId(4)

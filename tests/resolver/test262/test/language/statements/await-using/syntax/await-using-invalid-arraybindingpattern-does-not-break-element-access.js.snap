@@ -1,7 +1,7 @@
-Top level: #2
-Unresolved: #1
-using ("using") -> #2
-x ("x") -> #2
-asyncTest ("asyncTest") -> #1
-using ("using") -> #2
-x ("x") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+using ("using") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+asyncTest ("asyncTest") -> ScopeId(1)
+using ("using") -> ScopeId(2)
+x ("x") -> ScopeId(2)

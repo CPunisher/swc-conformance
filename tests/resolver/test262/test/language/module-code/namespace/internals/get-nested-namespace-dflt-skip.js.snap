@@ -1,12 +1,12 @@
-Top level: #2
-Unresolved: #1
-namedns1 ("namedns1") -> #2
-productionns1 ("productionns1") -> #2
-assert ("assert") -> #1
-namedns1 ("namedns1") -> #2
-assert ("assert") -> #1
-namedns1 ("namedns1") -> #2
-assert ("assert") -> #1
-productionns1 ("productionns1") -> #2
-assert ("assert") -> #1
-productionns1 ("productionns1") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+namedns1 ("namedns1") -> ScopeId(2)
+productionns1 ("productionns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+namedns1 ("namedns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+namedns1 ("namedns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+productionns1 ("productionns1") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+productionns1 ("productionns1") -> ScopeId(2)

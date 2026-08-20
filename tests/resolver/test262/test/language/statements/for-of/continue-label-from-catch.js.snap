@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-values ("values") -> #2
-iterator ("iterator") -> #2
-values ("values") -> #2
-loop ("loop") -> #2
-i ("i") -> #2
-outer ("outer") -> #0
-loop ("loop") -> #2
-loop ("loop") -> #2
-x ("x") -> #2
-iterator ("iterator") -> #2
-Error ("Error") -> #1
-err ("err") -> #7
-i ("i") -> #2
-outer ("outer") -> #0
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-Test262Error ("Test262Error") -> #1
-assert ("assert") -> #1
-i ("i") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+values ("values") -> ScopeId(2)
+iterator ("iterator") -> ScopeId(2)
+values ("values") -> ScopeId(2)
+loop ("loop") -> ScopeId(2)
+i ("i") -> ScopeId(2)
+outer ("outer") -> ScopeId(4294967295)
+loop ("loop") -> ScopeId(2)
+loop ("loop") -> ScopeId(2)
+x ("x") -> ScopeId(2)
+iterator ("iterator") -> ScopeId(2)
+Error ("Error") -> ScopeId(1)
+err ("err") -> ScopeId(8)
+i ("i") -> ScopeId(2)
+outer ("outer") -> ScopeId(4294967295)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+i ("i") -> ScopeId(2)

@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-Object ("Object") -> #1
-Function ("Function") -> #1
-Test262Error ("Test262Error") -> #1
-result ("result") -> #2
-Function ("Function") -> #1
-assert ("assert") -> #1
-result ("result") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+Object ("Object") -> ScopeId(1)
+Function ("Function") -> ScopeId(1)
+Test262Error ("Test262Error") -> ScopeId(1)
+result ("result") -> ScopeId(2)
+Function ("Function") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+result ("result") -> ScopeId(2)

@@ -1,8 +1,8 @@
-Top level: #2
-Unresolved: #1
-plusOne ("plusOne") -> #2
-v ("v") -> #3
-v ("v") -> #3
-assert ("assert") -> #1
-plusOne ("plusOne") -> #2
-undefined ("undefined") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+plusOne ("plusOne") -> ScopeId(2)
+v ("v") -> ScopeId(3)
+v ("v") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+plusOne ("plusOne") -> ScopeId(2)
+undefined ("undefined") -> ScopeId(1)

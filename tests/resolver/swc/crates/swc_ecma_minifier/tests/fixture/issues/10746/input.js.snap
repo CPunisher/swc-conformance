@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-ErrorResponse ("ErrorResponse") -> #2
-statusCode ("statusCode") -> #3
-message ("message") -> #3
-Response ("Response") -> #1
-message ("message") -> #3
-statusCode ("statusCode") -> #3
-unknownError ("unknownError") -> #2
-ErrorResponse ("ErrorResponse") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+ErrorResponse ("ErrorResponse") -> ScopeId(2)
+statusCode ("statusCode") -> ScopeId(3)
+message ("message") -> ScopeId(3)
+Response ("Response") -> ScopeId(1)
+message ("message") -> ScopeId(3)
+statusCode ("statusCode") -> ScopeId(3)
+unknownError ("unknownError") -> ScopeId(2)
+ErrorResponse ("ErrorResponse") -> ScopeId(2)

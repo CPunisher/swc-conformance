@@ -1,13 +1,13 @@
-Top level: #2
-Unresolved: #1
-e ("e") -> #3
-i ("i") -> #3
-_ ("_") -> #3
-i ("i") -> #3
-n ("n") -> #1
-a ("a") -> #1
-i ("i") -> #3
-e ("e") -> #3
-console ("console") -> #1
-_ ("_") -> #3
-t ("t") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+e ("e") -> ScopeId(3)
+i ("i") -> ScopeId(3)
+_ ("_") -> ScopeId(3)
+i ("i") -> ScopeId(3)
+n ("n") -> ScopeId(1)
+a ("a") -> ScopeId(1)
+i ("i") -> ScopeId(3)
+e ("e") -> ScopeId(3)
+console ("console") -> ScopeId(1)
+_ ("_") -> ScopeId(3)
+t ("t") -> ScopeId(1)

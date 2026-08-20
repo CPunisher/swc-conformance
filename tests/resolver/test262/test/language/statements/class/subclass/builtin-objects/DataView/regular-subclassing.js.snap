@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-DV ("DV") -> #2
-DataView ("DataView") -> #1
-buffer ("buffer") -> #2
-ArrayBuffer ("ArrayBuffer") -> #1
-dv ("dv") -> #2
-DV ("DV") -> #2
-buffer ("buffer") -> #2
-assert ("assert") -> #1
-dv ("dv") -> #2
-buffer ("buffer") -> #2
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-DV ("DV") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+DV ("DV") -> ScopeId(2)
+DataView ("DataView") -> ScopeId(1)
+buffer ("buffer") -> ScopeId(2)
+ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
+dv ("dv") -> ScopeId(2)
+DV ("DV") -> ScopeId(2)
+buffer ("buffer") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+dv ("dv") -> ScopeId(2)
+buffer ("buffer") -> ScopeId(2)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+DV ("DV") -> ScopeId(2)

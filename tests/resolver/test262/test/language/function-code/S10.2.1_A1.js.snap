@@ -1,21 +1,21 @@
-Top level: #2
-Unresolved: #1
-f1 ("f1") -> #2
-a ("a") -> #3
-b ("b") -> #3
-b ("b") -> #3
-undefined ("undefined") -> #1
-f1 ("f1") -> #2
-Test262Error ("Test262Error") -> #1
-f1 ("f1") -> #2
-Test262Error ("Test262Error") -> #1
-f2 ("f2") -> #2
-a ("a") -> #6
-b ("b") -> #6
-c ("c") -> #6
-b ("b") -> #6
-undefined ("undefined") -> #1
-c ("c") -> #6
-undefined ("undefined") -> #1
-f2 ("f2") -> #2
-Test262Error ("Test262Error") -> #1
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+f1 ("f1") -> ScopeId(2)
+a ("a") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+b ("b") -> ScopeId(3)
+undefined ("undefined") -> ScopeId(1)
+f1 ("f1") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+f1 ("f1") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+f2 ("f2") -> ScopeId(2)
+a ("a") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+c ("c") -> ScopeId(6)
+b ("b") -> ScopeId(6)
+undefined ("undefined") -> ScopeId(1)
+c ("c") -> ScopeId(6)
+undefined ("undefined") -> ScopeId(1)
+f2 ("f2") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)

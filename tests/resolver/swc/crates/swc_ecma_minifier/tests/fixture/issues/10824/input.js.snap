@@ -1,16 +1,16 @@
-Top level: #2
-Unresolved: #1
-A ("A") -> #2
-b ("b") -> #3
-b ("b") -> #3
-i ("i") -> #4
-i ("i") -> #4
-a1 ("a1") -> #2
-A ("A") -> #2
-a2 ("a2") -> #2
-A ("A") -> #2
-a1 ("a1") -> #2
-console ("console") -> #1
-a1 ("a1") -> #2
-console ("console") -> #1
-a2 ("a2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+A ("A") -> ScopeId(2)
+b ("b") -> ScopeId(4)
+b ("b") -> ScopeId(4)
+i ("i") -> ScopeId(5)
+i ("i") -> ScopeId(5)
+a1 ("a1") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+a2 ("a2") -> ScopeId(2)
+A ("A") -> ScopeId(2)
+a1 ("a1") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a1 ("a1") -> ScopeId(2)
+console ("console") -> ScopeId(1)
+a2 ("a2") -> ScopeId(2)

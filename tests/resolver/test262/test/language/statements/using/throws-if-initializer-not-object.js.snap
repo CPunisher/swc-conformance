@@ -1,20 +1,20 @@
-Top level: #2
-Unresolved: #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-x ("x") -> #3
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-x ("x") -> #4
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-x ("x") -> #5
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-x ("x") -> #6
-s ("s") -> #2
-Symbol ("Symbol") -> #1
-assert ("assert") -> #1
-TypeError ("TypeError") -> #1
-x ("x") -> #7
-s ("s") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+x ("x") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+x ("x") -> ScopeId(4)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+x ("x") -> ScopeId(5)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+x ("x") -> ScopeId(6)
+s ("s") -> ScopeId(2)
+Symbol ("Symbol") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+TypeError ("TypeError") -> ScopeId(1)
+x ("x") -> ScopeId(7)
+s ("s") -> ScopeId(2)

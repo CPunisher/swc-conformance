@@ -1,11 +1,11 @@
-Top level: #2
-Unresolved: #1
-getFoo ("getFoo") -> #2
-getFoo2 ("getFoo2") -> #2
-Foo ("Foo") -> #2
-getFoo2 ("getFoo2") -> #2
-getFoo ("getFoo") -> #2
-expect ("expect") -> #1
-getFoo ("getFoo") -> #2
-expect ("expect") -> #1
-getFoo2 ("getFoo2") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+getFoo ("getFoo") -> ScopeId(2)
+getFoo2 ("getFoo2") -> ScopeId(2)
+Foo ("Foo") -> ScopeId(2)
+getFoo2 ("getFoo2") -> ScopeId(2)
+getFoo ("getFoo") -> ScopeId(2)
+expect ("expect") -> ScopeId(1)
+getFoo ("getFoo") -> ScopeId(2)
+expect ("expect") -> ScopeId(1)
+getFoo2 ("getFoo2") -> ScopeId(2)

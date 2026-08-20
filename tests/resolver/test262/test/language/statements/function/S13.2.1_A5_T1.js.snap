@@ -1,15 +1,15 @@
-Top level: #2
-Unresolved: #1
-__arr ("__arr") -> #2
-__arr ("__arr") -> #2
-x ("x") -> #3
-y ("y") -> #3
-x ("x") -> #3
-y ("y") -> #3
-x ("x") -> #3
-y ("y") -> #3
-x ("x") -> #3
-y ("y") -> #3
-__arr ("__arr") -> #2
-Test262Error ("Test262Error") -> #1
-__arr ("__arr") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+__arr ("__arr") -> ScopeId(2)
+__arr ("__arr") -> ScopeId(2)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+x ("x") -> ScopeId(3)
+y ("y") -> ScopeId(3)
+__arr ("__arr") -> ScopeId(2)
+Test262Error ("Test262Error") -> ScopeId(1)
+__arr ("__arr") -> ScopeId(2)

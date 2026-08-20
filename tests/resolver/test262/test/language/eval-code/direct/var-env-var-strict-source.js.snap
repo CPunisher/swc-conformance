@@ -1,10 +1,10 @@
-Top level: #2
-Unresolved: #1
-testcase ("testcase") -> #2
-_10_4_2_3_c_1_s ("_10_4_2_3_c_1_s") -> #3
-_10_4_2_3_c_1_sFunc ("_10_4_2_3_c_1_sFunc") -> #3
-eval ("eval") -> #1
-assert ("assert") -> #1
-_10_4_2_3_c_1_s ("_10_4_2_3_c_1_s") -> #3
-_10_4_2_3_c_1_sFunc ("_10_4_2_3_c_1_sFunc") -> #3
-testcase ("testcase") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+testcase ("testcase") -> ScopeId(2)
+_10_4_2_3_c_1_s ("_10_4_2_3_c_1_s") -> ScopeId(3)
+_10_4_2_3_c_1_sFunc ("_10_4_2_3_c_1_sFunc") -> ScopeId(3)
+eval ("eval") -> ScopeId(1)
+assert ("assert") -> ScopeId(1)
+_10_4_2_3_c_1_s ("_10_4_2_3_c_1_s") -> ScopeId(3)
+_10_4_2_3_c_1_sFunc ("_10_4_2_3_c_1_sFunc") -> ScopeId(3)
+testcase ("testcase") -> ScopeId(2)

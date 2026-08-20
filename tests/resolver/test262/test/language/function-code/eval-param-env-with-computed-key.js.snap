@@ -1,9 +1,9 @@
-Top level: #2
-Unresolved: #1
-x ("x") -> #2
-evalInComputedPropertyKey ("evalInComputedPropertyKey") -> #2
-eval ("eval") -> #1
-ignored ("ignored") -> #3
-assert ("assert") -> #1
-x ("x") -> #2
-evalInComputedPropertyKey ("evalInComputedPropertyKey") -> #2
+Top level: ScopeId(2)
+Unresolved: ScopeId(1)
+x ("x") -> ScopeId(2)
+evalInComputedPropertyKey ("evalInComputedPropertyKey") -> ScopeId(2)
+eval ("eval") -> ScopeId(1)
+ignored ("ignored") -> ScopeId(3)
+assert ("assert") -> ScopeId(1)
+x ("x") -> ScopeId(2)
+evalInComputedPropertyKey ("evalInComputedPropertyKey") -> ScopeId(2)
