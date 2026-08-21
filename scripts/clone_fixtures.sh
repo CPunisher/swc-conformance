@@ -24,5 +24,4 @@ clone_repo() {
 }
 
 clone_repo "tc39/test262" "fixtures/test262" "d1d583db95a521218f3eb8341a887fd63eda8ff1" "test262"
-clone_repo "microsoft/TypeScript" "fixtures/typescript" "637d5746b70257028fb95aad32ddec6b26ab0a14" "typescript"
 clone_repo "swc-project/swc" "fixtures/swc" "e4f588ee8744a1a4e3323dfc0f5e1f2f98afb67f" "swc"
