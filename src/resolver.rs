@@ -110,11 +110,15 @@ fn fixture_files(root: &Path, extensions: &[&str], file_name: Option<&str>) -> V
 
 fn resolver_snapshot(path: &Path, jsx: bool, test262: bool) -> Option<String> {
     let source_text = fs::read_to_string(path).ok()?;
-    let allocator = Allocator::new();
     let test262_options = test262
         .then(|| test262_parse_options(&source_text))
         .flatten()
         .unwrap_or_default();
+    if test262_options.expects_error() {
+        return None;
+    }
+
+    let allocator = Allocator::new();
     let source_text = prepare_source(&source_text, test262_options);
 
     let program = with_file_parser(
@@ -155,8 +159,36 @@ fn resolver_snapshot(path: &Path, jsx: bool, test262: bool) -> Option<String> {
 
 #[derive(Clone, Copy, Default)]
 struct Test262ParseOptions {
+    negative: Option<Phase>,
     module: bool,
     only_strict: bool,
+}
+
+impl Test262ParseOptions {
+    fn expects_error(self) -> bool {
+        self.negative
+            .is_some_and(|phase| matches!(phase, Phase::Parse | Phase::Early))
+    }
+}
+
+#[derive(Clone, Copy, PartialEq, Eq)]
+enum Phase {
+    Parse,
+    Early,
+    Resolution,
+    Runtime,
+}
+
+impl From<&str> for Phase {
+    fn from(value: &str) -> Self {
+        match value {
+            "parse" => Self::Parse,
+            "early" => Self::Early,
+            "resolution" => Self::Resolution,
+            "runtime" => Self::Runtime,
+            _ => panic!("invalid Test262 negative phase: {value}"),
+        }
+    }
 }
 
 fn test262_parse_options(source: &str) -> Option<Test262ParseOptions> {
@@ -173,6 +205,18 @@ fn test262_parse_options(source: &str) -> Option<Test262ParseOptions> {
     let has_flag = |expected| flags.iter().any(|flag| flag.as_str() == Some(expected));
 
     Some(Test262ParseOptions {
+        negative: yaml
+            .as_mapping_get("negative")
+            .filter(|yaml| !yaml.is_null() && !yaml.is_badvalue())
+            .map(|yaml| {
+                if yaml.as_str() == Some("SyntaxError") {
+                    return Phase::Parse;
+                }
+
+                yaml.as_mapping_get("phase")
+                    .map(|phase| Phase::from(phase.as_str().unwrap()))
+                    .unwrap_or(Phase::Parse)
+            }),
         module: has_flag("module"),
         only_strict: has_flag("onlyStrict"),
     })
