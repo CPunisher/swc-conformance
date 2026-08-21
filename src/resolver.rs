@@ -1,0 +1,155 @@
+use std::{
+    error::Error,
+    ffi::OsString,
+    fmt::Write,
+    fs,
+    path::{Path, PathBuf},
+};
+
+use swc_experimental_allocator::Allocator;
+use swc_experimental_ecma_ast::{EsVersion, Ident, Visit};
+use swc_experimental_ecma_parser::{EsSyntax, Syntax, with_file_parser};
+use swc_experimental_ecma_semantic::resolver::{Semantic, resolver};
+use walkdir::WalkDir;
+
+use crate::{FixtureSet, workspace_root};
+
+const RESOLVER_FIXTURE_SETS: &[FixtureSet] = &[
+    FixtureSet {
+        input: "fixtures/test262/test/annexB/language",
+        output: "tests/resolver/test262/test/annexB/language",
+        extensions: &["js"],
+        file_name: None,
+        jsx: false,
+    },
+    FixtureSet {
+        input: "fixtures/test262/test/language",
+        output: "tests/resolver/test262/test/language",
+        extensions: &["js"],
+        file_name: None,
+        jsx: false,
+    },
+    FixtureSet {
+        input: "fixtures/swc/crates/swc_ecma_minifier/tests/fixture/issues",
+        output: "tests/resolver/swc/crates/swc_ecma_minifier/tests/fixture/issues",
+        extensions: &["js"],
+        file_name: Some("input.js"),
+        jsx: true,
+    },
+];
+
+pub(crate) fn run() -> Result<(), Box<dyn Error>> {
+    let workspace_root = workspace_root();
+    let mut total_generated = 0;
+    let mut total_skipped = 0;
+
+    let output_root = workspace_root.join("tests/resolver");
+    if output_root.exists() {
+        fs::remove_dir_all(&output_root)?;
+    }
+
+    for fixture_set in RESOLVER_FIXTURE_SETS {
+        let input_root = workspace_root.join(fixture_set.input);
+        let output_root = workspace_root.join(fixture_set.output);
+
+        let mut generated = 0;
+        let mut skipped = 0;
+        for path in fixture_files(&input_root, fixture_set.extensions, fixture_set.file_name) {
+            let Some(snapshot) = resolver_snapshot(&path, fixture_set.jsx) else {
+                skipped += 1;
+                continue;
+            };
+
+            let relative_path = path.strip_prefix(&input_root)?;
+            let mut path = OsString::from(relative_path.as_os_str());
+            path.push(".snap");
+            let snapshot_path = output_root.join(path);
+
+            if let Some(parent) = snapshot_path.parent() {
+                fs::create_dir_all(parent)?;
+            }
+            fs::write(snapshot_path, snapshot)?;
+            generated += 1;
+        }
+
+        println!(
+            "{}: generated {generated}, skipped {skipped} files that failed parsing, produced diagnostics, or panicked",
+            fixture_set.input
+        );
+        total_generated += generated;
+        total_skipped += skipped;
+    }
+
+    println!("resolver: generated {total_generated}, skipped {total_skipped} files in total");
+    Ok(())
+}
+
+fn fixture_files(root: &Path, extensions: &[&str], file_name: Option<&str>) -> Vec<PathBuf> {
+    let mut files = WalkDir::new(root)
+        .into_iter()
+        .filter_map(Result::ok)
+        .filter(|entry| entry.file_type().is_file())
+        .map(|entry| entry.into_path())
+        .filter(|path| {
+            file_name.is_none_or(|file_name| path.file_name().is_some_and(|name| name == file_name))
+                && path
+                    .extension()
+                    .and_then(|extension| extension.to_str())
+                    .is_some_and(|extension| extensions.contains(&extension))
+        })
+        .collect::<Vec<_>>();
+    files.sort_unstable();
+    files
+}
+
+fn resolver_snapshot(path: &Path, jsx: bool) -> Option<String> {
+    let source_text = fs::read_to_string(path).ok()?;
+    let allocator = Allocator::new();
+
+    let program = with_file_parser(
+        &allocator,
+        &source_text,
+        Syntax::Es(EsSyntax {
+            jsx,
+            decorators: true,
+            decorators_before_export: true,
+            auto_accessors: true,
+            explicit_resource_management: true,
+            ..Default::default()
+        }),
+        EsVersion::EsNext,
+        None,
+        |parser| {
+            let program = parser.parse_program().ok()?;
+            // A successful parse can still recover from syntax errors and
+            // return a partial AST. Do not pass such programs to resolver.
+            parser.take_errors().is_empty().then_some(program)
+        },
+    )?;
+    let semantic = resolver(&program);
+    let mut output = String::new();
+    let _ = writeln!(output, "Top level: {:?}", semantic.top_level_scope_id());
+    let _ = writeln!(output, "Unresolved: {:?}", semantic.unresolved_scope_id());
+    let mut visitor = SnapshotWriter {
+        semantic: &semantic,
+        output: &mut output,
+    };
+    visitor.visit_program(&program);
+    Some(output)
+}
+
+struct SnapshotWriter<'a, 'b> {
+    semantic: &'a Semantic,
+    output: &'b mut String,
+}
+
+impl<'a> Visit<'a> for SnapshotWriter<'_, '_> {
+    fn visit_ident(&mut self, node: &Ident) {
+        let scope = if node.symbol_id.get().is_some() {
+            self.semantic.node_scope(node)
+        } else {
+            self.semantic.unresolved_scope_id()
+        };
+        let _ = writeln!(self.output, "{} ({:?}) -> {:?}", node.sym, node.sym, scope,);
+    }
+}
