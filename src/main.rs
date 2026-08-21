@@ -10,7 +10,7 @@ use std::{
 use clap::{Parser, Subcommand};
 use swc_experimental_allocator::Allocator;
 use swc_experimental_ecma_ast::{EsVersion, Ident, Visit};
-use swc_experimental_ecma_parser::{EsSyntax, Syntax, parse_file_as_program};
+use swc_experimental_ecma_parser::{EsSyntax, Syntax, with_file_parser};
 use swc_experimental_ecma_semantic::resolver::{Semantic, resolver};
 use walkdir::WalkDir;
 
@@ -123,7 +123,7 @@ fn generate_resolver_snapshots() -> Result<(), Box<dyn Error>> {
         }
 
         println!(
-            "{}: generated {generated}, skipped {skipped} files that could not be processed",
+            "{}: generated {generated}, skipped {skipped} files that failed parsing, produced diagnostics, or panicked",
             fixture_set.input
         );
         total_generated += generated;
@@ -172,6 +172,10 @@ fn syntax_for(jsx: bool) -> Syntax {
 
 fn resolver_snapshot(path: &Path, jsx: bool) -> Option<String> {
     let source_text = fs::read_to_string(path).ok()?;
+    resolver_snapshot_from_source(&source_text, jsx)
+}
+
+fn resolver_snapshot_from_source(source_text: &str, jsx: bool) -> Option<String> {
     let allocator = Allocator::new();
 
     // Experimental parser and resolver panics are isolated to the current
@@ -179,14 +183,19 @@ fn resolver_snapshot(path: &Path, jsx: bool) -> Option<String> {
     let previous_hook = std::panic::take_hook();
     std::panic::set_hook(Box::new(|_| {}));
     let snapshot = catch_unwind(AssertUnwindSafe(|| {
-        let program = parse_file_as_program(
+        let program = with_file_parser(
             &allocator,
-            &source_text,
+            source_text,
             syntax_for(jsx),
             EsVersion::EsNext,
             None,
-        )
-        .ok()?;
+            |parser| {
+                let program = parser.parse_program().ok()?;
+                // A successful parse can still recover from syntax errors and
+                // return a partial AST. Do not pass such programs to resolver.
+                parser.take_errors().is_empty().then_some(program)
+            },
+        )?;
         let semantic = resolver(&program);
         let mut output = String::new();
         let _ = writeln!(output, "Top level: {:?}", semantic.top_level_scope_id());
