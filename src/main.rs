@@ -23,6 +23,7 @@ struct FixtureSet {
     extensions: &'static [&'static str],
     file_name: Option<&'static str>,
     jsx: bool,
+    test262: bool,
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
