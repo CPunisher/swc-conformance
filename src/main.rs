@@ -2,6 +2,7 @@ use std::error::Error;
 
 use clap::{Parser, Subcommand};
 
+pub mod parser;
 pub mod resolver;
 
 #[derive(Parser)]
@@ -13,6 +14,7 @@ struct Cli {
 
 #[derive(Subcommand)]
 enum Command {
+    Parser,
     Resolver,
 }
 
@@ -28,6 +30,7 @@ struct FixtureSet {
 
 fn main() -> Result<(), Box<dyn Error>> {
     match Cli::parse().command {
+        Command::Parser => parser::run(),
         Command::Resolver => resolver::run(),
     }
 }

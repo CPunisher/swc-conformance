@@ -8,6 +8,6 @@ clap = { version = "4.6.6", features = ["derive"] }
 saphyr = "0.0.6"
 swc_experimental_allocator = "0.11.0"
 swc_experimental_ecma_ast = "0.11.0"
-swc_experimental_ecma_parser = "0.11.0"
+swc_experimental_ecma_parser = { version = "0.11.0", features = ["unstable"] }
 swc_experimental_ecma_semantic = "0.11.0"
 walkdir = "2.5.0"
