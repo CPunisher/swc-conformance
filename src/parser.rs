@@ -1,10 +1,12 @@
 use std::{
+    borrow::Cow,
     error::Error,
     fmt::Write,
     fs,
     path::{Path, PathBuf},
 };
 
+use saphyr::{LoadableYamlNode, Yaml};
 use swc_experimental_allocator::Allocator;
 use swc_experimental_ecma_ast::{Comments, EsVersion};
 use swc_experimental_ecma_parser::{
@@ -29,12 +31,12 @@ pub(crate) fn run() -> Result<(), Box<dyn Error>> {
 
     for path in javascript_files(&input_root) {
         let source = fs::read_to_string(&path)?;
+        let options = test262_parse_options(&source);
+        let source = prepare_source(&source, options);
         let relative_path = path.strip_prefix(&input_root)?.to_string_lossy();
-        for snapshot in &mut snapshots {
-            snapshot.record(
-                &relative_path,
-                parses_without_errors(&source, snapshot.mode),
-            )?;
+        for &mode in options.parse_modes() {
+            let snapshot = &mut snapshots[mode.snapshot_index()];
+            snapshot.record(&relative_path, parses_without_errors(&source, mode))?;
         }
     }
 
@@ -48,7 +50,7 @@ pub(crate) fn run() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-#[derive(Clone, Copy)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 enum ParseMode {
     Module,
     Script,
@@ -61,6 +63,30 @@ impl ParseMode {
             Self::Module => "module",
             Self::Script => "script",
             Self::Program => "program",
+        }
+    }
+
+    fn snapshot_index(self) -> usize {
+        match self {
+            Self::Module => 0,
+            Self::Script => 1,
+            Self::Program => 2,
+        }
+    }
+}
+
+#[derive(Clone, Copy, Default)]
+struct Test262ParseOptions {
+    module: bool,
+    only_strict: bool,
+}
+
+impl Test262ParseOptions {
+    fn parse_modes(self) -> &'static [ParseMode] {
+        if self.module {
+            &[ParseMode::Module, ParseMode::Program]
+        } else {
+            &[ParseMode::Script, ParseMode::Program]
         }
     }
 }
@@ -119,6 +145,39 @@ fn javascript_files(root: &Path) -> Vec<PathBuf> {
     files
 }
 
+fn test262_parse_options(source: &str) -> Test262ParseOptions {
+    let Some(meta_start) = source.find("/*---") else {
+        return Test262ParseOptions::default();
+    };
+    let meta = &source[meta_start + 5..];
+    let Some(meta_end) = meta.find("---*/") else {
+        return Test262ParseOptions::default();
+    };
+    let yaml = Yaml::load_from_str(&meta[..meta_end]).unwrap_or_default();
+    let Some(yaml) = yaml.first() else {
+        return Test262ParseOptions::default();
+    };
+    let flags = yaml
+        .as_mapping_get("flags")
+        .and_then(Yaml::as_sequence)
+        .map(Vec::as_slice)
+        .unwrap_or_default();
+    let has_flag = |expected| flags.iter().any(|flag| flag.as_str() == Some(expected));
+
+    Test262ParseOptions {
+        module: has_flag("module"),
+        only_strict: has_flag("onlyStrict"),
+    }
+}
+
+fn prepare_source(source: &str, options: Test262ParseOptions) -> Cow<'_, str> {
+    if options.only_strict && !options.module {
+        Cow::Owned(format!("\"use strict\";\n{source}"))
+    } else {
+        Cow::Borrowed(source)
+    }
+}
+
 fn parses_without_errors(source: &str, mode: ParseMode) -> bool {
     let allocator = Allocator::new();
     let mut comments = Comments::new_in(&allocator);
@@ -138,7 +197,7 @@ fn parses_without_errors(source: &str, mode: ParseMode) -> bool {
     let mut parser = Parser::new_from(&allocator, lexer);
     let parsed = match mode {
         ParseMode::Module => parser.parse_module().is_ok(),
-        ParseMode::Script => parser.parse_commonjs().is_ok(),
+        ParseMode::Script => parser.parse_script().is_ok(),
         ParseMode::Program => parser.parse_program().is_ok(),
     };
     parsed && parser.take_errors().is_empty()
