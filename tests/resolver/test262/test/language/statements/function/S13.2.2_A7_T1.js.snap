@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__FRST ("__FRST") -> ScopeId(2)
-__SCND ("__SCND") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-arg1 ("arg1") -> ScopeId(3)
-arg2 ("arg2") -> ScopeId(3)
-arg1 ("arg1") -> ScopeId(3)
-__obj ("__obj") -> ScopeId(3)
-arg2 ("arg2") -> ScopeId(3)
-__obj ("__obj") -> ScopeId(3)
-__obj__ ("__obj__") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-__FRST ("__FRST") -> ScopeId(2)
-__SCND ("__SCND") -> ScopeId(2)
-__obj__ ("__obj__") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-__obj__ ("__obj__") -> ScopeId(2)
-__obj__ ("__obj__") -> ScopeId(2)
-__SCND ("__SCND") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__obj__ ("__obj__") -> ScopeId(2)
+646 -> 1
+664 -> 2
+688 -> 3
+694 -> 4
+700 -> 5
+719 -> 4
+731 -> 6
+744 -> 5
+763 -> 6
+782 -> 7
+795 -> 3
+802 -> 1
+810 -> 2
+914 -> 7
+934 -> 0
+961 -> 0
+1029 -> 7
+1223 -> 7
+1241 -> 2
+1268 -> 0
+1336 -> 7

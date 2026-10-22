@@ -1,7 +1,5 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fun ("fun") -> ScopeId(2)
-test262unresolvable ("test262unresolvable") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-test262unresolvable ("test262unresolvable") -> ScopeId(1)
-fun ("fun") -> ScopeId(2)
+380 -> 1
+416 -> 0
+469 -> 0
+499 -> 0
+529 -> 1

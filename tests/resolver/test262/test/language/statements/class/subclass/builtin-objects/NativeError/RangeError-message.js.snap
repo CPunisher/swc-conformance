@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Err ("Err") -> ScopeId(2)
-RangeError ("RangeError") -> ScopeId(1)
-Err ("Err") -> ScopeId(2)
-err1 ("err1") -> ScopeId(2)
-Err ("Err") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-err1 ("err1") -> ScopeId(2)
-err2 ("err2") -> ScopeId(2)
-Err ("Err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err2 ("err2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err2 ("err2") -> ScopeId(2)
+628 -> 1
+647 -> 0
+655 -> 1
+707 -> 2
+717 -> 1
+744 -> 0
+749 -> 2
+857 -> 3
+867 -> 1
+877 -> 0
+892 -> 3
+934 -> 0
+949 -> 3

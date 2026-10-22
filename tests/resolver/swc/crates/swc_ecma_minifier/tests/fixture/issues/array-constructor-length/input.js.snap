@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-result ("result") -> ScopeId(2)
-factory ("factory") -> ScopeId(3)
-factory ("factory") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-error ("error") -> ScopeId(5)
-console ("console") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Array ("Array") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Array ("Array") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Array ("Array") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Array ("Array") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Array ("Array") -> ScopeId(1)
+15 -> 1
+23 -> 2
+59 -> 2
+88 -> 3
+112 -> 3
+135 -> 0
+152 -> 1
+164 -> 0
+182 -> 1
+198 -> 0
+216 -> 1
+228 -> 0
+244 -> 1
+256 -> 0
+272 -> 1
+284 -> 0

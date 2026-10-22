@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-setValue ("setValue") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-val ("val") -> ScopeId(5)
-setValue ("setValue") -> ScopeId(2)
-val ("val") -> ScopeId(5)
-vals ("vals") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setValue ("setValue") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
+2466 -> 1
+2476 -> 2
+2489 -> 3
+2499 -> 4
+2512 -> 0
+2522 -> 3
+2566 -> 0
+2624 -> 5
+2640 -> 2
+2646 -> 5
+2668 -> 4
+2677 -> 0
+2696 -> 2
+2711 -> 0
+2728 -> 3
+2734 -> 4

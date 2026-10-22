@@ -1,7 +1,5 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-indirectEval ("indirectEval") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-indirectEval ("indirectEval") -> ScopeId(2)
+280 -> 1
+287 -> 0
+295 -> 0
+314 -> 0
+346 -> 1

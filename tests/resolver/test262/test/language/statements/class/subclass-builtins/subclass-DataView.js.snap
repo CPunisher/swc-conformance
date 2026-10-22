@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Subclass ("Subclass") -> ScopeId(2)
-DataView ("DataView") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-DataView ("DataView") -> ScopeId(1)
+325 -> 1
+342 -> 0
+356 -> 2
+371 -> 1
+387 -> 0
+399 -> 0
+403 -> 2
+423 -> 1
+432 -> 0
+436 -> 2
+456 -> 0

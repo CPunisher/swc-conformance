@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-actualStrict ("actualStrict") -> ScopeId(2)
-actualNonStrict ("actualNonStrict") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-actualNonStrict ("actualNonStrict") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-actualStrict ("actualStrict") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-actualNonStrict ("actualNonStrict") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-actualStrict ("actualStrict") -> ScopeId(2)
+494 -> 1
+515 -> 2
+523 -> 3
+546 -> 4
+576 -> 2
+586 -> 0
+609 -> 1
+619 -> 0
+651 -> 0
+677 -> 2
+716 -> 0
+739 -> 1

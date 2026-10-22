@@ -1,27 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-defaultMessage ("defaultMessage") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-y ("y") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-y ("y") -> ScopeId(4)
-z ("z") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-abc ("abc") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-x ("x") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-abc2 ("abc2") -> ScopeId(2)
-a ("a") -> ScopeId(6)
-x ("x") -> ScopeId(6)
-z ("z") -> ScopeId(6)
-defaultMessage ("defaultMessage") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-a ("a") -> ScopeId(6)
-example ("example") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-abc ("abc") -> ScopeId(2)
-abc2 ("abc2") -> ScopeId(2)
+20 -> 1
+42 -> 2
+44 -> 3
+56 -> 3
+70 -> 4
+72 -> 5
+75 -> 6
+78 -> 7
+90 -> 5
+108 -> 8
+110 -> 9
+122 -> 2
+124 -> 9
+142 -> 10
+144 -> 11
+147 -> 12
+150 -> 13
+167 -> 1
+179 -> 4
+181 -> 11
+210 -> 14
+228 -> 2
+236 -> 4
+248 -> 8
+259 -> 10

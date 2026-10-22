@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Zero ("Zero") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-Zero ("Zero") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-Zero ("Zero") -> ScopeId(2)
-One ("One") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(4)
-out ("out") -> ScopeId(1)
-One ("One") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-One ("One") -> ScopeId(2)
-Destructured ("Destructured") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-other ("other") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-other ("other") -> ScopeId(5)
-out ("out") -> ScopeId(1)
-Destructured ("Destructured") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-Destructured ("Destructured") -> ScopeId(2)
-Default ("Default") -> ScopeId(2)
-value ("value") -> ScopeId(7)
-other ("other") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-other ("other") -> ScopeId(7)
-out ("out") -> ScopeId(1)
-Default ("Default") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-Default ("Default") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+13 -> 1
+48 -> 0
+60 -> 1
+65 -> 0
+81 -> 1
+105 -> 2
+111 -> 3
+137 -> 3
+145 -> 0
+155 -> 2
+160 -> 0
+174 -> 2
+207 -> 4
+215 -> 5
+224 -> 6
+250 -> 5
+274 -> 6
+282 -> 0
+310 -> 4
+315 -> 0
+347 -> 4
+389 -> 7
+395 -> 8
+406 -> 9
+432 -> 8
+456 -> 9
+464 -> 0
+482 -> 7
+487 -> 0
+509 -> 7
+519 -> 0

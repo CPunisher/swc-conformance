@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assertImportSourceResolutionFailure ("assertImportSourceResolutionFailure") -> ScopeId(2)
-specifier ("specifier") -> ScopeId(3)
-specifier ("specifier") -> ScopeId(3)
-Test262Error ("Test262Error") -> ScopeId(1)
-specifier ("specifier") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-error ("error") -> ScopeId(5)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-specifier ("specifier") -> ScopeId(3)
-asyncTest ("asyncTest") -> ScopeId(1)
-assertImportSourceResolutionFailure ("assertImportSourceResolutionFailure") -> ScopeId(2)
-assertImportSourceResolutionFailure ("assertImportSourceResolutionFailure") -> ScopeId(2)
-assertImportSourceResolutionFailure ("assertImportSourceResolutionFailure") -> ScopeId(2)
+352 -> 1
+362 -> 2
+560 -> 2
+608 -> 0
+621 -> 2
+670 -> 3
+691 -> 3
+714 -> 0
+748 -> 0
+761 -> 2
+848 -> 0
+912 -> 1
+1000 -> 1
+1090 -> 1

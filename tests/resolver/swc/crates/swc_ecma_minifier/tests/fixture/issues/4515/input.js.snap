@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-B ("B") -> ScopeId(1)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-getChildNodes$1 ("getChildNodes$1") -> ScopeId(2)
-setGetChildNodes ("setGetChildNodes") -> ScopeId(2)
-getChildNodesImpl ("getChildNodesImpl") -> ScopeId(7)
-getChildNodes$1 ("getChildNodes$1") -> ScopeId(2)
-getChildNodesImpl ("getChildNodesImpl") -> ScopeId(7)
+1 -> 0
+42 -> 1
+49 -> 1
+57 -> 1
+94 -> 2
+128 -> 3
+146 -> 4
+169 -> 2
+189 -> 4

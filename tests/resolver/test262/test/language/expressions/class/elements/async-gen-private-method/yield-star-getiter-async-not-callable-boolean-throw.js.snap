@@ -1,52 +1,50 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-v ("v") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(9)
-TypeError ("TypeError") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-done ("done") -> ScopeId(10)
-value ("value") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(10)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1437 -> 1
+1455 -> 0
+1496 -> 0
+1549 -> 0
+1591 -> 2
+1603 -> 3
+1651 -> 2
+1676 -> 1
+1710 -> 0
+1798 -> 4
+1806 -> 3
+1892 -> 0
+1903 -> 0
+1935 -> 3
+2024 -> 0
+2035 -> 0
+2067 -> 3
+2148 -> 0
+2159 -> 0
+2191 -> 4
+2272 -> 5
+2276 -> 4
+2289 -> 5
+2334 -> 0
+2374 -> 6
+2388 -> 0
+2400 -> 6
+2423 -> 0
+2446 -> 5
+2466 -> 7
+2473 -> 8
+2492 -> 0
+2507 -> 7
+2555 -> 0
+2571 -> 8
+2582 -> 0
+2622 -> 0
+2629 -> 0
+2646 -> 0
+2656 -> 0
+2676 -> 2
+2763 -> 0
+2774 -> 0
+2806 -> 3
+2895 -> 0
+2906 -> 0
+2938 -> 3
+3019 -> 0
+3030 -> 0
+3062 -> 4

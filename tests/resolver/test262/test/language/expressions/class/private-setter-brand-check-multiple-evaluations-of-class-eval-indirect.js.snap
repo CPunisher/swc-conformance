@@ -1,29 +1,27 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-_eval ("_eval") -> ScopeId(3)
-_eval ("_eval") -> ScopeId(3)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
+834 -> 1
+949 -> 2
+967 -> 3
+990 -> 3
+1012 -> 1
+1026 -> 4
+1054 -> 2
+1059 -> 0
+1068 -> 5
+1096 -> 2
+1101 -> 0
+1107 -> 4
+1117 -> 4
+1137 -> 0
+1150 -> 4
+1169 -> 5
+1179 -> 5
+1199 -> 0
+1212 -> 5
+1236 -> 0
+1253 -> 0
+1272 -> 4
+1282 -> 5
+1342 -> 0
+1359 -> 0
+1378 -> 5
+1388 -> 4

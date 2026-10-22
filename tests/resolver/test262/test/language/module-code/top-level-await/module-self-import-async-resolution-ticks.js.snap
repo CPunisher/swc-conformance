@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-self ("self") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-self ("self") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-self ("self") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
+2623 -> 1
+2660 -> 0
+2683 -> 1
+2731 -> 2
+2794 -> 0
+2806 -> 1
+2842 -> 0
+2864 -> 0
+2885 -> 2
+2951 -> 0
+2972 -> 0
+2984 -> 1
+3025 -> 0
+3040 -> 2
+3089 -> 0

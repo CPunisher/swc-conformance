@@ -1,53 +1,51 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
+579 -> 1
+606 -> 2
+630 -> 1
+677 -> 3
+685 -> 2
+696 -> 0
+708 -> 3
+731 -> 0
+742 -> 0
+774 -> 2
+856 -> 0
+867 -> 0
+899 -> 2
+998 -> 0
+1000 -> 3
+1101 -> 0
+1113 -> 3
+1136 -> 0
+1147 -> 0
+1179 -> 2
+1261 -> 0
+1272 -> 0
+1304 -> 2
+1403 -> 0
+1405 -> 3
+1506 -> 0
+1517 -> 0
+1549 -> 2
+1631 -> 0
+1642 -> 0
+1674 -> 2
+1757 -> 0
+1759 -> 3
+1786 -> 0
+1858 -> 0
+1869 -> 0
+1901 -> 2
+1983 -> 0
+1994 -> 0
+2026 -> 2
+2109 -> 0
+2111 -> 3
+2203 -> 0
+2214 -> 0
+2246 -> 2
+2328 -> 0
+2339 -> 0
+2371 -> 2
+2454 -> 0
+2456 -> 3
+2476 -> 1

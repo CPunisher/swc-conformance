@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(20)
-error ("error") -> ScopeId(21)
-error ("error") -> ScopeId(21)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1465 -> 1
+1813 -> 2
+1837 -> 2
+1874 -> 3
+1898 -> 3
+1940 -> 4
+1969 -> 4
+2013 -> 5
+2039 -> 5
+2086 -> 6
+2118 -> 6
+2170 -> 7
+2201 -> 7
+2245 -> 8
+2253 -> 1
+2264 -> 0
+2275 -> 0
+2307 -> 8
+2382 -> 0
+2393 -> 0
+2425 -> 1
+2520 -> 0
+2522 -> 1
+2615 -> 1
+2635 -> 9
+2647 -> 0
+2659 -> 9
+2688 -> 10
+2755 -> 11
+2761 -> 12
+2780 -> 12
+2814 -> 0
+2867 -> 0
+2879 -> 8
+2900 -> 0
+2912 -> 8
+2933 -> 0
+2945 -> 8
+2971 -> 0
+2983 -> 8
+3006 -> 0
+3018 -> 8
+3047 -> 0
+3059 -> 8
+3098 -> 0
+3117 -> 10
+3135 -> 0
+3142 -> 0

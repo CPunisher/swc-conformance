@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-DV1 ("DV1") -> ScopeId(2)
-DataView ("DataView") -> ScopeId(1)
-buffer ("buffer") -> ScopeId(2)
-ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-DV1 ("DV1") -> ScopeId(2)
-buffer ("buffer") -> ScopeId(2)
-DV2 ("DV2") -> ScopeId(2)
-length ("length") -> ScopeId(7)
-length ("length") -> ScopeId(7)
-DataView ("DataView") -> ScopeId(1)
-DV2 ("DV2") -> ScopeId(2)
-buffer ("buffer") -> ScopeId(2)
+688 -> 1
+705 -> 0
+740 -> 2
+758 -> 0
+770 -> 0
+792 -> 0
+816 -> 1
+823 -> 2
+840 -> 3
+857 -> 0
+880 -> 4
+900 -> 4
+917 -> 3
+924 -> 2

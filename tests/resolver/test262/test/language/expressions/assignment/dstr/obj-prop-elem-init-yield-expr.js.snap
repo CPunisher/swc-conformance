@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(3)
-vals ("vals") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-x ("x") -> ScopeId(2)
-vals ("vals") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(3)
-vals ("vals") -> ScopeId(3)
-iterationResult ("iterationResult") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-iterationResult ("iterationResult") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
+838 -> 1
+844 -> 2
+847 -> 3
+853 -> 2
+882 -> 4
+892 -> 5
+906 -> 4
+915 -> 3
+932 -> 5
+943 -> 0
+960 -> 4
+966 -> 5
+992 -> 1
+999 -> 2
+1015 -> 0
+1041 -> 1
+1058 -> 0
+1067 -> 0
+1093 -> 1
+1114 -> 0
+1126 -> 3
+1137 -> 0
+1156 -> 1
+1163 -> 2
+1181 -> 0
+1207 -> 1
+1224 -> 0
+1233 -> 0
+1259 -> 1
+1279 -> 0
+1291 -> 3

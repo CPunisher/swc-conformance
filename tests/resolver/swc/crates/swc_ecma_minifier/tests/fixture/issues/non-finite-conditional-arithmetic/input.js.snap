@@ -1,26 +1,24 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-classify ("classify") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-Number ("Number") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-String ("String") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-test ("test") -> ScopeId(2)
-flag ("flag") -> ScopeId(6)
-console ("console") -> ScopeId(1)
-flag ("flag") -> ScopeId(6)
-Infinity ("Infinity") -> ScopeId(1)
-flag ("flag") -> ScopeId(6)
-Infinity ("Infinity") -> ScopeId(1)
-flag ("flag") -> ScopeId(6)
-flag ("flag") -> ScopeId(6)
-classify ("classify") -> ScopeId(2)
-globalThis ("globalThis") -> ScopeId(1)
-globalThis ("globalThis") -> ScopeId(1)
-test ("test") -> ScopeId(2)
-globalThis ("globalThis") -> ScopeId(1)
-test ("test") -> ScopeId(2)
-globalThis ("globalThis") -> ScopeId(1)
+17 -> 1
+23 -> 2
+41 -> 0
+53 -> 2
+101 -> 0
+110 -> 2
+164 -> 0
+170 -> 2
+189 -> 3
+194 -> 4
+209 -> 0
+228 -> 4
+239 -> 0
+257 -> 4
+272 -> 0
+286 -> 4
+309 -> 4
+338 -> 1
+365 -> 0
+394 -> 0
+420 -> 3
+431 -> 0
+448 -> 3
+459 -> 0

@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-sum ("sum") -> ScopeId(2)
-innerTest ("innerTest") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-sum ("sum") -> ScopeId(2)
-i ("i") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-sum ("sum") -> ScopeId(2)
+313 -> 1
+346 -> 2
+373 -> 3
+380 -> 3
+389 -> 3
+416 -> 3
+512 -> 1
+517 -> 3
+554 -> 0
+568 -> 1

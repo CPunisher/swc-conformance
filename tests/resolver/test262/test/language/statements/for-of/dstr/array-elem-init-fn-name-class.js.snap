@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-xCls ("xCls") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-xCls2 ("xCls2") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-xCls ("xCls") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-cls ("cls") -> ScopeId(2)
-xCls2 ("xCls2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xCls ("xCls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xCls2 ("xCls2") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
+1608 -> 1
+1613 -> 2
+1620 -> 3
+1634 -> 4
+1652 -> 1
+1662 -> 5
+1670 -> 2
+1688 -> 3
+1739 -> 0
+1744 -> 1
+1771 -> 0
+1777 -> 3
+1814 -> 0
+1818 -> 2
+1930 -> 4
+1946 -> 0
+1964 -> 4

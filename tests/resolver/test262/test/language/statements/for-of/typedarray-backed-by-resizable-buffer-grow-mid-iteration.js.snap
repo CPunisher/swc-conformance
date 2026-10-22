@@ -1,106 +1,104 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-rab ("rab") -> ScopeId(3)
-CreateResizableArrayBuffer ("CreateResizableArrayBuffer") -> ScopeId(1)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ta_write ("ta_write") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-rab ("rab") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-ta_write ("ta_write") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-MayNeedBigInt ("MayNeedBigInt") -> ScopeId(1)
-ta_write ("ta_write") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-rab ("rab") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(6)
-ctors ("ctors") -> ScopeId(1)
-no_elements ("no_elements") -> ScopeId(7)
-offset ("offset") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-no_elements ("no_elements") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-byte_offset ("byte_offset") -> ScopeId(7)
-offset ("offset") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta ("ta") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta ("ta") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta_with_offset ("ta_with_offset") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta_with_offset ("ta_with_offset") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-length_tracking_ta ("length_tracking_ta") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-expected ("expected") -> ScopeId(8)
-i ("i") -> ScopeId(9)
-i ("i") -> ScopeId(9)
-no_elements ("no_elements") -> ScopeId(7)
-i ("i") -> ScopeId(9)
-expected ("expected") -> ScopeId(8)
-i ("i") -> ScopeId(9)
-i ("i") -> ScopeId(11)
-i ("i") -> ScopeId(11)
-no_elements ("no_elements") -> ScopeId(7)
-i ("i") -> ScopeId(11)
-expected ("expected") -> ScopeId(8)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-length_tracking_ta ("length_tracking_ta") -> ScopeId(7)
-expected ("expected") -> ScopeId(8)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-length_tracking_ta_with_offset ("length_tracking_ta_with_offset") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-expected ("expected") -> ScopeId(13)
-i ("i") -> ScopeId(14)
-offset ("offset") -> ScopeId(7)
-i ("i") -> ScopeId(14)
-no_elements ("no_elements") -> ScopeId(7)
-i ("i") -> ScopeId(14)
-expected ("expected") -> ScopeId(13)
-i ("i") -> ScopeId(14)
-i ("i") -> ScopeId(16)
-i ("i") -> ScopeId(16)
-no_elements ("no_elements") -> ScopeId(7)
-i ("i") -> ScopeId(16)
-expected ("expected") -> ScopeId(13)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-length_tracking_ta_with_offset ("length_tracking_ta_with_offset") -> ScopeId(7)
-expected ("expected") -> ScopeId(13)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
+434 -> 1
+453 -> 2
+459 -> 3
+474 -> 4
+503 -> 0
+522 -> 2
+546 -> 2
+563 -> 5
+574 -> 3
+578 -> 4
+593 -> 6
+600 -> 6
+621 -> 2
+628 -> 3
+651 -> 6
+667 -> 5
+669 -> 6
+686 -> 0
+695 -> 5
+698 -> 6
+723 -> 4
+741 -> 7
+750 -> 0
+773 -> 8
+794 -> 9
+826 -> 10
+840 -> 8
+847 -> 7
+886 -> 11
+895 -> 9
+902 -> 7
+1093 -> 12
+1105 -> 1
+1124 -> 10
+1130 -> 7
+1143 -> 13
+1154 -> 7
+1158 -> 12
+1191 -> 0
+1194 -> 13
+1226 -> 12
+1249 -> 10
+1261 -> 12
+1273 -> 1
+1292 -> 10
+1298 -> 7
+1323 -> 14
+1334 -> 7
+1338 -> 12
+1351 -> 11
+1381 -> 0
+1396 -> 14
+1428 -> 12
+1451 -> 10
+1463 -> 12
+1475 -> 1
+1494 -> 10
+1500 -> 7
+1529 -> 15
+1540 -> 7
+1544 -> 12
+1567 -> 16
+1588 -> 17
+1595 -> 17
+1609 -> 8
+1614 -> 17
+1632 -> 16
+1639 -> 17
+1668 -> 18
+1675 -> 18
+1689 -> 8
+1694 -> 18
+1768 -> 16
+1810 -> 0
+1829 -> 15
+1839 -> 16
+1844 -> 12
+1867 -> 10
+1883 -> 12
+1895 -> 1
+1914 -> 10
+1920 -> 7
+1961 -> 19
+1972 -> 7
+1976 -> 12
+1989 -> 11
+2012 -> 20
+2033 -> 21
+2042 -> 9
+2045 -> 21
+2059 -> 8
+2064 -> 21
+2082 -> 20
+2089 -> 21
+2118 -> 22
+2125 -> 22
+2139 -> 8
+2144 -> 22
+2162 -> 20
+2204 -> 0
+2235 -> 19
+2245 -> 20
+2250 -> 12
+2273 -> 10

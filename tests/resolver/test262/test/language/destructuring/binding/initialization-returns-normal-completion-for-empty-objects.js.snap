@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+601 -> 1
+630 -> 0
+633 -> 1
+645 -> 0
+648 -> 1
+652 -> 0
+662 -> 0
+665 -> 1
+678 -> 0
+681 -> 1
+697 -> 0
+700 -> 1
+713 -> 0
+716 -> 1

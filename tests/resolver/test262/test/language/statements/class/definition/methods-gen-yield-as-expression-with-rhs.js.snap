@@ -1,92 +1,90 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
+278 -> 1
+286 -> 2
+295 -> 3
+444 -> 1
+448 -> 3
+471 -> 2
+478 -> 1
+493 -> 0
+510 -> 2
+572 -> 0
+592 -> 2
+662 -> 2
+669 -> 1
+684 -> 0
+704 -> 2
+721 -> 0
+778 -> 0
+798 -> 2
+869 -> 1
+873 -> 3
+896 -> 2
+903 -> 1
+918 -> 0
+935 -> 2
+993 -> 0
+1013 -> 2
+1079 -> 2
+1086 -> 1
+1101 -> 0
+1121 -> 2
+1138 -> 0
+1191 -> 0
+1211 -> 2
+1278 -> 1
+1282 -> 3
+1305 -> 2
+1312 -> 1
+1327 -> 0
+1344 -> 2
+1403 -> 0
+1423 -> 2
+1490 -> 2
+1497 -> 1
+1512 -> 0
+1532 -> 2
+1549 -> 0
+1603 -> 0
+1623 -> 2
+1691 -> 1
+1695 -> 3
+1718 -> 2
+1725 -> 1
+1740 -> 0
+1760 -> 2
+1835 -> 0
+1855 -> 2
+1941 -> 2
+1948 -> 1
+1963 -> 0
+1983 -> 2
+2059 -> 0
+2079 -> 2
+2166 -> 2
+2173 -> 1
+2188 -> 0
+2208 -> 2
+2225 -> 0
+2281 -> 0
+2301 -> 2
+2371 -> 1
+2375 -> 3
+2398 -> 2
+2405 -> 1
+2420 -> 0
+2440 -> 2
+2529 -> 0
+2549 -> 2
+2645 -> 2
+2652 -> 1
+2667 -> 0
+2687 -> 2
+2760 -> 0
+2780 -> 2
+2860 -> 2
+2867 -> 1
+2882 -> 0
+2902 -> 2
+2919 -> 0
+2979 -> 0
+2999 -> 2

@@ -1,60 +1,58 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-log ("log") -> ScopeId(2)
-env ("env") -> ScopeId(2)
-proxy ("proxy") -> ScopeId(2)
-Proxy ("Proxy") -> ScopeId(1)
-env ("env") -> ScopeId(2)
-allowProxyTraps ("allowProxyTraps") -> ScopeId(1)
-t ("t") -> ScopeId(5)
-pk ("pk") -> ScopeId(5)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(5)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(5)
-pk ("pk") -> ScopeId(5)
-t ("t") -> ScopeId(6)
-pk ("pk") -> ScopeId(6)
-r ("r") -> ScopeId(6)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(6)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(6)
-pk ("pk") -> ScopeId(6)
-r ("r") -> ScopeId(6)
-t ("t") -> ScopeId(7)
-pk ("pk") -> ScopeId(7)
-v ("v") -> ScopeId(7)
-r ("r") -> ScopeId(7)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(7)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(7)
-pk ("pk") -> ScopeId(7)
-v ("v") -> ScopeId(7)
-r ("r") -> ScopeId(7)
-t ("t") -> ScopeId(8)
-pk ("pk") -> ScopeId(8)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(8)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(8)
-pk ("pk") -> ScopeId(8)
-t ("t") -> ScopeId(9)
-pk ("pk") -> ScopeId(9)
-d ("d") -> ScopeId(9)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(9)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(9)
-pk ("pk") -> ScopeId(9)
-d ("d") -> ScopeId(9)
-proxy ("proxy") -> ScopeId(2)
-p ("p") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
+1561 -> 1
+1620 -> 2
+1646 -> 3
+1658 -> 0
+1662 -> 2
+1679 -> 0
+1689 -> 4
+1693 -> 5
+1704 -> 1
+1725 -> 0
+1728 -> 5
+1750 -> 0
+1756 -> 4
+1760 -> 5
+1775 -> 6
+1779 -> 7
+1782 -> 8
+1793 -> 1
+1814 -> 0
+1817 -> 7
+1839 -> 0
+1845 -> 6
+1849 -> 7
+1852 -> 8
+1867 -> 9
+1871 -> 10
+1874 -> 11
+1877 -> 12
+1888 -> 1
+1909 -> 0
+1912 -> 10
+1934 -> 0
+1940 -> 9
+1944 -> 10
+1947 -> 11
+1950 -> 12
+1986 -> 13
+1990 -> 14
+2001 -> 1
+2043 -> 0
+2046 -> 14
+2068 -> 0
+2095 -> 13
+2099 -> 14
+2125 -> 15
+2129 -> 16
+2132 -> 17
+2143 -> 1
+2175 -> 0
+2178 -> 16
+2200 -> 0
+2217 -> 15
+2221 -> 16
+2224 -> 17
+2249 -> 3
+2256 -> 0
+2272 -> 0
+2289 -> 1

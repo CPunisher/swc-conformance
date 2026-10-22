@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-newTargetContext ("newTargetContext") -> ScopeId(2)
-called ("called") -> ScopeId(2)
-context ("context") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-called ("called") -> ScopeId(2)
-context ("context") -> ScopeId(2)
-Foo ("Foo") -> ScopeId(2)
-blerg ("blerg") -> ScopeId(5)
-Reflect ("Reflect") -> ScopeId(1)
-Foo ("Foo") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-context ("context") -> ScopeId(2)
-newTargetContext ("newTargetContext") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-called ("called") -> ScopeId(2)
+395 -> 1
+442 -> 2
+564 -> 3
+586 -> 4
+599 -> 2
+617 -> 3
+640 -> 5
+646 -> 6
+678 -> 0
+692 -> 5
+702 -> 4
+711 -> 0
+719 -> 3
+740 -> 1
+749 -> 0
+766 -> 2

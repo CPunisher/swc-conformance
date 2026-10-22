@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-following ("following") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-following ("following") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-following ("following") -> ScopeId(2)
+1278 -> 1
+1292 -> 2
+1333 -> 0
+1348 -> 1
+1367 -> 3
+1370 -> 3
+1409 -> 0
+1429 -> 0
+1447 -> 3
+1452 -> 2
+1464 -> 2
+1479 -> 0
+1499 -> 1

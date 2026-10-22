@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-treeSubTree ("treeSubTree") -> ScopeId(2)
-tree ("tree") -> ScopeId(3)
-pathObj ("pathObj") -> ScopeId(3)
-path ("path") -> ScopeId(3)
-pathObj ("pathObj") -> ScopeId(3)
-Path ("Path") -> ScopeId(1)
-pathObj ("pathObj") -> ScopeId(3)
-Path ("Path") -> ScopeId(1)
-pathObj ("pathObj") -> ScopeId(3)
-child ("child") -> ScopeId(3)
-tree ("tree") -> ScopeId(3)
-next ("next") -> ScopeId(3)
-pathGetFront ("pathGetFront") -> ScopeId(1)
-path ("path") -> ScopeId(3)
-next ("next") -> ScopeId(3)
-childNode ("childNode") -> ScopeId(4)
-safeGet ("safeGet") -> ScopeId(1)
-child ("child") -> ScopeId(3)
-next ("next") -> ScopeId(3)
-child ("child") -> ScopeId(3)
-Tree ("Tree") -> ScopeId(1)
-next ("next") -> ScopeId(3)
-child ("child") -> ScopeId(3)
-childNode ("childNode") -> ScopeId(4)
-path ("path") -> ScopeId(3)
-pathPopFront ("pathPopFront") -> ScopeId(1)
-path ("path") -> ScopeId(3)
-next ("next") -> ScopeId(3)
-pathGetFront ("pathGetFront") -> ScopeId(1)
-path ("path") -> ScopeId(3)
-child ("child") -> ScopeId(3)
+27 -> 1
+32 -> 2
+41 -> 3
+98 -> 4
+108 -> 3
+124 -> 0
+134 -> 3
+145 -> 0
+153 -> 3
+169 -> 5
+176 -> 2
+190 -> 6
+205 -> 0
+210 -> 4
+228 -> 6
+264 -> 7
+274 -> 0
+280 -> 5
+300 -> 6
+384 -> 5
+395 -> 0
+400 -> 6
+407 -> 5
+418 -> 7
+433 -> 4
+448 -> 0
+453 -> 4
+468 -> 6
+483 -> 0
+488 -> 4
+514 -> 5

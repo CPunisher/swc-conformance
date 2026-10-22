@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Subclass ("Subclass") -> ScopeId(2)
-RangeError ("RangeError") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-RangeError ("RangeError") -> ScopeId(1)
+299 -> 1
+326 -> 0
+340 -> 2
+355 -> 1
+365 -> 0
+369 -> 2
+389 -> 1
+398 -> 0
+402 -> 2
+424 -> 0

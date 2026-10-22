@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(4)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1458 -> 1
+1471 -> 2
+1494 -> 3
+1513 -> 0
+1528 -> 0
+1540 -> 3
+1560 -> 1
+1572 -> 1
+1589 -> 2
+1629 -> 0
+1649 -> 1
+1692 -> 0
+1699 -> 0

@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-xFn ("xFn") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-xFn ("xFn") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xFn ("xFn") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+877 -> 1
+881 -> 2
+887 -> 1
+900 -> 3
+909 -> 2
+934 -> 0
+938 -> 1
+971 -> 0
+974 -> 2

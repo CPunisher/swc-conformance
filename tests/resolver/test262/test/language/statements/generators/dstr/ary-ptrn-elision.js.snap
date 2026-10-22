@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-first ("first") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-second ("second") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+1978 -> 1
+1994 -> 2
+2011 -> 3
+2023 -> 1
+2047 -> 2
+2071 -> 4
+2088 -> 5
+2104 -> 0
+2120 -> 1
+2134 -> 0
+2151 -> 2
+2168 -> 4
+2180 -> 4
+2190 -> 5
+2192 -> 3
+2210 -> 0
+2230 -> 4

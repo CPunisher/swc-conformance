@@ -1,49 +1,47 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-error ("error") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-error ("error") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-rejectValue ("rejectValue") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-rejectValue ("rejectValue") -> ScopeId(7)
-error ("error") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-done ("done") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(8)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+745 -> 1
+757 -> 0
+776 -> 2
+788 -> 3
+836 -> 2
+864 -> 0
+877 -> 1
+961 -> 4
+969 -> 3
+1055 -> 0
+1066 -> 0
+1098 -> 3
+1187 -> 0
+1198 -> 0
+1230 -> 3
+1311 -> 0
+1322 -> 0
+1354 -> 4
+1435 -> 5
+1439 -> 4
+1452 -> 5
+1497 -> 0
+1552 -> 6
+1600 -> 0
+1622 -> 6
+1629 -> 1
+1639 -> 5
+1658 -> 7
+1665 -> 8
+1710 -> 0
+1725 -> 7
+1790 -> 0
+1806 -> 8
+1817 -> 0
+1887 -> 0
+1894 -> 0
+1908 -> 0
+1928 -> 2
+2015 -> 0
+2026 -> 0
+2058 -> 3
+2147 -> 0
+2158 -> 0
+2190 -> 3
+2271 -> 0
+2282 -> 0
+2314 -> 4

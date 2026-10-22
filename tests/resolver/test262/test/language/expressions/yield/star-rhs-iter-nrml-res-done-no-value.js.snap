@@ -1,32 +1,30 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-badIter ("badIter") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-spyValue ("spyValue") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-spyValue ("spyValue") -> ScopeId(2)
-delegationComplete ("delegationComplete") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-delegationComplete ("delegationComplete") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-delegationComplete ("delegationComplete") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-delegationComplete ("delegationComplete") -> ScopeId(2)
-spyValue ("spyValue") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-delegationComplete ("delegationComplete") -> ScopeId(2)
+901 -> 1
+921 -> 2
+939 -> 3
+948 -> 0
+1025 -> 2
+1047 -> 1
+1054 -> 0
+1135 -> 3
+1173 -> 4
+1194 -> 5
+1216 -> 1
+1238 -> 4
+1257 -> 6
+1261 -> 5
+1270 -> 6
+1285 -> 0
+1305 -> 2
+1351 -> 0
+1383 -> 4
+1439 -> 6
+1454 -> 0
+1474 -> 2
+1521 -> 0
+1553 -> 4
+1614 -> 3
+1632 -> 6
+1647 -> 0
+1667 -> 2
+1713 -> 0
+1742 -> 4

@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
+735 -> 1
+746 -> 2
+759 -> 0
+779 -> 0
+804 -> 1
+825 -> 2
+851 -> 0
+871 -> 0
+887 -> 2

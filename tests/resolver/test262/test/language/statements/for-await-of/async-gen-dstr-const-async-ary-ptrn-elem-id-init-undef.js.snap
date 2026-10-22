@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-asyncIter ("asyncIter") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-asyncIter ("asyncIter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(5)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1803 -> 1
+1822 -> 2
+1866 -> 0
+1895 -> 3
+1921 -> 4
+1940 -> 2
+1954 -> 0
+1966 -> 4
+1987 -> 1
+2003 -> 3
+2033 -> 0
+2053 -> 1
+2098 -> 0
+2113 -> 0
+2120 -> 0

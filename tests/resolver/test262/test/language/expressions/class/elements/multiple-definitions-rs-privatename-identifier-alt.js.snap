@@ -1,69 +1,67 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(10)
-value ("value") -> ScopeId(10)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1363 -> 1
+1507 -> 2
+1530 -> 2
+1565 -> 3
+1588 -> 3
+1628 -> 4
+1656 -> 4
+1698 -> 5
+1723 -> 5
+1768 -> 6
+1799 -> 6
+1849 -> 7
+1879 -> 7
+1920 -> 8
+1928 -> 1
+1939 -> 0
+1951 -> 8
+1968 -> 0
+1979 -> 0
+2011 -> 8
+2086 -> 0
+2098 -> 8
+2103 -> 1
+2133 -> 0
+2135 -> 1
+2226 -> 0
+2238 -> 8
+2256 -> 0
+2267 -> 0
+2299 -> 8
+2376 -> 0
+2388 -> 8
+2394 -> 1
+2425 -> 0
+2427 -> 1
+2519 -> 0
+2531 -> 8
+2554 -> 0
+2565 -> 0
+2597 -> 1
+2679 -> 0
+2690 -> 0
+2722 -> 1
+2821 -> 0
+2823 -> 8
+2924 -> 0
+2936 -> 8
+2959 -> 0
+2970 -> 0
+3002 -> 1
+3084 -> 0
+3095 -> 0
+3127 -> 1
+3226 -> 0
+3228 -> 8
+3329 -> 0
+3341 -> 8
+3358 -> 0
+3370 -> 8
+3387 -> 0
+3399 -> 8
+3421 -> 0
+3433 -> 8
+3452 -> 0
+3464 -> 8
+3489 -> 0
+3501 -> 8

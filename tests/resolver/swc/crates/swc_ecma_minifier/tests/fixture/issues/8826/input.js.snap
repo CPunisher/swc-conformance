@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createTypeChecker ("createTypeChecker") -> ScopeId(2)
-host ("host") -> ScopeId(3)
-getFlowTypeOfReference ("getFlowTypeOfReference") -> ScopeId(3)
-getFlowTypeOfReference ("getFlowTypeOfReference") -> ScopeId(3)
-reference ("reference") -> ScopeId(5)
-declaredType ("declaredType") -> ScopeId(5)
-initialType ("initialType") -> ScopeId(5)
-declaredType ("declaredType") -> ScopeId(5)
-flowContainer ("flowContainer") -> ScopeId(5)
-flowNode ("flowNode") -> ScopeId(5)
-_a2 ("_a2") -> ScopeId(6)
-_a2 ("_a2") -> ScopeId(6)
-tryCast ("tryCast") -> ScopeId(1)
-reference ("reference") -> ScopeId(5)
-canHaveFlowNode ("canHaveFlowNode") -> ScopeId(1)
-_a2 ("_a2") -> ScopeId(6)
+34 -> 1
+39 -> 2
+87 -> 3
+130 -> 3
+140 -> 4
+154 -> 5
+167 -> 6
+182 -> 5
+197 -> 7
+207 -> 8
+214 -> 9
+222 -> 9
+232 -> 0
+242 -> 4
+259 -> 0
+284 -> 9

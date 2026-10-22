@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-inner ("inner") -> ScopeId(3)
-inner ("inner") -> ScopeId(3)
-bar ("bar") -> ScopeId(2)
-outer ("outer") -> ScopeId(4)
-outer ("outer") -> ScopeId(4)
-baz ("baz") -> ScopeId(2)
-a ("a") -> ScopeId(6)
-a ("a") -> ScopeId(6)
-qux ("qux") -> ScopeId(2)
-first ("first") -> ScopeId(8)
-second ("second") -> ScopeId(8)
-first ("first") -> ScopeId(8)
-example ("example") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-bar ("bar") -> ScopeId(2)
-baz ("baz") -> ScopeId(2)
-qux ("qux") -> ScopeId(2)
+90 -> 1
+107 -> 2
+136 -> 2
+206 -> 3
+214 -> 4
+252 -> 4
+321 -> 5
+325 -> 6
+355 -> 6
+410 -> 7
+424 -> 8
+432 -> 9
+460 -> 8
+488 -> 10
+507 -> 1
+549 -> 3
+570 -> 5
+591 -> 7

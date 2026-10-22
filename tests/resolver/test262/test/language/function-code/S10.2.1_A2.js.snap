@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f1 ("f1") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-f1 ("f1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-f2 ("f2") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-f2 ("f2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-f3 ("f3") -> ScopeId(2)
-x ("x") -> ScopeId(7)
-x ("x") -> ScopeId(7)
-x ("x") -> ScopeId(7)
-f3 ("f3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+518 -> 1
+520 -> 2
+523 -> 2
+537 -> 2
+548 -> 1
+589 -> 0
+637 -> 3
+639 -> 4
+642 -> 4
+645 -> 4
+658 -> 4
+660 -> 4
+662 -> 4
+673 -> 3
+717 -> 0
+765 -> 5
+767 -> 6
+770 -> 6
+790 -> 6
+801 -> 5
+844 -> 0

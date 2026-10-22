@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ReturnThis ("ReturnThis") -> ScopeId(2)
-ReturnThis ("ReturnThis") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-ReturnThis ("ReturnThis") -> ScopeId(2)
-ReturnEvalThis ("ReturnEvalThis") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-ReturnEvalThis ("ReturnEvalThis") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-ReturnEvalThis ("ReturnEvalThis") -> ScopeId(2)
+393 -> 1
+424 -> 1
+463 -> 0
+551 -> 1
+593 -> 2
+608 -> 0
+636 -> 2
+675 -> 0
+783 -> 2

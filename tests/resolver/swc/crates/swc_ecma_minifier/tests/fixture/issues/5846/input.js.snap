@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-processNode ("processNode") -> ScopeId(2)
-node ("node") -> ScopeId(3)
-index ("index") -> ScopeId(3)
-parent ("parent") -> ScopeId(3)
-pathNodes ("pathNodes") -> ScopeId(3)
-children ("children") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-mergeChildrenPropName ("mergeChildrenPropName") -> ScopeId(1)
-dataNodes ("dataNodes") -> ScopeId(1)
-pos ("pos") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-getPosition ("getPosition") -> ScopeId(1)
-parent ("parent") -> ScopeId(3)
-index ("index") -> ScopeId(3)
-connectNodes ("connectNodes") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-pathNodes ("pathNodes") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-node ("node") -> ScopeId(3)
-key ("key") -> ScopeId(4)
-syntheticGetKey ("syntheticGetKey") -> ScopeId(1)
-node ("node") -> ScopeId(3)
-pos ("pos") -> ScopeId(3)
-data ("data") -> ScopeId(4)
-node ("node") -> ScopeId(3)
-index ("index") -> ScopeId(3)
-pos ("pos") -> ScopeId(3)
-key ("key") -> ScopeId(4)
-parent ("parent") -> ScopeId(3)
-parent ("parent") -> ScopeId(3)
-parent ("parent") -> ScopeId(3)
-connectNodes ("connectNodes") -> ScopeId(3)
-callback ("callback") -> ScopeId(1)
-data ("data") -> ScopeId(4)
-children ("children") -> ScopeId(3)
-children ("children") -> ScopeId(3)
-subNode ("subNode") -> ScopeId(7)
-subIndex ("subIndex") -> ScopeId(7)
-processNode ("processNode") -> ScopeId(2)
-subNode ("subNode") -> ScopeId(7)
-subIndex ("subIndex") -> ScopeId(7)
-node ("node") -> ScopeId(3)
-pos ("pos") -> ScopeId(3)
-parent ("parent") -> ScopeId(3)
-parent ("parent") -> ScopeId(3)
-connectNodes ("connectNodes") -> ScopeId(3)
-processNode ("processNode") -> ScopeId(2)
+20 -> 1
+30 -> 2
+41 -> 3
+53 -> 4
+68 -> 5
+91 -> 6
+98 -> 2
+105 -> 2
+127 -> 0
+140 -> 0
+155 -> 7
+162 -> 2
+176 -> 0
+183 -> 4
+194 -> 3
+225 -> 8
+232 -> 2
+248 -> 5
+254 -> 2
+310 -> 2
+331 -> 9
+349 -> 0
+354 -> 2
+359 -> 7
+380 -> 10
+401 -> 2
+420 -> 3
+437 -> 7
+454 -> 9
+485 -> 4
+499 -> 4
+537 -> 4
+580 -> 8
+610 -> 0
+615 -> 10
+670 -> 6
+690 -> 6
+707 -> 11
+717 -> 12
+747 -> 1
+772 -> 11
+798 -> 12
+842 -> 2
+867 -> 7
+902 -> 4
+911 -> 4
+975 -> 8
+1024 -> 1

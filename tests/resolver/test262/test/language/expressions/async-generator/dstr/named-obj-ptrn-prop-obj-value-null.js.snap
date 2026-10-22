@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-g ("g") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-y ("y") -> ScopeId(4)
-z ("z") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-f ("f") -> ScopeId(2)
+1023 -> 1
+1026 -> 1
+1046 -> 2
+1055 -> 3
+1058 -> 4
+1061 -> 5
+1105 -> 0
+1122 -> 0
+1140 -> 1

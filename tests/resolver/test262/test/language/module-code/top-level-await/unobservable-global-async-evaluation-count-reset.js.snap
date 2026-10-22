@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-logs ("logs") -> ScopeId(2)
-pB ("pB") -> ScopeId(2)
-pB_start ("pB_start") -> ScopeId(2)
-pE_start ("pE_start") -> ScopeId(2)
-pA ("pA") -> ScopeId(2)
-pD ("pD") -> ScopeId(2)
-pB_start ("pB_start") -> ScopeId(2)
-pD ("pD") -> ScopeId(2)
-pE_start ("pE_start") -> ScopeId(2)
-pB ("pB") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-pA ("pA") -> ScopeId(2)
-pD ("pD") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-logs ("logs") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+2847 -> 1
+2851 -> 2
+2861 -> 3
+2871 -> 4
+2959 -> 5
+3043 -> 6
+3054 -> 3
+3180 -> 6
+3275 -> 4
+3305 -> 2
+3333 -> 0
+3341 -> 5
+3345 -> 6
+3373 -> 0
+3391 -> 1
+3449 -> 0
+3456 -> 0

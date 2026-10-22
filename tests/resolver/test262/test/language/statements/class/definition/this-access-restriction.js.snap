@@ -1,53 +1,51 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(4)
-y ("y") -> ScopeId(6)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(7)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(10)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(13)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(13)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(16)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(16)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(19)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-C ("C") -> ScopeId(22)
-Object ("Object") -> ScopeId(1)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(22)
-C ("C") -> ScopeId(25)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(25)
-C ("C") -> ScopeId(29)
-Base ("Base") -> ScopeId(2)
-C ("C") -> ScopeId(29)
-C1 ("C1") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-C3 ("C3") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-C3 ("C3") -> ScopeId(2)
+221 -> 1
+248 -> 2
+261 -> 1
+295 -> 3
+328 -> 2
+344 -> 0
+366 -> 0
+390 -> 4
+403 -> 1
+463 -> 4
+477 -> 0
+499 -> 0
+523 -> 5
+536 -> 1
+594 -> 5
+608 -> 0
+630 -> 0
+654 -> 6
+667 -> 1
+747 -> 6
+761 -> 0
+783 -> 0
+807 -> 7
+820 -> 1
+888 -> 7
+902 -> 0
+924 -> 0
+948 -> 8
+961 -> 1
+1022 -> 8
+1036 -> 0
+1058 -> 0
+1082 -> 9
+1095 -> 1
+1142 -> 0
+1182 -> 9
+1213 -> 10
+1226 -> 1
+1288 -> 10
+1321 -> 11
+1334 -> 1
+1395 -> 11
+1414 -> 12
+1429 -> 0
+1494 -> 12
+1507 -> 13
+1522 -> 0
+1593 -> 13
+1606 -> 14
+1621 -> 0
+1718 -> 14

@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-bitwise1 ("bitwise1") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-bitwise2 ("bitwise2") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-bitwise3 ("bitwise3") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-console ("console") -> ScopeId(1)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
+24 -> 1
+26 -> 2
+29 -> 3
+46 -> 2
+50 -> 3
+84 -> 4
+86 -> 5
+103 -> 5
+136 -> 6
+138 -> 7
+141 -> 8
+150 -> 7
+155 -> 8
+173 -> 0
+179 -> 7
+183 -> 8
+186 -> 7
+190 -> 8

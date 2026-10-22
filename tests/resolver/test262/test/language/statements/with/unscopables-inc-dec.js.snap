@@ -1,34 +1,32 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-x ("x") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(2)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-flag ("flag") -> ScopeId(2)
-x ("x") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-unscopablesGetterCalled ("unscopablesGetterCalled") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(2)
+658 -> 1
+669 -> 2
+672 -> 3
+678 -> 4
+694 -> 2
+718 -> 3
+740 -> 0
+803 -> 1
+845 -> 4
+851 -> 4
+887 -> 0
+904 -> 0
+938 -> 1
+950 -> 0
+962 -> 2
+976 -> 0
+988 -> 3
+1020 -> 1
+1030 -> 4
+1046 -> 2
+1070 -> 3
+1092 -> 0
+1155 -> 1
+1197 -> 4
+1203 -> 4
+1239 -> 0
+1256 -> 0
+1290 -> 1
+1302 -> 0
+1314 -> 2
+1328 -> 0
+1340 -> 3

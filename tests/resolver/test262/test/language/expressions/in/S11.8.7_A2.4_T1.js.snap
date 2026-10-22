@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-NUMBER ("NUMBER") -> ScopeId(2)
-NUMBER ("NUMBER") -> ScopeId(2)
-Number ("Number") -> ScopeId(1)
-NUMBER ("NUMBER") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-max_value ("max_value") -> ScopeId(2)
-max_value ("max_value") -> ScopeId(2)
-max_value ("max_value") -> ScopeId(2)
-Number ("Number") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
+290 -> 1
+307 -> 1
+316 -> 0
+340 -> 1
+377 -> 0
+478 -> 2
+508 -> 2
+522 -> 2
+539 -> 0
+577 -> 0

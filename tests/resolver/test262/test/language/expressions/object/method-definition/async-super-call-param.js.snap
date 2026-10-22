@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-sup ("sup") -> ScopeId(2)
-child ("child") -> ScopeId(2)
-x ("x") -> ScopeId(6)
-y ("y") -> ScopeId(6)
-x ("x") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(6)
-Object ("Object") -> ScopeId(1)
-child ("child") -> ScopeId(2)
-sup ("sup") -> ScopeId(2)
-child ("child") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+297 -> 1
+349 -> 2
+370 -> 3
+400 -> 4
+410 -> 3
+422 -> 0
+434 -> 4
+457 -> 0
+478 -> 2
+483 -> 1
+492 -> 2
+512 -> 0
+519 -> 0

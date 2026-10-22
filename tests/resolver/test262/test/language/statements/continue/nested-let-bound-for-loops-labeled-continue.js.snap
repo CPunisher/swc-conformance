@@ -1,15 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-count ("count") -> ScopeId(2)
-outer ("outer") -> ScopeId(4294967295)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-y ("y") -> ScopeId(5)
-y ("y") -> ScopeId(5)
-y ("y") -> ScopeId(5)
-count ("count") -> ScopeId(2)
-y ("y") -> ScopeId(5)
-outer ("outer") -> ScopeId(4294967295)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
+235 -> 1
+258 -> 2
+265 -> 2
+278 -> 2
+294 -> 3
+301 -> 3
+315 -> 3
+328 -> 1
+341 -> 3
+376 -> 0
+392 -> 1

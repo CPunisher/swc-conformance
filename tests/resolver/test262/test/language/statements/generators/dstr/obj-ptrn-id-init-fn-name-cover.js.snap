@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-cover ("cover") -> ScopeId(3)
-xCover ("xCover") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-cover ("cover") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-xCover ("xCover") -> ScopeId(3)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+1860 -> 1
+1877 -> 2
+1885 -> 3
+1912 -> 4
+1948 -> 0
+1964 -> 3
+1989 -> 0
+2009 -> 4
+2038 -> 1
+2050 -> 1
+2060 -> 2
+2079 -> 0
+2099 -> 1

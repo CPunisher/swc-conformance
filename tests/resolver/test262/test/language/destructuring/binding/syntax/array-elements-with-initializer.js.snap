@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn1 ("fn1") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-fn2 ("fn2") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-fn3 ("fn3") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-a ("a") -> ScopeId(5)
-c ("c") -> ScopeId(5)
+848 -> 1
+851 -> 2
+854 -> 3
+878 -> 4
+881 -> 5
+889 -> 6
+909 -> 7
+912 -> 8
+916 -> 9
+920 -> 8
+923 -> 10

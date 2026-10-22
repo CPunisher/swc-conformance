@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-cls ("cls") -> ScopeId(4)
-xCls ("xCls") -> ScopeId(4)
-X ("X") -> ScopeId(6)
-xCls2 ("xCls2") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-xCls ("xCls") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-xCls2 ("xCls2") -> ScopeId(4)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1859 -> 1
+1883 -> 2
+1912 -> 3
+1929 -> 4
+1939 -> 5
+1949 -> 6
+2002 -> 0
+2016 -> 3
+2041 -> 0
+2059 -> 4
+2085 -> 0
+2104 -> 6
+2135 -> 1
+2151 -> 2
+2174 -> 0
+2194 -> 1
+2239 -> 0
+2254 -> 0
+2261 -> 0

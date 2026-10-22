@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yield ("yield") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-yield ("yield") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
+854 -> 1
+870 -> 2
+888 -> 3
+898 -> 4
+916 -> 3
+922 -> 2
+928 -> 1
+938 -> 4
+947 -> 0
+959 -> 2
+978 -> 0
+995 -> 3
+1001 -> 4

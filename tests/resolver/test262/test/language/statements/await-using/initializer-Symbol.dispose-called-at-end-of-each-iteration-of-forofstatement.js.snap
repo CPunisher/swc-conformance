@@ -1,25 +1,23 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-resource ("resource") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-wasDisposedBeforeBody ("wasDisposedBeforeBody") -> ScopeId(3)
-wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> ScopeId(3)
-wasDisposedAfterIteration ("wasDisposedAfterIteration") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-wasDisposedAfterIteration ("wasDisposedAfterIteration") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-_ ("_") -> ScopeId(3)
-using ("using") -> ScopeId(1)
-g ("g") -> ScopeId(3)
-wasDisposedBeforeBody ("wasDisposedBeforeBody") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedBeforeIteration ("wasDisposedBeforeIteration") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedBeforeBody ("wasDisposedBeforeBody") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedAfterIteration ("wasDisposedAfterIteration") -> ScopeId(3)
+2400 -> 0
+2435 -> 1
+2476 -> 0
+2563 -> 2
+2605 -> 3
+2646 -> 4
+2671 -> 5
+2706 -> 3
+2717 -> 1
+2746 -> 1
+2777 -> 4
+2788 -> 1
+2822 -> 0
+2824 -> 6
+2829 -> 5
+2860 -> 2
+2871 -> 1
+2895 -> 0
+2932 -> 3
+3036 -> 0
+3068 -> 2
+3165 -> 0
+3201 -> 4

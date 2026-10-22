@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-inner ("inner") -> ScopeId(2)
-inner ("inner") -> ScopeId(2)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-Object ("Object") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-descriptor ("descriptor") -> ScopeId(4)
-Object ("Object") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-result ("result") -> ScopeId(4)
-inner ("inner") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-descriptor ("descriptor") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-result ("result") -> ScopeId(4)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-f ("f") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+854 -> 1
+863 -> 0
+881 -> 2
+1000 -> 2
+1037 -> 2
+1085 -> 1
+1103 -> 3
+1114 -> 4
+1117 -> 4
+1450 -> 5
+1459 -> 0
+1490 -> 2
+1519 -> 5
+1533 -> 5
+1569 -> 0
+1590 -> 2
+1623 -> 6
+1631 -> 2
+1651 -> 5
+1665 -> 5
+1701 -> 0
+1718 -> 6
+2268 -> 6
+2307 -> 1
+2321 -> 0
+2341 -> 6
+2344 -> 4
+2363 -> 3
+2371 -> 4
+2381 -> 0
+2401 -> 3

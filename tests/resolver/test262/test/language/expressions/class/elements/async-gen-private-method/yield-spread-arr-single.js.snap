@@ -1,55 +1,53 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-arr ("arr") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-done ("done") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-arr ("arr") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Array ("Array") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+833 -> 1
+868 -> 2
+880 -> 3
+928 -> 2
+1013 -> 4
+1021 -> 3
+1107 -> 0
+1118 -> 0
+1150 -> 3
+1239 -> 0
+1250 -> 0
+1282 -> 3
+1363 -> 0
+1374 -> 0
+1406 -> 4
+1487 -> 5
+1491 -> 4
+1504 -> 5
+1526 -> 6
+1533 -> 5
+1542 -> 1
+1550 -> 6
+1563 -> 7
+1570 -> 8
+1587 -> 0
+1606 -> 8
+1611 -> 1
+1646 -> 0
+1652 -> 0
+1666 -> 8
+1713 -> 0
+1729 -> 8
+1749 -> 0
+1765 -> 8
+1784 -> 0
+1800 -> 8
+1819 -> 0
+1835 -> 8
+1854 -> 0
+1869 -> 7
+1892 -> 0
+1899 -> 0
+1909 -> 0
+1929 -> 2
+2016 -> 0
+2027 -> 0
+2059 -> 3
+2148 -> 0
+2159 -> 0
+2191 -> 3
+2272 -> 0
+2283 -> 0
+2315 -> 4

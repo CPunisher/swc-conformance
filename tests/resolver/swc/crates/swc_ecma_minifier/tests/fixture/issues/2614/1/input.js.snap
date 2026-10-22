@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-expose ("expose") -> ScopeId(1)
-export_default ("export_default") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-require ("require") -> ScopeId(1)
-Value ("Value") -> ScopeId(2)
-Value ("Value") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-export_default ("export_default") -> ScopeId(2)
-Value ("Value") -> ScopeId(2)
+6 -> 0
+27 -> 1
+38 -> 2
+48 -> 0
+69 -> 3
+76 -> 3
+82 -> 2
+110 -> 1
+118 -> 3

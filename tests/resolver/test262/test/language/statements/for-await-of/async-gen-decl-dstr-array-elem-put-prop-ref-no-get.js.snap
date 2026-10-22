@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-setValue ("setValue") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-val ("val") -> ScopeId(5)
-setValue ("setValue") -> ScopeId(2)
-val ("val") -> ScopeId(5)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setValue ("setValue") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1242 -> 1
+1252 -> 2
+1255 -> 1
+1298 -> 0
+1356 -> 3
+1372 -> 2
+1378 -> 3
+1401 -> 4
+1426 -> 5
+1446 -> 1
+1473 -> 0
+1492 -> 2
+1514 -> 4
+1539 -> 6
+1544 -> 5
+1563 -> 6
+1584 -> 0
+1604 -> 4
+1649 -> 0
+1664 -> 0
+1671 -> 0

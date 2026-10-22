@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-thenable ("thenable") -> ScopeId(3)
-res ("res") -> ScopeId(3)
-thenable ("thenable") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-res ("res") -> ScopeId(3)
-thenable ("thenable") -> ScopeId(3)
-asyncTest ("asyncTest") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+388 -> 1
+407 -> 2
+433 -> 3
+450 -> 2
+460 -> 0
+474 -> 3
+484 -> 2
+499 -> 0
+503 -> 1

@@ -1,32 +1,30 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-v ("v") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(10)
-TypeError ("TypeError") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-done ("done") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(11)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(11)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+848 -> 1
+866 -> 0
+907 -> 0
+960 -> 0
+1039 -> 2
+1053 -> 3
+1091 -> 2
+1112 -> 1
+1142 -> 0
+1201 -> 4
+1207 -> 3
+1216 -> 4
+1261 -> 0
+1301 -> 5
+1315 -> 0
+1327 -> 5
+1350 -> 0
+1373 -> 4
+1393 -> 6
+1400 -> 7
+1419 -> 0
+1434 -> 6
+1482 -> 0
+1498 -> 7
+1509 -> 0
+1549 -> 0
+1556 -> 0
+1573 -> 0
+1583 -> 0
+1603 -> 2

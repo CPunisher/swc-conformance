@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-aa ("aa") -> ScopeId(2)
-useRef ("useRef") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-o1 ("o1") -> ScopeId(3)
-aa ("aa") -> ScopeId(2)
-ref ("ref") -> ScopeId(3)
-useRef ("useRef") -> ScopeId(2)
-fn2 ("fn2") -> ScopeId(3)
-value2 ("value2") -> ScopeId(4)
-_ref_current ("_ref_current") -> ScopeId(5)
-_ref_current ("_ref_current") -> ScopeId(5)
-ref ("ref") -> ScopeId(3)
-_ref_current ("_ref_current") -> ScopeId(5)
-_ref_current ("_ref_current") -> ScopeId(5)
-console ("console") -> ScopeId(1)
-o1 ("o1") -> ScopeId(3)
-_jsxruntime ("_jsxruntime") -> ScopeId(1)
-B ("B") -> ScopeId(1)
-fn2 ("fn2") -> ScopeId(3)
-A ("A") -> ScopeId(2)
+11 -> 1
+19 -> 2
+56 -> 3
+75 -> 4
+82 -> 1
+97 -> 5
+110 -> 2
+128 -> 6
+153 -> 7
+193 -> 8
+227 -> 8
+233 -> 5
+283 -> 8
+350 -> 8
+402 -> 0
+409 -> 4
+445 -> 0
+452 -> 0
+472 -> 6
+500 -> 3

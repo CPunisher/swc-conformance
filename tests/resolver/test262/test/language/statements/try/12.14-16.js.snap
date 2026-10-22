@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-global ("global") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-e ("e") -> ScopeId(6)
-obj ("obj") -> ScopeId(3)
-obj ("obj") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-obj ("obj") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-result ("result") -> ScopeId(2)
-global ("global") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
+390 -> 1
+409 -> 2
+550 -> 3
+573 -> 4
+595 -> 4
+691 -> 3
+697 -> 4
+717 -> 3
+739 -> 2
+748 -> 1
+787 -> 0
+804 -> 2

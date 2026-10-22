@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-h ("h") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-y ("y") -> ScopeId(4)
-z ("z") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(4)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1265 -> 1
+1276 -> 2
+1279 -> 2
+1299 -> 3
+1303 -> 4
+1306 -> 5
+1309 -> 6
+1340 -> 0
+1352 -> 4
+1366 -> 0
+1378 -> 5
+1392 -> 0
+1404 -> 6
+1421 -> 1
+1433 -> 1
+1444 -> 2
+1477 -> 0
+1497 -> 1
+1540 -> 0
+1547 -> 0

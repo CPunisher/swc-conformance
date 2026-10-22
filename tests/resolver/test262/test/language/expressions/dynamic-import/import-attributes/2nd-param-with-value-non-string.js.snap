@@ -1,25 +1,23 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-test ("test") -> ScopeId(2)
-promise ("promise") -> ScopeId(3)
-valueType ("valueType") -> ScopeId(3)
-promise ("promise") -> ScopeId(3)
-Test262Error ("Test262Error") -> ScopeId(1)
-valueType ("valueType") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(5)
-TypeError ("TypeError") -> ScopeId(1)
-valueType ("valueType") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-test ("test") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-test ("test") -> ScopeId(2)
-test ("test") -> ScopeId(2)
-test ("test") -> ScopeId(2)
-test ("test") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-test ("test") -> ScopeId(2)
-test ("test") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1239 -> 1
+1247 -> 2
+1258 -> 3
+1278 -> 2
+1325 -> 0
+1352 -> 3
+1399 -> 4
+1415 -> 0
+1431 -> 4
+1454 -> 0
+1465 -> 3
+1486 -> 0
+1501 -> 1
+1555 -> 0
+1582 -> 1
+1653 -> 1
+1728 -> 1
+1799 -> 1
+1850 -> 0
+1878 -> 1
+1950 -> 1
+2053 -> 0
+2060 -> 0

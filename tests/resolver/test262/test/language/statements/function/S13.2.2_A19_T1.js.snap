@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-result ("result") -> ScopeId(1)
-__func ("__func") -> ScopeId(2)
-result ("result") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-result ("result") -> ScopeId(1)
+304 -> 1
+321 -> 2
+342 -> 1
+356 -> 3
+378 -> 3
+392 -> 0
+401 -> 2
+507 -> 0
+540 -> 0
+586 -> 0

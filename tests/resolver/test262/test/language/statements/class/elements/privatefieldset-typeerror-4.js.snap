@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-classfactory ("classfactory") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
-classfactory ("classfactory") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-classfactory ("classfactory") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
+1204 -> 1
+1282 -> 2
+1297 -> 1
+1307 -> 3
+1322 -> 1
+1333 -> 4
+1342 -> 2
+1352 -> 5
+1361 -> 3
+1372 -> 0
+1389 -> 0
+1533 -> 4
+1543 -> 5

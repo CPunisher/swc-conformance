@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-MyFunction ("MyFunction") -> ScopeId(2)
-Function ("Function") -> ScopeId(1)
-MyObject ("MyObject") -> ScopeId(2)
-MyFunction ("MyFunction") -> ScopeId(2)
-MyObject ("MyObject") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-MyObject ("MyObject") -> ScopeId(2)
-MyFunction ("MyFunction") -> ScopeId(2)
-Function ("Function") -> ScopeId(1)
-MyObject ("MyObject") -> ScopeId(2)
-MyFunction ("MyFunction") -> ScopeId(2)
-MyObject ("MyObject") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-MyObject ("MyObject") -> ScopeId(2)
+418 -> 1
+433 -> 0
+467 -> 2
+484 -> 1
+500 -> 2
+566 -> 0
+725 -> 2
+768 -> 1
+783 -> 0
+823 -> 2
+840 -> 1
+856 -> 2
+922 -> 0
+1091 -> 2

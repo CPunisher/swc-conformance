@@ -1,39 +1,37 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-unreachable ("unreachable") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-result ("result") -> ScopeId(9)
-vals ("vals") -> ScopeId(9)
-iterable ("iterable") -> ScopeId(2)
-result ("result") -> ScopeId(9)
-x ("x") -> ScopeId(2)
-vals ("vals") -> ScopeId(9)
-unreachable ("unreachable") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(9)
-vals ("vals") -> ScopeId(9)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-unreachable ("unreachable") -> ScopeId(2)
+1542 -> 1
+1563 -> 2
+1584 -> 3
+1595 -> 4
+1609 -> 5
+1628 -> 6
+1667 -> 1
+1800 -> 1
+1852 -> 2
+1886 -> 0
+1905 -> 7
+1915 -> 5
+1922 -> 0
+1965 -> 6
+1981 -> 8
+1997 -> 9
+2007 -> 10
+2018 -> 5
+2027 -> 9
+2033 -> 4
+2057 -> 10
+2071 -> 3
+2085 -> 0
+2102 -> 9
+2108 -> 10
+2119 -> 7
+2123 -> 8
+2131 -> 7
+2147 -> 0
+2167 -> 0
+2188 -> 7
+2210 -> 0
+2230 -> 1
+2242 -> 0
+2264 -> 2
+2276 -> 0
+2298 -> 3

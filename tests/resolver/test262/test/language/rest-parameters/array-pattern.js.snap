@@ -1,47 +1,45 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-empty ("empty") -> ScopeId(2)
-emptyWithArray ("emptyWithArray") -> ScopeId(2)
-emptyWithObject ("emptyWithObject") -> ScopeId(2)
-emptyWithRest ("emptyWithRest") -> ScopeId(2)
-emptyWithLeading ("emptyWithLeading") -> ScopeId(2)
-x ("x") -> ScopeId(7)
-singleElement ("singleElement") -> ScopeId(2)
-a ("a") -> ScopeId(8)
-singleElementWithInitializer ("singleElementWithInitializer") -> ScopeId(2)
-a ("a") -> ScopeId(9)
-singleElementWithArray ("singleElementWithArray") -> ScopeId(2)
-a ("a") -> ScopeId(10)
-singleElementWithObject ("singleElementWithObject") -> ScopeId(2)
-q ("q") -> ScopeId(11)
-singleElementWithRest ("singleElementWithRest") -> ScopeId(2)
-a ("a") -> ScopeId(12)
-singleElementWithLeading ("singleElementWithLeading") -> ScopeId(2)
-x ("x") -> ScopeId(13)
-a ("a") -> ScopeId(13)
-multiElement ("multiElement") -> ScopeId(2)
-a ("a") -> ScopeId(14)
-b ("b") -> ScopeId(14)
-c ("c") -> ScopeId(14)
-multiElementWithInitializer ("multiElementWithInitializer") -> ScopeId(2)
-a ("a") -> ScopeId(15)
-b ("b") -> ScopeId(15)
-c ("c") -> ScopeId(15)
-multiElementWithArray ("multiElementWithArray") -> ScopeId(2)
-a ("a") -> ScopeId(16)
-b ("b") -> ScopeId(16)
-c ("c") -> ScopeId(16)
-multiElementWithObject ("multiElementWithObject") -> ScopeId(2)
-q ("q") -> ScopeId(17)
-r ("r") -> ScopeId(17)
-s ("s") -> ScopeId(17)
-multiElementWithRest ("multiElementWithRest") -> ScopeId(2)
-a ("a") -> ScopeId(18)
-b ("b") -> ScopeId(18)
-c ("c") -> ScopeId(18)
-multiElementWithLeading ("multiElementWithLeading") -> ScopeId(2)
-x ("x") -> ScopeId(19)
-y ("y") -> ScopeId(19)
-a ("a") -> ScopeId(19)
-b ("b") -> ScopeId(19)
-c ("c") -> ScopeId(19)
+371 -> 1
+406 -> 2
+444 -> 3
+480 -> 4
+522 -> 5
+524 -> 6
+560 -> 7
+566 -> 8
+610 -> 9
+616 -> 10
+658 -> 11
+665 -> 12
+705 -> 13
+715 -> 14
+753 -> 15
+762 -> 16
+802 -> 17
+804 -> 18
+811 -> 19
+840 -> 20
+846 -> 21
+849 -> 22
+852 -> 23
+895 -> 24
+901 -> 25
+908 -> 26
+911 -> 27
+952 -> 28
+959 -> 29
+963 -> 30
+967 -> 31
+1006 -> 32
+1016 -> 33
+1021 -> 34
+1026 -> 35
+1067 -> 36
+1073 -> 37
+1076 -> 38
+1082 -> 39
+1121 -> 40
+1123 -> 41
+1126 -> 42
+1133 -> 43
+1136 -> 44
+1139 -> 45

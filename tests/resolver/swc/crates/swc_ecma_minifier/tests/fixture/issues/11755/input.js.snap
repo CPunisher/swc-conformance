@@ -1,25 +1,23 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-getConfigId ("getConfigId") -> ScopeId(3)
-id ("id") -> ScopeId(4)
-configIndex ("configIndex") -> ScopeId(4)
-id ("id") -> ScopeId(4)
-configIndex ("configIndex") -> ScopeId(4)
-createSelector ("createSelector") -> ScopeId(3)
-id ("id") -> ScopeId(5)
-configIndex ("configIndex") -> ScopeId(5)
-data ("data") -> ScopeId(6)
-data ("data") -> ScopeId(6)
-getConfigId ("getConfigId") -> ScopeId(3)
-id ("id") -> ScopeId(5)
-configIndex ("configIndex") -> ScopeId(5)
-selector ("selector") -> ScopeId(3)
-createSelector ("createSelector") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-selector ("selector") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-console ("console") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
+10 -> 1
+36 -> 2
+44 -> 3
+57 -> 4
+69 -> 3
+84 -> 4
+112 -> 5
+118 -> 6
+131 -> 7
+141 -> 8
+158 -> 8
+170 -> 2
+175 -> 6
+188 -> 7
+213 -> 9
+230 -> 5
+261 -> 10
+272 -> 9
+310 -> 10
+337 -> 0
+387 -> 0
+419 -> 1
+424 -> 1

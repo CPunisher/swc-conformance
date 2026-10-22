@@ -1,61 +1,59 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-isNaN ("isNaN") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-isNaN ("isNaN") -> ScopeId(1)
-result ("result") -> ScopeId(3)
-Infinity ("Infinity") -> ScopeId(1)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-undefined ("undefined") -> ScopeId(1)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-n ("n") -> ScopeId(2)
-Number ("Number") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-n ("n") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-n ("n") -> ScopeId(2)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-parseInt ("parseInt") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-parseInt ("parseInt") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-isNaN ("isNaN") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-isNaN ("isNaN") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-Infinity ("Infinity") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest ("SwitchTest") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
+360 -> 1
+366 -> 2
+381 -> 3
+404 -> 2
+432 -> 3
+463 -> 3
+507 -> 3
+528 -> 0
+534 -> 2
+549 -> 3
+582 -> 3
+630 -> 3
+652 -> 0
+666 -> 3
+705 -> 0
+719 -> 3
+754 -> 3
+794 -> 0
+808 -> 3
+840 -> 3
+850 -> 4
+859 -> 0
+884 -> 1
+886 -> 4
+921 -> 0
+1011 -> 1
+1013 -> 4
+1037 -> 1
+1046 -> 0
+1082 -> 0
+1163 -> 1
+1172 -> 0
+1196 -> 1
+1202 -> 0
+1239 -> 0
+1315 -> 1
+1321 -> 0
+1345 -> 1
+1386 -> 0
+1459 -> 1
+1488 -> 1
+1530 -> 0
+1605 -> 1
+1635 -> 1
+1677 -> 0
+1751 -> 1
+1780 -> 1
+1825 -> 0
+1904 -> 1
+1935 -> 1
+1939 -> 0
+1975 -> 0
+2047 -> 1
+2051 -> 0
+2075 -> 1
+2084 -> 0
+2121 -> 0
+2194 -> 1
+2198 -> 0

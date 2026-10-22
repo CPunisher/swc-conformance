@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-sideCalls ("sideCalls") -> ScopeId(2)
-side ("side") -> ScopeId(2)
-sideCalls ("sideCalls") -> ScopeId(2)
-keep ("keep") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-side ("side") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-fnMultiUseDefaultSideEffect ("fnMultiUseDefaultSideEffect") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(5)
+13 -> 1
+33 -> 2
+51 -> 1
+85 -> 3
+87 -> 4
+90 -> 5
+97 -> 2
+115 -> 4
+163 -> 6
+169 -> 7
+188 -> 3
+194 -> 7
+202 -> 3
+208 -> 7

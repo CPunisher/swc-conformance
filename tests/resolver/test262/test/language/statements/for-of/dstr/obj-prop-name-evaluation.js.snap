@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-xy ("xy") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-xy ("xy") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
+1095 -> 1
+1098 -> 2
+1102 -> 3
+1116 -> 4
+1144 -> 1
+1186 -> 0
+1198 -> 1
+1213 -> 0
+1225 -> 2
+1236 -> 0
+1247 -> 0
+1260 -> 3
+1271 -> 0
+1283 -> 4
+1299 -> 0
+1317 -> 4

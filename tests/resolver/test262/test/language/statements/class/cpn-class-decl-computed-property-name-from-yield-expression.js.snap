@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-g ("g") -> ScopeId(2)
-C ("C") -> ScopeId(3)
-c ("c") -> ScopeId(3)
-C ("C") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(3)
-String ("String") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(3)
-String ("String") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
+891 -> 1
+905 -> 2
+992 -> 3
+1000 -> 2
+1011 -> 0
+1026 -> 3
+1052 -> 0
+1067 -> 2
+1093 -> 0
+1108 -> 3
+1115 -> 0
+1142 -> 0
+1157 -> 2
+1164 -> 0
+1196 -> 4
+1200 -> 1
+1215 -> 4

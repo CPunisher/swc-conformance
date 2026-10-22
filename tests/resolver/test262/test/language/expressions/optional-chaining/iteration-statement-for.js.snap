@@ -1,37 +1,35 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-count ("count") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
-count2 ("count2") -> ScopeId(2)
-obj2 ("obj2") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-obj2 ("obj2") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-count2 ("count2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-count2 ("count2") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-count2 ("count2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-count2 ("count2") -> ScopeId(2)
-touched ("touched") -> ScopeId(2)
-obj3 ("obj3") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-count ("count") -> ScopeId(2)
-obj3 ("obj3") -> ScopeId(2)
-touched ("touched") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-touched ("touched") -> ScopeId(2)
+390 -> 1
+401 -> 2
+425 -> 1
+434 -> 2
+444 -> 1
+461 -> 1
+482 -> 0
+498 -> 1
+558 -> 3
+574 -> 4
+586 -> 0
+597 -> 2
+606 -> 4
+614 -> 2
+627 -> 3
+639 -> 0
+656 -> 3
+671 -> 2
+685 -> 0
+693 -> 2
+706 -> 3
+718 -> 0
+735 -> 3
+773 -> 5
+789 -> 6
+815 -> 1
+839 -> 0
+882 -> 1
+898 -> 6
+911 -> 5
+929 -> 1
+954 -> 0
+970 -> 1
+982 -> 0
+1000 -> 5

@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-cond1Count ("cond1Count") -> ScopeId(2)
-cond2Count ("cond2Count") -> ScopeId(2)
-cond1 ("cond1") -> ScopeId(2)
-cond1Count ("cond1Count") -> ScopeId(2)
-cond2 ("cond2") -> ScopeId(2)
-cond2Count ("cond2Count") -> ScopeId(2)
-cond1 ("cond1") -> ScopeId(2)
-cond2 ("cond2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cond1Count ("cond1Count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cond2Count ("cond2Count") -> ScopeId(2)
+502 -> 1
+522 -> 2
+537 -> 3
+565 -> 1
+597 -> 4
+625 -> 2
+658 -> 3
+668 -> 4
+690 -> 0
+711 -> 1
+723 -> 0
+744 -> 2

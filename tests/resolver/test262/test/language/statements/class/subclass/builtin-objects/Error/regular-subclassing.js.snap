@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CustomError ("CustomError") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-CustomError ("CustomError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
+611 -> 1
+625 -> 0
+637 -> 2
+655 -> 1
+674 -> 0
+688 -> 2
+715 -> 0
+729 -> 2

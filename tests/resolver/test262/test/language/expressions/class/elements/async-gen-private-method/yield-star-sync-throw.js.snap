@@ -1,127 +1,125 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-log ("log") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-throwCount ("throwCount") -> ScopeId(4)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-throwCount ("throwCount") -> ScopeId(4)
-throwCount ("throwCount") -> ScopeId(4)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-v ("v") -> ScopeId(26)
-obj ("obj") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-v ("v") -> ScopeId(26)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(31)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(31)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(31)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(32)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(32)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(32)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+2008 -> 1
+2022 -> 2
+2036 -> 0
+2069 -> 3
+2146 -> 1
+2345 -> 1
+2461 -> 1
+2561 -> 0
+2598 -> 3
+2626 -> 3
+2741 -> 1
+2953 -> 1
+3233 -> 1
+3431 -> 1
+3636 -> 4
+3648 -> 5
+3696 -> 4
+3714 -> 1
+3763 -> 6
+3776 -> 2
+3791 -> 1
+3853 -> 6
+3954 -> 7
+3962 -> 5
+4048 -> 0
+4059 -> 0
+4091 -> 5
+4180 -> 0
+4191 -> 0
+4223 -> 5
+4304 -> 0
+4315 -> 0
+4347 -> 7
+4428 -> 8
+4432 -> 7
+4447 -> 0
+4461 -> 1
+4493 -> 8
+4507 -> 9
+4521 -> 0
+4535 -> 1
+4572 -> 0
+4586 -> 1
+4618 -> 0
+4630 -> 9
+4663 -> 0
+4675 -> 9
+4699 -> 0
+4713 -> 1
+4747 -> 8
+4775 -> 10
+4791 -> 0
+4805 -> 1
+4839 -> 0
+4853 -> 1
+4924 -> 0
+4938 -> 1
+4973 -> 0
+4987 -> 1
+5053 -> 0
+5067 -> 1
+5119 -> 0
+5133 -> 1
+5190 -> 0
+5204 -> 1
+5247 -> 0
+5261 -> 1
+5339 -> 0
+5353 -> 1
+5397 -> 0
+5411 -> 1
+5490 -> 0
+5502 -> 10
+5538 -> 0
+5550 -> 10
+5576 -> 0
+5590 -> 1
+5626 -> 8
+5641 -> 11
+5659 -> 0
+5673 -> 1
+5709 -> 0
+5723 -> 1
+5796 -> 0
+5810 -> 1
+5847 -> 0
+5861 -> 1
+5929 -> 0
+5943 -> 1
+5997 -> 0
+6011 -> 1
+6033 -> 0
+6066 -> 0
+6080 -> 1
+6125 -> 0
+6139 -> 1
+6219 -> 0
+6233 -> 1
+6279 -> 0
+6293 -> 1
+6374 -> 0
+6388 -> 1
+6428 -> 0
+6442 -> 1
+6485 -> 0
+6497 -> 11
+6534 -> 0
+6546 -> 11
+6573 -> 0
+6587 -> 1
+6632 -> 0
+6639 -> 0
+6658 -> 0
+6675 -> 0
+6685 -> 0
+6705 -> 4
+6792 -> 0
+6803 -> 0
+6835 -> 5
+6924 -> 0
+6935 -> 0
+6967 -> 5
+7048 -> 0
+7059 -> 0
+7091 -> 7

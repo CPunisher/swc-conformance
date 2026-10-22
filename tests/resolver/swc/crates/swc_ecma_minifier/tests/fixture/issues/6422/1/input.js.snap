@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-getter_effect ("getter_effect") -> ScopeId(2)
-setter_effect ("setter_effect") -> ScopeId(2)
-proto ("proto") -> ScopeId(2)
-getter_effect ("getter_effect") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-setter_effect ("setter_effect") -> ScopeId(2)
-obj1 ("obj1") -> ScopeId(2)
-proto ("proto") -> ScopeId(2)
-obj2 ("obj2") -> ScopeId(2)
-proto ("proto") -> ScopeId(2)
-unused ("unused") -> ScopeId(2)
-obj1 ("obj1") -> ScopeId(2)
-obj2 ("obj2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-getter_effect ("getter_effect") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setter_effect ("setter_effect") -> ScopeId(2)
+17 -> 1
+45 -> 2
+65 -> 3
+107 -> 1
+142 -> 4
+167 -> 2
+195 -> 5
+220 -> 3
+232 -> 6
+257 -> 3
+271 -> 7
+278 -> 5
+288 -> 6
+305 -> 0
+331 -> 1
+348 -> 0
+374 -> 2

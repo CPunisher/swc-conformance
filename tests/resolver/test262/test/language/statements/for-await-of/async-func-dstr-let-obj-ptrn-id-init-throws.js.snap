@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-thrower ("thrower") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-thrower ("thrower") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-_ ("_") -> ScopeId(8)
-Test262Error ("Test262Error") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(9)
-Test262Error ("Test262Error") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1687 -> 1
+1716 -> 0
+1740 -> 2
+1765 -> 3
+1775 -> 1
+1812 -> 2
+1824 -> 4
+1856 -> 0
+1929 -> 5
+1948 -> 0
+1970 -> 5
+1984 -> 0
+2010 -> 0
+2017 -> 0

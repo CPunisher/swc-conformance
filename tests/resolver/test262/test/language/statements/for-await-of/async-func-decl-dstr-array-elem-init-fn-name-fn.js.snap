@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-xFnexp ("xFnexp") -> ScopeId(2)
-fnexp ("fnexp") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-xFnexp ("xFnexp") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-fnexp ("fnexp") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xFnexp ("xFnexp") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-fnexp ("fnexp") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1656 -> 1
+1663 -> 2
+1679 -> 3
+1702 -> 4
+1728 -> 1
+1741 -> 5
+1753 -> 2
+1793 -> 0
+1800 -> 1
+1840 -> 0
+1846 -> 2
+1975 -> 3
+2000 -> 6
+2005 -> 4
+2017 -> 6
+2038 -> 0
+2058 -> 3
+2103 -> 0
+2118 -> 0
+2125 -> 0

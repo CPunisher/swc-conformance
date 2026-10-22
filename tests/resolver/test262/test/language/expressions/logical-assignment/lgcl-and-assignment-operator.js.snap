@@ -1,47 +1,45 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-value ("value") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-sym ("sym") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-sym ("sym") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
+739 -> 1
+751 -> 0
+759 -> 0
+775 -> 1
+792 -> 0
+857 -> 1
+872 -> 0
+888 -> 1
+954 -> 1
+970 -> 0
+986 -> 1
+1056 -> 1
+1068 -> 0
+1084 -> 1
+1142 -> 1
+1155 -> 0
+1171 -> 1
+1232 -> 1
+1238 -> 0
+1246 -> 0
+1262 -> 1
+1273 -> 0
+1326 -> 1
+1339 -> 0
+1355 -> 1
+1417 -> 1
+1432 -> 0
+1448 -> 1
+1509 -> 1
+1521 -> 0
+1537 -> 1
+1595 -> 1
+1612 -> 0
+1628 -> 1
+1693 -> 2
+1702 -> 0
+1713 -> 1
+1719 -> 2
+1727 -> 0
+1743 -> 1
+1810 -> 3
+1822 -> 1
+1828 -> 3
+1836 -> 0
+1852 -> 1

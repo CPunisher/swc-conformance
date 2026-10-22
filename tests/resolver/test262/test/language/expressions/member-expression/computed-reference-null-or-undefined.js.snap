@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-base ("base") -> ScopeId(3)
-prop ("prop") -> ScopeId(3)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(3)
-prop ("prop") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-base ("base") -> ScopeId(6)
-undefined ("undefined") -> ScopeId(1)
-prop ("prop") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(6)
-prop ("prop") -> ScopeId(6)
+1028 -> 0
+1045 -> 0
+1070 -> 1
+1089 -> 2
+1149 -> 0
+1195 -> 1
+1200 -> 2
+1214 -> 0
+1231 -> 0
+1256 -> 3
+1268 -> 0
+1280 -> 4
+1340 -> 0
+1386 -> 3
+1391 -> 4

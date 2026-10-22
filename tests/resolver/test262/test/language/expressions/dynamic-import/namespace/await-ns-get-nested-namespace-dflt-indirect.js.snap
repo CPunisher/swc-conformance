@@ -1,48 +1,46 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-ns ("ns") -> ScopeId(3)
-desc ("desc") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-keys ("keys") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-keys ("keys") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-keys ("keys") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-keys ("keys") -> ScopeId(3)
-desc ("desc") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-desc ("desc") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+4784 -> 1
+4801 -> 2
+4884 -> 3
+4893 -> 0
+4921 -> 2
+4947 -> 0
+4962 -> 3
+5022 -> 0
+5037 -> 3
+5093 -> 0
+5108 -> 3
+5180 -> 4
+5189 -> 0
+5212 -> 2
+5235 -> 0
+5250 -> 4
+5273 -> 0
+5288 -> 4
+5315 -> 0
+5330 -> 4
+5359 -> 3
+5368 -> 0
+5396 -> 2
+5433 -> 0
+5448 -> 3
+5513 -> 0
+5528 -> 3
+5599 -> 0
+5614 -> 3
+5681 -> 0
+5696 -> 3
+5775 -> 3
+5784 -> 0
+5812 -> 2
+5846 -> 0
+5861 -> 3
+5919 -> 0
+5934 -> 3
+6001 -> 0
+6016 -> 3
+6079 -> 0
+6094 -> 3
+6165 -> 1
+6178 -> 0
+6185 -> 0
+6198 -> 0

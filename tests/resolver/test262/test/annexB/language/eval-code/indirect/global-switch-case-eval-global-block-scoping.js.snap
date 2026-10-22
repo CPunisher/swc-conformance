@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initialBV ("initialBV") -> ScopeId(2)
-currentBV ("currentBV") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-f ("f") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-initialBV ("initialBV") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-currentBV ("currentBV") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-f ("f") -> ScopeId(1)
+1100 -> 1
+1111 -> 2
+1121 -> 0
+1255 -> 0
+1266 -> 0
+1289 -> 1
+1380 -> 0
+1400 -> 2
+1449 -> 0
+1464 -> 0

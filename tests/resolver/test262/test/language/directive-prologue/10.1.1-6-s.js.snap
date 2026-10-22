@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-testcase ("testcase") -> ScopeId(2)
-interface ("interface") -> ScopeId(3)
-public ("public") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-public ("public") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-interface ("interface") -> ScopeId(3)
-testcase ("testcase") -> ScopeId(2)
+329 -> 1
+355 -> 2
+401 -> 3
+422 -> 0
+439 -> 3
+469 -> 0
+489 -> 2
+522 -> 1

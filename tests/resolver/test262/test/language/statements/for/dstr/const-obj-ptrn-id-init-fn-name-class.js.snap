@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-cls ("cls") -> ScopeId(3)
-xCls ("xCls") -> ScopeId(3)
-X ("X") -> ScopeId(5)
-xCls2 ("xCls2") -> ScopeId(3)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-xCls ("xCls") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-xCls2 ("xCls2") -> ScopeId(3)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
+1808 -> 1
+1831 -> 2
+1848 -> 3
+1858 -> 4
+1868 -> 5
+1915 -> 1
+1933 -> 0
+1947 -> 2
+1970 -> 0
+1988 -> 3
+2012 -> 0
+2031 -> 5
+2060 -> 1
+2076 -> 0
+2096 -> 1

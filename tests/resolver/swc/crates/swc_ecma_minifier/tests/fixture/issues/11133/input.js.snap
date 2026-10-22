@@ -1,48 +1,43 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-add ("add") -> ScopeId(2)
-subtract ("subtract") -> ScopeId(2)
-multiply ("multiply") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-add ("add") -> ScopeId(1)
-b ("b") -> ScopeId(2)
-add ("add") -> ScopeId(1)
-defaultExport ("defaultExport") -> ScopeId(2)
-namedExport ("namedExport") -> ScopeId(2)
-utils ("utils") -> ScopeId(2)
-helper ("helper") -> ScopeId(2)
-defUtils ("defUtils") -> ScopeId(2)
-utils2 ("utils2") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-duplicate ("duplicate") -> ScopeId(2)
-duplicate ("duplicate") -> ScopeId(2)
-duplicate ("duplicate") -> ScopeId(2)
-thing ("thing") -> ScopeId(2)
-renamedThing ("renamedThing") -> ScopeId(2)
-thing ("thing") -> ScopeId(1)
-otherThing ("otherThing") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-add ("add") -> ScopeId(2)
-subtract ("subtract") -> ScopeId(2)
-multiply ("multiply") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-defaultExport ("defaultExport") -> ScopeId(2)
-namedExport ("namedExport") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-utils ("utils") -> ScopeId(2)
-helper ("helper") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-defUtils ("defUtils") -> ScopeId(2)
-utils2 ("utils2") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-duplicate ("duplicate") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-thing ("thing") -> ScopeId(2)
-renamedThing ("renamedThing") -> ScopeId(2)
-otherThing ("otherThing") -> ScopeId(2)
+58 -> 1
+91 -> 2
+124 -> 3
+245 -> 4
+284 -> 5
+376 -> 6
+413 -> 7
+536 -> 8
+566 -> 9
+655 -> 10
+689 -> 11
+872 -> 12
+900 -> 12
+998 -> 13
+1032 -> 13
+1066 -> 13
+1159 -> 14
+1207 -> 15
+1244 -> 16
+1320 -> 0
+1328 -> 1
+1338 -> 2
+1348 -> 3
+1358 -> 0
+1364 -> 4
+1367 -> 5
+1377 -> 0
+1395 -> 6
+1408 -> 7
+1418 -> 0
+1428 -> 8
+1436 -> 9
+1446 -> 0
+1459 -> 10
+1467 -> 11
+1477 -> 0
+1485 -> 12
+1495 -> 0
+1509 -> 13
+1519 -> 0
+1529 -> 14
+1543 -> 15
+1555 -> 16

@@ -1,27 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-v ("v") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-z ("z") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-u ("u") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-w ("w") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-y ("y") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+2181 -> 1
+2194 -> 2
+2216 -> 3
+2222 -> 4
+2228 -> 5
+2279 -> 0
+2291 -> 3
+2309 -> 0
+2321 -> 4
+2339 -> 0
+2351 -> 5
+2370 -> 0
+2392 -> 0
+2414 -> 0
+2434 -> 0
+2456 -> 0
+2478 -> 0
+2498 -> 0
+2520 -> 0
+2542 -> 0
+2565 -> 1
+2577 -> 1
+2594 -> 2
+2618 -> 0
+2638 -> 1

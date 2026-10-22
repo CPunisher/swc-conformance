@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-err ("err") -> ScopeId(3)
-caught ("caught") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-err ("err") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-caught ("caught") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-err ("err") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(3)
-asyncTest ("asyncTest") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+327 -> 1
+341 -> 2
+360 -> 3
+395 -> 0
+406 -> 2
+420 -> 4
+434 -> 3
+453 -> 0
+465 -> 4
+470 -> 2
+486 -> 0
+493 -> 3
+508 -> 0
+512 -> 1

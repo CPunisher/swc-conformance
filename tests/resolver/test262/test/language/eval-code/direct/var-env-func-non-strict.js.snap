@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-typeofInside ("typeofInside") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-typeofInside ("typeofInside") -> ScopeId(2)
-fun ("fun") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-typeofInside ("typeofInside") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fun ("fun") -> ScopeId(1)
+353 -> 1
+376 -> 0
+413 -> 1
+426 -> 0
+441 -> 0
+464 -> 1
+485 -> 0
+506 -> 0

@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ref ("ref") -> ScopeId(2)
-argz ("argz") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-x ("x") -> ScopeId(3)
-ref ("ref") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-argz ("argz") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ref ("ref") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-argz ("argz") -> ScopeId(2)
+927 -> 1
+937 -> 2
+946 -> 0
+963 -> 0
+985 -> 3
+997 -> 1
+1001 -> 3
+1010 -> 3
+1012 -> 3
+1034 -> 2
+1053 -> 0
+1067 -> 1
+1080 -> 0
+1095 -> 2

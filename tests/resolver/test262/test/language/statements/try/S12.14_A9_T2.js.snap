@@ -1,53 +1,51 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-er1 ("er1") -> ScopeId(5)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-er1 ("er1") -> ScopeId(10)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-c3 ("c3") -> ScopeId(2)
-er1 ("er1") -> ScopeId(15)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c4 ("c4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-er1 ("er1") -> ScopeId(24)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+377 -> 1
+383 -> 2
+404 -> 1
+438 -> 3
+460 -> 2
+473 -> 2
+488 -> 1
+499 -> 2
+530 -> 0
+639 -> 4
+646 -> 5
+693 -> 6
+702 -> 4
+744 -> 5
+758 -> 5
+773 -> 4
+785 -> 5
+816 -> 0
+925 -> 7
+932 -> 8
+979 -> 9
+988 -> 7
+1016 -> 8
+1044 -> 8
+1058 -> 7
+1070 -> 8
+1101 -> 0
+1210 -> 10
+1217 -> 11
+1238 -> 10
+1280 -> 11
+1294 -> 11
+1309 -> 10
+1321 -> 11
+1352 -> 0
+1456 -> 12
+1503 -> 13
+1512 -> 12
+1545 -> 12
+1555 -> 12
+1586 -> 0
+1657 -> 14
+1664 -> 15
+1685 -> 14
+1729 -> 15
+1757 -> 15
+1772 -> 14
+1784 -> 15
+1815 -> 0
+1867 -> 14
+1898 -> 0

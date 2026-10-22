@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createCounter1 ("createCounter1") -> ScopeId(2)
-count ("count") -> ScopeId(3)
-numToAdd ("numToAdd") -> ScopeId(4)
-count ("count") -> ScopeId(3)
-numToAdd ("numToAdd") -> ScopeId(4)
-count ("count") -> ScopeId(3)
-Foo ("Foo") -> ScopeId(5)
-createCounter1 ("createCounter1") -> ScopeId(2)
-console ("console") -> ScopeId(1)
+20 -> 1
+44 -> 2
+70 -> 3
+90 -> 2
+102 -> 3
+124 -> 2
+151 -> 4
+173 -> 1
+196 -> 0

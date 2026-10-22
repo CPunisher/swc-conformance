@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-resource ("resource") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-_ ("_") -> ScopeId(5)
-resource ("resource") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-wasDisposedBeforeGeneratorStarted ("wasDisposedBeforeGeneratorStarted") -> ScopeId(2)
-resource ("resource") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-wasDisposedWhileSuspended ("wasDisposedWhileSuspended") -> ScopeId(2)
-resource ("resource") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-g ("g") -> ScopeId(2)
-isDisposedAfterGeneratorCompleted ("isDisposedAfterGeneratorCompleted") -> ScopeId(2)
-resource ("resource") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-wasDisposedBeforeGeneratorStarted ("wasDisposedBeforeGeneratorStarted") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-wasDisposedWhileSuspended ("wasDisposedWhileSuspended") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-isDisposedAfterGeneratorCompleted ("isDisposedAfterGeneratorCompleted") -> ScopeId(2)
+3436 -> 1
+3473 -> 0
+3539 -> 2
+3555 -> 3
+3566 -> 1
+3587 -> 4
+3591 -> 2
+3632 -> 5
+3643 -> 1
+3655 -> 4
+3693 -> 6
+3704 -> 1
+3721 -> 0
+3733 -> 4
+3791 -> 7
+3802 -> 1
+3820 -> 0
+3864 -> 5
+3952 -> 0
+3988 -> 6
+4080 -> 0
+4124 -> 7

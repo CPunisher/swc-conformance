@@ -1,40 +1,38 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(3)
-C ("C") -> ScopeId(3)
-C ("C") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(7)
-C ("C") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(9)
-C ("C") -> ScopeId(9)
-C ("C") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(13)
-C ("C") -> ScopeId(13)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(15)
-C ("C") -> ScopeId(15)
-C ("C") -> ScopeId(15)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(19)
-C ("C") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(21)
-_ ("_") -> ScopeId(23)
-C ("C") -> ScopeId(21)
-C ("C") -> ScopeId(21)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(25)
-_ ("_") -> ScopeId(26)
-C ("C") -> ScopeId(25)
+212 -> 0
+229 -> 0
+253 -> 1
+273 -> 1
+290 -> 1
+304 -> 0
+321 -> 0
+350 -> 2
+370 -> 2
+392 -> 0
+409 -> 0
+433 -> 3
+443 -> 3
+460 -> 3
+477 -> 0
+494 -> 0
+523 -> 4
+533 -> 4
+559 -> 0
+576 -> 0
+600 -> 5
+614 -> 5
+631 -> 5
+646 -> 0
+663 -> 0
+693 -> 6
+707 -> 6
+732 -> 0
+749 -> 0
+773 -> 7
+783 -> 8
+788 -> 7
+805 -> 7
+826 -> 0
+843 -> 0
+873 -> 9
+883 -> 10
+888 -> 9

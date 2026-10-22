@@ -1,27 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
+303 -> 1
+311 -> 2
+320 -> 3
+365 -> 1
+371 -> 3
+384 -> 2
+391 -> 1
+406 -> 0
+423 -> 2
+465 -> 0
+482 -> 2
+532 -> 2
+539 -> 1
+554 -> 0
+571 -> 2
+588 -> 0
+622 -> 0
+639 -> 2
+690 -> 2
+697 -> 1
+712 -> 0
+729 -> 2
+746 -> 0
+779 -> 0
+796 -> 2

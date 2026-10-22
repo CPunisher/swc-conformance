@@ -1,38 +1,36 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-thrower ("thrower") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-thrower ("thrower") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-thisValue ("thisValue") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
+1869 -> 1
+1890 -> 2
+1909 -> 3
+1926 -> 4
+1947 -> 5
+1965 -> 6
+2005 -> 0
+2024 -> 7
+2063 -> 1
+2140 -> 2
+2160 -> 3
+2177 -> 4
+2189 -> 0
+2206 -> 5
+2213 -> 0
+2256 -> 7
+2273 -> 8
+2286 -> 0
+2306 -> 0
+2340 -> 6
+2360 -> 5
+2376 -> 8
+2396 -> 8
+2414 -> 0
+2432 -> 8
+2445 -> 0
+2465 -> 1
+2477 -> 0
+2499 -> 2
+2511 -> 0
+2531 -> 3
+2541 -> 7
+2574 -> 0
+2581 -> 4
+2619 -> 0
+2634 -> 4

@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(20)
-error ("error") -> ScopeId(21)
-error ("error") -> ScopeId(21)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1449 -> 1
+1856 -> 2
+1880 -> 2
+1915 -> 3
+1939 -> 3
+1979 -> 4
+2008 -> 4
+2053 -> 5
+2082 -> 5
+2133 -> 6
+2168 -> 6
+2224 -> 7
+2258 -> 7
+2303 -> 8
+2311 -> 1
+2322 -> 0
+2333 -> 0
+2365 -> 8
+2440 -> 0
+2451 -> 0
+2483 -> 1
+2578 -> 0
+2580 -> 1
+2673 -> 1
+2693 -> 9
+2705 -> 0
+2717 -> 9
+2746 -> 10
+2813 -> 11
+2819 -> 12
+2838 -> 12
+2872 -> 0
+2925 -> 0
+2937 -> 8
+2958 -> 0
+2970 -> 8
+2991 -> 0
+3003 -> 8
+3029 -> 0
+3041 -> 8
+3067 -> 0
+3079 -> 8
+3111 -> 0
+3123 -> 8
+3165 -> 0
+3184 -> 10
+3202 -> 0
+3209 -> 0

@@ -1,32 +1,30 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-counter ("counter") -> ScopeId(9)
-iterable ("iterable") -> ScopeId(2)
-counter ("counter") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(9)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
+2043 -> 1
+2064 -> 2
+2082 -> 3
+2121 -> 1
+2169 -> 0
+2215 -> 2
+2258 -> 4
+2273 -> 4
+2280 -> 0
+2323 -> 3
+2340 -> 5
+2357 -> 6
+2398 -> 4
+2415 -> 6
+2431 -> 0
+2449 -> 6
+2467 -> 7
+2471 -> 5
+2479 -> 7
+2495 -> 0
+2515 -> 1
+2527 -> 0
+2549 -> 2
+2561 -> 0
+2578 -> 0
+2599 -> 7
+2620 -> 0
+2640 -> 1
+2652 -> 0
+2674 -> 2

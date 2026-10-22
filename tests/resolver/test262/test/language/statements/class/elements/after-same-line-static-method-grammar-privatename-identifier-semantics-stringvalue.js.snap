@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1857 -> 1
+1951 -> 2
+1974 -> 2
+2011 -> 3
+2036 -> 3
+2081 -> 4
+2153 -> 4
+2203 -> 5
+2274 -> 5
+2315 -> 6
+2323 -> 1
+2334 -> 0
+2346 -> 1
+2363 -> 0
+2374 -> 0
+2406 -> 6
+2481 -> 0
+2492 -> 0
+2524 -> 1
+2619 -> 0
+2621 -> 1
+2702 -> 0
+2714 -> 6
+2731 -> 0
+2743 -> 6
+2762 -> 0
+2774 -> 6
+2799 -> 0
+2811 -> 6

@@ -1,38 +1,36 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-resource ("resource") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-releaseF ("releaseF") -> ScopeId(3)
-suspendFPromise ("suspendFPromise") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-releaseF ("releaseF") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(6)
-f ("f") -> ScopeId(3)
-_ ("_") -> ScopeId(7)
-resource ("resource") -> ScopeId(3)
-suspendFPromise ("suspendFPromise") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-wasDisposedBeforeAsyncGeneratorStarted ("wasDisposedBeforeAsyncGeneratorStarted") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-wasDisposedWhileSuspendedForYield ("wasDisposedWhileSuspendedForYield") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-nextPromise ("nextPromise") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-wasDisposedWhileSuspendedForAwait ("wasDisposedWhileSuspendedForAwait") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-releaseF ("releaseF") -> ScopeId(3)
-nextPromise ("nextPromise") -> ScopeId(3)
-isDisposedAfterCompleted ("isDisposedAfterCompleted") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedBeforeAsyncGeneratorStarted ("wasDisposedBeforeAsyncGeneratorStarted") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedWhileSuspendedForYield ("wasDisposedWhileSuspendedForYield") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedWhileSuspendedForAwait ("wasDisposedWhileSuspendedForAwait") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-isDisposedAfterCompleted ("isDisposedAfterCompleted") -> ScopeId(3)
+3390 -> 0
+3426 -> 1
+3473 -> 0
+3552 -> 2
+3575 -> 3
+3589 -> 0
+3607 -> 4
+3619 -> 2
+3629 -> 4
+3656 -> 5
+3680 -> 6
+3691 -> 1
+3733 -> 3
+3747 -> 7
+3751 -> 5
+3800 -> 8
+3811 -> 1
+3832 -> 7
+3881 -> 9
+3892 -> 1
+3921 -> 10
+3925 -> 7
+3974 -> 11
+3985 -> 1
+4007 -> 2
+4030 -> 10
+4063 -> 12
+4074 -> 1
+4094 -> 0
+4143 -> 8
+4239 -> 0
+4283 -> 9
+4402 -> 0
+4446 -> 11
+4568 -> 0
+4603 -> 12

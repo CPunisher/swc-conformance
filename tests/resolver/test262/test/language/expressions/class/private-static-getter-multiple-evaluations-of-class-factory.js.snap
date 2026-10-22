@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createClass ("createClass") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
-createClass ("createClass") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-createClass ("createClass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
+1043 -> 1
+1195 -> 2
+1209 -> 1
+1219 -> 3
+1233 -> 1
+1244 -> 0
+1257 -> 2
+1286 -> 0
+1299 -> 3
+1329 -> 0
+1346 -> 0
+1365 -> 2
+1380 -> 3
+1440 -> 0
+1457 -> 0
+1476 -> 3
+1491 -> 2

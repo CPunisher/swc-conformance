@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-self ("self") -> ScopeId(4)
-innerFunction ("innerFunction") -> ScopeId(4)
-self ("self") -> ScopeId(4)
-innerFunction ("innerFunction") -> ScopeId(4)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-o ("o") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-o ("o") -> ScopeId(2)
+882 -> 1
+929 -> 2
+964 -> 3
+986 -> 2
+1022 -> 3
+1038 -> 4
+1046 -> 1
+1056 -> 0
+1068 -> 4
+1096 -> 5
+1109 -> 0
+1126 -> 0
+1144 -> 4
+1158 -> 5

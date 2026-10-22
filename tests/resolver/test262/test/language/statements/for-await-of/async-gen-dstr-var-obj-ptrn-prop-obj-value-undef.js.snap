@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-gen ("gen") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-y ("y") -> ScopeId(3)
-z ("z") -> ScopeId(3)
-undefined ("undefined") -> ScopeId(1)
-gen ("gen") -> ScopeId(2)
-_ ("_") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(8)
-TypeError ("TypeError") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1676 -> 1
+1706 -> 2
+1709 -> 3
+1712 -> 4
+1726 -> 0
+1763 -> 1
+1782 -> 5
+1814 -> 0
+1887 -> 6
+1906 -> 0
+1928 -> 6
+1939 -> 0
+1965 -> 0
+1972 -> 0

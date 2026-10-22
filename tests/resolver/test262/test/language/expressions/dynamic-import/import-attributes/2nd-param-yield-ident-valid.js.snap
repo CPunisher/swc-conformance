@@ -1,9 +1,7 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yield ("yield") -> ScopeId(2)
-yield ("yield") -> ScopeId(2)
-module ("module") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-module ("module") -> ScopeId(3)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+597 -> 1
+638 -> 1
+663 -> 2
+677 -> 0
+694 -> 2
+728 -> 0
+735 -> 0

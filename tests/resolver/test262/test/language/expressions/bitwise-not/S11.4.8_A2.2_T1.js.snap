@@ -1,48 +1,46 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-e ("e") -> ScopeId(20)
-e ("e") -> ScopeId(20)
-Test262Error ("Test262Error") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(20)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-e ("e") -> ScopeId(35)
-e ("e") -> ScopeId(35)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(35)
-object ("object") -> ScopeId(2)
-object ("object") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-object ("object") -> ScopeId(2)
-e ("e") -> ScopeId(43)
-e ("e") -> ScopeId(43)
-TypeError ("TypeError") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(43)
+304 -> 1
+352 -> 1
+387 -> 0
+476 -> 1
+503 -> 1
+584 -> 1
+619 -> 0
+741 -> 1
+769 -> 1
+851 -> 1
+886 -> 0
+1009 -> 1
+1044 -> 1
+1132 -> 1
+1169 -> 0
+1298 -> 1
+1316 -> 2
+1327 -> 2
+1369 -> 0
+1528 -> 0
+1660 -> 2
+1691 -> 1
+1740 -> 1
+1775 -> 0
+1865 -> 1
+1892 -> 1
+1973 -> 1
+2008 -> 0
+2131 -> 1
+2166 -> 1
+2250 -> 1
+2276 -> 0
+2412 -> 1
+2428 -> 3
+2439 -> 3
+2481 -> 0
+2611 -> 3
+2651 -> 1
+2732 -> 1
+2758 -> 0
+2893 -> 1
+2909 -> 4
+2921 -> 4
+2942 -> 0
+2982 -> 0
+3111 -> 4

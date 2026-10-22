@@ -1,46 +1,44 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-DummyError ("DummyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-DummyError ("DummyError") -> ScopeId(2)
-base ("base") -> ScopeId(4)
-prop ("prop") -> ScopeId(4)
-DummyError ("DummyError") -> ScopeId(2)
-expr ("expr") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(4)
-prop ("prop") -> ScopeId(4)
-expr ("expr") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-base ("base") -> ScopeId(7)
-prop ("prop") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-expr ("expr") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(7)
-prop ("prop") -> ScopeId(7)
-expr ("expr") -> ScopeId(7)
-count ("count") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-incr ("incr") -> ScopeId(2)
-count ("count") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-incr ("incr") -> ScopeId(2)
-incr ("incr") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-incr ("incr") -> ScopeId(2)
-incr ("incr") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
+362 -> 1
+376 -> 0
+394 -> 1
+419 -> 2
+438 -> 3
+478 -> 1
+497 -> 4
+539 -> 0
+593 -> 2
+598 -> 3
+610 -> 4
+625 -> 0
+642 -> 0
+667 -> 5
+686 -> 6
+746 -> 0
+795 -> 7
+837 -> 0
+891 -> 5
+896 -> 6
+906 -> 7
+924 -> 8
+937 -> 9
+957 -> 10
+978 -> 8
+989 -> 0
+1003 -> 9
+1008 -> 10
+1020 -> 10
+1033 -> 0
+1068 -> 0
+1082 -> 9
+1096 -> 0
+1115 -> 0
+1131 -> 8
+1150 -> 9
+1165 -> 0
+1179 -> 9
+1184 -> 10
+1196 -> 10
+1236 -> 0
+1250 -> 9
+1275 -> 0
+1291 -> 8

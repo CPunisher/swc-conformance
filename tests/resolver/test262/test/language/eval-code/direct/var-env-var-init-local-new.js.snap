@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initial ("initial") -> ScopeId(2)
-postAssignment ("postAssignment") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-initial ("initial") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-postAssignment ("postAssignment") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-x ("x") -> ScopeId(1)
+835 -> 1
+862 -> 2
+885 -> 0
+950 -> 0
+968 -> 1
+979 -> 0
+988 -> 0
+1013 -> 2
+1047 -> 0
+1069 -> 0
+1087 -> 0

@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-before ("before") -> ScopeId(2)
-during ("during") -> ScopeId(2)
-after ("after") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-before ("before") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-during ("during") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-after ("after") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-before ("before") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-during ("during") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-after ("after") -> ScopeId(2)
+489 -> 1
+497 -> 2
+504 -> 3
+546 -> 4
+558 -> 1
+564 -> 4
+580 -> 4
+601 -> 2
+607 -> 4
+620 -> 3
+626 -> 4
+637 -> 0
+654 -> 1
+676 -> 0
+693 -> 2
+736 -> 0
+752 -> 3

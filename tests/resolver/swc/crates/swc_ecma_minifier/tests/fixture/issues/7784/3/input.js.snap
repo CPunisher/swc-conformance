@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-i ("i") -> ScopeId(3)
-e ("e") -> ScopeId(3)
-cmp ("cmp") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-e ("e") -> ScopeId(3)
-e ("e") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-e ("e") -> ScopeId(3)
-cmp ("cmp") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-e ("e") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-e ("e") -> ScopeId(3)
-g ("g") -> ScopeId(3)
+17 -> 1
+19 -> 2
+22 -> 3
+27 -> 4
+43 -> 5
+53 -> 2
+69 -> 3
+88 -> 3
+92 -> 5
+94 -> 3
+100 -> 4
+102 -> 2
+105 -> 3
+121 -> 0
+127 -> 3
+144 -> 5

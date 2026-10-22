@@ -1,34 +1,32 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-arr ("arr") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-arr ("arr") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Array ("Array") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-item ("item") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+699 -> 1
+733 -> 2
+745 -> 3
+777 -> 2
+817 -> 4
+821 -> 3
+846 -> 5
+852 -> 4
+861 -> 5
+883 -> 6
+890 -> 5
+899 -> 1
+911 -> 7
+918 -> 6
+933 -> 0
+952 -> 7
+957 -> 1
+990 -> 0
+996 -> 0
+1010 -> 7
+1055 -> 0
+1071 -> 7
+1089 -> 0
+1105 -> 7
+1122 -> 0
+1138 -> 7
+1155 -> 0
+1171 -> 7
+1188 -> 0
+1203 -> 6
+1225 -> 0
+1245 -> 2

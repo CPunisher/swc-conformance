@@ -1,58 +1,56 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-falseCount ("falseCount") -> ScopeId(2)
-stringCount ("stringCount") -> ScopeId(2)
-nanCount ("nanCount") -> ScopeId(2)
-zeroCount ("zeroCount") -> ScopeId(2)
-nullCount ("nullCount") -> ScopeId(2)
-objCount ("objCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-ref ("ref") -> ScopeId(2)
-aFalse ("aFalse") -> ScopeId(4)
-falseCount ("falseCount") -> ScopeId(2)
-aString ("aString") -> ScopeId(4)
-stringCount ("stringCount") -> ScopeId(2)
-aNaN ("aNaN") -> ScopeId(4)
-nanCount ("nanCount") -> ScopeId(2)
-a0 ("a0") -> ScopeId(4)
-zeroCount ("zeroCount") -> ScopeId(2)
-aNull ("aNull") -> ScopeId(4)
-nullCount ("nullCount") -> ScopeId(2)
-aObj ("aObj") -> ScopeId(4)
-objCount ("objCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-aFalse ("aFalse") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-aString ("aString") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-aNaN ("aNaN") -> ScopeId(4)
-NaN ("NaN") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-a0 ("a0") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-aNull ("aNull") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-aObj ("aObj") -> ScopeId(4)
-obj ("obj") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-ref ("ref") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-falseCount ("falseCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-stringCount ("stringCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nanCount ("nanCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-zeroCount ("zeroCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nullCount ("nullCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-objCount ("objCount") -> ScopeId(2)
+1006 -> 1
+1027 -> 2
+1048 -> 3
+1066 -> 4
+1085 -> 5
+1104 -> 6
+1122 -> 7
+1143 -> 8
+1216 -> 9
+1223 -> 10
+1236 -> 2
+1249 -> 11
+1263 -> 3
+1274 -> 12
+1285 -> 4
+1294 -> 13
+1306 -> 5
+1318 -> 14
+1330 -> 6
+1341 -> 15
+1352 -> 7
+1368 -> 0
+1385 -> 10
+1403 -> 0
+1421 -> 11
+1436 -> 0
+1451 -> 12
+1456 -> 0
+1467 -> 0
+1480 -> 13
+1494 -> 0
+1510 -> 14
+1527 -> 0
+1542 -> 15
+1547 -> 1
+1561 -> 8
+1573 -> 8
+1585 -> 9
+1600 -> 0
+1614 -> 1
+1639 -> 0
+1659 -> 8
+1711 -> 0
+1718 -> 0
+1728 -> 0
+1749 -> 2
+1797 -> 0
+1819 -> 3
+1868 -> 0
+1887 -> 4
+1933 -> 0
+1953 -> 5
+1997 -> 0
+2017 -> 6
+2064 -> 0
+2083 -> 7

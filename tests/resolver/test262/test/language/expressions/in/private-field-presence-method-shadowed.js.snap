@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Child ("Child") -> ScopeId(2)
-parentCount ("parentCount") -> ScopeId(2)
-childCount ("childCount") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-parentCount ("parentCount") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-childCount ("childCount") -> ScopeId(2)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-Parent ("Parent") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Child ("Child") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-parentCount ("parentCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Child ("Child") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-childCount ("childCount") -> ScopeId(2)
+651 -> 1
+668 -> 2
+688 -> 3
+707 -> 4
+739 -> 2
+778 -> 1
+825 -> 3
+868 -> 5
+903 -> 5
+933 -> 4
+949 -> 0
+965 -> 1
+985 -> 4
+1004 -> 0
+1026 -> 2
+1067 -> 0
+1083 -> 1
+1102 -> 1
+1120 -> 0
+1141 -> 3

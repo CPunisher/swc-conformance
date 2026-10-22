@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-z ("z") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-w ("w") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
+1462 -> 1
+1485 -> 2
+1488 -> 3
+1491 -> 4
+1527 -> 0
+1543 -> 1
+1561 -> 0
+1573 -> 2
+1587 -> 0
+1599 -> 3
+1610 -> 0
+1621 -> 0
+1633 -> 4
+1644 -> 0
+1656 -> 0
+1678 -> 0
+1698 -> 0
+1717 -> 1
+1733 -> 0
+1753 -> 1

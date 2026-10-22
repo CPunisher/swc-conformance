@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-calls ("calls") -> ScopeId(2)
-o ("o") -> ScopeId(2)
-calls ("calls") -> ScopeId(2)
-calls ("calls") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-calls ("calls") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-calls ("calls") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-calls ("calls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-obj ("obj") -> ScopeId(10)
-callCount ("callCount") -> ScopeId(2)
-o ("o") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+1083 -> 1
+1095 -> 2
+1115 -> 1
+1144 -> 1
+1166 -> 0
+1183 -> 2
+1208 -> 1
+1247 -> 0
+1264 -> 2
+1272 -> 0
+1301 -> 1
+1361 -> 3
+1381 -> 4
+1393 -> 0
+1412 -> 1
+1453 -> 0
+1470 -> 0
+1479 -> 4
+1504 -> 3
+1518 -> 2
+1530 -> 0
+1550 -> 3

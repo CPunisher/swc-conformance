@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-setterValue ("setterValue") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-ns ("ns") -> ScopeId(2)
-v ("v") -> ScopeId(5)
-setterValue ("setterValue") -> ScopeId(2)
-v ("v") -> ScopeId(5)
-B ("B") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setterValue ("setterValue") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
+883 -> 1
+952 -> 2
+962 -> 3
+992 -> 1
+1007 -> 4
+1022 -> 2
+1026 -> 4
+1040 -> 5
+1050 -> 3
+1117 -> 5
+1128 -> 0
+1150 -> 2
+1238 -> 6

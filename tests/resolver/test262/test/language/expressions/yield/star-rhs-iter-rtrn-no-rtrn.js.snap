@@ -1,38 +1,36 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-badIter ("badIter") -> ScopeId(2)
-throwCount ("throwCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-hitNextStatement ("hitNextStatement") -> ScopeId(2)
-hitCatch ("hitCatch") -> ScopeId(2)
-hitFinally ("hitFinally") -> ScopeId(2)
-spyResult ("spyResult") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-spyResult ("spyResult") -> ScopeId(2)
-throwCount ("throwCount") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-spyResult ("spyResult") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-spyResult ("spyResult") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-hitNextStatement ("hitNextStatement") -> ScopeId(2)
-_ ("_") -> ScopeId(14)
-hitCatch ("hitCatch") -> ScopeId(2)
-hitFinally ("hitFinally") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-throwCount ("throwCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-hitFinally ("hitFinally") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-hitNextStatement ("hitNextStatement") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-hitCatch ("hitCatch") -> ScopeId(2)
+947 -> 1
+968 -> 2
+989 -> 3
+1015 -> 4
+1037 -> 5
+1061 -> 6
+1084 -> 7
+1151 -> 0
+1176 -> 7
+1223 -> 2
+1244 -> 0
+1269 -> 7
+1318 -> 3
+1340 -> 1
+1347 -> 0
+1391 -> 7
+1407 -> 8
+1439 -> 1
+1461 -> 4
+1482 -> 9
+1498 -> 5
+1535 -> 6
+1558 -> 10
+1562 -> 8
+1571 -> 10
+1584 -> 10
+1602 -> 0
+1623 -> 2
+1662 -> 0
+1684 -> 3
+1724 -> 0
+1748 -> 6
+1799 -> 0
+1829 -> 4
+1892 -> 0
+1914 -> 5

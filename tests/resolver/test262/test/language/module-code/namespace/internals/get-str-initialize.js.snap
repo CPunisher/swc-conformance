@@ -1,17 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-localUninit1 ("localUninit1") -> ScopeId(2)
-localUninit2 ("localUninit2") -> ScopeId(2)
-localUninit2 ("localUninit2") -> ScopeId(2)
-renamedUninit ("renamedUninit") -> ScopeId(1)
-localUninit1 ("localUninit1") -> ScopeId(1)
-indirectUninit ("indirectUninit") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
+486 -> 1
+542 -> 2
+566 -> 3
+595 -> 3
+717 -> 0
+730 -> 1
+757 -> 0
+770 -> 1
+798 -> 0
+811 -> 1
+840 -> 0
+853 -> 1

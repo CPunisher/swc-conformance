@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Prom1 ("Prom1") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-Prom1 ("Prom1") -> ScopeId(2)
-Prom2 ("Prom2") -> ScopeId(2)
-exec ("exec") -> ScopeId(7)
-exec ("exec") -> ScopeId(7)
-Promise ("Promise") -> ScopeId(1)
-Prom2 ("Prom2") -> ScopeId(2)
+700 -> 1
+716 -> 0
+747 -> 0
+769 -> 0
+795 -> 1
+815 -> 2
+831 -> 0
+852 -> 3
+870 -> 3
+889 -> 2

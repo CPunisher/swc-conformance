@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initEvalCount ("initEvalCount") -> ScopeId(2)
-poisonedProperty ("poisonedProperty") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(6)
-initEvalCount ("initEvalCount") -> ScopeId(2)
-poisonedProperty ("poisonedProperty") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-initEvalCount ("initEvalCount") -> ScopeId(2)
+985 -> 1
+1011 -> 2
+1020 -> 0
+1100 -> 0
+1119 -> 0
+1139 -> 0
+1175 -> 3
+1193 -> 1
+1214 -> 2
+1227 -> 0
+1251 -> 1

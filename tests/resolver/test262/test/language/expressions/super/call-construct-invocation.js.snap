@@ -1,32 +1,30 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-expectedNewTarget ("expectedNewTarget") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-actualNewTarget ("actualNewTarget") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-actualNewTarget ("actualNewTarget") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-Reflect ("Reflect") -> ScopeId(1)
-Child ("Child") -> ScopeId(2)
-expectedNewTarget ("expectedNewTarget") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-thisValue ("thisValue") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-actualNewTarget ("actualNewTarget") -> ScopeId(2)
-expectedNewTarget ("expectedNewTarget") -> ScopeId(2)
+398 -> 1
+429 -> 2
+439 -> 3
+445 -> 4
+462 -> 5
+479 -> 6
+495 -> 2
+510 -> 4
+522 -> 0
+541 -> 5
+570 -> 7
+585 -> 6
+641 -> 3
+651 -> 0
+667 -> 7
+697 -> 1
+707 -> 0
+727 -> 2
+737 -> 3
+746 -> 0
+761 -> 4
+819 -> 0
+834 -> 4
+867 -> 0
+882 -> 4
+916 -> 0
+931 -> 4
+964 -> 0
+990 -> 5
+1009 -> 1

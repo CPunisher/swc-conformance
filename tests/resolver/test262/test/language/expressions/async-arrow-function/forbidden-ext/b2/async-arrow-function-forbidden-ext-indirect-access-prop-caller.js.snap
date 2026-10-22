@@ -1,36 +1,34 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-inner ("inner") -> ScopeId(2)
-inner ("inner") -> ScopeId(2)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-Object ("Object") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-descriptor ("descriptor") -> ScopeId(4)
-Object ("Object") -> ScopeId(1)
-inner ("inner") -> ScopeId(2)
-result ("result") -> ScopeId(4)
-inner ("inner") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(4)
-descriptor ("descriptor") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-result ("result") -> ScopeId(4)
-CALLER_OWN_PROPERTY_DOES_NOT_EXIST ("CALLER_OWN_PROPERTY_DOES_NOT_EXIST") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-f ("f") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+990 -> 1
+999 -> 0
+1017 -> 2
+1136 -> 2
+1173 -> 2
+1221 -> 1
+1240 -> 3
+1251 -> 4
+1254 -> 4
+1588 -> 5
+1597 -> 0
+1628 -> 2
+1657 -> 5
+1671 -> 5
+1707 -> 0
+1728 -> 2
+1761 -> 6
+1769 -> 2
+1789 -> 5
+1803 -> 5
+1839 -> 0
+1856 -> 6
+2405 -> 6
+2444 -> 1
+2458 -> 0
+2478 -> 6
+2481 -> 4
+2499 -> 3
+2508 -> 4
+2537 -> 0
+2557 -> 3
+2600 -> 0
+2612 -> 0
+2619 -> 0

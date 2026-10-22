@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-initCount ("initCount") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
+1786 -> 1
+1806 -> 2
+1852 -> 1
+1883 -> 2
+1901 -> 0
+1921 -> 1
+1939 -> 2
+1955 -> 0
+1975 -> 2

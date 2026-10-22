@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-variable ("variable") -> ScopeId(2)
-params ("params") -> ScopeId(2)
-variable ("variable") -> ScopeId(2)
-variable ("variable") -> ScopeId(2)
-transactionTypeCode ("transactionTypeCode") -> ScopeId(1)
-variable ("variable") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-params ("params") -> ScopeId(2)
-test1 ("test1") -> ScopeId(2)
-test2 ("test2") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-test3 ("test3") -> ScopeId(2)
-variable ("variable") -> ScopeId(2)
-test4 ("test4") -> ScopeId(2)
-variable ("variable") -> ScopeId(2)
-test5 ("test5") -> ScopeId(2)
-obj ("obj") -> ScopeId(1)
-test6 ("test6") -> ScopeId(2)
-someFunction ("someFunction") -> ScopeId(1)
-test7 ("test7") -> ScopeId(2)
-obj ("obj") -> ScopeId(1)
-test8 ("test8") -> ScopeId(2)
-unknownVar ("unknownVar") -> ScopeId(1)
-test9 ("test9") -> ScopeId(2)
-condition ("condition") -> ScopeId(1)
-test10 ("test10") -> ScopeId(2)
-promise ("promise") -> ScopeId(1)
-test11 ("test11") -> ScopeId(2)
-Constructor ("Constructor") -> ScopeId(1)
+14 -> 1
+34 -> 2
+71 -> 1
+120 -> 1
+180 -> 0
+189 -> 1
+253 -> 0
+264 -> 2
+312 -> 3
+356 -> 4
+372 -> 0
+405 -> 5
+420 -> 1
+463 -> 6
+478 -> 1
+523 -> 7
+533 -> 0
+620 -> 8
+639 -> 0
+674 -> 9
+684 -> 0
+766 -> 10
+783 -> 0
+865 -> 11
+881 -> 0
+928 -> 12
+948 -> 0
+982 -> 13
+1004 -> 0

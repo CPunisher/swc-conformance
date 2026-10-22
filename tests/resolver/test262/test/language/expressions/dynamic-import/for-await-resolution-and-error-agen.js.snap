@@ -1,27 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-agen ("agen") -> ScopeId(2)
-imported ("imported") -> ScopeId(4)
-imported ("imported") -> ScopeId(4)
-aiter ("aiter") -> ScopeId(2)
-agen ("agen") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-a ("a") -> ScopeId(6)
-aiter ("aiter") -> ScopeId(2)
-b ("b") -> ScopeId(6)
-aiter ("aiter") -> ScopeId(2)
-c ("c") -> ScopeId(6)
-aiter ("aiter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(6)
-error ("error") -> ScopeId(6)
-c ("c") -> ScopeId(6)
-e ("e") -> ScopeId(8)
-error ("error") -> ScopeId(6)
-e ("e") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(6)
-asyncTest ("asyncTest") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+982 -> 1
+1012 -> 2
+1241 -> 2
+1261 -> 3
+1268 -> 1
+1290 -> 4
+1304 -> 5
+1312 -> 3
+1330 -> 6
+1338 -> 3
+1356 -> 7
+1364 -> 3
+1384 -> 0
+1403 -> 5
+1427 -> 0
+1446 -> 6
+1474 -> 8
+1501 -> 7
+1517 -> 9
+1534 -> 8
+1538 -> 9
+1557 -> 0
+1573 -> 8
+1595 -> 0
+1598 -> 4

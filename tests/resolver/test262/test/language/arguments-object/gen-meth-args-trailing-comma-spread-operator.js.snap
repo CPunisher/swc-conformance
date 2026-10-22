@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-arr ("arr") -> ScopeId(2)
-ref ("ref") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+984 -> 1
+1011 -> 2
+1024 -> 3
+1053 -> 0
+1073 -> 0
+1096 -> 0
+1116 -> 0
+1136 -> 0
+1156 -> 0
+1175 -> 0
+1195 -> 0
+1214 -> 0
+1234 -> 0
+1256 -> 2
+1268 -> 2
+1285 -> 3
+1311 -> 1
+1378 -> 4
+1384 -> 3
+1400 -> 0
+1420 -> 2

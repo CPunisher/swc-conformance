@@ -1,7 +1,5 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-await ("await") -> ScopeId(3)
-await ("await") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+272 -> 1
+278 -> 2
+294 -> 2
+304 -> 0
+318 -> 1

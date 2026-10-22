@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__mFunc ("__mFunc") -> ScopeId(2)
-__accum ("__accum") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(3)
-__accum ("__accum") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(3)
-__accum ("__accum") -> ScopeId(3)
-__mFunc ("__mFunc") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__mFunc ("__mFunc") -> ScopeId(2)
+311 -> 1
+325 -> 2
+340 -> 3
+347 -> 3
+359 -> 0
+371 -> 3
+380 -> 2
+393 -> 0
+395 -> 3
+412 -> 2
+516 -> 1
+581 -> 0
+775 -> 1

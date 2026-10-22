@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-actual ("actual") -> ScopeId(2)
-expected ("expected") -> ScopeId(2)
-pushAwait ("pushAwait") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-actual ("actual") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-callAsync ("callAsync") -> ScopeId(2)
-pushAwait ("pushAwait") -> ScopeId(2)
-pushAwait ("pushAwait") -> ScopeId(2)
-checkAssertions ("checkAssertions") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-actual ("actual") -> ScopeId(2)
-expected ("expected") -> ScopeId(2)
-callAsync ("callAsync") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-actual ("actual") -> ScopeId(2)
-resolve ("resolve") -> ScopeId(6)
-actual ("actual") -> ScopeId(2)
-checkAssertions ("checkAssertions") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+434 -> 1
+455 -> 2
+547 -> 3
+553 -> 4
+565 -> 1
+588 -> 4
+618 -> 5
+640 -> 3
+662 -> 3
+694 -> 6
+707 -> 0
+727 -> 1
+737 -> 2
+806 -> 5
+822 -> 0
+840 -> 7
+852 -> 1
+882 -> 7
+916 -> 1
+960 -> 6
+972 -> 0
+979 -> 0

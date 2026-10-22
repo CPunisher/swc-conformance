@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-C ("C") -> ScopeId(3)
-C ("C") -> ScopeId(3)
-c1 ("c1") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
+1116 -> 1
+1142 -> 2
+1255 -> 2
+1269 -> 3
+1297 -> 1
+1307 -> 4
+1335 -> 1
+1346 -> 0
+1362 -> 3
+1385 -> 4

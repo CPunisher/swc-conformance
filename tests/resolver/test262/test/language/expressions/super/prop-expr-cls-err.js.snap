@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-thrown ("thrown") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-thrower ("thrower") -> ScopeId(2)
-thrown ("thrown") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-thrower ("thrower") -> ScopeId(2)
-err ("err") -> ScopeId(7)
-caught ("caught") -> ScopeId(2)
-err ("err") -> ScopeId(7)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-thrown ("thrown") -> ScopeId(2)
+464 -> 1
+483 -> 0
+497 -> 2
+515 -> 3
+534 -> 1
+545 -> 4
+590 -> 3
+611 -> 5
+627 -> 2
+633 -> 5
+649 -> 4
+677 -> 0
+694 -> 2
+702 -> 1

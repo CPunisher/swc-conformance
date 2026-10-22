@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-i ("i") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-NaN ("NaN") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
+347 -> 1
+384 -> 2
+397 -> 0
+411 -> 0
+427 -> 2
+438 -> 0
+440 -> 1
+467 -> 1
+475 -> 1
+521 -> 0
+526 -> 0
+537 -> 0
+549 -> 1

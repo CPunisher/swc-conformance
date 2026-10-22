@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-_ ("_") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-_ ("_") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-error ("error") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+2017 -> 1
+2030 -> 2
+2056 -> 3
+2095 -> 0
+2125 -> 1
+2137 -> 1
+2151 -> 2
+2170 -> 4
+2202 -> 0
+2249 -> 5
+2259 -> 0
+2275 -> 5
+2301 -> 0
+2330 -> 0
+2350 -> 1
+2400 -> 0
+2415 -> 0
+2422 -> 0

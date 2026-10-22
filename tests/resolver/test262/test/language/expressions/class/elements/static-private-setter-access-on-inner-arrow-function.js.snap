@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(4)
-v ("v") -> ScopeId(4)
-arrowFunction ("arrowFunction") -> ScopeId(5)
-arrowFunction ("arrowFunction") -> ScopeId(5)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(2)
+900 -> 1
+928 -> 2
+947 -> 2
+997 -> 3
+1060 -> 3
+1072 -> 1
+1089 -> 0
+1101 -> 1
+1124 -> 0
+1141 -> 0
+1159 -> 1

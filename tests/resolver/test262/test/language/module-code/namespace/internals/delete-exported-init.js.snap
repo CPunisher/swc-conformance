@@ -1,33 +1,28 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-local1 ("local1") -> ScopeId(2)
-local2 ("local2") -> ScopeId(2)
-local2 ("local2") -> ScopeId(2)
-renamed ("renamed") -> ScopeId(1)
-local1 ("local1") -> ScopeId(1)
-indirect ("indirect") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
+488 -> 1
+540 -> 2
+558 -> 3
+581 -> 3
+667 -> 0
+684 -> 0
+710 -> 1
+747 -> 0
+768 -> 0
+786 -> 1
+848 -> 0
+861 -> 1
+913 -> 0
+930 -> 0
+956 -> 1
+995 -> 0
+1016 -> 0
+1034 -> 1
+1098 -> 0
+1111 -> 1
+1165 -> 0
+1182 -> 0
+1208 -> 1
+1249 -> 0
+1270 -> 0
+1288 -> 1
+1358 -> 0
+1371 -> 1

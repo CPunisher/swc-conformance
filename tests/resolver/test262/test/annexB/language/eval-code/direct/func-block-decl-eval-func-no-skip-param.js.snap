@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-init ("init") -> ScopeId(2)
-after ("after") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-init ("init") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-after ("after") -> ScopeId(2)
+672 -> 1
+679 -> 2
+693 -> 3
+703 -> 0
+773 -> 0
+788 -> 1
+847 -> 0
+873 -> 2

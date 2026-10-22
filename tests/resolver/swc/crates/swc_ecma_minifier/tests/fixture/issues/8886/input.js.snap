@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-bar ("bar") -> ScopeId(2)
-v ("v") -> ScopeId(3)
-v ("v") -> ScopeId(3)
-foo ("foo") -> ScopeId(2)
-v ("v") -> ScopeId(4)
-v ("v") -> ScopeId(4)
-eval ("eval") -> ScopeId(1)
-bar ("bar") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+9 -> 1
+15 -> 2
+21 -> 2
+36 -> 3
+42 -> 4
+48 -> 4
+59 -> 0
+63 -> 1
+70 -> 0
+74 -> 3

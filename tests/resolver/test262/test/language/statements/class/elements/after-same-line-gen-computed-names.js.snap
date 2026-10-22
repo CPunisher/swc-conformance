@@ -1,51 +1,49 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+611 -> 1
+629 -> 2
+656 -> 1
+711 -> 3
+719 -> 2
+730 -> 0
+742 -> 3
+772 -> 0
+783 -> 0
+815 -> 3
+890 -> 0
+902 -> 3
+907 -> 2
+937 -> 0
+939 -> 2
+1030 -> 0
+1041 -> 0
+1073 -> 2
+1155 -> 0
+1166 -> 0
+1198 -> 2
+1281 -> 0
+1283 -> 3
+1375 -> 0
+1386 -> 0
+1418 -> 2
+1500 -> 0
+1511 -> 0
+1543 -> 2
+1617 -> 0
+1628 -> 0
+1660 -> 3
+1732 -> 0
+1743 -> 0
+1775 -> 2
+1859 -> 0
+1870 -> 0
+1902 -> 2
+1987 -> 0
+1989 -> 3
+2086 -> 0
+2097 -> 0
+2129 -> 2
+2241 -> 0
+2252 -> 0
+2284 -> 2
+2397 -> 0
+2399 -> 3
+2440 -> 0

@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yield ("yield") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-yield ("yield") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
+1228 -> 1
+1244 -> 2
+1247 -> 3
+1261 -> 4
+1281 -> 3
+1289 -> 1
+1320 -> 0
+1332 -> 3
+1347 -> 4
+1363 -> 0
+1381 -> 4

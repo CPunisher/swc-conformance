@@ -1,51 +1,49 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-unreachable ("unreachable") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-counter ("counter") -> ScopeId(10)
-x ("x") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-unreachable ("unreachable") -> ScopeId(2)
-counter ("counter") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(10)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-unreachable ("unreachable") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-thisValue ("thisValue") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
+1910 -> 1
+1931 -> 2
+1952 -> 3
+1971 -> 4
+1988 -> 5
+2009 -> 6
+2021 -> 7
+2035 -> 8
+2074 -> 1
+2207 -> 1
+2259 -> 2
+2279 -> 4
+2296 -> 5
+2308 -> 0
+2340 -> 9
+2348 -> 10
+2358 -> 6
+2365 -> 0
+2408 -> 8
+2425 -> 11
+2442 -> 12
+2457 -> 7
+2487 -> 6
+2505 -> 3
+2521 -> 12
+2537 -> 0
+2555 -> 12
+2569 -> 9
+2573 -> 11
+2581 -> 9
+2596 -> 10
+2603 -> 9
+2624 -> 0
+2644 -> 1
+2656 -> 0
+2678 -> 2
+2690 -> 0
+2712 -> 3
+2766 -> 0
+2783 -> 10
+2803 -> 0
+2810 -> 10
+2853 -> 0
+2873 -> 4
+2883 -> 8
+2916 -> 0
+2923 -> 5
+2961 -> 0
+2976 -> 5

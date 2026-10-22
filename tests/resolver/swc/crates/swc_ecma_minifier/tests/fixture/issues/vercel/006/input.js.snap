@@ -1,118 +1,113 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-_jsx ("_jsx") -> ScopeId(2)
-jsx ("jsx") -> ScopeId(1)
-_jsxs ("_jsxs") -> ScopeId(2)
-jsxs ("jsxs") -> ScopeId(1)
-_Fragment ("_Fragment") -> ScopeId(2)
-Fragment ("Fragment") -> ScopeId(1)
-React ("React") -> ScopeId(2)
-invariant ("invariant") -> ScopeId(2)
-injectScript ("injectScript") -> ScopeId(2)
-preventGoogleFonts ("preventGoogleFonts") -> ScopeId(2)
-isBrowser ("isBrowser") -> ScopeId(2)
-makeLoadScriptUrl ("makeLoadScriptUrl") -> ScopeId(2)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-DefaultLoadingElement ("DefaultLoadingElement") -> ScopeId(2)
-_jsx ("_jsx") -> ScopeId(2)
-defaultLoadScriptProps ("defaultLoadScriptProps") -> ScopeId(2)
-LoadScript ("LoadScript") -> ScopeId(2)
-isBrowser ("isBrowser") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-window ("window") -> ScopeId(1)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-error ("error") -> ScopeId(10)
-err ("err") -> ScopeId(11)
-console ("console") -> ScopeId(1)
-err ("err") -> ScopeId(11)
-prevProps ("prevProps") -> ScopeId(12)
-prevProps ("prevProps") -> ScopeId(12)
-console ("console") -> ScopeId(1)
-isBrowser ("isBrowser") -> ScopeId(2)
-prevProps ("prevProps") -> ScopeId(12)
-setLoaded ("setLoaded") -> ScopeId(15)
-isBrowser ("isBrowser") -> ScopeId(2)
-timeoutCallback ("timeoutCallback") -> ScopeId(19)
-window ("window") -> ScopeId(1)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-timeoutCallback ("timeoutCallback") -> ScopeId(19)
-_jsxs ("_jsxs") -> ScopeId(2)
-_Fragment ("_Fragment") -> ScopeId(2)
-_jsx ("_jsx") -> ScopeId(2)
-_jsx ("_jsx") -> ScopeId(2)
-DefaultLoadingElement ("DefaultLoadingElement") -> ScopeId(2)
-args ("args") -> ScopeId(27)
-args ("args") -> ScopeId(27)
-React ("React") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-promiseCallback ("promiseCallback") -> ScopeId(30)
-resolve ("resolve") -> ScopeId(31)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-resolve ("resolve") -> ScopeId(31)
-isBrowser ("isBrowser") -> ScopeId(2)
-timer ("timer") -> ScopeId(34)
-window ("window") -> ScopeId(1)
-interval ("interval") -> ScopeId(35)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-timer ("timer") -> ScopeId(34)
-resolve ("resolve") -> ScopeId(31)
-Promise ("Promise") -> ScopeId(1)
-promiseCallback ("promiseCallback") -> ScopeId(30)
-cleaningUp ("cleaningUp") -> ScopeId(2)
-script1 ("script1") -> ScopeId(38)
-document ("document") -> ScopeId(1)
-script1 ("script1") -> ScopeId(38)
-script1 ("script1") -> ScopeId(38)
-script1 ("script1") -> ScopeId(38)
-script1 ("script1") -> ScopeId(38)
-Array ("Array") -> ScopeId(1)
-document ("document") -> ScopeId(1)
-filter ("filter") -> ScopeId(40)
-script ("script") -> ScopeId(41)
-script ("script") -> ScopeId(41)
-script ("script") -> ScopeId(41)
-forEach ("forEach") -> ScopeId(42)
-script ("script") -> ScopeId(43)
-script ("script") -> ScopeId(43)
-script ("script") -> ScopeId(43)
-script ("script") -> ScopeId(43)
-Array ("Array") -> ScopeId(1)
-document ("document") -> ScopeId(1)
-filter ("filter") -> ScopeId(45)
-link ("link") -> ScopeId(46)
-link ("link") -> ScopeId(46)
-forEach ("forEach") -> ScopeId(47)
-link ("link") -> ScopeId(48)
-link ("link") -> ScopeId(48)
-link ("link") -> ScopeId(48)
-link ("link") -> ScopeId(48)
-Array ("Array") -> ScopeId(1)
-document ("document") -> ScopeId(1)
-filter ("filter") -> ScopeId(50)
-style ("style") -> ScopeId(51)
-style ("style") -> ScopeId(51)
-undefined ("undefined") -> ScopeId(1)
-style ("style") -> ScopeId(51)
-style ("style") -> ScopeId(51)
-forEach ("forEach") -> ScopeId(52)
-style ("style") -> ScopeId(53)
-style ("style") -> ScopeId(53)
-style ("style") -> ScopeId(53)
-style ("style") -> ScopeId(53)
-preventGoogleFonts ("preventGoogleFonts") -> ScopeId(2)
-invariant ("invariant") -> ScopeId(2)
-injectScriptOptions ("injectScriptOptions") -> ScopeId(55)
-makeLoadScriptUrl ("makeLoadScriptUrl") -> ScopeId(2)
-injectScript ("injectScript") -> ScopeId(2)
-injectScriptOptions ("injectScriptOptions") -> ScopeId(55)
-setLoaded ("setLoaded") -> ScopeId(60)
-err ("err") -> ScopeId(63)
-err ("err") -> ScopeId(63)
-console ("console") -> ScopeId(1)
-React ("React") -> ScopeId(2)
-LoadScript ("LoadScript") -> ScopeId(2)
-defaultLoadScriptProps ("defaultLoadScriptProps") -> ScopeId(2)
-LoadScript ("LoadScript") -> ScopeId(2)
+24 -> 1
+43 -> 2
+70 -> 3
+117 -> 4
+148 -> 5
+188 -> 6
+247 -> 7
+305 -> 8
+360 -> 9
+414 -> 10
+461 -> 11
+495 -> 1
+582 -> 12
+654 -> 13
+668 -> 4
+732 -> 8
+758 -> 0
+775 -> 0
+802 -> 10
+829 -> 0
+1020 -> 14
+1024 -> 15
+1055 -> 0
+1163 -> 15
+1255 -> 16
+1305 -> 16
+1338 -> 0
+1714 -> 8
+1727 -> 16
+1986 -> 17
+2174 -> 8
+2239 -> 18
+2360 -> 0
+2399 -> 10
+2460 -> 0
+2487 -> 18
+2652 -> 2
+2662 -> 3
+2724 -> 1
+2958 -> 1
+2980 -> 11
+3043 -> 19
+3068 -> 19
+3111 -> 4
+3276 -> 0
+3412 -> 20
+3420 -> 21
+3455 -> 10
+3486 -> 21
+3548 -> 8
+3587 -> 22
+3596 -> 0
+3626 -> 23
+3674 -> 10
+3716 -> 0
+3736 -> 22
+3778 -> 21
+3951 -> 0
+3967 -> 20
+4034 -> 10
+4068 -> 24
+4079 -> 0
+4134 -> 24
+4145 -> 24
+4183 -> 24
+4214 -> 24
+4248 -> 0
+4295 -> 0
+4367 -> 25
+4374 -> 26
+4444 -> 26
+4495 -> 26
+4611 -> 27
+4618 -> 28
+4652 -> 28
+4697 -> 28
+4727 -> 28
+4789 -> 0
+4836 -> 0
+4906 -> 29
+4911 -> 30
+4972 -> 30
+5166 -> 31
+5171 -> 32
+5203 -> 32
+5246 -> 32
+5274 -> 32
+5336 -> 0
+5383 -> 0
+5454 -> 33
+5460 -> 34
+5522 -> 34
+5546 -> 0
+5579 -> 34
+5633 -> 34
+5744 -> 35
+5750 -> 36
+5783 -> 36
+5827 -> 36
+5856 -> 36
+6038 -> 7
+6077 -> 5
+6262 -> 37
+6381 -> 9
+6434 -> 6
+6454 -> 37
+6650 -> 38
+6855 -> 39
+6954 -> 39
+7006 -> 0
+7429 -> 13
+7467 -> 12
+7494 -> 13

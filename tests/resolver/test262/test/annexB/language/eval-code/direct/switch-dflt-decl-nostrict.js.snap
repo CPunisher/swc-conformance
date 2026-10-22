@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-err ("err") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-f ("f") -> ScopeId(1)
-exception ("exception") -> ScopeId(4)
-err ("err") -> ScopeId(2)
-exception ("exception") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+480 -> 1
+487 -> 0
+565 -> 0
+585 -> 2
+594 -> 1
+606 -> 2
+617 -> 0
+631 -> 1
+642 -> 0

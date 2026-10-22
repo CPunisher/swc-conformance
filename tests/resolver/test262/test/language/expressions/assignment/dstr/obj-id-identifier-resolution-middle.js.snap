@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-w ("w") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-w ("w") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
+723 -> 1
+737 -> 2
+740 -> 3
+753 -> 4
+763 -> 5
+783 -> 4
+789 -> 2
+792 -> 1
+795 -> 3
+804 -> 5
+813 -> 0
+825 -> 1
+838 -> 0
+855 -> 4
+861 -> 5

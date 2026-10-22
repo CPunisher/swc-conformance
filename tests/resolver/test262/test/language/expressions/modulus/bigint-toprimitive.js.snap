@@ -1,111 +1,109 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-err ("err") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
+339 -> 1
+368 -> 0
+391 -> 2
+404 -> 0
+426 -> 0
+489 -> 1
+506 -> 1
+636 -> 0
+663 -> 0
+726 -> 1
+743 -> 1
+866 -> 0
+939 -> 1
+1042 -> 0
+1120 -> 1
+1216 -> 0
+1361 -> 0
+1504 -> 0
+1526 -> 0
+1550 -> 0
+1716 -> 0
+1743 -> 0
+1767 -> 0
+1926 -> 0
+1948 -> 0
+2128 -> 0
+2155 -> 0
+2328 -> 0
+2506 -> 0
+2682 -> 0
+2854 -> 0
+3024 -> 0
+3198 -> 0
+3370 -> 0
+3594 -> 0
+3816 -> 0
+3870 -> 0
+4062 -> 0
+4121 -> 0
+4306 -> 0
+4323 -> 0
+4354 -> 0
+4446 -> 0
+4463 -> 0
+4498 -> 0
+4582 -> 0
+4599 -> 0
+4630 -> 0
+4724 -> 0
+4741 -> 0
+4776 -> 0
+4862 -> 0
+4879 -> 0
+4910 -> 0
+4957 -> 0
+5072 -> 0
+5089 -> 0
+5124 -> 0
+5171 -> 0
+5278 -> 0
+5295 -> 0
+5326 -> 0
+5474 -> 0
+5491 -> 0
+5526 -> 0
+5666 -> 0
+5681 -> 2
+5712 -> 0
+5763 -> 2
+5878 -> 0
+5893 -> 2
+5928 -> 0
+5979 -> 2
+6086 -> 0
+6101 -> 2
+6170 -> 2
+6272 -> 0
+6287 -> 2
+6360 -> 2
+6454 -> 0
+6469 -> 2
+6539 -> 2
+6642 -> 0
+6657 -> 2
+6731 -> 2
+6826 -> 0
+6843 -> 0
+6982 -> 0
+6999 -> 0
+7134 -> 0
+7151 -> 0
+7278 -> 0
+7295 -> 0
+7418 -> 0
+7435 -> 0
+7566 -> 0
+7583 -> 0
+7710 -> 0
+7727 -> 0
+7792 -> 0
+7851 -> 0
+7995 -> 0
+8012 -> 0
+8081 -> 0
+8140 -> 0
+8276 -> 0
+8293 -> 0
+8533 -> 0
+8550 -> 0

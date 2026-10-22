@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-imported ("imported") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1763 -> 1
+1857 -> 2
+1887 -> 1
+1894 -> 2
+1926 -> 3
+1943 -> 0
+1962 -> 3
+1985 -> 0
+2004 -> 3
+2028 -> 0
+2047 -> 3
+2070 -> 0
+2077 -> 0
+2090 -> 0

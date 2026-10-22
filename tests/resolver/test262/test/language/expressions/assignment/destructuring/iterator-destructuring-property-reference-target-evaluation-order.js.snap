@@ -1,28 +1,26 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-log ("log") -> ScopeId(2)
-source ("source") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(3)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-source ("source") -> ScopeId(3)
-source ("source") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(3)
-source ("source") -> ScopeId(3)
-target ("target") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-target ("target") -> ScopeId(2)
-v ("v") -> ScopeId(13)
-log ("log") -> ScopeId(2)
-targetKey ("targetKey") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-target ("target") -> ScopeId(2)
-targetKey ("targetKey") -> ScopeId(2)
-source ("source") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
+1009 -> 1
+1032 -> 2
+1044 -> 1
+1077 -> 3
+1124 -> 1
+1221 -> 1
+1412 -> 1
+1501 -> 4
+1518 -> 4
+1525 -> 0
+1562 -> 1
+1604 -> 3
+1630 -> 4
+1649 -> 5
+1661 -> 1
+1695 -> 5
+1715 -> 6
+1734 -> 1
+1785 -> 7
+1797 -> 1
+1877 -> 1
+1959 -> 5
+1971 -> 7
+1984 -> 2
+1996 -> 0
+2013 -> 1

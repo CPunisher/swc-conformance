@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
+2642 -> 1
+2679 -> 0
+2702 -> 1
+2781 -> 2
+2835 -> 0
+2849 -> 2
+2862 -> 0
+2874 -> 1
+2959 -> 0
+2971 -> 1
+3012 -> 0

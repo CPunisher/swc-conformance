@@ -1,25 +1,23 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-DummyError ("DummyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-DummyError ("DummyError") -> ScopeId(2)
-base ("base") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-prop ("prop") -> ScopeId(4)
-DummyError ("DummyError") -> ScopeId(2)
-expr ("expr") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(4)
-prop ("prop") -> ScopeId(4)
-expr ("expr") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-base ("base") -> ScopeId(7)
-undefined ("undefined") -> ScopeId(1)
-prop ("prop") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-expr ("expr") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-base ("base") -> ScopeId(7)
-prop ("prop") -> ScopeId(7)
-expr ("expr") -> ScopeId(7)
+461 -> 1
+475 -> 0
+493 -> 1
+518 -> 2
+530 -> 0
+542 -> 3
+582 -> 1
+601 -> 4
+643 -> 0
+697 -> 2
+702 -> 3
+715 -> 4
+730 -> 0
+747 -> 0
+772 -> 5
+784 -> 0
+796 -> 6
+856 -> 0
+905 -> 7
+947 -> 0
+1001 -> 5
+1006 -> 6
+1017 -> 7

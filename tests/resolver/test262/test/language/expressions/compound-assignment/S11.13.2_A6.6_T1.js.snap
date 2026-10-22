@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-testCompoundAssignment ("testCompoundAssignment") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-innerX ("innerX") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-eval ("eval") -> ScopeId(1)
-x ("x") -> ScopeId(3)
-innerX ("innerX") -> ScopeId(3)
-Test262Error ("Test262Error") -> ScopeId(1)
-innerX ("innerX") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(3)
-testCompoundAssignment ("testCompoundAssignment") -> ScopeId(2)
+610 -> 1
+622 -> 2
+640 -> 3
+662 -> 2
+672 -> 0
+704 -> 2
+727 -> 3
+763 -> 0
+802 -> 3
+817 -> 2
+853 -> 0
+882 -> 2
+914 -> 1

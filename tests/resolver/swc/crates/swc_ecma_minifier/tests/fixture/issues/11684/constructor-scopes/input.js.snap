@@ -1,38 +1,36 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ExplicitDerived ("ExplicitDerived") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(4)
-Base ("Base") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-ExplicitDerived ("ExplicitDerived") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-ExplicitDerived ("ExplicitDerived") -> ScopeId(2)
-NestedFunctionArguments ("NestedFunctionArguments") -> ScopeId(2)
-value ("value") -> ScopeId(6)
-count ("count") -> ScopeId(6)
-arguments ("arguments") -> ScopeId(1)
-value ("value") -> ScopeId(6)
-count ("count") -> ScopeId(6)
-out ("out") -> ScopeId(1)
-NestedFunctionArguments ("NestedFunctionArguments") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-NestedFunctionArguments ("NestedFunctionArguments") -> ScopeId(2)
-MethodArguments ("MethodArguments") -> ScopeId(2)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-arguments ("arguments") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-MethodArguments ("MethodArguments") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-MethodArguments ("MethodArguments") -> ScopeId(2)
-StructuredParameters ("StructuredParameters") -> ScopeId(2)
-value ("value") -> ScopeId(12)
-other ("other") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-other ("other") -> ScopeId(12)
-out ("out") -> ScopeId(1)
-StructuredParameters ("StructuredParameters") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-StructuredParameters ("StructuredParameters") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+21 -> 1
+34 -> 0
+58 -> 2
+81 -> 2
+96 -> 0
+130 -> 1
+135 -> 0
+173 -> 1
+214 -> 3
+238 -> 4
+264 -> 5
+297 -> 0
+343 -> 4
+371 -> 5
+394 -> 0
+444 -> 3
+449 -> 0
+503 -> 3
+536 -> 6
+560 -> 7
+590 -> 7
+637 -> 0
+658 -> 0
+692 -> 6
+697 -> 0
+735 -> 6
+773 -> 8
+799 -> 9
+808 -> 10
+842 -> 9
+870 -> 10
+884 -> 0
+928 -> 8
+933 -> 0
+981 -> 8
+1005 -> 0

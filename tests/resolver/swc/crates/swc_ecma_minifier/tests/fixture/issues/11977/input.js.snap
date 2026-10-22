@@ -1,26 +1,24 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Subscription ("Subscription") -> ScopeId(2)
-Subscription1 ("Subscription1") -> ScopeId(3)
-listeners ("listeners") -> ScopeId(4)
-listener ("listener") -> ScopeId(4)
-Subscription1 ("Subscription1") -> ScopeId(3)
-subscription ("subscription") -> ScopeId(5)
-serverOnlyRequire ("serverOnlyRequire") -> ScopeId(1)
-eval ("eval") -> ScopeId(1)
-err ("err") -> ScopeId(8)
-__require ("__require") -> ScopeId(2)
-x ("x") -> ScopeId(9)
-__turbopack_context__ ("__turbopack_context__") -> ScopeId(1)
-x ("x") -> ScopeId(10)
-ErrorType ("ErrorType") -> ScopeId(1)
-isRequestError ("isRequestError") -> ScopeId(2)
-error ("error") -> ScopeId(12)
-u ("u") -> ScopeId(12)
-i ("i") -> ScopeId(1)
-p ("p") -> ScopeId(13)
-s ("s") -> ScopeId(13)
-f ("f") -> ScopeId(12)
-s ("s") -> ScopeId(16)
-x ("x") -> ScopeId(2)
-d ("d") -> ScopeId(1)
+16 -> 1
+60 -> 2
+70 -> 3
+80 -> 4
+102 -> 2
+141 -> 5
+228 -> 0
+235 -> 0
+260 -> 6
+278 -> 7
+300 -> 8
+377 -> 0
+426 -> 9
+441 -> 0
+468 -> 10
+477 -> 11
+493 -> 12
+497 -> 0
+511 -> 13
+514 -> 14
+534 -> 15
+591 -> 16
+615 -> 17
+633 -> 0

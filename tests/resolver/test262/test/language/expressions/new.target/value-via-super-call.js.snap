@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-baseNewTarget ("baseNewTarget") -> ScopeId(2)
-parentNewTarget ("parentNewTarget") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-baseNewTarget ("baseNewTarget") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-parentNewTarget ("parentNewTarget") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-parentNewTarget ("parentNewTarget") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-baseNewTarget ("baseNewTarget") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
+464 -> 1
+481 -> 2
+494 -> 3
+532 -> 1
+566 -> 4
+579 -> 3
+619 -> 2
+665 -> 5
+680 -> 4
+730 -> 5
+741 -> 0
+767 -> 2
+774 -> 5
+814 -> 0
+838 -> 1
+845 -> 5

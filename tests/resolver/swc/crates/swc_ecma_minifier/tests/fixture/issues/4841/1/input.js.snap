@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-global ("global") -> ScopeId(1)
-_processChunk ("_processChunk") -> ScopeId(3)
-chunk ("chunk") -> ScopeId(4)
-async ("async") -> ScopeId(4)
-newReq ("newReq") -> ScopeId(4)
-chunk ("chunk") -> ScopeId(4)
-async ("async") -> ScopeId(4)
-newReq ("newReq") -> ScopeId(4)
-newReq ("newReq") -> ScopeId(4)
-callback ("callback") -> ScopeId(1)
-cb ("cb") -> ScopeId(1)
+6 -> 0
+45 -> 1
+51 -> 2
+58 -> 3
+66 -> 4
+83 -> 2
+105 -> 3
+162 -> 4
+193 -> 4
+213 -> 0
+243 -> 0

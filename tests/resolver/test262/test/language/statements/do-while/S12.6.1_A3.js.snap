@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__evaluated ("__evaluated") -> ScopeId(2)
-__in__do ("__in__do") -> ScopeId(2)
-__evaluated ("__evaluated") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-__in__do ("__in__do") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__in__do ("__in__do") -> ScopeId(2)
-__evaluated ("__evaluated") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__evaluated ("__evaluated") -> ScopeId(2)
+363 -> 1
+373 -> 2
+387 -> 1
+394 -> 0
+529 -> 2
+562 -> 0
+616 -> 2
+810 -> 1
+843 -> 0
+906 -> 1

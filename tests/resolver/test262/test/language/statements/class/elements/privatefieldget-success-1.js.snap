@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Outer ("Outer") -> ScopeId(2)
-self ("self") -> ScopeId(4)
-self ("self") -> ScopeId(4)
-Outer ("Outer") -> ScopeId(2)
-Inner ("Inner") -> ScopeId(2)
-Outer ("Outer") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-Inner ("Inner") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
+898 -> 1
+942 -> 2
+982 -> 1
+1016 -> 2
+1051 -> 3
+1063 -> 1
+1085 -> 4
+1097 -> 3
+1110 -> 5
+1114 -> 4
+1127 -> 0
+1143 -> 5

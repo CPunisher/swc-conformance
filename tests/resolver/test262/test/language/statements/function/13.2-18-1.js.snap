@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-getFunc ("getFunc") -> ScopeId(2)
-data ("data") -> ScopeId(2)
-setFunc ("setFunc") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-data ("data") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-Object ("Object") -> ScopeId(1)
-Function ("Function") -> ScopeId(1)
-getFunc ("getFunc") -> ScopeId(2)
-setFunc ("setFunc") -> ScopeId(2)
-fun ("fun") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fun ("fun") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fun ("fun") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-fun ("fun") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-data ("data") -> ScopeId(2)
-Function ("Function") -> ScopeId(1)
+389 -> 1
+446 -> 2
+472 -> 3
+490 -> 4
+506 -> 2
+514 -> 4
+533 -> 0
+557 -> 0
+604 -> 1
+626 -> 3
+675 -> 5
+706 -> 0
+723 -> 5
+751 -> 0
+765 -> 5
+827 -> 0
+831 -> 5
+947 -> 0
+962 -> 2
+1004 -> 0

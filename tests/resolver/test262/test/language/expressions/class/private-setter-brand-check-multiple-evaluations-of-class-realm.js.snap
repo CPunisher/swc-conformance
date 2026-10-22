@@ -1,37 +1,35 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-realm1 ("realm1") -> ScopeId(2)
-$262 ("$262") -> ScopeId(1)
-realm2 ("realm2") -> ScopeId(2)
-$262 ("$262") -> ScopeId(1)
-eval1 ("eval1") -> ScopeId(2)
-realm1 ("realm1") -> ScopeId(2)
-eval2 ("eval2") -> ScopeId(2)
-realm2 ("realm2") -> ScopeId(2)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-_eval ("_eval") -> ScopeId(3)
-_eval ("_eval") -> ScopeId(3)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-eval1 ("eval1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-eval2 ("eval2") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-realm1 ("realm1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-realm2 ("realm2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
+832 -> 1
+839 -> 0
+865 -> 2
+872 -> 0
+897 -> 3
+906 -> 1
+929 -> 4
+938 -> 2
+978 -> 5
+1093 -> 6
+1111 -> 7
+1134 -> 7
+1156 -> 5
+1170 -> 8
+1198 -> 6
+1204 -> 3
+1213 -> 9
+1241 -> 6
+1247 -> 4
+1253 -> 8
+1263 -> 8
+1283 -> 0
+1296 -> 8
+1315 -> 9
+1325 -> 9
+1345 -> 0
+1358 -> 9
+1382 -> 0
+1396 -> 1
+1432 -> 8
+1442 -> 9
+1502 -> 0
+1516 -> 2
+1552 -> 9
+1562 -> 8

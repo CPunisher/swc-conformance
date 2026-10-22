@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-getFoo ("getFoo") -> ScopeId(2)
-getFoo2 ("getFoo2") -> ScopeId(2)
-Foo ("Foo") -> ScopeId(2)
-getFoo2 ("getFoo2") -> ScopeId(2)
-getFoo ("getFoo") -> ScopeId(2)
-expect ("expect") -> ScopeId(1)
-getFoo ("getFoo") -> ScopeId(2)
-expect ("expect") -> ScopeId(1)
-getFoo2 ("getFoo2") -> ScopeId(2)
+24 -> 1
+37 -> 2
+47 -> 3
+95 -> 2
+135 -> 1
+169 -> 0
+176 -> 1
+196 -> 0
+204 -> 2

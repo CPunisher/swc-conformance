@@ -1,99 +1,97 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-fn ("fn") -> ScopeId(3)
-fn ("fn") -> ScopeId(3)
-isFile ("isFile") -> ScopeId(2)
-config ("config") -> ScopeId(4)
-pkgBrowserslist ("pkgBrowserslist") -> ScopeId(2)
-config ("config") -> ScopeId(2)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(7)
-exports ("exports") -> ScopeId(7)
-Object ("Object") -> ScopeId(1)
-exports ("exports") -> ScopeId(7)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(9)
-module ("module") -> ScopeId(9)
-findConfig ("findConfig") -> ScopeId(11)
-from ("from") -> ScopeId(12)
-resolved ("resolved") -> ScopeId(12)
-dir ("dir") -> ScopeId(13)
-Error ("Error") -> ScopeId(1)
-pkgBrowserslist ("pkgBrowserslist") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-Error ("Error") -> ScopeId(1)
-module ("module") -> ScopeId(9)
-module ("module") -> ScopeId(9)
-resolved ("resolved") -> ScopeId(12)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(19)
-exports ("exports") -> ScopeId(19)
-Object ("Object") -> ScopeId(1)
-exports ("exports") -> ScopeId(19)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(21)
-exports ("exports") -> ScopeId(21)
-_interopRequireDefault ("_interopRequireDefault") -> ScopeId(21)
-obj ("obj") -> ScopeId(22)
-obj ("obj") -> ScopeId(22)
-obj ("obj") -> ScopeId(22)
-obj ("obj") -> ScopeId(22)
-obj ("obj") -> ScopeId(22)
-_interopRequireDefault ("_interopRequireDefault") -> ScopeId(21)
-_node ("_node") -> ScopeId(21)
-_interopRequireDefault ("_interopRequireDefault") -> ScopeId(21)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(24)
-exports ("exports") -> ScopeId(24)
-exports ("exports") -> ScopeId(24)
-module ("module") -> ScopeId(24)
-exports ("exports") -> ScopeId(24)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(25)
-exports ("exports") -> ScopeId(25)
-exports ("exports") -> ScopeId(25)
-namespace$1 ("namespace$1") -> ScopeId(2)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(26)
-exports ("exports") -> ScopeId(26)
-exports ("exports") -> ScopeId(26)
-_interopRequireDefault ("_interopRequireDefault") -> ScopeId(26)
-obj ("obj") -> ScopeId(27)
-obj ("obj") -> ScopeId(27)
-obj ("obj") -> ScopeId(27)
-obj ("obj") -> ScopeId(27)
-obj ("obj") -> ScopeId(27)
-module ("module") -> ScopeId(26)
-exports ("exports") -> ScopeId(26)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(29)
-exports ("exports") -> ScopeId(29)
-exports ("exports") -> ScopeId(29)
-module ("module") -> ScopeId(29)
-exports ("exports") -> ScopeId(29)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(30)
-exports ("exports") -> ScopeId(30)
-exports ("exports") -> ScopeId(30)
-exports ("exports") -> ScopeId(30)
-String ("String") -> ScopeId(1)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(31)
-exports ("exports") -> ScopeId(31)
-exports ("exports") -> ScopeId(31)
-Pseudo ("Pseudo") -> ScopeId(31)
-exports ("exports") -> ScopeId(31)
-String ("String") -> ScopeId(1)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(32)
-exports ("exports") -> ScopeId(32)
-exports ("exports") -> ScopeId(32)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(33)
-exports ("exports") -> ScopeId(33)
-exports ("exports") -> ScopeId(33)
-createCommonjsModule ("createCommonjsModule") -> ScopeId(2)
-module ("module") -> ScopeId(34)
-exports ("exports") -> ScopeId(34)
-exports ("exports") -> ScopeId(34)
+29 -> 1
+32 -> 2
+49 -> 2
+67 -> 3
+77 -> 4
+109 -> 5
+128 -> 6
+155 -> 1
+172 -> 7
+181 -> 8
+195 -> 0
+218 -> 8
+289 -> 1
+306 -> 9
+320 -> 9
+372 -> 10
+377 -> 11
+405 -> 12
+421 -> 13
+485 -> 0
+533 -> 5
+572 -> 0
+645 -> 0
+719 -> 9
+814 -> 9
+901 -> 12
+945 -> 1
+962 -> 14
+971 -> 15
+985 -> 0
+1008 -> 15
+1079 -> 1
+1096 -> 16
+1105 -> 17
+1144 -> 18
+1148 -> 19
+1170 -> 19
+1177 -> 19
+1194 -> 19
+1211 -> 19
+1247 -> 18
+1265 -> 20
+1290 -> 18
+1318 -> 1
+1335 -> 21
+1344 -> 22
+1359 -> 22
+1386 -> 21
+1404 -> 22
+1438 -> 1
+1455 -> 23
+1464 -> 24
+1479 -> 24
+1517 -> 25
+1540 -> 1
+1557 -> 26
+1566 -> 27
+1581 -> 27
+1636 -> 28
+1640 -> 29
+1662 -> 29
+1669 -> 29
+1686 -> 29
+1703 -> 29
+1724 -> 26
+1742 -> 27
+1776 -> 1
+1793 -> 30
+1802 -> 31
+1817 -> 31
+1847 -> 30
+1865 -> 31
+1899 -> 1
+1916 -> 32
+1925 -> 33
+1940 -> 33
+1971 -> 33
+1988 -> 0
+2014 -> 1
+2031 -> 34
+2040 -> 35
+2055 -> 35
+2089 -> 36
+2110 -> 35
+2127 -> 0
+2154 -> 1
+2171 -> 37
+2180 -> 38
+2195 -> 38
+2239 -> 1
+2256 -> 39
+2265 -> 40
+2280 -> 40
+2324 -> 1
+2341 -> 41
+2350 -> 42
+2365 -> 42

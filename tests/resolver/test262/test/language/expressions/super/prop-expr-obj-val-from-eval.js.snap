@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fromA ("fromA") -> ScopeId(2)
-fromB ("fromB") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-B ("B") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-fromA ("fromA") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-fromB ("fromB") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fromA ("fromA") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fromB ("fromB") -> ScopeId(2)
+1061 -> 1
+1068 -> 2
+1075 -> 3
+1111 -> 4
+1136 -> 0
+1153 -> 4
+1156 -> 3
+1167 -> 5
+1222 -> 1
+1229 -> 0
+1259 -> 2
+1266 -> 0
+1301 -> 0
+1320 -> 5
+1323 -> 4
+1330 -> 5
+1348 -> 0
+1364 -> 1
+1378 -> 0
+1394 -> 2

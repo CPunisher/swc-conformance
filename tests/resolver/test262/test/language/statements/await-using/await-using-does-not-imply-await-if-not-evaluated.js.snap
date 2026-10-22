@@ -1,29 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-BREAK_EARLY ("BREAK_EARLY") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-outer ("outer") -> ScopeId(4294967295)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-BREAK_EARLY ("BREAK_EARLY") -> ScopeId(3)
-outer ("outer") -> ScopeId(4294967295)
-_ ("_") -> ScopeId(5)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-p ("p") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-p ("p") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
+2646 -> 0
+2684 -> 1
+2723 -> 2
+2763 -> 3
+2829 -> 4
+2870 -> 5
+2899 -> 6
+2933 -> 3
+2960 -> 2
+3031 -> 4
+3058 -> 2
+3081 -> 1
+3115 -> 7
+3159 -> 5
+3186 -> 2
+3200 -> 8
+3204 -> 6
+3234 -> 2
+3253 -> 8
+3264 -> 0
+3300 -> 3
+3400 -> 0
+3461 -> 4
+3569 -> 0
+3605 -> 5

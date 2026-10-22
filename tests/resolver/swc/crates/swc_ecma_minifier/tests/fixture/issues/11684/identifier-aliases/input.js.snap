@@ -1,26 +1,24 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-FunctionTarget ("FunctionTarget") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-FunctionAlias ("FunctionAlias") -> ScopeId(2)
-FunctionTarget ("FunctionTarget") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-FunctionAlias ("FunctionAlias") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-FunctionAlias ("FunctionAlias") -> ScopeId(2)
-ClassTarget ("ClassTarget") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-ClassAlias ("ClassAlias") -> ScopeId(2)
-ClassTarget ("ClassTarget") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-ClassAlias ("ClassAlias") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-ClassAlias ("ClassAlias") -> ScopeId(2)
-DestructuredCtor ("DestructuredCtor") -> ScopeId(2)
-constructors ("constructors") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-DestructuredCtor ("DestructuredCtor") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-DestructuredCtor ("DestructuredCtor") -> ScopeId(2)
+23 -> 1
+29 -> 2
+55 -> 2
+77 -> 3
+94 -> 1
+99 -> 0
+129 -> 3
+134 -> 0
+168 -> 3
+197 -> 4
+221 -> 5
+251 -> 5
+276 -> 6
+290 -> 4
+295 -> 0
+319 -> 6
+324 -> 0
+352 -> 6
+386 -> 7
+403 -> 0
+408 -> 0
+444 -> 7
+449 -> 0
+485 -> 7

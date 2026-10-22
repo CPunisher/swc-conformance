@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-n ("n") -> ScopeId(4)
-n ("n") -> ScopeId(4)
-callCount ("callCount") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-n ("n") -> ScopeId(4)
-$MAX_ITERATIONS ("$MAX_ITERATIONS") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+391 -> 1
+408 -> 2
+410 -> 3
+421 -> 3
+444 -> 1
+476 -> 2
+478 -> 3
+502 -> 0
+512 -> 0
+532 -> 1

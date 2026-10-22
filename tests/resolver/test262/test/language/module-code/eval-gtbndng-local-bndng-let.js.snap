@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-letBinding ("letBinding") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-letBinding ("letBinding") -> ScopeId(2)
-letBinding ("letBinding") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-letBinding ("letBinding") -> ScopeId(2)
+621 -> 1
+633 -> 0
+654 -> 1
+671 -> 1
+683 -> 0
+704 -> 1

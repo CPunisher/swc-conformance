@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-target ("target") -> ScopeId(2)
-self ("self") -> ScopeId(2)
-bound ("bound") -> ScopeId(2)
-target ("target") -> ScopeId(2)
-self ("self") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
+332 -> 1
+346 -> 2
+362 -> 3
+371 -> 1
+381 -> 2
+391 -> 0
+407 -> 3
+535 -> 0
+551 -> 3
+686 -> 0
+703 -> 0
+732 -> 3
+752 -> 0
+769 -> 0
+791 -> 3
+816 -> 0
+833 -> 0
+862 -> 3
+885 -> 0
+902 -> 0
+924 -> 3

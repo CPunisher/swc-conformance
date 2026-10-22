@@ -1,28 +1,26 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Reflect ("Reflect") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+3923 -> 1
+3940 -> 2
+3996 -> 0
+4011 -> 2
+4038 -> 0
+4046 -> 0
+4053 -> 2
+4101 -> 0
+4117 -> 2
+4145 -> 0
+4153 -> 0
+4160 -> 2
+4210 -> 0
+4227 -> 2
+4256 -> 0
+4264 -> 0
+4271 -> 2
+4323 -> 0
+4339 -> 2
+4367 -> 0
+4375 -> 0
+4382 -> 2
+4426 -> 1
+4439 -> 0
+4446 -> 0
+4459 -> 0

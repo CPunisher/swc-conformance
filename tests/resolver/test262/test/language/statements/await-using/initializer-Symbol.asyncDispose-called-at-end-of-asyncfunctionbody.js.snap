@@ -1,47 +1,45 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-resource ("resource") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-releaseF1 ("releaseF1") -> ScopeId(3)
-suspendFPromise1 ("suspendFPromise1") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-releaseF1 ("releaseF1") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(6)
-releaseBody ("releaseBody") -> ScopeId(3)
-suspendBodyPromise ("suspendBodyPromise") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(7)
-releaseBody ("releaseBody") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(7)
-releaseF2 ("releaseF2") -> ScopeId(3)
-suspendFPromise2 ("suspendFPromise2") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(8)
-releaseF2 ("releaseF2") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(8)
-f ("f") -> ScopeId(3)
-_ ("_") -> ScopeId(9)
-resource ("resource") -> ScopeId(3)
-suspendFPromise1 ("suspendFPromise1") -> ScopeId(3)
-releaseBody ("releaseBody") -> ScopeId(3)
-suspendFPromise2 ("suspendFPromise2") -> ScopeId(3)
-resultPromise ("resultPromise") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-wasDisposedWhileSuspended1 ("wasDisposedWhileSuspended1") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-releaseF1 ("releaseF1") -> ScopeId(3)
-suspendBodyPromise ("suspendBodyPromise") -> ScopeId(3)
-wasDisposedWhileSuspended2 ("wasDisposedWhileSuspended2") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-releaseF2 ("releaseF2") -> ScopeId(3)
-resultPromise ("resultPromise") -> ScopeId(3)
-isDisposedAfterCompleted ("isDisposedAfterCompleted") -> ScopeId(3)
-resource ("resource") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedWhileSuspended1 ("wasDisposedWhileSuspended1") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasDisposedWhileSuspended2 ("wasDisposedWhileSuspended2") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-isDisposedAfterCompleted ("isDisposedAfterCompleted") -> ScopeId(3)
+3468 -> 0
+3504 -> 1
+3551 -> 0
+3631 -> 2
+3655 -> 3
+3669 -> 0
+3687 -> 4
+3700 -> 2
+3710 -> 4
+3734 -> 5
+3760 -> 6
+3774 -> 0
+3792 -> 7
+3807 -> 5
+3817 -> 7
+3839 -> 8
+3863 -> 9
+3877 -> 0
+3895 -> 10
+3908 -> 8
+3918 -> 10
+3943 -> 11
+3967 -> 12
+3978 -> 1
+4008 -> 3
+4027 -> 5
+4059 -> 9
+4085 -> 13
+4089 -> 11
+4126 -> 14
+4137 -> 1
+4160 -> 2
+4190 -> 6
+4225 -> 15
+4236 -> 1
+4259 -> 8
+4284 -> 13
+4317 -> 16
+4328 -> 1
+4348 -> 0
+4385 -> 14
+4497 -> 0
+4534 -> 15
+4646 -> 0
+4681 -> 16

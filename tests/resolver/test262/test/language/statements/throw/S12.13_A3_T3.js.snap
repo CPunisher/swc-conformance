@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-e ("e") -> ScopeId(4)
-e ("e") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-b ("b") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-e ("e") -> ScopeId(6)
-e ("e") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-e ("e") -> ScopeId(8)
-e ("e") -> ScopeId(8)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(8)
-e ("e") -> ScopeId(10)
-e ("e") -> ScopeId(10)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(10)
-Infinity ("Infinity") -> ScopeId(1)
-e ("e") -> ScopeId(12)
-e ("e") -> ScopeId(12)
-Infinity ("Infinity") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(12)
-Infinity ("Infinity") -> ScopeId(1)
-e ("e") -> ScopeId(14)
-e ("e") -> ScopeId(14)
-Infinity ("Infinity") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(14)
-e ("e") -> ScopeId(16)
-e ("e") -> ScopeId(16)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(16)
-e ("e") -> ScopeId(18)
-e ("e") -> ScopeId(18)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(18)
-e ("e") -> ScopeId(20)
-e ("e") -> ScopeId(20)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(20)
-e ("e") -> ScopeId(22)
-e ("e") -> ScopeId(22)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(22)
+275 -> 1
+285 -> 1
+314 -> 0
+375 -> 1
+397 -> 2
+407 -> 3
+425 -> 3
+427 -> 2
+438 -> 4
+448 -> 4
+477 -> 0
+538 -> 4
+588 -> 5
+598 -> 5
+629 -> 0
+692 -> 5
+736 -> 6
+746 -> 6
+774 -> 0
+834 -> 6
+874 -> 0
+885 -> 7
+895 -> 7
+907 -> 0
+931 -> 0
+999 -> 7
+1039 -> 0
+1050 -> 8
+1060 -> 8
+1072 -> 0
+1096 -> 0
+1164 -> 8
+1209 -> 9
+1219 -> 9
+1247 -> 0
+1307 -> 9
+1352 -> 10
+1362 -> 10
+1390 -> 0
+1451 -> 10
+1496 -> 11
+1506 -> 11
+1534 -> 0
+1595 -> 11
+1644 -> 12
+1654 -> 12
+1683 -> 0
+1745 -> 12

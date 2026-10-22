@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+701 -> 1
+703 -> 2
+715 -> 0
+740 -> 0
+782 -> 0
+799 -> 0
+824 -> 0
+860 -> 0
+872 -> 2
+894 -> 0
+904 -> 0
+1055 -> 2
+1078 -> 0
+1088 -> 0
+1189 -> 1

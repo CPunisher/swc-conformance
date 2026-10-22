@@ -1,47 +1,45 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Base ("Base") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-args ("args") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(4)
-args ("args") -> ScopeId(4)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-Child ("Child") -> ScopeId(2)
-b ("b") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(1)
-b ("b") -> ScopeId(8)
-b ("b") -> ScopeId(8)
-args ("args") -> ScopeId(8)
-i ("i") -> ScopeId(8)
-i ("i") -> ScopeId(8)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(8)
-args ("args") -> ScopeId(8)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(8)
-b ("b") -> ScopeId(8)
-Base ("Base") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+235 -> 1
+256 -> 2
+270 -> 0
+297 -> 0
+313 -> 2
+400 -> 2
+414 -> 3
+435 -> 4
+442 -> 4
+454 -> 0
+466 -> 4
+480 -> 3
+495 -> 0
+497 -> 4
+517 -> 0
+535 -> 3
+538 -> 2
+558 -> 5
+571 -> 1
+592 -> 6
+626 -> 0
+653 -> 0
+669 -> 6
+757 -> 6
+771 -> 7
+792 -> 8
+799 -> 8
+811 -> 0
+823 -> 8
+837 -> 7
+852 -> 0
+854 -> 8
+874 -> 0
+892 -> 7
+895 -> 6
+910 -> 9
+922 -> 5
+940 -> 0
+952 -> 9
+1017 -> 0
+1029 -> 9
+1093 -> 0
+1111 -> 9
+1140 -> 0
+1158 -> 9

@@ -1,29 +1,27 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Deferred ("Deferred") -> ScopeId(2)
-deferred ("deferred") -> ScopeId(3)
-deferred ("deferred") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(4)
-reject ("reject") -> ScopeId(4)
-deferred ("deferred") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(4)
-deferred ("deferred") -> ScopeId(3)
-reject ("reject") -> ScopeId(4)
-bug ("bug") -> ScopeId(2)
-s ("s") -> ScopeId(5)
-window ("window") -> ScopeId(1)
-s ("s") -> ScopeId(5)
-window ("window") -> ScopeId(1)
-s ("s") -> ScopeId(5)
-Deferred ("Deferred") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-window ("window") -> ScopeId(1)
-window ("window") -> ScopeId(1)
-window ("window") -> ScopeId(1)
-s ("s") -> ScopeId(5)
-window ("window") -> ScopeId(1)
-s ("s") -> ScopeId(5)
-window ("window") -> ScopeId(1)
-window ("window") -> ScopeId(1)
-s ("s") -> ScopeId(5)
+17 -> 1
+40 -> 2
+61 -> 2
+83 -> 0
+101 -> 3
+109 -> 4
+129 -> 2
+147 -> 3
+165 -> 2
+181 -> 4
+219 -> 5
+235 -> 6
+261 -> 0
+263 -> 6
+287 -> 0
+289 -> 6
+305 -> 1
+334 -> 0
+356 -> 0
+415 -> 0
+432 -> 0
+434 -> 6
+498 -> 0
+500 -> 6
+682 -> 0
+793 -> 0
+795 -> 6

@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yieldSet ("yieldSet") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-C_ ("C_") -> ScopeId(3)
-param ("param") -> ScopeId(6)
-yieldSet ("yieldSet") -> ScopeId(2)
-param ("param") -> ScopeId(6)
-C ("C") -> ScopeId(2)
-C_ ("C_") -> ScopeId(3)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-yieldSet ("yieldSet") -> ScopeId(2)
+823 -> 1
+826 -> 2
+832 -> 3
+845 -> 4
+860 -> 5
+940 -> 6
+952 -> 1
+960 -> 6
+972 -> 2
+977 -> 5
+986 -> 3
+990 -> 4
+999 -> 3
+1012 -> 3
+1032 -> 3
+1056 -> 0
+1068 -> 2
+1092 -> 2
+1122 -> 0
+1141 -> 1

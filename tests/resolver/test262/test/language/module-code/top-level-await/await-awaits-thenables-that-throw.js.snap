@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-error ("error") -> ScopeId(2)
-thenable ("thenable") -> ScopeId(2)
-resolve ("resolve") -> ScopeId(5)
-reject ("reject") -> ScopeId(5)
-error ("error") -> ScopeId(2)
-caught ("caught") -> ScopeId(2)
-thenable ("thenable") -> ScopeId(2)
-e ("e") -> ScopeId(7)
-caught ("caught") -> ScopeId(2)
-e ("e") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-error ("error") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
+270 -> 1
+289 -> 2
+319 -> 3
+327 -> 4
+346 -> 1
+365 -> 5
+397 -> 2
+408 -> 6
+420 -> 5
+424 -> 6
+438 -> 0
+455 -> 5
+462 -> 1
+471 -> 0

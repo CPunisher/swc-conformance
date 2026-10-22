@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-bIsFooCalled ("bIsFooCalled") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-bIsFooCalled ("bIsFooCalled") -> ScopeId(2)
-d ("d") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-d ("d") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-bIsFooCalled ("bIsFooCalled") -> ScopeId(2)
+317 -> 1
+334 -> 2
+364 -> 1
+382 -> 3
+395 -> 2
+406 -> 0
+418 -> 3
+438 -> 0
+461 -> 1

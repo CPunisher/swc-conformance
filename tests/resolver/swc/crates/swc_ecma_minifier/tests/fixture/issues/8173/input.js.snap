@@ -1,91 +1,89 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(3)
-reject ("reject") -> ScopeId(3)
-_next ("_next") -> ScopeId(3)
-_throw ("_throw") -> ScopeId(3)
-key ("key") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-info ("info") -> ScopeId(3)
-gen ("gen") -> ScopeId(3)
-key ("key") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-info ("info") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-reject ("reject") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-info ("info") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-_next ("_next") -> ScopeId(3)
-_throw ("_throw") -> ScopeId(3)
-_async_to_generator ("_async_to_generator") -> ScopeId(2)
-fn ("fn") -> ScopeId(8)
-self ("self") -> ScopeId(9)
-args ("args") -> ScopeId(9)
-arguments ("arguments") -> ScopeId(1)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-gen ("gen") -> ScopeId(10)
-fn ("fn") -> ScopeId(8)
-self ("self") -> ScopeId(9)
-args ("args") -> ScopeId(9)
-_next ("_next") -> ScopeId(10)
-value ("value") -> ScopeId(11)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(10)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-_next ("_next") -> ScopeId(10)
-_throw ("_throw") -> ScopeId(10)
-value ("value") -> ScopeId(11)
-_throw ("_throw") -> ScopeId(10)
-err ("err") -> ScopeId(12)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(10)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-_next ("_next") -> ScopeId(10)
-_throw ("_throw") -> ScopeId(10)
-err ("err") -> ScopeId(12)
-_next ("_next") -> ScopeId(10)
-undefined ("undefined") -> ScopeId(1)
-someFn ("someFn") -> ScopeId(2)
-xx ("xx") -> ScopeId(13)
-x ("x") -> ScopeId(13)
-y ("y") -> ScopeId(13)
-x ("x") -> ScopeId(13)
-y ("y") -> ScopeId(13)
-getArray ("getArray") -> ScopeId(2)
-goodFunction ("goodFunction") -> ScopeId(2)
-_ref ("_ref") -> ScopeId(15)
-_async_to_generator ("_async_to_generator") -> ScopeId(2)
-rb ("rb") -> ScopeId(16)
-getArray ("getArray") -> ScopeId(2)
-rc ("rc") -> ScopeId(16)
-getArray ("getArray") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-someFn ("someFn") -> ScopeId(2)
-rb ("rb") -> ScopeId(16)
-rc ("rc") -> ScopeId(16)
-goodFunction ("goodFunction") -> ScopeId(17)
-_ref ("_ref") -> ScopeId(15)
-arguments ("arguments") -> ScopeId(1)
-badFunction ("badFunction") -> ScopeId(2)
-_ref ("_ref") -> ScopeId(19)
-_async_to_generator ("_async_to_generator") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-someFn ("someFn") -> ScopeId(2)
-getArray ("getArray") -> ScopeId(2)
-getArray ("getArray") -> ScopeId(2)
-badFunction ("badFunction") -> ScopeId(21)
-_ref ("_ref") -> ScopeId(19)
-arguments ("arguments") -> ScopeId(1)
-goodFunction ("goodFunction") -> ScopeId(2)
-badFunction ("badFunction") -> ScopeId(2)
+41 -> 1
+45 -> 2
+54 -> 3
+62 -> 4
+69 -> 5
+77 -> 6
+82 -> 7
+87 -> 8
+117 -> 9
+123 -> 2
+127 -> 7
+132 -> 8
+152 -> 10
+159 -> 9
+185 -> 11
+203 -> 4
+209 -> 11
+246 -> 9
+270 -> 3
+276 -> 10
+307 -> 0
+321 -> 10
+333 -> 5
+341 -> 6
+380 -> 12
+383 -> 13
+428 -> 14
+441 -> 15
+453 -> 0
+481 -> 0
+499 -> 16
+507 -> 17
+530 -> 18
+535 -> 13
+546 -> 14
+552 -> 15
+581 -> 19
+587 -> 20
+625 -> 1
+629 -> 18
+638 -> 16
+646 -> 17
+653 -> 19
+661 -> 21
+676 -> 20
+720 -> 21
+724 -> 22
+762 -> 1
+766 -> 18
+775 -> 16
+783 -> 17
+790 -> 19
+798 -> 21
+812 -> 22
+846 -> 19
+856 -> 0
+892 -> 23
+898 -> 24
+901 -> 25
+904 -> 26
+916 -> 25
+923 -> 26
+941 -> 27
+993 -> 28
+1022 -> 29
+1044 -> 12
+1076 -> 30
+1093 -> 27
+1113 -> 31
+1130 -> 27
+1149 -> 0
+1160 -> 23
+1166 -> 30
+1170 -> 31
+1214 -> 32
+1238 -> 29
+1260 -> 0
+1292 -> 33
+1321 -> 34
+1343 -> 12
+1374 -> 0
+1385 -> 23
+1404 -> 27
+1424 -> 27
+1470 -> 35
+1494 -> 34
+1516 -> 0
+1543 -> 28
+1558 -> 33

@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-run ("run") -> ScopeId(2)
-flag ("flag") -> ScopeId(3)
-output ("output") -> ScopeId(3)
-flag ("flag") -> ScopeId(3)
-output ("output") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-output ("output") -> ScopeId(3)
-run ("run") -> ScopeId(2)
-run ("run") -> ScopeId(2)
+12 -> 1
+17 -> 2
+25 -> 3
+54 -> 2
+80 -> 3
+113 -> 0
+124 -> 3
+133 -> 1
+143 -> 1

@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-isNaN ("isNaN") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-string ("string") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-string ("string") -> ScopeId(2)
-string ("string") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-string ("string") -> ScopeId(2)
+366 -> 1
+390 -> 0
+402 -> 1
+461 -> 2
+469 -> 0
+481 -> 2
+492 -> 0
+576 -> 2
+584 -> 0
+596 -> 2
+607 -> 0
+832 -> 0
+848 -> 0
+850 -> 2
+906 -> 3
+944 -> 0
+961 -> 3
+1046 -> 3
+1082 -> 0
+1099 -> 3

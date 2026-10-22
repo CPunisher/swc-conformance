@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-rest ("rest") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-rest ("rest") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-rest ("rest") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-rest ("rest") -> ScopeId(4)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-rest ("rest") -> ScopeId(4)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+1463 -> 1
+1476 -> 2
+1492 -> 3
+1495 -> 4
+1504 -> 5
+1546 -> 0
+1561 -> 5
+1574 -> 0
+1587 -> 0
+1602 -> 5
+1615 -> 0
+1637 -> 0
+1642 -> 5
+1765 -> 0
+1770 -> 5
+1887 -> 1
+1899 -> 1
+1916 -> 2
+1933 -> 0
+1953 -> 1

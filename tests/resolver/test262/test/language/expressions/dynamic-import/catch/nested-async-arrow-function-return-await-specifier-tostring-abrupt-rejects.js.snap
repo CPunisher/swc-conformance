@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-error ("error") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1741 -> 1
+1811 -> 2
+1842 -> 1
+1847 -> 2
+1861 -> 3
+1876 -> 0
+1892 -> 3
+1925 -> 0
+1932 -> 0

@@ -1,52 +1,50 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(20)
-error ("error") -> ScopeId(21)
-error ("error") -> ScopeId(21)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1451 -> 1
+1851 -> 2
+1875 -> 2
+1910 -> 3
+1934 -> 3
+1974 -> 4
+2003 -> 4
+2048 -> 5
+2077 -> 5
+2128 -> 6
+2163 -> 6
+2219 -> 7
+2253 -> 7
+2298 -> 8
+2306 -> 1
+2317 -> 0
+2328 -> 0
+2360 -> 8
+2435 -> 0
+2446 -> 0
+2478 -> 1
+2573 -> 0
+2575 -> 1
+2668 -> 1
+2695 -> 9
+2707 -> 0
+2719 -> 9
+2740 -> 0
+2752 -> 9
+2788 -> 10
+2855 -> 11
+2861 -> 12
+2880 -> 12
+2914 -> 0
+2967 -> 0
+2979 -> 8
+3000 -> 0
+3012 -> 8
+3033 -> 0
+3045 -> 8
+3071 -> 0
+3083 -> 8
+3109 -> 0
+3121 -> 8
+3153 -> 0
+3165 -> 8
+3207 -> 0
+3226 -> 10
+3244 -> 0
+3251 -> 0

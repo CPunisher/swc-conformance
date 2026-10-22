@@ -1,28 +1,26 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-thrown ("thrown") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-badIter ("badIter") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-thrown ("thrown") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-badIter ("badIter") -> ScopeId(2)
-err ("err") -> ScopeId(11)
-caught ("caught") -> ScopeId(2)
-err ("err") -> ScopeId(11)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-caught ("caught") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-thrown ("thrown") -> ScopeId(2)
+1044 -> 1
+1063 -> 0
+1078 -> 2
+1092 -> 2
+1099 -> 0
+1239 -> 1
+1266 -> 3
+1298 -> 2
+1314 -> 4
+1328 -> 5
+1334 -> 4
+1350 -> 6
+1354 -> 3
+1368 -> 7
+1376 -> 5
+1383 -> 6
+1398 -> 7
+1405 -> 6
+1423 -> 0
+1440 -> 7
+1457 -> 0
+1466 -> 0
+1483 -> 7
+1503 -> 0
+1520 -> 5
+1528 -> 1

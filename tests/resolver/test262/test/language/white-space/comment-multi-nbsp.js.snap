@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-eval ("eval") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(2)
+281 -> 0
+346 -> 1
+356 -> 0
+417 -> 1
+451 -> 0
+554 -> 1

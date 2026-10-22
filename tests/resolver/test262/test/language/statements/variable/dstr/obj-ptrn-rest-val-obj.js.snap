@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-rest ("rest") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-rest ("rest") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-rest ("rest") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-rest ("rest") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-rest ("rest") -> ScopeId(2)
+721 -> 1
+724 -> 2
+733 -> 3
+770 -> 0
+785 -> 3
+798 -> 0
+807 -> 0
+822 -> 3
+835 -> 0
+853 -> 0
+858 -> 3
+957 -> 0
+962 -> 3

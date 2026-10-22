@@ -1,53 +1,51 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+637 -> 1
+792 -> 2
+800 -> 1
+811 -> 0
+823 -> 2
+846 -> 0
+857 -> 0
+889 -> 1
+971 -> 0
+982 -> 0
+1014 -> 1
+1113 -> 0
+1115 -> 2
+1216 -> 0
+1228 -> 2
+1251 -> 0
+1262 -> 0
+1294 -> 1
+1376 -> 0
+1387 -> 0
+1419 -> 1
+1518 -> 0
+1520 -> 2
+1696 -> 0
+1704 -> 0
+1736 -> 1
+1772 -> 0
+1780 -> 0
+1812 -> 1
+1838 -> 0
+1846 -> 0
+1878 -> 2
+1905 -> 0
+1913 -> 0
+1945 -> 1
+1981 -> 0
+1989 -> 0
+2021 -> 1
+2047 -> 0
+2055 -> 0
+2087 -> 2
+2185 -> 0
+2197 -> 2
+2224 -> 0
+2236 -> 2
+2345 -> 0
+2353 -> 0
+2385 -> 2
+2411 -> 0
+2419 -> 0
+2451 -> 2

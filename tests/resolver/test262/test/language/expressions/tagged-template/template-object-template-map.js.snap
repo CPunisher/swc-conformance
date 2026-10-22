@@ -1,35 +1,33 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-expect ("expect") -> ScopeId(2)
-cache ("cache") -> ScopeId(2)
-site ("site") -> ScopeId(2)
-sameSite ("sameSite") -> ScopeId(2)
-tag ("tag") -> ScopeId(2)
-site ("site") -> ScopeId(2)
-tag ("tag") -> ScopeId(2)
-parameter ("parameter") -> ScopeId(4)
-expect ("expect") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
-parameter ("parameter") -> ScopeId(4)
-cache ("cache") -> ScopeId(2)
-parameter ("parameter") -> ScopeId(4)
-sameSite ("sameSite") -> ScopeId(2)
-sameSite ("sameSite") -> ScopeId(2)
-tag ("tag") -> ScopeId(2)
-sameSite ("sameSite") -> ScopeId(2)
-sameSite ("sameSite") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cache ("cache") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cache ("cache") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cache ("cache") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cache ("cache") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cache ("cache") -> ScopeId(2)
-expect ("expect") -> ScopeId(2)
+682 -> 1
+693 -> 2
+708 -> 3
+731 -> 4
+741 -> 5
+748 -> 3
+769 -> 5
+779 -> 6
+796 -> 1
+810 -> 1
+822 -> 6
+835 -> 2
+850 -> 6
+864 -> 4
+876 -> 4
+883 -> 5
+899 -> 4
+911 -> 4
+922 -> 0
+928 -> 2
+942 -> 1
+951 -> 0
+957 -> 2
+971 -> 1
+980 -> 0
+986 -> 2
+1000 -> 1
+1009 -> 0
+1015 -> 2
+1029 -> 1
+1038 -> 0
+1044 -> 2
+1058 -> 1

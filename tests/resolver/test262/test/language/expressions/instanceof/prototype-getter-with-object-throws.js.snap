@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-getterCalled ("getterCalled") -> ScopeId(2)
-DummyError ("DummyError") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-Function ("Function") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-getterCalled ("getterCalled") -> ScopeId(2)
-getterCalled ("getterCalled") -> ScopeId(2)
-DummyError ("DummyError") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-DummyError ("DummyError") -> ScopeId(2)
-Function ("Function") -> ScopeId(1)
+720 -> 1
+750 -> 2
+933 -> 0
+957 -> 0
+1014 -> 0
+1037 -> 1
+1097 -> 1
+1130 -> 2
+1149 -> 0
+1167 -> 2
+1206 -> 0

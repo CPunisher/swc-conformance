@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fooCalled ("fooCalled") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-fooCalled ("fooCalled") -> ScopeId(2)
-o ("o") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-x ("x") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-fooCalled ("fooCalled") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-o ("o") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+314 -> 1
+340 -> 2
+353 -> 1
+379 -> 3
+398 -> 0
+415 -> 3
+532 -> 4
+569 -> 0
+586 -> 0
+610 -> 3
+619 -> 2
+655 -> 0
+692 -> 0
+712 -> 1
+740 -> 0
+752 -> 3
+792 -> 0
+804 -> 3
+825 -> 0

@@ -1,66 +1,64 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fin ("fin") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-e ("e") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-e ("e") -> ScopeId(7)
-e ("e") -> ScopeId(7)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(7)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-c3 ("c3") -> ScopeId(2)
-EvalError ("EvalError") -> ScopeId(1)
-e ("e") -> ScopeId(10)
-e ("e") -> ScopeId(10)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(10)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-RangeError ("RangeError") -> ScopeId(1)
-e ("e") -> ScopeId(13)
-e ("e") -> ScopeId(13)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(13)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-e ("e") -> ScopeId(16)
-e ("e") -> ScopeId(16)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(16)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-TypeError ("TypeError") -> ScopeId(1)
-e ("e") -> ScopeId(19)
-e ("e") -> ScopeId(19)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(19)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-URIError ("URIError") -> ScopeId(1)
-e ("e") -> ScopeId(22)
-e ("e") -> ScopeId(22)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(22)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+303 -> 1
+337 -> 0
+358 -> 2
+368 -> 2
+420 -> 0
+491 -> 2
+510 -> 1
+523 -> 1
+551 -> 0
+612 -> 1
+639 -> 0
+660 -> 3
+670 -> 3
+722 -> 0
+793 -> 3
+812 -> 1
+825 -> 1
+853 -> 0
+914 -> 1
+924 -> 4
+950 -> 0
+964 -> 5
+974 -> 5
+1026 -> 0
+1097 -> 5
+1116 -> 1
+1129 -> 1
+1157 -> 0
+1218 -> 1
+1245 -> 0
+1259 -> 6
+1269 -> 6
+1322 -> 0
+1394 -> 6
+1413 -> 1
+1426 -> 1
+1454 -> 0
+1515 -> 1
+1546 -> 0
+1560 -> 7
+1570 -> 7
+1627 -> 0
+1703 -> 7
+1722 -> 1
+1735 -> 1
+1763 -> 0
+1824 -> 1
+1850 -> 0
+1864 -> 8
+1874 -> 8
+1926 -> 0
+1997 -> 8
+2016 -> 1
+2029 -> 1
+2057 -> 0
+2118 -> 1
+2143 -> 0
+2183 -> 9
+2193 -> 9
+2250 -> 0
+2326 -> 9
+2345 -> 1
+2358 -> 1
+2386 -> 0

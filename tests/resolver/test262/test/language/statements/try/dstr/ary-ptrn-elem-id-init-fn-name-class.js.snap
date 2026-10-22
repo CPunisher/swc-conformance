@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ranCatch ("ranCatch") -> ScopeId(2)
-cls ("cls") -> ScopeId(4)
-xCls ("xCls") -> ScopeId(4)
-X ("X") -> ScopeId(6)
-xCls2 ("xCls2") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-xCls ("xCls") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-xCls2 ("xCls2") -> ScopeId(4)
-ranCatch ("ranCatch") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ranCatch ("ranCatch") -> ScopeId(2)
+1128 -> 1
+1170 -> 2
+1187 -> 3
+1197 -> 4
+1207 -> 5
+1249 -> 0
+1263 -> 2
+1286 -> 0
+1304 -> 3
+1328 -> 0
+1347 -> 5
+1374 -> 1
+1392 -> 0
+1401 -> 1

@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-_ ("_") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-x ("x") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(7)
-TypeError ("TypeError") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1242 -> 1
+1258 -> 2
+1281 -> 3
+1303 -> 0
+1336 -> 2
+1361 -> 4
+1366 -> 3
+1378 -> 4
+1395 -> 0
+1445 -> 5
+1462 -> 0
+1482 -> 2
+1496 -> 0
+1518 -> 5
+1529 -> 0
+1545 -> 0
+1552 -> 0

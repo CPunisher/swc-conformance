@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-caught ("caught") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-err ("err") -> ScopeId(5)
-caught ("caught") -> ScopeId(2)
-err ("err") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-SyntaxError ("SyntaxError") -> ScopeId(1)
+613 -> 1
+620 -> 2
+633 -> 0
+657 -> 2
+673 -> 3
+685 -> 1
+691 -> 3
+702 -> 0
+726 -> 1
+745 -> 0
+762 -> 1
+787 -> 0

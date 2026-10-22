@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-eval ("eval") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-eval ("eval") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-vals ("vals") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-eval ("eval") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(2)
+711 -> 1
+722 -> 2
+735 -> 3
+745 -> 4
+782 -> 3
+791 -> 1
+802 -> 2
+811 -> 4
+822 -> 0
+839 -> 3
+845 -> 4
+855 -> 0
+870 -> 1
+882 -> 0
+902 -> 2

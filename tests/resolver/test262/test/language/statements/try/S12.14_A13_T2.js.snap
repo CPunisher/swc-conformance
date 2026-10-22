@@ -1,82 +1,80 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-myFunction1 ("myFunction1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-x1 ("x1") -> ScopeId(2)
-myFunction1 ("myFunction1") -> ScopeId(2)
-x1 ("x1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x1 ("x1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-myFunction2 ("myFunction2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-x2 ("x2") -> ScopeId(2)
-myFunction2 ("myFunction2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(12)
-c2 ("c2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-myFunction3 ("myFunction3") -> ScopeId(2)
-someValue ("someValue") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-x3 ("x3") -> ScopeId(2)
-myFunction3 ("myFunction3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(18)
-c3 ("c3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c4 ("c4") -> ScopeId(2)
-myFunction4 ("myFunction4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-x4 ("x4") -> ScopeId(2)
-myFunction4 ("myFunction4") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(24)
-c4 ("c4") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c5 ("c5") -> ScopeId(2)
-myFunction5 ("myFunction5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-someValue ("someValue") -> ScopeId(1)
-x5 ("x5") -> ScopeId(2)
-myFunction5 ("myFunction5") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(30)
-c5 ("c5") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-myFunction6 ("myFunction6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-x6 ("x6") -> ScopeId(2)
-myFunction6 ("myFunction6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(36)
-e ("e") -> ScopeId(36)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(36)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(36)
-c6 ("c6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c7 ("c7") -> ScopeId(2)
-myFunction7 ("myFunction7") -> ScopeId(2)
-c7 ("c7") -> ScopeId(2)
-x7 ("x7") -> ScopeId(2)
-myFunction7 ("myFunction7") -> ScopeId(2)
-x7 ("x7") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c7 ("c7") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c8 ("c8") -> ScopeId(2)
-myFunction8 ("myFunction8") -> ScopeId(2)
-c8 ("c8") -> ScopeId(2)
-x8 ("x8") -> ScopeId(2)
-myFunction8 ("myFunction8") -> ScopeId(2)
-ex1 ("ex1") -> ScopeId(49)
-c8 ("c8") -> ScopeId(2)
-c8 ("c8") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+314 -> 1
+338 -> 2
+381 -> 1
+409 -> 3
+421 -> 2
+430 -> 3
+461 -> 0
+494 -> 3
+505 -> 1
+536 -> 0
+601 -> 4
+625 -> 5
+685 -> 4
+720 -> 6
+732 -> 5
+760 -> 0
+864 -> 7
+875 -> 4
+908 -> 0
+977 -> 8
+1001 -> 9
+1032 -> 0
+1052 -> 8
+1087 -> 10
+1099 -> 9
+1127 -> 0
+1231 -> 11
+1242 -> 8
+1275 -> 0
+1344 -> 12
+1368 -> 13
+1411 -> 12
+1477 -> 14
+1489 -> 13
+1517 -> 0
+1621 -> 15
+1632 -> 12
+1665 -> 0
+1734 -> 16
+1758 -> 17
+1801 -> 16
+1825 -> 0
+1872 -> 18
+1884 -> 17
+1912 -> 0
+2016 -> 19
+2027 -> 16
+2060 -> 0
+2129 -> 20
+2153 -> 21
+2213 -> 20
+2279 -> 22
+2291 -> 21
+2319 -> 0
+2423 -> 23
+2432 -> 23
+2469 -> 0
+2543 -> 23
+2580 -> 0
+2619 -> 23
+2634 -> 20
+2667 -> 0
+2736 -> 24
+2760 -> 25
+2803 -> 24
+2845 -> 26
+2857 -> 25
+2866 -> 26
+2897 -> 0
+2948 -> 24
+2979 -> 0
+3044 -> 27
+3068 -> 28
+3114 -> 27
+3163 -> 29
+3175 -> 28
+3190 -> 30
+3197 -> 27
+3210 -> 27
+3241 -> 0

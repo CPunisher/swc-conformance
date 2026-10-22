@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-executed ("executed") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-D ("D") -> ScopeId(4)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-executed ("executed") -> ScopeId(2)
+594 -> 1
+612 -> 2
+631 -> 0
+673 -> 3
+683 -> 2
+715 -> 0
+734 -> 0
+756 -> 2
+775 -> 0
+794 -> 1

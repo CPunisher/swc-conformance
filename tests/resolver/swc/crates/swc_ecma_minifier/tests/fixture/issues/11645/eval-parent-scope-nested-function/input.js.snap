@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-outer ("outer") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-eval ("eval") -> ScopeId(1)
-inner ("inner") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-inner ("inner") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-outer ("outer") -> ScopeId(2)
+14 -> 1
+28 -> 2
+33 -> 3
+39 -> 3
+50 -> 0
+90 -> 4
+111 -> 2
+142 -> 4
+156 -> 0
+166 -> 1

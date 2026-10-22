@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-x_geq_0 ("x_geq_0") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x_leq_0 ("x_leq_0") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-x_geq_0 ("x_geq_0") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x_leq_0 ("x_leq_0") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x_leq_0_OR_geq_0 ("x_leq_0_OR_geq_0") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x_geq_0_ADD_leq_0 ("x_geq_0_ADD_leq_0") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+236 -> 1
+242 -> 0
+255 -> 2
+258 -> 1
+279 -> 3
+282 -> 1
+312 -> 4
+315 -> 1
+327 -> 1
+358 -> 5
+361 -> 1
+374 -> 1
+460 -> 2
+487 -> 0
+658 -> 3
+685 -> 0
+862 -> 4
+889 -> 0
+1092 -> 5
+1119 -> 0

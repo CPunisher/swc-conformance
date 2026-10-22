@@ -1,39 +1,37 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-complete ("complete") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-iterResult ("iterResult") -> ScopeId(2)
-str ("str") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-str ("str") -> ScopeId(2)
-complete ("complete") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-complete ("complete") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-str ("str") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-complete ("complete") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-str ("str") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-str ("str") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-complete ("complete") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterResult ("iterResult") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+443 -> 1
+461 -> 2
+473 -> 3
+478 -> 4
+491 -> 5
+501 -> 4
+537 -> 1
+553 -> 2
+557 -> 5
+568 -> 0
+587 -> 1
+633 -> 0
+647 -> 4
+658 -> 0
+704 -> 3
+711 -> 2
+727 -> 0
+746 -> 1
+803 -> 0
+817 -> 4
+828 -> 0
+870 -> 0
+891 -> 3
+938 -> 0
+959 -> 3
+976 -> 0
+1014 -> 3
+1021 -> 2
+1038 -> 0
+1052 -> 4
+1095 -> 0
+1114 -> 1
+1163 -> 0
+1184 -> 3
+1226 -> 0
+1247 -> 3
+1264 -> 0

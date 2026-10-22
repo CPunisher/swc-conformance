@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn1 ("fn1") -> ScopeId(2)
-walkingIndex ("walkingIndex") -> ScopeId(3)
-fn2 ("fn2") -> ScopeId(3)
-myIndex ("myIndex") -> ScopeId(4)
-walkingIndex ("walkingIndex") -> ScopeId(3)
-walkingIndex ("walkingIndex") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-myIndex ("myIndex") -> ScopeId(4)
-walkingIndex ("walkingIndex") -> ScopeId(3)
-fn2 ("fn2") -> ScopeId(3)
+19 -> 1
+44 -> 2
+67 -> 3
+93 -> 4
+108 -> 2
+130 -> 2
+153 -> 0
+165 -> 4
+179 -> 2
+203 -> 3

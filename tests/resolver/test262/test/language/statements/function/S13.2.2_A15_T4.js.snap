@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__FACTORY ("__FACTORY") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-__FACTORY ("__FACTORY") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-__FACTORY ("__FACTORY") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-__obj ("__obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
+508 -> 1
+515 -> 2
+520 -> 3
+532 -> 1
+573 -> 3
+587 -> 3
+607 -> 3
+635 -> 3
+645 -> 2
+661 -> 1
+762 -> 3
+802 -> 0
+851 -> 3
+1042 -> 2
+1082 -> 0
+1135 -> 3
+1326 -> 2
+1368 -> 0
+1428 -> 3

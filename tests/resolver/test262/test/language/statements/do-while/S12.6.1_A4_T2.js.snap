@@ -1,18 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-do_out ("do_out") -> ScopeId(4294967295)
-__in__do__before__break ("__in__do__before__break") -> ScopeId(2)
-do_in ("do_in") -> ScopeId(4294967295)
-__in__do__IN__before__break ("__in__do__IN__before__break") -> ScopeId(2)
-do_in ("do_in") -> ScopeId(4294967295)
-__in__do__IN__after__break ("__in__do__IN__after__break") -> ScopeId(2)
-__in__do__after__break ("__in__do__after__break") -> ScopeId(2)
-__in__do__before__break ("__in__do__before__break") -> ScopeId(2)
-__in__do__IN__before__break ("__in__do__IN__before__break") -> ScopeId(2)
-__in__do__IN__after__break ("__in__do__IN__after__break") -> ScopeId(2)
-__in__do__after__break ("__in__do__after__break") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__in__do__before__break ("__in__do__before__break") -> ScopeId(2)
-__in__do__IN__before__break ("__in__do__IN__before__break") -> ScopeId(2)
-__in__do__IN__after__break ("__in__do__IN__after__break") -> ScopeId(2)
-__in__do__after__break ("__in__do__after__break") -> ScopeId(2)
+392 -> 1
+458 -> 2
+527 -> 3
+582 -> 4
+735 -> 1
+764 -> 2
+793 -> 3
+817 -> 4
+845 -> 0
+1113 -> 1
+1142 -> 2
+1171 -> 3
+1195 -> 4

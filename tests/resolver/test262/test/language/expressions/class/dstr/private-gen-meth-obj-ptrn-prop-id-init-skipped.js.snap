@@ -1,42 +1,40 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-initCount ("initCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-t ("t") -> ScopeId(5)
-counter ("counter") -> ScopeId(2)
-v ("v") -> ScopeId(5)
-counter ("counter") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-counter ("counter") -> ScopeId(2)
-z ("z") -> ScopeId(5)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-t ("t") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-s ("s") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-u ("u") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-w ("w") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-y ("y") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+2557 -> 1
+2579 -> 2
+2595 -> 1
+2618 -> 3
+2629 -> 4
+2658 -> 5
+2668 -> 2
+2676 -> 6
+2686 -> 2
+2694 -> 7
+2704 -> 2
+2712 -> 8
+2722 -> 2
+2740 -> 0
+2752 -> 5
+2771 -> 0
+2783 -> 6
+2799 -> 0
+2811 -> 7
+2831 -> 0
+2843 -> 8
+2860 -> 0
+2880 -> 1
+2897 -> 0
+2919 -> 0
+2941 -> 0
+2961 -> 0
+2983 -> 0
+3005 -> 0
+3025 -> 0
+3047 -> 0
+3069 -> 0
+3089 -> 0
+3111 -> 0
+3133 -> 0
+3156 -> 3
+3168 -> 3
+3234 -> 4
+3294 -> 0
+3314 -> 3

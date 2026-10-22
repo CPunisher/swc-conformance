@@ -1,9 +1,7 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-error ("error") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(4)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-f ("f") -> ScopeId(2)
+2305 -> 1
+2359 -> 2
+2376 -> 0
+2392 -> 2
+2431 -> 0
+2438 -> 0
+2445 -> 1

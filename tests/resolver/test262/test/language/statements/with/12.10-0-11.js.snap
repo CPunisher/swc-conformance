@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-o ("o") -> ScopeId(3)
-innerf ("innerf") -> ScopeId(3)
-o ("o") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-o ("o") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-innerf ("innerf") -> ScopeId(3)
-o ("o") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-f ("f") -> ScopeId(2)
+267 -> 1
+269 -> 2
+293 -> 3
+295 -> 4
+310 -> 5
+331 -> 4
+351 -> 5
+385 -> 3
+387 -> 2
+401 -> 0
+413 -> 1

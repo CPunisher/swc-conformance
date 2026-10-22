@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-shouldNotBeAwaited ("shouldNotBeAwaited") -> ScopeId(3)
-onFulfilled ("onFulfilled") -> ScopeId(5)
-x ("x") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-onFulfilled ("onFulfilled") -> ScopeId(5)
-shouldNotBeAwaited ("shouldNotBeAwaited") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(3)
-asyncTest ("asyncTest") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+2113 -> 1
+2125 -> 2
+2169 -> 3
+2204 -> 4
+2215 -> 2
+2257 -> 0
+2284 -> 4
+2398 -> 3
+2408 -> 0
+2420 -> 2
+2451 -> 0
+2455 -> 1

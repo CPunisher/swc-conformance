@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-message ("message") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-message ("message") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-CATCH_ME_IF_YOU_CAN ("CATCH_ME_IF_YOU_CAN") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(5)
-e ("e") -> ScopeId(5)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(5)
+516 -> 1
+536 -> 2
+556 -> 3
+568 -> 4
+592 -> 3
+606 -> 4
+625 -> 5
+632 -> 2
+652 -> 1
+680 -> 0
+759 -> 6
+772 -> 6
+803 -> 0
+853 -> 6

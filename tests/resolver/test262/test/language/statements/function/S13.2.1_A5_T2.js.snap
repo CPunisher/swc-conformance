@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-derivative ("derivative") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-dx ("dx") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-f ("f") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-dx ("dx") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-dx ("dx") -> ScopeId(3)
-Math ("Math") -> ScopeId(1)
-derivative ("derivative") -> ScopeId(2)
-Math ("Math") -> ScopeId(1)
-derivative ("derivative") -> ScopeId(2)
-Math ("Math") -> ScopeId(1)
-Math ("Math") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
+481 -> 1
+483 -> 2
+487 -> 3
+512 -> 4
+531 -> 2
+533 -> 4
+538 -> 3
+543 -> 2
+545 -> 4
+552 -> 3
+661 -> 0
+676 -> 1
+681 -> 0
+710 -> 1
+715 -> 0
+735 -> 0
+780 -> 0

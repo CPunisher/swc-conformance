@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-A ("A") -> ScopeId(3)
-B ("B") -> ScopeId(3)
-B ("B") -> ScopeId(3)
-A ("A") -> ScopeId(3)
-ExtendsA1 ("ExtendsA1") -> ScopeId(3)
-sideEffectWith ("sideEffectWith") -> ScopeId(1)
-A ("A") -> ScopeId(3)
-Unused1 ("Unused1") -> ScopeId(3)
-ExtendsA1 ("ExtendsA1") -> ScopeId(3)
-ExtendsA2 ("ExtendsA2") -> ScopeId(3)
-sideEffectWith ("sideEffectWith") -> ScopeId(1)
-A ("A") -> ScopeId(3)
-Unused2 ("Unused2") -> ScopeId(3)
-ExtendsA2 ("ExtendsA2") -> ScopeId(3)
+20 -> 1
+55 -> 2
+82 -> 2
+117 -> 1
+156 -> 3
+179 -> 0
+181 -> 1
+203 -> 4
+245 -> 3
+279 -> 5
+302 -> 0
+304 -> 1
+326 -> 6
+366 -> 5

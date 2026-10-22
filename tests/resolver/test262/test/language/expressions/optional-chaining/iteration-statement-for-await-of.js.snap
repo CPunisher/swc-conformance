@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-Promise ("Promise") -> ScopeId(1)
-Promise ("Promise") -> ScopeId(1)
-checkAssertions ("checkAssertions") -> ScopeId(2)
-count ("count") -> ScopeId(11)
-num ("num") -> ScopeId(12)
-obj ("obj") -> ScopeId(2)
-count ("count") -> ScopeId(11)
-num ("num") -> ScopeId(12)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(11)
-asyncTest ("asyncTest") -> ScopeId(1)
-checkAssertions ("checkAssertions") -> ScopeId(2)
+409 -> 1
+439 -> 0
+559 -> 0
+639 -> 0
+727 -> 2
+743 -> 3
+771 -> 4
+778 -> 1
+801 -> 3
+808 -> 4
+822 -> 0
+841 -> 3
+855 -> 0
+871 -> 2

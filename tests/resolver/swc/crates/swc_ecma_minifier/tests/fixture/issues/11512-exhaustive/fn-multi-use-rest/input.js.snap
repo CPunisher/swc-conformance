@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-keep ("keep") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-rest ("rest") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-rest ("rest") -> ScopeId(3)
-fnMultiUseRest ("fnMultiUseRest") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(4)
+13 -> 1
+15 -> 2
+18 -> 3
+31 -> 4
+47 -> 2
+54 -> 4
+96 -> 5
+102 -> 6
+121 -> 1
+127 -> 6
+135 -> 1
+141 -> 6

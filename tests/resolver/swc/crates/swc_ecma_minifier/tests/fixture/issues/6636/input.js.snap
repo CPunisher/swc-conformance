@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-memo ("memo") -> ScopeId(2)
-fn ("fn") -> ScopeId(3)
-opts ("opts") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-fn ("fn") -> ScopeId(3)
-newDeps ("newDeps") -> ScopeId(1)
-opts ("opts") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
+20 -> 1
+23 -> 2
+29 -> 3
+45 -> 4
+74 -> 4
+79 -> 2
+90 -> 0
+101 -> 3
+120 -> 4
+140 -> 4

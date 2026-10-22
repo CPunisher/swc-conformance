@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-iterationCount ("iterationCount") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-_ ("_") -> ScopeId(5)
-Test262Error ("Test262Error") -> ScopeId(1)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-iterationCount ("iterationCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterationCount ("iterationCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+764 -> 1
+788 -> 2
+806 -> 3
+818 -> 4
+835 -> 5
+865 -> 0
+885 -> 3
+892 -> 0
+1039 -> 1
+1066 -> 0
+1086 -> 0
+1109 -> 4
+1126 -> 3
+1148 -> 2
+1170 -> 0
+1195 -> 2
+1241 -> 0
+1261 -> 1

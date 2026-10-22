@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-example ("example") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-undefined ("undefined") -> ScopeId(1)
-undefined ("undefined") -> ScopeId(1)
-someConditional ("someConditional") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-doSomething ("doSomething") -> ScopeId(1)
-value ("value") -> ScopeId(3)
+23 -> 1
+29 -> 2
+46 -> 2
+60 -> 0
+88 -> 0
+120 -> 0
+146 -> 2
+177 -> 0
+183 -> 2

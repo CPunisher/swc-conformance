@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__func ("__func") -> ScopeId(2)
-arg ("arg") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-__func ("__func") -> ScopeId(2)
-arg ("arg") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-fact_of_3 ("fact_of_3") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-fact_of_3 ("fact_of_3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fact_of_3 ("fact_of_3") -> ScopeId(2)
+494 -> 1
+510 -> 2
+524 -> 2
+549 -> 2
+582 -> 1
+586 -> 2
+593 -> 2
+618 -> 3
+628 -> 1
+736 -> 3
+769 -> 0
+824 -> 3

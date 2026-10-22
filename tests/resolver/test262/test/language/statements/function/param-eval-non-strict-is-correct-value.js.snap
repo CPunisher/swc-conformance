@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-exprCallCount ("exprCallCount") -> ScopeId(2)
-evalValue ("evalValue") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-eval ("eval") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-eval ("eval") -> ScopeId(4)
-evalValue ("evalValue") -> ScopeId(2)
-exprCallCount ("exprCallCount") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-evalValue ("evalValue") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-exprCallCount ("exprCallCount") -> ScopeId(2)
+308 -> 1
+327 -> 2
+347 -> 3
+352 -> 4
+364 -> 0
+379 -> 4
+390 -> 2
+408 -> 1
+421 -> 3
+431 -> 2
+441 -> 0
+465 -> 1

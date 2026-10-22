@@ -1,45 +1,43 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-agen1 ("agen1") -> ScopeId(2)
-agen2 ("agen2") -> ScopeId(2)
-aiter1 ("aiter1") -> ScopeId(2)
-agen1 ("agen1") -> ScopeId(2)
-aiter2 ("aiter2") -> ScopeId(2)
-agen2 ("agen2") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-aiter1 ("aiter1") -> ScopeId(2)
-b ("b") -> ScopeId(5)
-aiter1 ("aiter1") -> ScopeId(2)
-c ("c") -> ScopeId(5)
-aiter1 ("aiter1") -> ScopeId(2)
-d ("d") -> ScopeId(5)
-aiter2 ("aiter2") -> ScopeId(2)
-e ("e") -> ScopeId(5)
-aiter2 ("aiter2") -> ScopeId(2)
-f ("f") -> ScopeId(5)
-aiter2 ("aiter2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(5)
-error ("error") -> ScopeId(5)
-c ("c") -> ScopeId(5)
-err ("err") -> ScopeId(7)
-error ("error") -> ScopeId(5)
-err ("err") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-d ("d") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(5)
-error ("error") -> ScopeId(5)
-f ("f") -> ScopeId(5)
-err ("err") -> ScopeId(9)
-error ("error") -> ScopeId(5)
-err ("err") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(5)
-asyncTest ("asyncTest") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+996 -> 1
+1234 -> 2
+1478 -> 3
+1486 -> 1
+1500 -> 4
+1508 -> 2
+1530 -> 5
+1544 -> 6
+1553 -> 3
+1571 -> 7
+1580 -> 3
+1598 -> 8
+1607 -> 3
+1625 -> 9
+1634 -> 4
+1652 -> 10
+1661 -> 4
+1679 -> 11
+1688 -> 4
+1708 -> 0
+1727 -> 6
+1758 -> 0
+1777 -> 7
+1812 -> 12
+1839 -> 8
+1857 -> 13
+1874 -> 12
+1880 -> 13
+1899 -> 0
+1915 -> 12
+1941 -> 0
+1960 -> 9
+1991 -> 0
+2010 -> 10
+2041 -> 12
+2075 -> 11
+2093 -> 14
+2110 -> 12
+2116 -> 14
+2135 -> 0
+2151 -> 12
+2178 -> 0
+2181 -> 5

@@ -1,101 +1,99 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-а ("а") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-а ("а") -> ScopeId(2)
-б ("б") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-б ("б") -> ScopeId(2)
-в ("в") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-в ("в") -> ScopeId(2)
-г ("г") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-г ("г") -> ScopeId(2)
-д ("д") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-д ("д") -> ScopeId(2)
-е ("е") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-е ("е") -> ScopeId(2)
-ж ("ж") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ж ("ж") -> ScopeId(2)
-з ("з") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-з ("з") -> ScopeId(2)
-и ("и") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-и ("и") -> ScopeId(2)
-й ("й") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-й ("й") -> ScopeId(2)
-к ("к") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-к ("к") -> ScopeId(2)
-л ("л") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-л ("л") -> ScopeId(2)
-м ("м") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-м ("м") -> ScopeId(2)
-н ("н") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-н ("н") -> ScopeId(2)
-о ("о") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-о ("о") -> ScopeId(2)
-п ("п") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-п ("п") -> ScopeId(2)
-р ("р") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-р ("р") -> ScopeId(2)
-с ("с") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-с ("с") -> ScopeId(2)
-т ("т") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-т ("т") -> ScopeId(2)
-у ("у") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-у ("у") -> ScopeId(2)
-ф ("ф") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ф ("ф") -> ScopeId(2)
-х ("х") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-х ("х") -> ScopeId(2)
-ц ("ц") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ц ("ц") -> ScopeId(2)
-ч ("ч") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ч ("ч") -> ScopeId(2)
-ш ("ш") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ш ("ш") -> ScopeId(2)
-щ ("щ") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-щ ("щ") -> ScopeId(2)
-ъ ("ъ") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ъ ("ъ") -> ScopeId(2)
-ы ("ы") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ы ("ы") -> ScopeId(2)
-ь ("ь") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ь ("ь") -> ScopeId(2)
-э ("э") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-э ("э") -> ScopeId(2)
-ю ("ю") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ю ("ю") -> ScopeId(2)
-я ("я") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-я ("я") -> ScopeId(2)
-ё ("ё") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ё ("ё") -> ScopeId(2)
+266 -> 1
+278 -> 0
+291 -> 1
+308 -> 2
+320 -> 0
+333 -> 2
+350 -> 3
+362 -> 0
+375 -> 3
+392 -> 4
+404 -> 0
+417 -> 4
+434 -> 5
+446 -> 0
+459 -> 5
+476 -> 6
+488 -> 0
+501 -> 6
+518 -> 7
+530 -> 0
+543 -> 7
+560 -> 8
+572 -> 0
+585 -> 8
+602 -> 9
+614 -> 0
+627 -> 9
+644 -> 10
+656 -> 0
+669 -> 10
+686 -> 11
+698 -> 0
+711 -> 11
+728 -> 12
+740 -> 0
+753 -> 12
+770 -> 13
+782 -> 0
+795 -> 13
+812 -> 14
+824 -> 0
+837 -> 14
+854 -> 15
+866 -> 0
+879 -> 15
+896 -> 16
+908 -> 0
+921 -> 16
+938 -> 17
+950 -> 0
+963 -> 17
+980 -> 18
+992 -> 0
+1005 -> 18
+1022 -> 19
+1034 -> 0
+1047 -> 19
+1064 -> 20
+1076 -> 0
+1089 -> 20
+1106 -> 21
+1118 -> 0
+1131 -> 21
+1148 -> 22
+1160 -> 0
+1173 -> 22
+1190 -> 23
+1202 -> 0
+1215 -> 23
+1232 -> 24
+1244 -> 0
+1257 -> 24
+1274 -> 25
+1286 -> 0
+1299 -> 25
+1316 -> 26
+1328 -> 0
+1341 -> 26
+1358 -> 27
+1370 -> 0
+1383 -> 27
+1400 -> 28
+1412 -> 0
+1425 -> 28
+1442 -> 29
+1454 -> 0
+1467 -> 29
+1484 -> 30
+1496 -> 0
+1509 -> 30
+1526 -> 31
+1538 -> 0
+1551 -> 31
+1568 -> 32
+1580 -> 0
+1593 -> 32
+1610 -> 33
+1622 -> 0
+1635 -> 33

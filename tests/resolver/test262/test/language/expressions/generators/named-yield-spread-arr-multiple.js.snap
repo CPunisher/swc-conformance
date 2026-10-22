@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-g ("g") -> ScopeId(3)
-callCount ("callCount") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-item ("item") -> ScopeId(2)
-arr ("arr") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-item ("item") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+640 -> 1
+668 -> 2
+684 -> 3
+698 -> 4
+712 -> 5
+728 -> 3
+773 -> 6
+779 -> 4
+788 -> 6
+806 -> 2
+813 -> 6
+841 -> 2
+848 -> 6
+858 -> 2
+874 -> 0
+892 -> 2
+903 -> 1
+912 -> 0
+927 -> 2
+949 -> 0
+969 -> 3

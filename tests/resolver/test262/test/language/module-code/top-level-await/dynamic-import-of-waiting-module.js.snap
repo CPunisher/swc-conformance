@@ -1,25 +1,23 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-continueExecution ("continueExecution") -> ScopeId(2)
-globalThis ("globalThis") -> ScopeId(1)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(3)
-continueExecution ("continueExecution") -> ScopeId(2)
-resolve ("resolve") -> ScopeId(3)
-executionStartPromise ("executionStartPromise") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(4)
-globalThis ("globalThis") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(4)
-asyncTest ("asyncTest") -> ScopeId(1)
-promiseForNamespace ("promiseForNamespace") -> ScopeId(5)
-executionStartPromise ("executionStartPromise") -> ScopeId(2)
-promiseForNamespace2 ("promiseForNamespace2") -> ScopeId(5)
-continueExecution ("continueExecution") -> ScopeId(2)
-secondPromiseResolved ("secondPromiseResolved") -> ScopeId(5)
-Promise ("Promise") -> ScopeId(1)
-promiseForNamespace ("promiseForNamespace") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-secondPromiseResolved ("secondPromiseResolved") -> ScopeId(5)
-promiseForNamespace2 ("promiseForNamespace2") -> ScopeId(5)
-secondPromiseResolved ("secondPromiseResolved") -> ScopeId(5)
+2192 -> 1
+2204 -> 0
+2226 -> 0
+2235 -> 2
+2257 -> 1
+2267 -> 2
+2298 -> 3
+2312 -> 0
+2321 -> 4
+2336 -> 0
+2363 -> 4
+2376 -> 0
+2424 -> 5
+2514 -> 3
+2545 -> 6
+3035 -> 1
+3067 -> 7
+3092 -> 0
+3122 -> 5
+3148 -> 0
+3171 -> 7
+3267 -> 6
+3308 -> 7

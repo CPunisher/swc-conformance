@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-c ("c") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-d ("d") -> ScopeId(2)
-e ("e") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-d ("d") -> ScopeId(2)
-e ("e") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+394 -> 1
+397 -> 2
+411 -> 2
+421 -> 3
+425 -> 4
+429 -> 5
+433 -> 6
+439 -> 3
+441 -> 4
+443 -> 1
+446 -> 5
+448 -> 6
+456 -> 3
+487 -> 0

@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-set ("set") -> ScopeId(2)
-Set ("Set") -> ScopeId(1)
-iterationCount ("iterationCount") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-iterationCount ("iterationCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterationCount ("iterationCount") -> ScopeId(2)
+402 -> 1
+412 -> 0
+434 -> 2
+444 -> 1
+464 -> 3
+471 -> 1
+483 -> 0
+495 -> 3
+507 -> 1
+521 -> 1
+550 -> 2
+566 -> 0
+591 -> 2

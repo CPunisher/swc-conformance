@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-smoosh ("smoosh") -> ScopeId(2)
-smoosh ("smoosh") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-imported ("imported") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-imported ("imported") -> ScopeId(5)
-f ("f") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1299 -> 1
+1316 -> 1
+1331 -> 2
+1404 -> 3
+1421 -> 0
+1440 -> 3
+1465 -> 0
+1484 -> 3
+1510 -> 0
+1529 -> 3
+1549 -> 2
+1562 -> 0
+1569 -> 0
+1582 -> 0

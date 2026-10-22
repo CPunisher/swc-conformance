@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iterCount ("iterCount") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-unresolvable ("unresolvable") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(3)
-promise ("promise") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-unresolvable ("unresolvable") -> ScopeId(1)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(3)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1301 -> 1
+1324 -> 2
+1356 -> 0
+1388 -> 1
+1413 -> 3
+1418 -> 2
+1430 -> 3
+1457 -> 0
+1480 -> 0
+1491 -> 0
+1504 -> 0
+1524 -> 1
+1574 -> 0
+1589 -> 0
+1596 -> 0

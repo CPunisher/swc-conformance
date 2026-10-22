@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-global ("global") -> ScopeId(2)
-fnGlobalObject ("fnGlobalObject") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-test262 ("test262") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-global ("global") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-test262 ("test262") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-test262 ("test262") -> ScopeId(2)
-test262 ("test262") -> ScopeId(2)
+654 -> 1
+671 -> 0
+682 -> 0
+700 -> 2
+711 -> 0
+741 -> 0
+761 -> 0
+793 -> 1
+816 -> 0
+828 -> 2
+844 -> 0
+862 -> 2
+912 -> 2

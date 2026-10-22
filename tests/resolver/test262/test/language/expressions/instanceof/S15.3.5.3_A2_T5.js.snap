@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-FACTORY ("FACTORY") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-Function ("Function") -> ScopeId(1)
-FACTORY ("FACTORY") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-e ("e") -> ScopeId(4)
-TypeError ("TypeError") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-instance ("instance") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+541 -> 1
+550 -> 1
+561 -> 0
+587 -> 1
+627 -> 2
+637 -> 2
+651 -> 1
+661 -> 1
+710 -> 2
+729 -> 1
+755 -> 0
+822 -> 3
+835 -> 3
+856 -> 0
+887 -> 0
+977 -> 2
+1001 -> 1
+1015 -> 2
+1061 -> 0

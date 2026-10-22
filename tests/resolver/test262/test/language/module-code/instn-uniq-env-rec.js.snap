@@ -1,48 +1,46 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-third ("third") -> ScopeId(2)
-fourth ("fourth") -> ScopeId(2)
-fifth ("fifth") -> ScopeId(2)
-sixth ("sixth") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-first ("first") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-second ("second") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-third ("third") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fourth ("fourth") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fifth ("fifth") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fifth ("fifth") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sixth ("sixth") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sixth ("sixth") -> ScopeId(2)
-seventh ("seventh") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-seventh ("seventh") -> ScopeId(1)
-eight ("eight") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-eighth ("eighth") -> ScopeId(1)
-ninth ("ninth") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-ninth ("ninth") -> ScopeId(1)
-tenth ("tenth") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-tenth ("tenth") -> ScopeId(1)
-eleventh ("eleventh") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-eleventh ("eleventh") -> ScopeId(1)
-twelfth ("twelfth") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-twelfth ("twelfth") -> ScopeId(1)
+567 -> 1
+583 -> 2
+600 -> 3
+618 -> 4
+636 -> 5
+674 -> 6
+704 -> 0
+720 -> 1
+732 -> 0
+749 -> 2
+761 -> 0
+777 -> 3
+789 -> 0
+813 -> 4
+855 -> 0
+878 -> 5
+923 -> 0
+939 -> 5
+959 -> 0
+982 -> 6
+1037 -> 0
+1053 -> 6
+1479 -> 0
+1487 -> 0
+1509 -> 0
+1533 -> 0
+1552 -> 0
+1560 -> 0
+1582 -> 0
+1605 -> 0
+1624 -> 0
+1632 -> 0
+1654 -> 0
+1676 -> 0
+1695 -> 0
+1703 -> 0
+1725 -> 0
+1747 -> 0
+1769 -> 0
+1777 -> 0
+1799 -> 0
+1824 -> 0
+1845 -> 0
+1853 -> 0
+1875 -> 0
+1899 -> 0

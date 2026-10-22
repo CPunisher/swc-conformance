@@ -1,118 +1,116 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-rab ("rab") -> ScopeId(3)
-CreateResizableArrayBuffer ("CreateResizableArrayBuffer") -> ScopeId(1)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ta_write ("ta_write") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-rab ("rab") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-i ("i") -> ScopeId(4)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-ta_write ("ta_write") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-MayNeedBigInt ("MayNeedBigInt") -> ScopeId(1)
-ta_write ("ta_write") -> ScopeId(3)
-i ("i") -> ScopeId(4)
-rab ("rab") -> ScopeId(3)
-ctor ("ctor") -> ScopeId(6)
-ctors ("ctors") -> ScopeId(1)
-no_elements ("no_elements") -> ScopeId(7)
-offset ("offset") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-no_elements ("no_elements") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-byte_offset ("byte_offset") -> ScopeId(7)
-offset ("offset") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta1 ("ta1") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta1 ("ta1") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta2 ("ta2") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta2 ("ta2") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta_with_offset1 ("ta_with_offset1") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta_with_offset1 ("ta_with_offset1") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-ta_with_offset2 ("ta_with_offset2") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-ta_with_offset2 ("ta_with_offset2") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-length_tracking_ta ("length_tracking_ta") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-length_tracking_ta ("length_tracking_ta") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-length_tracking_ta_with_offset ("length_tracking_ta_with_offset") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-length_tracking_ta_with_offset ("length_tracking_ta_with_offset") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-CreateRab ("CreateRab") -> ScopeId(2)
-buffer_byte_length ("buffer_byte_length") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-length_tracking_ta_with_offset2 ("length_tracking_ta_with_offset2") -> ScopeId(7)
-ctor ("ctor") -> ScopeId(6)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
-TestIterationAndResize ("TestIterationAndResize") -> ScopeId(1)
-length_tracking_ta_with_offset2 ("length_tracking_ta_with_offset2") -> ScopeId(7)
-rab ("rab") -> ScopeId(7)
-byte_offset ("byte_offset") -> ScopeId(7)
+435 -> 1
+454 -> 2
+460 -> 3
+475 -> 4
+504 -> 0
+523 -> 2
+547 -> 2
+564 -> 5
+575 -> 3
+579 -> 4
+594 -> 6
+601 -> 6
+622 -> 2
+629 -> 3
+652 -> 6
+668 -> 5
+670 -> 6
+687 -> 0
+696 -> 5
+699 -> 6
+724 -> 4
+742 -> 7
+751 -> 0
+774 -> 8
+795 -> 9
+827 -> 10
+841 -> 8
+848 -> 7
+887 -> 11
+896 -> 9
+903 -> 7
+1175 -> 12
+1187 -> 1
+1206 -> 10
+1212 -> 7
+1226 -> 13
+1237 -> 7
+1241 -> 12
+1274 -> 0
+1278 -> 13
+1310 -> 12
+1333 -> 10
+1345 -> 12
+1357 -> 1
+1376 -> 10
+1382 -> 7
+1396 -> 14
+1407 -> 7
+1411 -> 12
+1428 -> 0
+1445 -> 0
+1481 -> 0
+1485 -> 14
+1496 -> 12
+1516 -> 12
+1528 -> 1
+1547 -> 10
+1553 -> 7
+1579 -> 15
+1590 -> 7
+1594 -> 12
+1607 -> 11
+1637 -> 0
+1653 -> 15
+1685 -> 12
+1708 -> 10
+1720 -> 12
+1732 -> 1
+1751 -> 10
+1757 -> 7
+1783 -> 16
+1794 -> 7
+1798 -> 12
+1811 -> 11
+1825 -> 0
+1842 -> 0
+1878 -> 0
+1894 -> 16
+1905 -> 12
+2023 -> 12
+2035 -> 1
+2054 -> 10
+2060 -> 7
+2089 -> 17
+2100 -> 7
+2104 -> 12
+2131 -> 0
+2150 -> 17
+2196 -> 12
+2219 -> 10
+2324 -> 12
+2336 -> 1
+2355 -> 10
+2361 -> 7
+2402 -> 18
+2413 -> 7
+2417 -> 12
+2430 -> 11
+2441 -> 0
+2458 -> 0
+2494 -> 0
+2525 -> 18
+2536 -> 12
+2552 -> 11
+2685 -> 12
+2697 -> 1
+2716 -> 10
+2722 -> 7
+2764 -> 19
+2775 -> 7
+2779 -> 12
+2792 -> 11
+2819 -> 0
+2851 -> 19
+2876 -> 12
+2892 -> 11

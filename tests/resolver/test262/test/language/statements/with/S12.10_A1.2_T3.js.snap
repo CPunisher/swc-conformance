@@ -1,108 +1,106 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-result ("result") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-del ("del") -> ScopeId(2)
-st_p1 ("st_p1") -> ScopeId(2)
-st_p2 ("st_p2") -> ScopeId(2)
-st_p3 ("st_p3") -> ScopeId(2)
-st_parseInt ("st_parseInt") -> ScopeId(2)
-st_NaN ("st_NaN") -> ScopeId(2)
-st_Infinity ("st_Infinity") -> ScopeId(2)
-st_eval ("st_eval") -> ScopeId(2)
-st_parseFloat ("st_parseFloat") -> ScopeId(2)
-st_isNaN ("st_isNaN") -> ScopeId(2)
-st_isFinite ("st_isFinite") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-value ("value") -> ScopeId(10)
-st_p1 ("st_p1") -> ScopeId(2)
-p1 ("p1") -> ScopeId(1)
-st_p2 ("st_p2") -> ScopeId(2)
-p2 ("p2") -> ScopeId(1)
-st_p3 ("st_p3") -> ScopeId(2)
-p3 ("p3") -> ScopeId(1)
-st_parseInt ("st_parseInt") -> ScopeId(2)
-parseInt ("parseInt") -> ScopeId(1)
-st_NaN ("st_NaN") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-st_Infinity ("st_Infinity") -> ScopeId(2)
-Infinity ("Infinity") -> ScopeId(1)
-st_eval ("st_eval") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-st_parseFloat ("st_parseFloat") -> ScopeId(2)
-parseFloat ("parseFloat") -> ScopeId(1)
-st_isNaN ("st_isNaN") -> ScopeId(2)
-isNaN ("isNaN") -> ScopeId(1)
-st_isFinite ("st_isFinite") -> ScopeId(2)
-isFinite ("isFinite") -> ScopeId(1)
-p1 ("p1") -> ScopeId(1)
-del ("del") -> ScopeId(2)
-p3 ("p3") -> ScopeId(1)
-p4 ("p4") -> ScopeId(10)
-p5 ("p5") -> ScopeId(1)
-value ("value") -> ScopeId(10)
-result ("result") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-p1 ("p1") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-p1 ("p1") -> ScopeId(1)
-p2 ("p2") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-p2 ("p2") -> ScopeId(1)
-p3 ("p3") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-p3 ("p3") -> ScopeId(1)
-p4 ("p4") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(17)
-p5 ("p5") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(19)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-st_parseInt ("st_parseInt") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-st_NaN ("st_NaN") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_NaN ("st_NaN") -> ScopeId(2)
-st_Infinity ("st_Infinity") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_Infinity ("st_Infinity") -> ScopeId(2)
-st_eval ("st_eval") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_eval ("st_eval") -> ScopeId(2)
-st_parseFloat ("st_parseFloat") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_parseFloat ("st_parseFloat") -> ScopeId(2)
-st_isNaN ("st_isNaN") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_isNaN ("st_isNaN") -> ScopeId(2)
-st_isFinite ("st_isFinite") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-st_isFinite ("st_isFinite") -> ScopeId(2)
-value ("value") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(33)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
+540 -> 1
+562 -> 2
+1093 -> 3
+1104 -> 4
+1122 -> 5
+1140 -> 6
+1164 -> 7
+1189 -> 8
+1214 -> 9
+1240 -> 10
+1268 -> 11
+1297 -> 12
+1324 -> 13
+1345 -> 14
+1372 -> 2
+1391 -> 15
+1402 -> 4
+1407 -> 0
+1418 -> 5
+1423 -> 0
+1434 -> 6
+1439 -> 0
+1456 -> 7
+1467 -> 0
+1479 -> 8
+1485 -> 0
+1502 -> 9
+1513 -> 0
+1526 -> 10
+1533 -> 0
+1552 -> 11
+1565 -> 0
+1579 -> 12
+1587 -> 0
+1604 -> 13
+1615 -> 0
+1623 -> 0
+1659 -> 3
+1671 -> 0
+1683 -> 16
+1698 -> 0
+1720 -> 15
+1744 -> 1
+1748 -> 14
+1764 -> 1
+1810 -> 0
+1870 -> 1
+1885 -> 0
+1919 -> 0
+1955 -> 0
+1970 -> 0
+2004 -> 0
+2040 -> 0
+2055 -> 0
+2089 -> 0
+2125 -> 0
+2143 -> 0
+2169 -> 0
+2205 -> 17
+2226 -> 0
+2252 -> 0
+2288 -> 18
+2309 -> 2
+2348 -> 0
+2401 -> 2
+2422 -> 2
+2461 -> 0
+2514 -> 2
+2535 -> 2
+2574 -> 0
+2627 -> 2
+2648 -> 2
+2665 -> 0
+2693 -> 0
+2752 -> 2
+2773 -> 2
+2790 -> 0
+2818 -> 0
+2878 -> 2
+2905 -> 7
+2948 -> 0
+3021 -> 2
+3049 -> 8
+3087 -> 0
+3140 -> 8
+3164 -> 9
+3207 -> 0
+3280 -> 9
+3300 -> 10
+3339 -> 0
+3396 -> 10
+3422 -> 11
+3467 -> 0
+3548 -> 11
+3569 -> 12
+3609 -> 0
+3670 -> 12
+3694 -> 13
+3737 -> 0
+3810 -> 13
+3830 -> 0
+3856 -> 0
+3896 -> 19
+3912 -> 2
+3964 -> 0
+4034 -> 2

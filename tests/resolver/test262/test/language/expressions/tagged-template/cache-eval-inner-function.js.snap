@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-objs ("objs") -> ScopeId(2)
-tag ("tag") -> ScopeId(2)
-templateObject ("templateObject") -> ScopeId(3)
-objs ("objs") -> ScopeId(2)
-templateObject ("templateObject") -> ScopeId(3)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-a ("a") -> ScopeId(4)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-objs ("objs") -> ScopeId(2)
-objs ("objs") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-objs ("objs") -> ScopeId(2)
-objs ("objs") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-objs ("objs") -> ScopeId(2)
-objs ("objs") -> ScopeId(2)
+688 -> 1
+707 -> 2
+722 -> 3
+732 -> 1
+752 -> 3
+768 -> 4
+775 -> 4
+782 -> 4
+794 -> 0
+913 -> 0
+928 -> 1
+937 -> 1
+949 -> 0
+967 -> 1
+976 -> 1
+988 -> 0
+1003 -> 1
+1012 -> 1

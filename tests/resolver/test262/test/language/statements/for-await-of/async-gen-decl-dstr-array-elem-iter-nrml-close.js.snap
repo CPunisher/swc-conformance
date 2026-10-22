@@ -1,42 +1,40 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-_ ("_") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-nextCount ("nextCount") -> ScopeId(2)
-returnCount ("returnCount") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-args ("args") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-iterable ("iterable") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-iterator ("iterator") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-_ ("_") -> ScopeId(2)
-iterable ("iterable") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-nextCount ("nextCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-thisValue ("thisValue") -> ScopeId(2)
-iterator ("iterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1536 -> 1
+1557 -> 2
+1576 -> 3
+1593 -> 4
+1607 -> 5
+1621 -> 6
+1640 -> 7
+1669 -> 1
+1802 -> 1
+1844 -> 2
+1864 -> 3
+1881 -> 4
+1893 -> 0
+1925 -> 6
+1932 -> 0
+1975 -> 7
+1994 -> 8
+2019 -> 9
+2040 -> 5
+2055 -> 6
+2070 -> 0
+2090 -> 1
+2106 -> 0
+2128 -> 2
+2144 -> 0
+2164 -> 3
+2174 -> 7
+2211 -> 0
+2218 -> 4
+2260 -> 0
+2275 -> 4
+2330 -> 8
+2355 -> 10
+2360 -> 9
+2379 -> 10
+2400 -> 0
+2420 -> 8
+2465 -> 0
+2480 -> 0
+2487 -> 0

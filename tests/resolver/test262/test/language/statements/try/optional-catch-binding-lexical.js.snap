@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-ranCatch ("ranCatch") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-x ("x") -> ScopeId(4)
-y ("y") -> ScopeId(4)
-ranCatch ("ranCatch") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ranCatch ("ranCatch") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-y ("y") -> ScopeId(1)
+672 -> 1
+690 -> 2
+712 -> 1
+737 -> 0
+760 -> 3
+775 -> 4
+796 -> 2
+814 -> 0
+823 -> 2
+858 -> 0
+870 -> 1
+883 -> 0
+905 -> 0
+925 -> 0

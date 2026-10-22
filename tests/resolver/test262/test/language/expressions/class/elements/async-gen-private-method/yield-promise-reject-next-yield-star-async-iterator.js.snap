@@ -1,53 +1,51 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-error ("error") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-readFile ("readFile") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-error ("error") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-readFile ("readFile") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-rejectValue ("rejectValue") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-rejectValue ("rejectValue") -> ScopeId(8)
-error ("error") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-done ("done") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(9)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+762 -> 1
+774 -> 0
+803 -> 2
+823 -> 0
+836 -> 1
+879 -> 3
+891 -> 4
+939 -> 3
+970 -> 2
+1027 -> 5
+1035 -> 4
+1121 -> 0
+1132 -> 0
+1164 -> 4
+1253 -> 0
+1264 -> 0
+1296 -> 4
+1377 -> 0
+1388 -> 0
+1420 -> 5
+1501 -> 6
+1505 -> 5
+1518 -> 6
+1563 -> 0
+1612 -> 7
+1660 -> 0
+1682 -> 7
+1689 -> 1
+1699 -> 6
+1718 -> 8
+1725 -> 9
+1770 -> 0
+1785 -> 8
+1850 -> 0
+1866 -> 9
+1877 -> 0
+1947 -> 0
+1954 -> 0
+1965 -> 0
+1978 -> 0
+1988 -> 0
+2008 -> 3
+2095 -> 0
+2106 -> 0
+2138 -> 4
+2227 -> 0
+2238 -> 0
+2270 -> 4
+2351 -> 0
+2362 -> 0
+2394 -> 5

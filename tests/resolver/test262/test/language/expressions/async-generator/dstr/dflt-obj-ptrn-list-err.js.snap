@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-thrower ("thrower") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-thrower ("thrower") -> ScopeId(2)
-c ("c") -> ScopeId(4)
-initCount ("initCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
+1023 -> 1
+1045 -> 2
+1074 -> 0
+1087 -> 3
+1109 -> 4
+1112 -> 5
+1122 -> 2
+1127 -> 6
+1141 -> 1
+1165 -> 0
+1185 -> 0
+1203 -> 3
+1218 -> 0
+1238 -> 1

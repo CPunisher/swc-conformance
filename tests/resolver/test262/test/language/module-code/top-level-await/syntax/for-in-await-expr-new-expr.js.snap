@@ -1,30 +1,28 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-binding ("binding") -> ScopeId(2)
-binding ("binding") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(4)
-rej ("rej") -> ScopeId(4)
-res ("res") -> ScopeId(4)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(6)
-rej ("rej") -> ScopeId(6)
-res ("res") -> ScopeId(6)
-binding ("binding") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(8)
-rej ("rej") -> ScopeId(8)
-res ("res") -> ScopeId(8)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(10)
-rej ("rej") -> ScopeId(10)
-res ("res") -> ScopeId(10)
-binding ("binding") -> ScopeId(11)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(12)
-rej ("rej") -> ScopeId(12)
-res ("res") -> ScopeId(12)
-Promise ("Promise") -> ScopeId(1)
-res ("res") -> ScopeId(14)
-rej ("rej") -> ScopeId(14)
-res ("res") -> ScopeId(14)
+2336 -> 1
+2493 -> 1
+2515 -> 0
+2528 -> 2
+2533 -> 3
+2540 -> 2
+2571 -> 0
+2584 -> 4
+2589 -> 5
+2596 -> 4
+2745 -> 1
+2767 -> 0
+2780 -> 6
+2785 -> 7
+2792 -> 6
+2823 -> 0
+2836 -> 8
+2841 -> 9
+2848 -> 8
+2997 -> 10
+3019 -> 0
+3032 -> 11
+3037 -> 12
+3044 -> 11
+3075 -> 0
+3088 -> 13
+3093 -> 14
+3100 -> 13

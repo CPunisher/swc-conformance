@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-ns ("ns") -> ScopeId(3)
-newProto ("newProto") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-newProto ("newProto") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+3732 -> 1
+3749 -> 2
+3811 -> 3
+3829 -> 0
+3853 -> 0
+3894 -> 0
+3911 -> 0
+3938 -> 0
+3956 -> 2
+3966 -> 3
+3982 -> 1
+3995 -> 0
+4002 -> 0
+4015 -> 0

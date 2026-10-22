@@ -1,51 +1,49 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-set ("set") -> ScopeId(2)
-Set ("Set") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-iterationCount ("iterationCount") -> ScopeId(2)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-third ("third") -> ScopeId(2)
-fourth ("fourth") -> ScopeId(2)
-fifth ("fifth") -> ScopeId(2)
-sixth ("sixth") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-seventh ("seventh") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-eight ("eight") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-set ("set") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(1)
-set ("set") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-set ("set") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-first ("first") -> ScopeId(2)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-third ("third") -> ScopeId(2)
-third ("third") -> ScopeId(2)
-fourth ("fourth") -> ScopeId(2)
-fourth ("fourth") -> ScopeId(2)
-fifth ("fifth") -> ScopeId(2)
-fifth ("fifth") -> ScopeId(2)
-sixth ("sixth") -> ScopeId(2)
-sixth ("sixth") -> ScopeId(2)
-seventh ("seventh") -> ScopeId(2)
-seventh ("seventh") -> ScopeId(2)
-eight ("eight") -> ScopeId(2)
-eight ("eight") -> ScopeId(2)
-iterationCount ("iterationCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterationCount ("iterationCount") -> ScopeId(2)
+278 -> 1
+288 -> 0
+299 -> 2
+324 -> 3
+340 -> 4
+356 -> 5
+373 -> 6
+392 -> 7
+411 -> 8
+429 -> 9
+441 -> 0
+454 -> 10
+460 -> 0
+471 -> 11
+477 -> 2
+483 -> 1
+495 -> 1
+509 -> 1
+524 -> 1
+540 -> 1
+555 -> 1
+569 -> 0
+575 -> 1
+583 -> 0
+589 -> 1
+597 -> 2
+611 -> 12
+618 -> 1
+630 -> 0
+642 -> 12
+649 -> 4
+659 -> 4
+668 -> 5
+678 -> 5
+686 -> 6
+695 -> 6
+704 -> 7
+714 -> 7
+722 -> 8
+731 -> 8
+739 -> 9
+748 -> 9
+758 -> 10
+769 -> 10
+777 -> 11
+786 -> 11
+811 -> 3
+827 -> 0
+852 -> 3

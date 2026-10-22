@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arrow ("arrow") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-arrow ("arrow") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-arrow ("arrow") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1646 -> 1
+1662 -> 2
+1685 -> 3
+1710 -> 1
+1753 -> 0
+1759 -> 1
+1888 -> 2
+1913 -> 4
+1918 -> 3
+1930 -> 4
+1951 -> 0
+1971 -> 2
+2016 -> 0
+2031 -> 0
+2038 -> 0

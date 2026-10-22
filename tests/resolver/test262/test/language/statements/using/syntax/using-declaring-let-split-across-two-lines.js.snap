@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-using ("using") -> ScopeId(2)
-let ("let") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-let ("let") -> ScopeId(2)
-using ("using") -> ScopeId(2)
-let ("let") -> ScopeId(2)
+425 -> 1
+431 -> 2
+469 -> 0
+480 -> 2
+507 -> 1
+512 -> 2

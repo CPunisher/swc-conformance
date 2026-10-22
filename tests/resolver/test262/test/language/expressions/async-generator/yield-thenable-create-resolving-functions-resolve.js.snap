@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-thenable ("thenable") -> ScopeId(2)
-resolve ("resolve") -> ScopeId(4)
-resolve ("resolve") -> ScopeId(4)
-resolve ("resolve") -> ScopeId(4)
-iter ("iter") -> ScopeId(2)
-thenable ("thenable") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(6)
-resolve ("resolve") -> ScopeId(6)
-result ("result") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-isConstructor ("isConstructor") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1454 -> 1
+1483 -> 2
+1498 -> 2
+1506 -> 2
+1526 -> 3
+1566 -> 1
+1579 -> 3
+1607 -> 4
+1624 -> 5
+1633 -> 4
+1649 -> 0
+1664 -> 0
+1672 -> 5
+1684 -> 0
+1702 -> 5
+1723 -> 0
+1741 -> 5
+1766 -> 0
+1773 -> 0

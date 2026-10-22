@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-D ("D") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-D ("D") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-d ("d") -> ScopeId(8)
-D ("D") -> ScopeId(2)
+1285 -> 1
+1337 -> 2
+1347 -> 1
+1408 -> 0
+1410 -> 2
+1449 -> 0
+1466 -> 0
+1490 -> 3
+1498 -> 2

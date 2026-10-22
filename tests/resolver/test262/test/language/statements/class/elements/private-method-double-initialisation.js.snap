@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Base ("Base") -> ScopeId(2)
-o ("o") -> ScopeId(4)
-o ("o") -> ScopeId(4)
-C ("C") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
+573 -> 1
+591 -> 2
+607 -> 2
+623 -> 3
+636 -> 1
+659 -> 4
+672 -> 3
+676 -> 4
+686 -> 0
+703 -> 0
+725 -> 3
+729 -> 4

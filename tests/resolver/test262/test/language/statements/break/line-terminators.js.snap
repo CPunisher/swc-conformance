@@ -1,34 +1,24 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-FOR1 ("FOR1") -> ScopeId(4294967295)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-LABEL1 ("LABEL1") -> ScopeId(4294967295)
-FOR1 ("FOR1") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-FOR2 ("FOR2") -> ScopeId(4294967295)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-LABEL2 ("LABEL2") -> ScopeId(4294967295)
-FOR2 ("FOR2") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-FOR3 ("FOR3") -> ScopeId(4294967295)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-LABEL3 ("LABEL3") -> ScopeId(4294967295)
-FOR3 ("FOR3") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-FOR4 ("FOR4") -> ScopeId(4294967295)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-LABEL4 ("LABEL4") -> ScopeId(4294967295)
-FOR4 ("FOR4") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
+397 -> 1
+401 -> 1
+405 -> 1
+440 -> 0
+465 -> 0
+477 -> 1
+607 -> 1
+611 -> 1
+615 -> 1
+650 -> 0
+675 -> 0
+687 -> 1
+817 -> 1
+821 -> 1
+825 -> 1
+862 -> 0
+887 -> 0
+899 -> 1
+1029 -> 1
+1033 -> 1
+1037 -> 1
+1074 -> 0
+1099 -> 0
+1111 -> 1

@@ -1,66 +1,64 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fin ("fin") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-er1 ("er1") -> ScopeId(6)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-er1 ("er1") -> ScopeId(12)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-er1 ("er1") -> ScopeId(19)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-fin ("fin") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-er1 ("er1") -> ScopeId(31)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-fin6 ("fin6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+345 -> 1
+358 -> 2
+362 -> 2
+366 -> 2
+383 -> 2
+417 -> 3
+439 -> 1
+452 -> 1
+465 -> 1
+496 -> 0
+605 -> 4
+612 -> 5
+625 -> 2
+629 -> 2
+633 -> 2
+677 -> 6
+686 -> 4
+728 -> 5
+742 -> 5
+756 -> 5
+787 -> 0
+839 -> 4
+870 -> 0
+951 -> 7
+958 -> 8
+971 -> 2
+975 -> 2
+979 -> 2
+1023 -> 9
+1032 -> 7
+1060 -> 8
+1088 -> 8
+1101 -> 8
+1132 -> 0
+1184 -> 7
+1215 -> 0
+1297 -> 1
+1310 -> 2
+1314 -> 2
+1318 -> 2
+1335 -> 2
+1376 -> 1
+1389 -> 1
+1403 -> 1
+1434 -> 0
+1537 -> 10
+1551 -> 10
+1556 -> 10
+1602 -> 11
+1611 -> 10
+1638 -> 10
+1652 -> 10
+1684 -> 0
+1754 -> 12
+1761 -> 13
+1775 -> 12
+1780 -> 12
+1800 -> 12
+1844 -> 13
+1872 -> 13
+1887 -> 13
+1918 -> 0
+1970 -> 12
+2002 -> 0

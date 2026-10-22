@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-first ("first") -> ScopeId(2)
-second ("second") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-first ("first") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-second ("second") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(5)
-iter ("iter") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-first ("first") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-second ("second") -> ScopeId(2)
+1871 -> 1
+1887 -> 2
+1901 -> 3
+1925 -> 1
+1956 -> 0
+1968 -> 2
+1987 -> 0
+2007 -> 0
+2040 -> 4
+2048 -> 3
+2081 -> 3
+2096 -> 0
+2112 -> 1
+2124 -> 0
+2141 -> 2

@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-createClass ("createClass") -> ScopeId(2)
-classFactoryFunction ("classFactoryFunction") -> ScopeId(3)
-Function ("Function") -> ScopeId(1)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-classFactoryFunction ("classFactoryFunction") -> ScopeId(3)
-C1 ("C1") -> ScopeId(2)
-createClass ("createClass") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-createClass ("createClass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
+1622 -> 1
+1733 -> 2
+1776 -> 3
+1791 -> 0
+1813 -> 1
+1845 -> 3
+1859 -> 4
+1873 -> 2
+1883 -> 5
+1897 -> 2
+1908 -> 0
+1921 -> 4
+1950 -> 0
+1963 -> 5
+1993 -> 0
+2010 -> 0
+2029 -> 4
+2044 -> 5
+2103 -> 0
+2120 -> 0
+2139 -> 5
+2154 -> 4

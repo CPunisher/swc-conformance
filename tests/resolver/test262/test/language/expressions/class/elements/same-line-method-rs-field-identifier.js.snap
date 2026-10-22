@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1376 -> 1
+1468 -> 2
+1476 -> 1
+1487 -> 0
+1499 -> 2
+1516 -> 0
+1528 -> 2
+1533 -> 1
+1554 -> 0
+1565 -> 0
+1597 -> 2
+1681 -> 0
+1683 -> 1
+1769 -> 2
+1778 -> 2
+1787 -> 2
+1801 -> 2
+1815 -> 2
+1835 -> 2
+1860 -> 0
+1872 -> 2
+1886 -> 0
+1898 -> 2
+1912 -> 0
+1924 -> 2
+1943 -> 0
+1955 -> 2
+1974 -> 0
+1986 -> 2
+2011 -> 0
+2023 -> 2

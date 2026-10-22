@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-TrojanBase ("TrojanBase") -> ScopeId(2)
-obj ("obj") -> ScopeId(4)
-obj ("obj") -> ScopeId(4)
-ClassWithPrivateField ("ClassWithPrivateField") -> ScopeId(2)
-obj ("obj") -> ScopeId(6)
-obj ("obj") -> ScopeId(6)
-obj ("obj") -> ScopeId(7)
-obj ("obj") -> ScopeId(7)
-TrojanBase ("TrojanBase") -> ScopeId(2)
-t ("t") -> ScopeId(2)
-ClassWithPrivateField ("ClassWithPrivateField") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ClassWithPrivateField ("ClassWithPrivateField") -> ScopeId(2)
-t ("t") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ClassWithPrivateField ("ClassWithPrivateField") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-ClassWithPrivateMethod ("ClassWithPrivateMethod") -> ScopeId(2)
-obj ("obj") -> ScopeId(12)
-obj ("obj") -> ScopeId(12)
-obj ("obj") -> ScopeId(14)
-obj ("obj") -> ScopeId(14)
-TrojanBase ("TrojanBase") -> ScopeId(2)
-m ("m") -> ScopeId(2)
-ClassWithPrivateMethod ("ClassWithPrivateMethod") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ClassWithPrivateMethod ("ClassWithPrivateMethod") -> ScopeId(2)
-m ("m") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ClassWithPrivateMethod ("ClassWithPrivateMethod") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-ClassWithPrivateAccessor ("ClassWithPrivateAccessor") -> ScopeId(2)
-obj ("obj") -> ScopeId(19)
-obj ("obj") -> ScopeId(19)
-obj ("obj") -> ScopeId(21)
-obj ("obj") -> ScopeId(21)
-TrojanBase ("TrojanBase") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-ClassWithPrivateAccessor ("ClassWithPrivateAccessor") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ClassWithPrivateAccessor ("ClassWithPrivateAccessor") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ClassWithPrivateAccessor ("ClassWithPrivateAccessor") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
+647 -> 1
+667 -> 2
+685 -> 2
+776 -> 3
+795 -> 1
+824 -> 4
+841 -> 4
+884 -> 5
+902 -> 5
+923 -> 6
+951 -> 3
+1001 -> 0
+1033 -> 3
+1039 -> 6
+1115 -> 0
+1132 -> 0
+1175 -> 3
+1182 -> 0
+1291 -> 7
+1310 -> 1
+1330 -> 8
+1347 -> 8
+1466 -> 9
+1484 -> 9
+1517 -> 10
+1546 -> 7
+1596 -> 0
+1629 -> 7
+1635 -> 10
+1711 -> 0
+1728 -> 0
+1772 -> 7
+1779 -> 0
+1892 -> 11
+1911 -> 1
+1931 -> 12
+1948 -> 12
+2075 -> 13
+2093 -> 13
+2126 -> 14
+2157 -> 11
+2207 -> 0
+2242 -> 11
+2248 -> 14
+2324 -> 0
+2341 -> 0
+2387 -> 11
+2394 -> 0

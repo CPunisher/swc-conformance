@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-caught ("caught") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-err ("err") -> ScopeId(6)
-caught ("caught") -> ScopeId(2)
-err ("err") -> ScopeId(6)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-caught ("caught") -> ScopeId(2)
-TypeError ("TypeError") -> ScopeId(1)
+1455 -> 1
+1464 -> 2
+1510 -> 0
+1519 -> 2
+1580 -> 3
+1596 -> 1
+1602 -> 3
+1618 -> 2
+1646 -> 0
+1670 -> 1
+1689 -> 0
+1706 -> 1
+1729 -> 0

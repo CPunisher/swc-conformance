@@ -1,542 +1,539 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-createStore ("createStore") -> ScopeId(2)
-HIGHLIGHT_TAGS ("HIGHLIGHT_TAGS") -> ScopeId(2)
-hasMultipleIndices ("hasMultipleIndices") -> ScopeId(2)
-ReactVersion ("ReactVersion") -> ScopeId(2)
-version ("version") -> ScopeId(1)
-version ("version") -> ScopeId(2)
-defer ("defer") -> ScopeId(2)
-createWidgetsManager ("createWidgetsManager") -> ScopeId(2)
-onWidgetsUpdate ("onWidgetsUpdate") -> ScopeId(3)
-widgets ("widgets") -> ScopeId(3)
-scheduled ("scheduled") -> ScopeId(3)
-scheduleUpdate ("scheduleUpdate") -> ScopeId(3)
-scheduled ("scheduled") -> ScopeId(3)
-scheduled ("scheduled") -> ScopeId(3)
-defer ("defer") -> ScopeId(2)
-scheduled ("scheduled") -> ScopeId(3)
-onWidgetsUpdate ("onWidgetsUpdate") -> ScopeId(3)
-widget ("widget") -> ScopeId(8)
-widgets ("widgets") -> ScopeId(3)
-widget ("widget") -> ScopeId(8)
-scheduleUpdate ("scheduleUpdate") -> ScopeId(3)
-unregisterWidget ("unregisterWidget") -> ScopeId(9)
-widgets ("widgets") -> ScopeId(3)
-widgets ("widgets") -> ScopeId(3)
-widget ("widget") -> ScopeId(8)
-scheduleUpdate ("scheduleUpdate") -> ScopeId(3)
-scheduleUpdate ("scheduleUpdate") -> ScopeId(3)
-widgets ("widgets") -> ScopeId(3)
-addAlgoliaAgents ("addAlgoliaAgents") -> ScopeId(2)
-searchClient ("searchClient") -> ScopeId(12)
-searchClient ("searchClient") -> ScopeId(12)
-searchClient ("searchClient") -> ScopeId(12)
-ReactVersion ("ReactVersion") -> ScopeId(2)
-searchClient ("searchClient") -> ScopeId(12)
-version ("version") -> ScopeId(2)
-isMultiIndexContext ("isMultiIndexContext") -> ScopeId(2)
-widget ("widget") -> ScopeId(14)
-hasMultipleIndices ("hasMultipleIndices") -> ScopeId(2)
-widget ("widget") -> ScopeId(14)
-widget ("widget") -> ScopeId(14)
-isTargetedIndexEqualIndex ("isTargetedIndexEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(16)
-indexId ("indexId") -> ScopeId(16)
-widget ("widget") -> ScopeId(16)
-indexId ("indexId") -> ScopeId(16)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-widget ("widget") -> ScopeId(17)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(17)
-isIndexWidgetEqualIndex ("isIndexWidgetEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(18)
-indexId ("indexId") -> ScopeId(18)
-widget ("widget") -> ScopeId(18)
-indexId ("indexId") -> ScopeId(18)
-sortIndexWidgetsFirst ("sortIndexWidgetsFirst") -> ScopeId(2)
-firstWidget ("firstWidget") -> ScopeId(19)
-secondWidget ("secondWidget") -> ScopeId(19)
-isFirstWidgetIndex ("isFirstWidgetIndex") -> ScopeId(19)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-firstWidget ("firstWidget") -> ScopeId(19)
-isSecondWidgetIndex ("isSecondWidgetIndex") -> ScopeId(19)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-secondWidget ("secondWidget") -> ScopeId(19)
-isFirstWidgetIndex ("isFirstWidgetIndex") -> ScopeId(19)
-isSecondWidgetIndex ("isSecondWidgetIndex") -> ScopeId(19)
-isFirstWidgetIndex ("isFirstWidgetIndex") -> ScopeId(19)
-isSecondWidgetIndex ("isSecondWidgetIndex") -> ScopeId(19)
-serializeQueryParameters ("serializeQueryParameters") -> ScopeId(2)
-parameters ("parameters") -> ScopeId(22)
-isObjectOrArray ("isObjectOrArray") -> ScopeId(22)
-value ("value") -> ScopeId(23)
-Object ("Object") -> ScopeId(1)
-value ("value") -> ScopeId(23)
-Object ("Object") -> ScopeId(1)
-value ("value") -> ScopeId(23)
-encode ("encode") -> ScopeId(22)
-format ("format") -> ScopeId(24)
-args ("args") -> ScopeId(24)
-i ("i") -> ScopeId(24)
-format ("format") -> ScopeId(24)
-encodeURIComponent ("encodeURIComponent") -> ScopeId(1)
-args ("args") -> ScopeId(24)
-i ("i") -> ScopeId(24)
-Object ("Object") -> ScopeId(1)
-parameters ("parameters") -> ScopeId(22)
-key ("key") -> ScopeId(26)
-encode ("encode") -> ScopeId(22)
-key ("key") -> ScopeId(26)
-isObjectOrArray ("isObjectOrArray") -> ScopeId(22)
-parameters ("parameters") -> ScopeId(22)
-key ("key") -> ScopeId(26)
-JSON ("JSON") -> ScopeId(1)
-parameters ("parameters") -> ScopeId(22)
-key ("key") -> ScopeId(26)
-parameters ("parameters") -> ScopeId(22)
-key ("key") -> ScopeId(26)
-createInstantSearchManager ("createInstantSearchManager") -> ScopeId(2)
-indexName ("indexName") -> ScopeId(27)
-initialState ("initialState") -> ScopeId(27)
-searchClient ("searchClient") -> ScopeId(27)
-resultsState ("resultsState") -> ScopeId(27)
-stalledSearchDelay ("stalledSearchDelay") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-searchClient ("searchClient") -> ScopeId(27)
-indexName ("indexName") -> ScopeId(27)
-HIGHLIGHT_TAGS ("HIGHLIGHT_TAGS") -> ScopeId(2)
-addAlgoliaAgents ("addAlgoliaAgents") -> ScopeId(2)
-searchClient ("searchClient") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-handleNewSearch ("handleNewSearch") -> ScopeId(27)
-handleSearchSuccess ("handleSearchSuccess") -> ScopeId(27)
-indexName ("indexName") -> ScopeId(27)
-handleSearchError ("handleSearchError") -> ScopeId(27)
-skip ("skip") -> ScopeId(27)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-initialSearchParameters ("initialSearchParameters") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-createWidgetsManager ("createWidgetsManager") -> ScopeId(2)
-onWidgetsUpdate ("onWidgetsUpdate") -> ScopeId(27)
-hydrateSearchClient ("hydrateSearchClient") -> ScopeId(27)
-searchClient ("searchClient") -> ScopeId(27)
-resultsState ("resultsState") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-createStore ("createStore") -> ScopeId(2)
-initialState ("initialState") -> ScopeId(27)
-hydrateMetadata ("hydrateMetadata") -> ScopeId(2)
-resultsState ("resultsState") -> ScopeId(27)
-hydrateResultsState ("hydrateResultsState") -> ScopeId(27)
-resultsState ("resultsState") -> ScopeId(27)
-skipSearch ("skipSearch") -> ScopeId(27)
-skip ("skip") -> ScopeId(27)
-updateClient ("updateClient") -> ScopeId(27)
-client ("client") -> ScopeId(33)
-addAlgoliaAgents ("addAlgoliaAgents") -> ScopeId(2)
-client ("client") -> ScopeId(33)
-helper ("helper") -> ScopeId(27)
-client ("client") -> ScopeId(33)
-search ("search") -> ScopeId(27)
-clearCache ("clearCache") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-search ("search") -> ScopeId(27)
-getMetadata ("getMetadata") -> ScopeId(27)
-state ("state") -> ScopeId(35)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-widget ("widget") -> ScopeId(36)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(36)
-widget ("widget") -> ScopeId(37)
-widget ("widget") -> ScopeId(37)
-state ("state") -> ScopeId(35)
-getSearchParameters ("getSearchParameters") -> ScopeId(27)
-sharedParameters ("sharedParameters") -> ScopeId(38)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-widget ("widget") -> ScopeId(39)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(39)
-widget ("widget") -> ScopeId(40)
-isMultiIndexContext ("isMultiIndexContext") -> ScopeId(2)
-widget ("widget") -> ScopeId(40)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-widget ("widget") -> ScopeId(40)
-res ("res") -> ScopeId(41)
-widget ("widget") -> ScopeId(41)
-widget ("widget") -> ScopeId(41)
-res ("res") -> ScopeId(41)
-initialSearchParameters ("initialSearchParameters") -> ScopeId(27)
-mainParameters ("mainParameters") -> ScopeId(38)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-widget ("widget") -> ScopeId(42)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(42)
-widget ("widget") -> ScopeId(43)
-targetedIndexEqualMainIndex ("targetedIndexEqualMainIndex") -> ScopeId(43)
-isMultiIndexContext ("isMultiIndexContext") -> ScopeId(2)
-widget ("widget") -> ScopeId(43)
-isTargetedIndexEqualIndex ("isTargetedIndexEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(43)
-indexName ("indexName") -> ScopeId(27)
-subIndexEqualMainIndex ("subIndexEqualMainIndex") -> ScopeId(43)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-widget ("widget") -> ScopeId(43)
-isIndexWidgetEqualIndex ("isIndexWidgetEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(43)
-indexName ("indexName") -> ScopeId(27)
-targetedIndexEqualMainIndex ("targetedIndexEqualMainIndex") -> ScopeId(43)
-subIndexEqualMainIndex ("subIndexEqualMainIndex") -> ScopeId(43)
-sortIndexWidgetsFirst ("sortIndexWidgetsFirst") -> ScopeId(2)
-res ("res") -> ScopeId(44)
-widget ("widget") -> ScopeId(44)
-widget ("widget") -> ScopeId(44)
-res ("res") -> ScopeId(44)
-sharedParameters ("sharedParameters") -> ScopeId(38)
-derivedIndices ("derivedIndices") -> ScopeId(38)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-widget ("widget") -> ScopeId(45)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(45)
-widget ("widget") -> ScopeId(46)
-targetedIndexNotEqualMainIndex ("targetedIndexNotEqualMainIndex") -> ScopeId(46)
-isMultiIndexContext ("isMultiIndexContext") -> ScopeId(2)
-widget ("widget") -> ScopeId(46)
-isTargetedIndexEqualIndex ("isTargetedIndexEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(46)
-indexName ("indexName") -> ScopeId(27)
-subIndexNotEqualMainIndex ("subIndexNotEqualMainIndex") -> ScopeId(46)
-isIndexWidget ("isIndexWidget") -> ScopeId(2)
-widget ("widget") -> ScopeId(46)
-isIndexWidgetEqualIndex ("isIndexWidgetEqualIndex") -> ScopeId(2)
-widget ("widget") -> ScopeId(46)
-indexName ("indexName") -> ScopeId(27)
-targetedIndexNotEqualMainIndex ("targetedIndexNotEqualMainIndex") -> ScopeId(46)
-subIndexNotEqualMainIndex ("subIndexNotEqualMainIndex") -> ScopeId(46)
-sortIndexWidgetsFirst ("sortIndexWidgetsFirst") -> ScopeId(2)
-indices ("indices") -> ScopeId(47)
-widget ("widget") -> ScopeId(47)
-indexId ("indexId") -> ScopeId(47)
-isMultiIndexContext ("isMultiIndexContext") -> ScopeId(2)
-widget ("widget") -> ScopeId(47)
-widget ("widget") -> ScopeId(47)
-widget ("widget") -> ScopeId(47)
-widgets ("widgets") -> ScopeId(47)
-indices ("indices") -> ScopeId(47)
-indexId ("indexId") -> ScopeId(47)
-indices ("indices") -> ScopeId(47)
-indexId ("indexId") -> ScopeId(47)
-widgets ("widgets") -> ScopeId(47)
-widget ("widget") -> ScopeId(47)
-derivedParameters ("derivedParameters") -> ScopeId(38)
-Object ("Object") -> ScopeId(1)
-derivedIndices ("derivedIndices") -> ScopeId(38)
-indexId ("indexId") -> ScopeId(50)
-derivedIndices ("derivedIndices") -> ScopeId(38)
-indexId ("indexId") -> ScopeId(50)
-res ("res") -> ScopeId(52)
-widget ("widget") -> ScopeId(52)
-widget ("widget") -> ScopeId(52)
-res ("res") -> ScopeId(52)
-sharedParameters ("sharedParameters") -> ScopeId(38)
-indexId ("indexId") -> ScopeId(50)
-mainParameters ("mainParameters") -> ScopeId(38)
-derivedParameters ("derivedParameters") -> ScopeId(38)
-search ("search") -> ScopeId(27)
-skip ("skip") -> ScopeId(27)
-mainParameters ("mainParameters") -> ScopeId(55)
-derivedParameters ("derivedParameters") -> ScopeId(55)
-getSearchParameters ("getSearchParameters") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-derivedHelper ("derivedHelper") -> ScopeId(56)
-derivedHelper ("derivedHelper") -> ScopeId(56)
-derivedParameters ("derivedParameters") -> ScopeId(55)
-indexId ("indexId") -> ScopeId(57)
-parameters ("parameters") -> ScopeId(57)
-derivedHelper ("derivedHelper") -> ScopeId(57)
-helper ("helper") -> ScopeId(27)
-parameters ("parameters") -> ScopeId(57)
-derivedHelper ("derivedHelper") -> ScopeId(57)
-handleSearchSuccess ("handleSearchSuccess") -> ScopeId(27)
-indexId ("indexId") -> ScopeId(57)
-handleSearchError ("handleSearchError") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-mainParameters ("mainParameters") -> ScopeId(55)
-helper ("helper") -> ScopeId(27)
-handleSearchSuccess ("handleSearchSuccess") -> ScopeId(27)
-indexId ("indexId") -> ScopeId(60)
-event ("event") -> ScopeId(61)
-state ("state") -> ScopeId(61)
-store ("store") -> ScopeId(27)
-isDerivedHelpersEmpty ("isDerivedHelpersEmpty") -> ScopeId(61)
-helper ("helper") -> ScopeId(27)
-results ("results") -> ScopeId(61)
-state ("state") -> ScopeId(61)
-state ("state") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-isDerivedHelpersEmpty ("isDerivedHelpersEmpty") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-isDerivedHelpersEmpty ("isDerivedHelpersEmpty") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-indexId ("indexId") -> ScopeId(60)
-event ("event") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-event ("event") -> ScopeId(61)
-currentState ("currentState") -> ScopeId(61)
-store ("store") -> ScopeId(27)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(61)
-currentState ("currentState") -> ScopeId(61)
-helper ("helper") -> ScopeId(27)
-clearTimeout ("clearTimeout") -> ScopeId(1)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(61)
-resultsFacetValues ("resultsFacetValues") -> ScopeId(61)
-partialState ("partialState") -> ScopeId(61)
-currentState ("currentState") -> ScopeId(61)
-store ("store") -> ScopeId(27)
-partialState ("partialState") -> ScopeId(61)
-results ("results") -> ScopeId(61)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(61)
-handleSearchError ("handleSearchError") -> ScopeId(27)
-error ("error") -> ScopeId(69)
-currentState ("currentState") -> ScopeId(69)
-store ("store") -> ScopeId(27)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(69)
-currentState ("currentState") -> ScopeId(69)
-helper ("helper") -> ScopeId(27)
-clearTimeout ("clearTimeout") -> ScopeId(1)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(69)
-resultsFacetValues ("resultsFacetValues") -> ScopeId(69)
-partialState ("partialState") -> ScopeId(69)
-currentState ("currentState") -> ScopeId(69)
-store ("store") -> ScopeId(27)
-partialState ("partialState") -> ScopeId(69)
-nextIsSearchStalled ("nextIsSearchStalled") -> ScopeId(69)
-error ("error") -> ScopeId(69)
-handleNewSearch ("handleNewSearch") -> ScopeId(27)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-stalledSearchTimer ("stalledSearchTimer") -> ScopeId(27)
-setTimeout ("setTimeout") -> ScopeId(1)
-resultsFacetValues ("resultsFacetValues") -> ScopeId(74)
-partialState ("partialState") -> ScopeId(74)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-partialState ("partialState") -> ScopeId(74)
-stalledSearchDelay ("stalledSearchDelay") -> ScopeId(27)
-hydrateSearchClient ("hydrateSearchClient") -> ScopeId(27)
-client ("client") -> ScopeId(76)
-results ("results") -> ScopeId(76)
-results ("results") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-baseMethod ("baseMethod") -> ScopeId(79)
-client ("client") -> ScopeId(76)
-client ("client") -> ScopeId(76)
-requests ("requests") -> ScopeId(80)
-methodArgs ("methodArgs") -> ScopeId(80)
-requestsWithSerializedParams ("requestsWithSerializedParams") -> ScopeId(80)
-requests ("requests") -> ScopeId(80)
-request ("request") -> ScopeId(81)
-request ("request") -> ScopeId(81)
-serializeQueryParameters ("serializeQueryParameters") -> ScopeId(2)
-request ("request") -> ScopeId(81)
-client ("client") -> ScopeId(76)
-requestsWithSerializedParams ("requestsWithSerializedParams") -> ScopeId(80)
-methodArgs ("methodArgs") -> ScopeId(80)
-baseMethod ("baseMethod") -> ScopeId(79)
-requests ("requests") -> ScopeId(80)
-methodArgs ("methodArgs") -> ScopeId(80)
-Array ("Array") -> ScopeId(1)
-results ("results") -> ScopeId(76)
-hydrateSearchClientWithMultiIndexRequest ("hydrateSearchClientWithMultiIndexRequest") -> ScopeId(27)
-client ("client") -> ScopeId(76)
-results ("results") -> ScopeId(76)
-hydrateSearchClientWithSingleIndexRequest ("hydrateSearchClientWithSingleIndexRequest") -> ScopeId(27)
-client ("client") -> ScopeId(76)
-results ("results") -> ScopeId(76)
-hydrateSearchClientWithMultiIndexRequest ("hydrateSearchClientWithMultiIndexRequest") -> ScopeId(27)
-client ("client") -> ScopeId(86)
-results ("results") -> ScopeId(86)
-client ("client") -> ScopeId(86)
-client ("client") -> ScopeId(86)
-results ("results") -> ScopeId(86)
-acc ("acc") -> ScopeId(89)
-result ("result") -> ScopeId(89)
-acc ("acc") -> ScopeId(89)
-result ("result") -> ScopeId(89)
-request ("request") -> ScopeId(90)
-request ("request") -> ScopeId(90)
-request ("request") -> ScopeId(90)
-results ("results") -> ScopeId(86)
-acc ("acc") -> ScopeId(93)
-result ("result") -> ScopeId(93)
-acc ("acc") -> ScopeId(93)
-result ("result") -> ScopeId(93)
-key ("key") -> ScopeId(86)
-JSON ("JSON") -> ScopeId(1)
-results ("results") -> ScopeId(86)
-acc ("acc") -> ScopeId(95)
-result ("result") -> ScopeId(95)
-acc ("acc") -> ScopeId(95)
-result ("result") -> ScopeId(95)
-request ("request") -> ScopeId(96)
-request ("request") -> ScopeId(96)
-request ("request") -> ScopeId(96)
-client ("client") -> ScopeId(86)
-client ("client") -> ScopeId(86)
-key ("key") -> ScopeId(86)
-JSON ("JSON") -> ScopeId(1)
-results ("results") -> ScopeId(86)
-acc ("acc") -> ScopeId(100)
-result ("result") -> ScopeId(100)
-acc ("acc") -> ScopeId(100)
-result ("result") -> ScopeId(100)
-hydrateSearchClientWithSingleIndexRequest ("hydrateSearchClientWithSingleIndexRequest") -> ScopeId(27)
-client ("client") -> ScopeId(101)
-results ("results") -> ScopeId(101)
-client ("client") -> ScopeId(101)
-client ("client") -> ScopeId(101)
-results ("results") -> ScopeId(101)
-request ("request") -> ScopeId(104)
-request ("request") -> ScopeId(104)
-request ("request") -> ScopeId(104)
-results ("results") -> ScopeId(101)
-key ("key") -> ScopeId(101)
-JSON ("JSON") -> ScopeId(1)
-results ("results") -> ScopeId(101)
-request ("request") -> ScopeId(108)
-request ("request") -> ScopeId(108)
-request ("request") -> ScopeId(108)
-client ("client") -> ScopeId(101)
-client ("client") -> ScopeId(101)
-key ("key") -> ScopeId(101)
-JSON ("JSON") -> ScopeId(1)
-results ("results") -> ScopeId(101)
-hydrateResultsState ("hydrateResultsState") -> ScopeId(27)
-results ("results") -> ScopeId(112)
-results ("results") -> ScopeId(112)
-Array ("Array") -> ScopeId(1)
-results ("results") -> ScopeId(112)
-results ("results") -> ScopeId(112)
-acc ("acc") -> ScopeId(115)
-result ("result") -> ScopeId(115)
-acc ("acc") -> ScopeId(115)
-result ("result") -> ScopeId(115)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-result ("result") -> ScopeId(115)
-result ("result") -> ScopeId(115)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-algoliasearchHelper ("algoliasearchHelper") -> ScopeId(2)
-results ("results") -> ScopeId(112)
-results ("results") -> ScopeId(112)
-onWidgetsUpdate ("onWidgetsUpdate") -> ScopeId(27)
-metadata ("metadata") -> ScopeId(118)
-getMetadata ("getMetadata") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-metadata ("metadata") -> ScopeId(118)
-search ("search") -> ScopeId(27)
-transitionState ("transitionState") -> ScopeId(27)
-nextSearchState ("nextSearchState") -> ScopeId(120)
-searchState ("searchState") -> ScopeId(120)
-store ("store") -> ScopeId(27)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-widget ("widget") -> ScopeId(121)
-Boolean ("Boolean") -> ScopeId(1)
-widget ("widget") -> ScopeId(121)
-res ("res") -> ScopeId(122)
-widget ("widget") -> ScopeId(122)
-widget ("widget") -> ScopeId(122)
-searchState ("searchState") -> ScopeId(120)
-res ("res") -> ScopeId(122)
-nextSearchState ("nextSearchState") -> ScopeId(120)
-onExternalStateUpdate ("onExternalStateUpdate") -> ScopeId(27)
-nextSearchState ("nextSearchState") -> ScopeId(123)
-metadata ("metadata") -> ScopeId(123)
-getMetadata ("getMetadata") -> ScopeId(27)
-nextSearchState ("nextSearchState") -> ScopeId(123)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-nextSearchState ("nextSearchState") -> ScopeId(123)
-metadata ("metadata") -> ScopeId(123)
-search ("search") -> ScopeId(27)
-onSearchForFacetValues ("onSearchForFacetValues") -> ScopeId(27)
-facetName ("facetName") -> ScopeId(125)
-query ("query") -> ScopeId(125)
-maxFacetHits ("maxFacetHits") -> ScopeId(125)
-maxFacetHitsWithinRange ("maxFacetHitsWithinRange") -> ScopeId(125)
-Math ("Math") -> ScopeId(1)
-Math ("Math") -> ScopeId(1)
-maxFacetHits ("maxFacetHits") -> ScopeId(125)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-helper ("helper") -> ScopeId(27)
-facetName ("facetName") -> ScopeId(125)
-query ("query") -> ScopeId(125)
-maxFacetHitsWithinRange ("maxFacetHitsWithinRange") -> ScopeId(125)
-content ("content") -> ScopeId(127)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-facetName ("facetName") -> ScopeId(125)
-content ("content") -> ScopeId(127)
-query ("query") -> ScopeId(125)
-error ("error") -> ScopeId(130)
-store ("store") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-error ("error") -> ScopeId(130)
-error ("error") -> ScopeId(132)
-setTimeout ("setTimeout") -> ScopeId(1)
-error ("error") -> ScopeId(132)
-updateIndex ("updateIndex") -> ScopeId(27)
-newIndex ("newIndex") -> ScopeId(134)
-initialSearchParameters ("initialSearchParameters") -> ScopeId(27)
-initialSearchParameters ("initialSearchParameters") -> ScopeId(27)
-newIndex ("newIndex") -> ScopeId(134)
-getWidgetsIds ("getWidgetsIds") -> ScopeId(27)
-store ("store") -> ScopeId(27)
-res ("res") -> ScopeId(136)
-meta ("meta") -> ScopeId(136)
-meta ("meta") -> ScopeId(136)
-res ("res") -> ScopeId(136)
-meta ("meta") -> ScopeId(136)
-res ("res") -> ScopeId(136)
-store ("store") -> ScopeId(27)
-widgetsManager ("widgetsManager") -> ScopeId(27)
-getWidgetsIds ("getWidgetsIds") -> ScopeId(27)
-getSearchParameters ("getSearchParameters") -> ScopeId(27)
-onSearchForFacetValues ("onSearchForFacetValues") -> ScopeId(27)
-onExternalStateUpdate ("onExternalStateUpdate") -> ScopeId(27)
-transitionState ("transitionState") -> ScopeId(27)
-updateClient ("updateClient") -> ScopeId(27)
-updateIndex ("updateIndex") -> ScopeId(27)
-clearCache ("clearCache") -> ScopeId(27)
-skipSearch ("skipSearch") -> ScopeId(27)
-hydrateMetadata ("hydrateMetadata") -> ScopeId(2)
-resultsState ("resultsState") -> ScopeId(138)
-resultsState ("resultsState") -> ScopeId(138)
-resultsState ("resultsState") -> ScopeId(138)
-datum ("datum") -> ScopeId(140)
-datum ("datum") -> ScopeId(140)
-datum ("datum") -> ScopeId(140)
-datum ("datum") -> ScopeId(140)
-item ("item") -> ScopeId(144)
-item ("item") -> ScopeId(144)
-item ("item") -> ScopeId(144)
-item ("item") -> ScopeId(144)
-nestedItem ("nestedItem") -> ScopeId(148)
-nestedItem ("nestedItem") -> ScopeId(148)
+26 -> 1
+74 -> 2
+120 -> 3
+170 -> 4
+226 -> 5
+257 -> 6
+290 -> 7
+339 -> 8
+355 -> 9
+376 -> 10
+431 -> 11
+617 -> 12
+643 -> 11
+694 -> 11
+716 -> 7
+746 -> 11
+783 -> 9
+848 -> 13
+871 -> 10
+883 -> 13
+912 -> 12
+960 -> 14
+988 -> 10
+1003 -> 10
+1018 -> 13
+1055 -> 12
+1115 -> 12
+1166 -> 10
+1214 -> 15
+1227 -> 16
+1258 -> 16
+1313 -> 16
+1352 -> 5
+1378 -> 16
+1426 -> 6
+1466 -> 17
+1476 -> 18
+1503 -> 4
+1525 -> 18
+1579 -> 18
+1644 -> 19
+1654 -> 20
+1663 -> 21
+1678 -> 20
+1728 -> 21
+1937 -> 22
+1947 -> 23
+1959 -> 0
+1966 -> 23
+2012 -> 24
+2022 -> 25
+2031 -> 26
+2046 -> 25
+2072 -> 26
+2102 -> 27
+2117 -> 28
+2131 -> 29
+2166 -> 30
+2182 -> 22
+2194 -> 28
+2226 -> 31
+2242 -> 22
+2255 -> 29
+2285 -> 30
+2309 -> 31
+2365 -> 30
+2388 -> 31
+2633 -> 32
+2644 -> 33
+2673 -> 34
+2682 -> 35
+2701 -> 0
+2731 -> 35
+2772 -> 0
+2802 -> 35
+2843 -> 36
+2853 -> 37
+2862 -> 38
+2882 -> 39
+2909 -> 37
+2949 -> 0
+2954 -> 38
+2956 -> 39
+2988 -> 0
+3004 -> 33
+3023 -> 40
+3046 -> 36
+3092 -> 40
+3125 -> 34
+3136 -> 33
+3140 -> 40
+3169 -> 0
+3190 -> 33
+3194 -> 40
+3229 -> 33
+3233 -> 40
+3833 -> 41
+3849 -> 42
+3867 -> 43
+3890 -> 44
+3908 -> 45
+3932 -> 46
+3955 -> 47
+3977 -> 1
+3990 -> 44
+4001 -> 42
+4030 -> 3
+4061 -> 15
+4074 -> 44
+4088 -> 47
+4126 -> 48
+4169 -> 49
+4190 -> 42
+4233 -> 50
+4249 -> 51
+4285 -> 52
+4325 -> 53
+4334 -> 47
+4367 -> 54
+4390 -> 8
+4406 -> 55
+4433 -> 56
+4446 -> 44
+4460 -> 45
+4479 -> 57
+4493 -> 2
+4525 -> 43
+4560 -> 58
+4573 -> 45
+4612 -> 59
+4625 -> 45
+4778 -> 60
+4795 -> 51
+4836 -> 61
+4843 -> 62
+4871 -> 15
+4878 -> 62
+4895 -> 47
+4912 -> 62
+4929 -> 63
+4963 -> 64
+4982 -> 47
+5011 -> 63
+5046 -> 65
+5052 -> 66
+5085 -> 54
+5139 -> 67
+5151 -> 0
+5158 -> 67
+5197 -> 68
+5208 -> 68
+5226 -> 66
+5269 -> 69
+5304 -> 70
+5321 -> 54
+5375 -> 71
+5387 -> 0
+5394 -> 71
+5461 -> 72
+5506 -> 17
+5513 -> 72
+5532 -> 22
+5539 -> 72
+5596 -> 73
+5604 -> 74
+5615 -> 74
+5639 -> 73
+5681 -> 53
+5726 -> 75
+5743 -> 54
+5797 -> 76
+5809 -> 0
+5816 -> 76
+5866 -> 77
+5922 -> 78
+5964 -> 17
+5971 -> 77
+6021 -> 19
+6028 -> 77
+6039 -> 42
+6087 -> 79
+6123 -> 22
+6130 -> 77
+6178 -> 24
+6185 -> 77
+6196 -> 42
+6250 -> 78
+6276 -> 79
+6497 -> 27
+6540 -> 80
+6548 -> 81
+6559 -> 81
+6583 -> 80
+6618 -> 70
+6663 -> 82
+6680 -> 54
+6734 -> 83
+6746 -> 0
+6753 -> 83
+6803 -> 84
+6862 -> 85
+6904 -> 17
+6911 -> 84
+6962 -> 19
+6969 -> 84
+6980 -> 42
+7031 -> 86
+7067 -> 22
+7074 -> 84
+7123 -> 24
+7130 -> 84
+7141 -> 42
+7220 -> 85
+7249 -> 86
+7488 -> 27
+7518 -> 87
+7526 -> 88
+7562 -> 89
+7584 -> 17
+7591 -> 88
+7621 -> 88
+7688 -> 88
+7734 -> 90
+7744 -> 87
+7752 -> 89
+7817 -> 87
+7847 -> 89
+7857 -> 90
+7871 -> 88
+7945 -> 91
+7954 -> 0
+7974 -> 82
+8001 -> 92
+8051 -> 82
+8059 -> 92
+8093 -> 93
+8101 -> 94
+8112 -> 94
+8136 -> 93
+8175 -> 70
+8218 -> 92
+8290 -> 75
+8321 -> 91
+8360 -> 63
+8382 -> 51
+8420 -> 95
+8439 -> 96
+8463 -> 69
+8487 -> 47
+8850 -> 47
+8896 -> 97
+9842 -> 97
+9899 -> 96
+9918 -> 98
+9930 -> 99
+9974 -> 100
+9983 -> 47
+10007 -> 99
+10040 -> 100
+10094 -> 49
+10104 -> 98
+10159 -> 50
+10197 -> 47
+10221 -> 95
+10243 -> 47
+10303 -> 49
+10313 -> 101
+10340 -> 102
+10370 -> 103
+10378 -> 57
+10430 -> 104
+10440 -> 47
+10488 -> 105
+10496 -> 103
+10512 -> 103
+10750 -> 105
+10791 -> 104
+10802 -> 105
+10832 -> 105
+10873 -> 104
+10900 -> 105
+10915 -> 105
+10925 -> 101
+10933 -> 102
+10989 -> 105
+10997 -> 102
+11052 -> 106
+11060 -> 57
+11108 -> 107
+11123 -> 106
+11164 -> 47
+11217 -> 0
+11236 -> 52
+11273 -> 52
+11317 -> 107
+11380 -> 108
+11397 -> 109
+11414 -> 106
+11434 -> 57
+11477 -> 109
+11502 -> 105
+11556 -> 107
+11685 -> 50
+11693 -> 110
+11725 -> 111
+11733 -> 57
+11778 -> 112
+11793 -> 111
+11830 -> 47
+11879 -> 0
+11898 -> 52
+11932 -> 112
+11987 -> 113
+12004 -> 114
+12021 -> 111
+12037 -> 57
+12076 -> 114
+12126 -> 112
+12145 -> 110
+12224 -> 48
+12260 -> 52
+12294 -> 52
+12307 -> 0
+12358 -> 115
+12375 -> 116
+12405 -> 57
+12440 -> 57
+12487 -> 116
+12585 -> 46
+12637 -> 56
+12644 -> 117
+12653 -> 118
+12677 -> 118
+12934 -> 117
+12956 -> 117
+12996 -> 117
+13023 -> 117
+13594 -> 117
+13617 -> 117
+13654 -> 117
+13707 -> 119
+13716 -> 117
+13743 -> 117
+13762 -> 120
+13777 -> 121
+13834 -> 122
+13845 -> 120
+13879 -> 123
+13921 -> 123
+13979 -> 32
+13987 -> 123
+14069 -> 117
+14225 -> 122
+14240 -> 121
+14335 -> 119
+14344 -> 120
+14359 -> 121
+14446 -> 0
+14462 -> 118
+14527 -> 124
+14534 -> 117
+14543 -> 118
+14634 -> 125
+14641 -> 117
+14650 -> 118
+14713 -> 124
+14720 -> 126
+14729 -> 127
+14853 -> 126
+14887 -> 126
+15035 -> 127
+15076 -> 128
+15084 -> 129
+15124 -> 128
+15175 -> 129
+15199 -> 130
+15265 -> 130
+15328 -> 130
+15566 -> 127
+15603 -> 131
+15611 -> 132
+15619 -> 131
+15633 -> 132
+16273 -> 133
+16309 -> 0
+16351 -> 127
+16380 -> 134
+16388 -> 135
+16416 -> 134
+16455 -> 135
+16479 -> 136
+16533 -> 136
+16584 -> 136
+16707 -> 126
+16739 -> 126
+16763 -> 133
+16770 -> 0
+16815 -> 127
+16848 -> 137
+16856 -> 138
+16864 -> 137
+16878 -> 138
+17022 -> 125
+17029 -> 139
+17038 -> 140
+17162 -> 139
+17196 -> 139
+17344 -> 140
+17368 -> 141
+17422 -> 141
+17473 -> 141
+17607 -> 140
+18195 -> 142
+18231 -> 0
+18273 -> 140
+18297 -> 143
+18339 -> 143
+18378 -> 143
+18433 -> 139
+18465 -> 139
+18489 -> 142
+18496 -> 0
+18541 -> 140
+18620 -> 59
+18628 -> 144
+18652 -> 144
+18709 -> 0
+18725 -> 144
+18764 -> 144
+18801 -> 145
+18809 -> 146
+18843 -> 145
+18872 -> 146
+18939 -> 1
+19006 -> 1
+19063 -> 146
+19135 -> 146
+19277 -> 1
+19328 -> 1
+19353 -> 144
+19381 -> 144
+19505 -> 55
+19532 -> 147
+19546 -> 65
+19552 -> 57
+19588 -> 57
+19620 -> 57
+19653 -> 147
+19855 -> 63
+19894 -> 148
+19910 -> 149
+19939 -> 150
+19947 -> 57
+19998 -> 54
+20052 -> 151
+20064 -> 0
+20071 -> 151
+20131 -> 152
+20139 -> 153
+20150 -> 153
+20178 -> 150
+20183 -> 152
+20217 -> 149
+20274 -> 154
+20290 -> 155
+20316 -> 156
+20330 -> 65
+20346 -> 155
+20363 -> 57
+20395 -> 57
+20444 -> 155
+20466 -> 156
+20524 -> 63
+20570 -> 157
+20582 -> 158
+20589 -> 159
+20603 -> 160
+20816 -> 161
+20823 -> 0
+20860 -> 0
+20877 -> 160
+20909 -> 57
+20941 -> 57
+21024 -> 47
+21068 -> 158
+21075 -> 159
+21100 -> 161
+21145 -> 162
+21177 -> 57
+21221 -> 57
+21409 -> 57
+21479 -> 158
+21489 -> 162
+21534 -> 159
+21628 -> 163
+21660 -> 57
+21704 -> 57
+21802 -> 163
+21885 -> 164
+22226 -> 0
+22266 -> 164
+22335 -> 165
+22344 -> 166
+22379 -> 53
+22405 -> 53
+22423 -> 166
+22565 -> 167
+22590 -> 57
+22665 -> 168
+22671 -> 169
+22707 -> 169
+22732 -> 168
+22744 -> 169
+22754 -> 168
+22823 -> 57
+22847 -> 54
+22870 -> 167
+22899 -> 69
+22931 -> 157
+22962 -> 154
+22987 -> 148
+23009 -> 61
+23030 -> 165
+23050 -> 64
+23070 -> 60
+23106 -> 58
+23119 -> 170
+23144 -> 170
+23271 -> 170
+23291 -> 171
+23342 -> 171
+23376 -> 171
+23403 -> 171
+23419 -> 172
+23485 -> 172
+23534 -> 172
+23568 -> 172
+23590 -> 173
+23678 -> 173

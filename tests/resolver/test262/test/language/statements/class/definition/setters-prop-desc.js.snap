@@ -1,60 +1,58 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-object ("object") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-descr ("descr") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-object ("object") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-object ("object") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-descr ("descr") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-descr ("descr") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-descr ("descr") -> ScopeId(3)
-undefined ("undefined") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-staticX ("staticX") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-staticY ("staticY") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(6)
-x ("x") -> ScopeId(2)
-v ("v") -> ScopeId(6)
-v ("v") -> ScopeId(7)
-staticX ("staticX") -> ScopeId(2)
-v ("v") -> ScopeId(7)
-v ("v") -> ScopeId(8)
-y ("y") -> ScopeId(2)
-v ("v") -> ScopeId(8)
-v ("v") -> ScopeId(9)
-staticY ("staticY") -> ScopeId(2)
-v ("v") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-staticX ("staticX") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-staticY ("staticY") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-C ("C") -> ScopeId(2)
+297 -> 1
+304 -> 2
+310 -> 3
+325 -> 4
+334 -> 0
+366 -> 2
+372 -> 3
+391 -> 0
+398 -> 2
+404 -> 3
+469 -> 0
+492 -> 4
+557 -> 0
+588 -> 4
+665 -> 0
+681 -> 4
+696 -> 0
+750 -> 5
+759 -> 6
+762 -> 7
+771 -> 8
+780 -> 9
+792 -> 10
+797 -> 5
+801 -> 10
+827 -> 11
+838 -> 6
+842 -> 11
+855 -> 12
+860 -> 7
+864 -> 12
+890 -> 13
+901 -> 8
+905 -> 13
+918 -> 0
+934 -> 9
+980 -> 0
+992 -> 5
+1031 -> 0
+1043 -> 9
+1093 -> 0
+1111 -> 6
+1156 -> 0
+1172 -> 9
+1218 -> 0
+1230 -> 7
+1269 -> 0
+1281 -> 9
+1331 -> 0
+1349 -> 8
+1411 -> 1
+1413 -> 9
+1453 -> 1
+1455 -> 9
+1495 -> 1
+1497 -> 9
+1533 -> 1
+1535 -> 9

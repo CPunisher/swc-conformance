@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-desc ("desc") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(2)
+892 -> 1
+933 -> 2
+942 -> 0
+971 -> 1
+994 -> 0
+998 -> 1
+1060 -> 0
+1075 -> 2
+1092 -> 0
+1118 -> 0
+1133 -> 2
+1148 -> 0
+1172 -> 0
+1194 -> 2
+1242 -> 0
+1257 -> 2

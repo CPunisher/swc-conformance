@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-testWithTypedArrayConstructors ("testWithTypedArrayConstructors") -> ScopeId(1)
-Constructor ("Constructor") -> ScopeId(3)
-Typed ("Typed") -> ScopeId(3)
-Constructor ("Constructor") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-Typed ("Typed") -> ScopeId(3)
-TypedWithSuper ("TypedWithSuper") -> ScopeId(3)
-Constructor ("Constructor") -> ScopeId(3)
-TypedWithSuper ("TypedWithSuper") -> ScopeId(3)
+782 -> 0
+803 -> 1
+820 -> 2
+840 -> 1
+877 -> 0
+899 -> 0
+927 -> 2
+960 -> 3
+980 -> 1
+1049 -> 3

@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(6)
-reject ("reject") -> ScopeId(6)
-reject ("reject") -> ScopeId(6)
-f ("f") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-value ("value") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(7)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+352 -> 1
+442 -> 0
+459 -> 2
+467 -> 3
+483 -> 3
+514 -> 1
+527 -> 0
+543 -> 4
+555 -> 0
+571 -> 4
+637 -> 0
+644 -> 0

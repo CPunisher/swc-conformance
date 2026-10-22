@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-oldArguments ("oldArguments") -> ScopeId(2)
-globalThis ("globalThis") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-p ("p") -> ScopeId(3)
-eval ("eval") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(3)
-f ("f") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-error ("error") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-error ("error") -> ScopeId(4)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-globalThis ("globalThis") -> ScopeId(1)
-oldArguments ("oldArguments") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+494 -> 1
+507 -> 0
+535 -> 2
+537 -> 3
+544 -> 0
+580 -> 4
+585 -> 2
+598 -> 0
+605 -> 5
+619 -> 0
+625 -> 5
+648 -> 0
+659 -> 0
+680 -> 0
+704 -> 1
+754 -> 0
+761 -> 0

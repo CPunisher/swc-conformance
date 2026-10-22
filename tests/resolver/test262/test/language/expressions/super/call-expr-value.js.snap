@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-customThisValue ("customThisValue") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-customThisValue ("customThisValue") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-Child ("Child") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-customThisValue ("customThisValue") -> ScopeId(2)
+433 -> 1
+449 -> 2
+466 -> 3
+495 -> 1
+511 -> 4
+526 -> 3
+556 -> 2
+584 -> 4
+595 -> 0
+611 -> 2
+628 -> 1

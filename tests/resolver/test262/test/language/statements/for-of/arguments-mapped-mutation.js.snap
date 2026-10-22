@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-expected ("expected") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-expected ("expected") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
+456 -> 1
+475 -> 2
+512 -> 3
+525 -> 0
+539 -> 0
+555 -> 3
+565 -> 1
+567 -> 2
+594 -> 2
+602 -> 2
+619 -> 0
+621 -> 2
+653 -> 0
+665 -> 2

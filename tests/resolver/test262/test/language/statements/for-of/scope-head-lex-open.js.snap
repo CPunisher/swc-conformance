@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-probeBefore ("probeBefore") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-probeExpr ("probeExpr") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-probeExpr ("probeExpr") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-probeBefore ("probeBefore") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-probeExpr ("probeExpr") -> ScopeId(2)
+1157 -> 1
+1186 -> 2
+1210 -> 1
+1228 -> 3
+1241 -> 4
+1255 -> 3
+1279 -> 4
+1298 -> 0
+1320 -> 2
+1342 -> 0
+1364 -> 0
+1375 -> 3

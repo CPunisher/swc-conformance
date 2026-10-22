@@ -1,67 +1,65 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(3)
-reject ("reject") -> ScopeId(3)
-_next ("_next") -> ScopeId(3)
-_throw ("_throw") -> ScopeId(3)
-key ("key") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-info ("info") -> ScopeId(3)
-gen ("gen") -> ScopeId(3)
-key ("key") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-info ("info") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-reject ("reject") -> ScopeId(3)
-error ("error") -> ScopeId(5)
-info ("info") -> ScopeId(3)
-resolve ("resolve") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-Promise ("Promise") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-_next ("_next") -> ScopeId(3)
-_throw ("_throw") -> ScopeId(3)
-_asyncToGenerator ("_asyncToGenerator") -> ScopeId(2)
-fn ("fn") -> ScopeId(8)
-self ("self") -> ScopeId(9)
-args ("args") -> ScopeId(9)
-arguments ("arguments") -> ScopeId(1)
-Promise ("Promise") -> ScopeId(1)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-gen ("gen") -> ScopeId(10)
-fn ("fn") -> ScopeId(8)
-self ("self") -> ScopeId(9)
-args ("args") -> ScopeId(9)
-_next ("_next") -> ScopeId(10)
-value ("value") -> ScopeId(11)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(10)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-_next ("_next") -> ScopeId(10)
-_throw ("_throw") -> ScopeId(10)
-value ("value") -> ScopeId(11)
-_throw ("_throw") -> ScopeId(10)
-err ("err") -> ScopeId(12)
-asyncGeneratorStep ("asyncGeneratorStep") -> ScopeId(2)
-gen ("gen") -> ScopeId(10)
-resolve ("resolve") -> ScopeId(10)
-reject ("reject") -> ScopeId(10)
-_next ("_next") -> ScopeId(10)
-_throw ("_throw") -> ScopeId(10)
-err ("err") -> ScopeId(12)
-_next ("_next") -> ScopeId(10)
-undefined ("undefined") -> ScopeId(1)
-styleLoader ("styleLoader") -> ScopeId(2)
-build ("build") -> ScopeId(15)
-build ("build") -> ScopeId(15)
-_ref ("_ref") -> ScopeId(17)
-_asyncToGenerator ("_asyncToGenerator") -> ScopeId(2)
-args ("args") -> ScopeId(18)
-args ("args") -> ScopeId(19)
-_ref ("_ref") -> ScopeId(17)
-arguments ("arguments") -> ScopeId(1)
+27 -> 1
+31 -> 2
+40 -> 3
+48 -> 4
+55 -> 5
+63 -> 6
+68 -> 7
+73 -> 8
+103 -> 9
+109 -> 2
+113 -> 7
+118 -> 8
+138 -> 10
+145 -> 9
+171 -> 11
+189 -> 4
+195 -> 11
+232 -> 9
+256 -> 3
+262 -> 10
+293 -> 0
+307 -> 10
+319 -> 5
+327 -> 6
+364 -> 12
+367 -> 13
+412 -> 14
+425 -> 15
+437 -> 0
+465 -> 0
+483 -> 16
+491 -> 17
+514 -> 18
+519 -> 13
+530 -> 14
+536 -> 15
+565 -> 19
+571 -> 20
+609 -> 1
+613 -> 18
+622 -> 16
+630 -> 17
+637 -> 19
+645 -> 21
+660 -> 20
+704 -> 21
+708 -> 22
+746 -> 1
+750 -> 18
+759 -> 16
+767 -> 17
+774 -> 19
+782 -> 21
+796 -> 22
+830 -> 19
+840 -> 0
+888 -> 23
+961 -> 24
+982 -> 24
+1109 -> 25
+1129 -> 12
+1145 -> 26
+1190 -> 27
+1225 -> 25
+1247 -> 0

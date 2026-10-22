@@ -1,30 +1,28 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-didEvaluateFollowingBlockStatementsInSameMicrotask ("didEvaluateFollowingBlockStatementsInSameMicrotask") -> ScopeId(3)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-_ ("_") -> ScopeId(5)
-didEvaluateFollowingBlockStatementsInSameMicrotask ("didEvaluateFollowingBlockStatementsInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-p ("p") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-isRunningInSameMicrotask ("isRunningInSameMicrotask") -> ScopeId(3)
-p ("p") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasStartedInSameMicrotask ("wasStartedInSameMicrotask") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-didEvaluatePrecedingBlockStatementsInSameMicrotask ("didEvaluatePrecedingBlockStatementsInSameMicrotask") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-didEvaluateFollowingBlockStatementsInSameMicrotask ("didEvaluateFollowingBlockStatementsInSameMicrotask") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-wasRunningInSameMicrotask ("wasRunningInSameMicrotask") -> ScopeId(3)
+2687 -> 0
+2738 -> 1
+2778 -> 2
+2844 -> 3
+2910 -> 4
+2951 -> 5
+2980 -> 6
+3014 -> 2
+3041 -> 1
+3105 -> 3
+3132 -> 1
+3153 -> 7
+3218 -> 4
+3245 -> 1
+3282 -> 5
+3309 -> 1
+3323 -> 8
+3327 -> 6
+3357 -> 1
+3376 -> 8
+3387 -> 0
+3423 -> 2
+3523 -> 0
+3584 -> 3
+3692 -> 0
+3753 -> 4
+3861 -> 0
+3897 -> 5

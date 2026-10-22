@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-ns ("ns") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-undefined ("undefined") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+3864 -> 1
+3881 -> 2
+3937 -> 0
+3950 -> 2
+3957 -> 0
+3980 -> 0
+4007 -> 1
+4020 -> 0
+4027 -> 0
+4040 -> 0

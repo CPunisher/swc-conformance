@@ -1,62 +1,60 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(6)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(6)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(7)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(7)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(8)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(8)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(9)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(9)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(10)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(10)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(13)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(13)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(14)
-error ("error") -> ScopeId(15)
-error ("error") -> ScopeId(15)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1502 -> 1
+1651 -> 2
+1660 -> 1
+1671 -> 2
+1685 -> 1
+1710 -> 3
+1719 -> 1
+1730 -> 3
+1744 -> 1
+1769 -> 4
+1778 -> 1
+1794 -> 4
+1808 -> 1
+1840 -> 5
+1889 -> 1
+1902 -> 5
+1916 -> 1
+1951 -> 6
+2000 -> 1
+2019 -> 6
+2033 -> 1
+2073 -> 7
+2122 -> 1
+2140 -> 7
+2154 -> 1
+2178 -> 8
+2186 -> 1
+2197 -> 0
+2208 -> 0
+2240 -> 8
+2315 -> 0
+2326 -> 0
+2358 -> 1
+2453 -> 0
+2455 -> 1
+2548 -> 1
+2568 -> 9
+2580 -> 0
+2592 -> 9
+2621 -> 10
+2688 -> 11
+2694 -> 12
+2713 -> 12
+2747 -> 0
+2800 -> 0
+2812 -> 1
+2833 -> 0
+2845 -> 1
+2866 -> 0
+2878 -> 1
+2899 -> 0
+2911 -> 1
+2979 -> 0
+2991 -> 1
+3060 -> 0
+3072 -> 1
+3153 -> 0
+3172 -> 10
+3190 -> 0
+3197 -> 0

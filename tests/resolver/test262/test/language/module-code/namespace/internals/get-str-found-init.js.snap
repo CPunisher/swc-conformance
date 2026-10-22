@@ -1,17 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-local1 ("local1") -> ScopeId(2)
-local2 ("local2") -> ScopeId(2)
-local2 ("local2") -> ScopeId(2)
-renamed ("renamed") -> ScopeId(1)
-local1 ("local1") -> ScopeId(1)
-indirect ("indirect") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(2)
+514 -> 1
+564 -> 2
+581 -> 3
+603 -> 3
+707 -> 0
+720 -> 1
+740 -> 0
+753 -> 1
+774 -> 0
+787 -> 1
+809 -> 0
+822 -> 1

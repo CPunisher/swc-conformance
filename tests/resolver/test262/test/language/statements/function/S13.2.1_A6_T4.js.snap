@@ -1,29 +1,27 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__func ("__func") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-arg1 ("arg1") -> ScopeId(3)
-arg2 ("arg2") -> ScopeId(3)
-arg1 ("arg1") -> ScopeId(3)
-arg2 ("arg2") -> ScopeId(3)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-__func ("__func") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
+289 -> 1
+292 -> 2
+295 -> 3
+304 -> 1
+320 -> 4
+326 -> 5
+337 -> 4
+349 -> 5
+366 -> 6
+371 -> 2
+380 -> 7
+387 -> 3
+402 -> 1
+404 -> 6
+406 -> 7
+415 -> 1
+417 -> 2
+419 -> 3
+517 -> 6
+526 -> 2
+535 -> 7
+547 -> 3
+582 -> 0
+656 -> 6
+671 -> 2
+686 -> 7
+701 -> 3

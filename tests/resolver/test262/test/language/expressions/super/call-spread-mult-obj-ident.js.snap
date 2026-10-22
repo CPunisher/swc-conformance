@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-o ("o") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-Test262ParentClass ("Test262ParentClass") -> ScopeId(2)
-obj ("obj") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-obj ("obj") -> ScopeId(5)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-obj ("obj") -> ScopeId(5)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-obj ("obj") -> ScopeId(5)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-obj ("obj") -> ScopeId(5)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-obj ("obj") -> ScopeId(5)
-callCount ("callCount") -> ScopeId(2)
-Test262ChildClass ("Test262ChildClass") -> ScopeId(2)
-o ("o") -> ScopeId(2)
-Test262ParentClass ("Test262ParentClass") -> ScopeId(2)
-Test262ChildClass ("Test262ChildClass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+1032 -> 1
+1064 -> 2
+1095 -> 3
+1115 -> 4
+1129 -> 0
+1146 -> 0
+1155 -> 4
+1188 -> 0
+1192 -> 4
+1315 -> 0
+1319 -> 4
+1442 -> 0
+1446 -> 4
+1569 -> 0
+1573 -> 4
+1690 -> 2
+1727 -> 5
+1754 -> 3
+1802 -> 1
+1834 -> 5
+1844 -> 0
+1864 -> 2

@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
-env ("env") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
-env ("env") -> ScopeId(2)
-env ("env") -> ScopeId(2)
-binding ("binding") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-unscopablesCalled ("unscopablesCalled") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-env ("env") -> ScopeId(2)
+656 -> 1
+670 -> 2
+702 -> 0
+741 -> 1
+759 -> 2
+803 -> 2
+816 -> 0
+833 -> 0
+861 -> 1
+922 -> 0
+926 -> 2

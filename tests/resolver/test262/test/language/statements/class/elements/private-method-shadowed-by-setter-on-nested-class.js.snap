@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-o ("o") -> ScopeId(7)
-o ("o") -> ScopeId(7)
-v ("v") -> ScopeId(8)
-v ("v") -> ScopeId(8)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-innerB ("innerB") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-innerB ("innerB") -> ScopeId(2)
-innerB ("innerB") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-innerB ("innerB") -> ScopeId(2)
-c ("c") -> ScopeId(2)
+925 -> 1
+1022 -> 2
+1040 -> 2
+1064 -> 3
+1079 -> 3
+1095 -> 4
+1103 -> 1
+1117 -> 5
+1125 -> 4
+1138 -> 0
+1155 -> 0
+1178 -> 5
+1192 -> 5
+1257 -> 0
+1269 -> 4
+1303 -> 0
+1320 -> 0
+1343 -> 5
+1352 -> 4

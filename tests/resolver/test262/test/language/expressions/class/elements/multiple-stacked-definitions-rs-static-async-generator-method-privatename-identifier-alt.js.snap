@@ -1,59 +1,57 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-results ("results") -> ScopeId(18)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1615 -> 1
+1651 -> 2
+1678 -> 2
+1709 -> 3
+1736 -> 3
+1767 -> 4
+1794 -> 4
+1827 -> 5
+1854 -> 5
+1893 -> 6
+1920 -> 6
+1958 -> 7
+1985 -> 7
+2441 -> 8
+2449 -> 1
+2460 -> 0
+2472 -> 8
+2495 -> 0
+2506 -> 0
+2538 -> 1
+2620 -> 0
+2631 -> 0
+2663 -> 1
+2762 -> 0
+2764 -> 8
+2865 -> 0
+2877 -> 8
+2900 -> 0
+2911 -> 0
+2943 -> 1
+3025 -> 0
+3036 -> 0
+3068 -> 1
+3167 -> 0
+3169 -> 8
+3271 -> 0
+3281 -> 1
+3300 -> 1
+3319 -> 1
+3338 -> 1
+3399 -> 1
+3466 -> 1
+3544 -> 9
+3559 -> 0
+3577 -> 9
+3600 -> 0
+3618 -> 9
+3641 -> 0
+3659 -> 9
+3682 -> 0
+3700 -> 9
+3723 -> 0
+3741 -> 9
+3764 -> 0
+3782 -> 9
+3811 -> 0
+3818 -> 0

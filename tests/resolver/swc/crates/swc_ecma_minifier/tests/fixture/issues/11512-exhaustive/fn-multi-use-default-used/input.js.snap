@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-add ("add") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-fnMultiUseDefaultUsed ("fnMultiUseDefaultUsed") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-add ("add") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-add ("add") -> ScopeId(2)
-value ("value") -> ScopeId(4)
+12 -> 1
+14 -> 2
+17 -> 3
+37 -> 2
+41 -> 3
+83 -> 4
+89 -> 5
+107 -> 1
+113 -> 5
+120 -> 1
+126 -> 5

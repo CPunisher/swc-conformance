@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-str ("str") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-String ("String") -> ScopeId(1)
-str ("str") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Number ("Number") -> ScopeId(1)
-str ("str") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-Number ("Number") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-String ("String") -> ScopeId(1)
-value ("value") -> ScopeId(3)
-asyncTest ("asyncTest") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+931 -> 1
+949 -> 2
+1013 -> 3
+1072 -> 0
+1089 -> 0
+1093 -> 2
+1155 -> 0
+1172 -> 0
+1176 -> 2
+1257 -> 0
+1274 -> 0
+1280 -> 3
+1337 -> 0
+1354 -> 0
+1360 -> 3
+1441 -> 0
+1444 -> 1

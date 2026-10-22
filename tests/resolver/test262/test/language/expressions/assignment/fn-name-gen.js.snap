@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-xGen ("xGen") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-xGen ("xGen") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-gen ("gen") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xGen ("xGen") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-gen ("gen") -> ScopeId(2)
+902 -> 1
+907 -> 2
+914 -> 1
+928 -> 3
+938 -> 2
+964 -> 0
+969 -> 1
+1003 -> 0
+1007 -> 2

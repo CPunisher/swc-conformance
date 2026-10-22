@@ -1,59 +1,57 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-instance ("instance") -> ScopeId(2)
-method ("method") -> ScopeId(2)
-methodParam ("methodParam") -> ScopeId(2)
-getter ("getter") -> ScopeId(2)
-setter ("setter") -> ScopeId(2)
-setterParam ("setterParam") -> ScopeId(2)
-genMethod ("genMethod") -> ScopeId(2)
-genMethodParam ("genMethodParam") -> ScopeId(2)
-asyncMethod ("asyncMethod") -> ScopeId(2)
-asyncMethodParam ("asyncMethodParam") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-test262 ("test262") -> ScopeId(6)
-methodParam ("methodParam") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-method ("method") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-getter ("getter") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-test262 ("test262") -> ScopeId(8)
-setterParam ("setterParam") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-setter ("setter") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-test262 ("test262") -> ScopeId(9)
-genMethodParam ("genMethodParam") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-genMethod ("genMethod") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-test262 ("test262") -> ScopeId(10)
-asyncMethodParam ("asyncMethodParam") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-asyncMethod ("asyncMethod") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-instance ("instance") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-method ("method") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-methodParam ("methodParam") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-getter ("getter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setter ("setter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-setterParam ("setterParam") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-genMethod ("genMethod") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-genMethodParam ("genMethodParam") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-asyncMethod ("asyncMethod") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-asyncMethodParam ("asyncMethodParam") -> ScopeId(2)
+514 -> 1
+526 -> 2
+539 -> 3
+551 -> 4
+563 -> 5
+576 -> 6
+591 -> 7
+607 -> 8
+624 -> 9
+642 -> 10
+652 -> 11
+678 -> 1
+714 -> 12
+728 -> 3
+740 -> 0
+759 -> 2
+771 -> 0
+818 -> 4
+830 -> 0
+867 -> 13
+881 -> 6
+893 -> 0
+912 -> 5
+924 -> 0
+953 -> 14
+970 -> 8
+982 -> 0
+1004 -> 7
+1016 -> 0
+1052 -> 15
+1071 -> 10
+1083 -> 0
+1107 -> 9
+1119 -> 0
+1153 -> 1
+1180 -> 1
+1199 -> 1
+1229 -> 1
+1270 -> 1
+1301 -> 0
+1333 -> 2
+1350 -> 0
+1387 -> 3
+1409 -> 0
+1433 -> 4
+1450 -> 0
+1482 -> 5
+1499 -> 0
+1536 -> 6
+1558 -> 0
+1603 -> 7
+1620 -> 0
+1670 -> 8
+1692 -> 0
+1735 -> 9
+1752 -> 0
+1800 -> 10

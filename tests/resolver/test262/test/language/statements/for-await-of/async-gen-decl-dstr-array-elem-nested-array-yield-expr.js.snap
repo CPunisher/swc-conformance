@@ -1,34 +1,32 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-value ("value") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(7)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(8)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1335 -> 1
+1351 -> 2
+1373 -> 3
+1398 -> 4
+1419 -> 2
+1438 -> 1
+1461 -> 3
+1483 -> 5
+1488 -> 4
+1497 -> 5
+1516 -> 6
+1530 -> 0
+1547 -> 6
+1564 -> 0
+1575 -> 0
+1592 -> 6
+1615 -> 0
+1627 -> 2
+1643 -> 0
+1653 -> 5
+1678 -> 7
+1694 -> 0
+1711 -> 7
+1728 -> 0
+1741 -> 0
+1758 -> 7
+1782 -> 0
+1794 -> 2
+1821 -> 0
+1828 -> 0
+1839 -> 0
+1852 -> 0

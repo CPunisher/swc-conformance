@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-g ("g") -> ScopeId(3)
-t ("t") -> ScopeId(3)
-g ("g") -> ScopeId(3)
-a ("a") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-t ("t") -> ScopeId(3)
-g ("g") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-a ("a") -> ScopeId(2)
+5 -> 1
+23 -> 2
+25 -> 3
+36 -> 4
+40 -> 3
+46 -> 1
+50 -> 1
+54 -> 4
+68 -> 5
+76 -> 1
+98 -> 2
+100 -> 5
+110 -> 0
+116 -> 1

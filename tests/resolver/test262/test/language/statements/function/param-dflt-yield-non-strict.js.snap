@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yield ("yield") -> ScopeId(2)
-paramValue ("paramValue") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-x ("x") -> ScopeId(4)
-yield ("yield") -> ScopeId(2)
-paramValue ("paramValue") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-f ("f") -> ScopeId(3)
-g ("g") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-paramValue ("paramValue") -> ScopeId(2)
+513 -> 1
+534 -> 2
+548 -> 3
+565 -> 4
+567 -> 5
+575 -> 1
+593 -> 2
+597 -> 5
+607 -> 4
+615 -> 3
+633 -> 0
+654 -> 2

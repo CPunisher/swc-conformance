@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-myObj ("myObj") -> ScopeId(2)
-myObj ("myObj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+320 -> 1
+351 -> 0
+479 -> 1
+523 -> 0
+737 -> 1
+778 -> 0
+836 -> 1
+1029 -> 1
+1067 -> 0

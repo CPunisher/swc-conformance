@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-viaCall ("viaCall") -> ScopeId(2)
-viaMember ("viaMember") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-viaCall ("viaCall") -> ScopeId(2)
-viaMember ("viaMember") -> ScopeId(2)
-Parent ("Parent") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-viaCall ("viaCall") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-viaMember ("viaMember") -> ScopeId(2)
-C ("C") -> ScopeId(2)
+1495 -> 1
+1510 -> 2
+1524 -> 3
+1607 -> 4
+1622 -> 3
+1649 -> 1
+1685 -> 2
+1711 -> 4
+1739 -> 0
+1757 -> 1
+1760 -> 4
+1801 -> 0
+1821 -> 2
+1824 -> 4

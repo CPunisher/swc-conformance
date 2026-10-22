@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__str ("__str") -> ScopeId(2)
-__str ("__str") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__str ("__str") -> ScopeId(2)
-__str__ ("__str__") -> ScopeId(2)
-__str__ ("__str__") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__str__ ("__str__") -> ScopeId(2)
-str__ ("str__") -> ScopeId(2)
-str__ ("str__") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-str__ ("str__") -> ScopeId(2)
+368 -> 1
+405 -> 1
+445 -> 0
+531 -> 1
+721 -> 2
+763 -> 2
+803 -> 0
+900 -> 2
+1088 -> 3
+1128 -> 3
+1168 -> 0
+1257 -> 3

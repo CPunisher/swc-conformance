@@ -1,46 +1,44 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-window ("window") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-items ("items") -> ScopeId(5)
-items ("items") -> ScopeId(5)
-bar ("bar") -> ScopeId(2)
-bucketFactory ("bucketFactory") -> ScopeId(2)
-input ("input") -> ScopeId(9)
-min ("min") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-moment ("moment") -> ScopeId(2)
-bucketFactory ("bucketFactory") -> ScopeId(2)
-bar ("bar") -> ScopeId(2)
-defaultSpec ("defaultSpec") -> ScopeId(2)
-window ("window") -> ScopeId(2)
-start ("start") -> ScopeId(15)
-end ("end") -> ScopeId(15)
-inputStartDate ("inputStartDate") -> ScopeId(16)
-inputEndDate ("inputEndDate") -> ScopeId(16)
-spec ("spec") -> ScopeId(16)
-defaultSpec ("defaultSpec") -> ScopeId(2)
-startDate ("startDate") -> ScopeId(16)
-moment ("moment") -> ScopeId(2)
-inputStartDate ("inputStartDate") -> ScopeId(16)
-dayCount ("dayCount") -> ScopeId(16)
-moment ("moment") -> ScopeId(2)
-inputEndDate ("inputEndDate") -> ScopeId(16)
-startDate ("startDate") -> ScopeId(16)
-granularity ("granularity") -> ScopeId(16)
-spec ("spec") -> ScopeId(16)
-left ("left") -> ScopeId(17)
-right ("right") -> ScopeId(17)
-left ("left") -> ScopeId(17)
-right ("right") -> ScopeId(17)
-item ("item") -> ScopeId(18)
-dayCount ("dayCount") -> ScopeId(16)
-item ("item") -> ScopeId(18)
-granularity ("granularity") -> ScopeId(16)
-granularity ("granularity") -> ScopeId(16)
-start ("start") -> ScopeId(15)
-end ("end") -> ScopeId(15)
-String ("String") -> ScopeId(1)
-min ("min") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-window ("window") -> ScopeId(2)
+10 -> 1
+24 -> 2
+40 -> 3
+50 -> 3
+64 -> 4
+88 -> 5
+115 -> 6
+163 -> 7
+169 -> 2
+181 -> 8
+197 -> 5
+201 -> 4
+221 -> 9
+361 -> 1
+381 -> 10
+386 -> 11
+407 -> 12
+421 -> 13
+427 -> 14
+441 -> 9
+469 -> 15
+478 -> 8
+497 -> 12
+520 -> 16
+529 -> 8
+546 -> 13
+562 -> 15
+600 -> 17
+607 -> 14
+645 -> 18
+652 -> 19
+661 -> 18
+677 -> 19
+710 -> 20
+723 -> 16
+731 -> 20
+768 -> 17
+795 -> 17
+829 -> 10
+834 -> 11
+844 -> 0
+848 -> 7
+873 -> 0
+884 -> 1

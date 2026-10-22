@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-sideEffectCounter ("sideEffectCounter") -> ScopeId(2)
-getSideEffect ("getSideEffect") -> ScopeId(2)
-sideEffectCounter ("sideEffectCounter") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-getSideEffect ("getSideEffect") -> ScopeId(2)
-a ("a") -> ScopeId(4)
-bar ("bar") -> ScopeId(2)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-a ("a") -> ScopeId(5)
-baz ("baz") -> ScopeId(2)
-a ("a") -> ScopeId(6)
-b ("b") -> ScopeId(6)
-Date ("Date") -> ScopeId(1)
-a ("a") -> ScopeId(6)
-example ("example") -> ScopeId(2)
-foo ("foo") -> ScopeId(2)
-bar ("bar") -> ScopeId(2)
-baz ("baz") -> ScopeId(2)
+141 -> 1
+170 -> 2
+196 -> 1
+326 -> 3
+328 -> 4
+331 -> 5
+347 -> 2
+365 -> 4
+464 -> 6
+466 -> 7
+469 -> 8
+497 -> 7
+600 -> 9
+602 -> 10
+605 -> 11
+616 -> 0
+634 -> 10
+662 -> 12
+681 -> 3
+690 -> 6
+699 -> 9

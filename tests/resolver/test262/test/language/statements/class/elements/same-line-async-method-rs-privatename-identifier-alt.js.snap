@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(10)
-value ("value") -> ScopeId(10)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-v ("v") -> ScopeId(13)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(13)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(14)
-error ("error") -> ScopeId(15)
-error ("error") -> ScopeId(15)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1426 -> 1
+1511 -> 2
+1534 -> 2
+1569 -> 3
+1592 -> 3
+1632 -> 4
+1660 -> 4
+1702 -> 5
+1727 -> 5
+1772 -> 6
+1803 -> 6
+1853 -> 7
+1883 -> 7
+1924 -> 8
+1932 -> 1
+1943 -> 0
+1954 -> 0
+1986 -> 8
+2061 -> 0
+2073 -> 8
+2078 -> 1
+2108 -> 0
+2110 -> 1
+2213 -> 8
+2233 -> 9
+2245 -> 0
+2257 -> 9
+2286 -> 10
+2353 -> 11
+2359 -> 12
+2378 -> 12
+2412 -> 0
+2465 -> 0
+2477 -> 8
+2498 -> 0
+2510 -> 8
+2531 -> 0
+2543 -> 8
+2569 -> 0
+2581 -> 8
+2604 -> 0
+2616 -> 8
+2645 -> 0
+2657 -> 8
+2697 -> 0
+2716 -> 10
+2734 -> 0
+2741 -> 0

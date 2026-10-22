@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Subclass ("Subclass") -> ScopeId(2)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-ReferenceError ("ReferenceError") -> ScopeId(1)
+310 -> 1
+333 -> 0
+347 -> 2
+362 -> 1
+372 -> 0
+376 -> 2
+396 -> 1
+405 -> 0
+409 -> 2
+435 -> 0

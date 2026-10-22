@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
+2624 -> 1
+2678 -> 0
+2692 -> 1
+2710 -> 2
+2713 -> 3
+2769 -> 0
+2781 -> 2
+2799 -> 0
+2811 -> 3
+2908 -> 0

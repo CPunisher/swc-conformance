@@ -1,43 +1,41 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
+685 -> 1
+854 -> 2
+862 -> 1
+873 -> 0
+885 -> 2
+902 -> 0
+914 -> 2
+919 -> 1
+940 -> 0
+951 -> 0
+983 -> 2
+1067 -> 0
+1069 -> 1
+1235 -> 0
+1243 -> 0
+1275 -> 1
+1311 -> 0
+1319 -> 0
+1351 -> 1
+1377 -> 0
+1385 -> 0
+1417 -> 2
+1444 -> 0
+1452 -> 0
+1484 -> 1
+1520 -> 0
+1528 -> 0
+1560 -> 1
+1586 -> 0
+1594 -> 0
+1626 -> 2
+1724 -> 0
+1736 -> 1
+1763 -> 0
+1775 -> 1
+1884 -> 0
+1892 -> 0
+1924 -> 1
+1950 -> 0
+1958 -> 0
+1990 -> 1

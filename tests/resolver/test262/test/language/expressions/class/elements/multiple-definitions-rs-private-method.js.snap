@@ -1,69 +1,67 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(17)
-value ("value") -> ScopeId(17)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1385 -> 1
+1812 -> 2
+1836 -> 2
+1873 -> 3
+1897 -> 3
+1939 -> 4
+1968 -> 4
+2015 -> 5
+2044 -> 5
+2097 -> 6
+2132 -> 6
+2190 -> 7
+2224 -> 7
+2271 -> 8
+2279 -> 1
+2290 -> 0
+2302 -> 8
+2319 -> 0
+2330 -> 0
+2362 -> 8
+2437 -> 0
+2449 -> 8
+2454 -> 1
+2484 -> 0
+2486 -> 1
+2577 -> 0
+2589 -> 8
+2607 -> 0
+2618 -> 0
+2650 -> 8
+2727 -> 0
+2739 -> 8
+2745 -> 1
+2776 -> 0
+2778 -> 1
+2870 -> 0
+2882 -> 8
+2905 -> 0
+2916 -> 0
+2948 -> 1
+3030 -> 0
+3041 -> 0
+3073 -> 1
+3172 -> 0
+3174 -> 8
+3275 -> 0
+3287 -> 8
+3310 -> 0
+3321 -> 0
+3353 -> 1
+3435 -> 0
+3446 -> 0
+3478 -> 1
+3577 -> 0
+3579 -> 8
+3680 -> 0
+3692 -> 8
+3709 -> 0
+3721 -> 8
+3738 -> 0
+3750 -> 8
+3772 -> 0
+3784 -> 8
+3806 -> 0
+3818 -> 8
+3846 -> 0
+3858 -> 8

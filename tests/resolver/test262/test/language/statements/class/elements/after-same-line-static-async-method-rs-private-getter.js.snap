@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(20)
-error ("error") -> ScopeId(21)
-error ("error") -> ScopeId(21)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1451 -> 1
+1850 -> 2
+1874 -> 2
+1909 -> 3
+1933 -> 3
+1973 -> 4
+2002 -> 4
+2047 -> 5
+2076 -> 5
+2127 -> 6
+2162 -> 6
+2218 -> 7
+2252 -> 7
+2297 -> 8
+2305 -> 1
+2316 -> 0
+2327 -> 0
+2359 -> 8
+2434 -> 0
+2445 -> 0
+2477 -> 1
+2572 -> 0
+2574 -> 1
+2667 -> 1
+2687 -> 9
+2699 -> 0
+2711 -> 9
+2740 -> 10
+2807 -> 11
+2813 -> 12
+2832 -> 12
+2866 -> 0
+2919 -> 0
+2931 -> 8
+2952 -> 0
+2964 -> 8
+2985 -> 0
+2997 -> 8
+3023 -> 0
+3035 -> 8
+3061 -> 0
+3073 -> 8
+3105 -> 0
+3117 -> 8
+3159 -> 0
+3178 -> 10
+3196 -> 0
+3203 -> 0

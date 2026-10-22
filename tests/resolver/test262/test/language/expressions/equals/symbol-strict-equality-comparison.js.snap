@@ -1,27 +1,25 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-symA ("symA") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-symB ("symB") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-symA ("symA") -> ScopeId(2)
-symA ("symA") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symA ("symA") -> ScopeId(2)
-symA ("symA") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symA ("symA") -> ScopeId(2)
-symA ("symA") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symB ("symB") -> ScopeId(2)
-symB ("symB") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symB ("symB") -> ScopeId(2)
-symB ("symB") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symB ("symB") -> ScopeId(2)
-symB ("symB") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-symA ("symA") -> ScopeId(2)
-symB ("symB") -> ScopeId(2)
+245 -> 1
+254 -> 0
+270 -> 2
+279 -> 0
+294 -> 0
+309 -> 1
+318 -> 1
+376 -> 0
+391 -> 1
+400 -> 1
+478 -> 0
+493 -> 1
+512 -> 1
+581 -> 0
+596 -> 2
+605 -> 2
+663 -> 0
+678 -> 2
+687 -> 2
+765 -> 0
+780 -> 2
+799 -> 2
+868 -> 0
+883 -> 1
+892 -> 2

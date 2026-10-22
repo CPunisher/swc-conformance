@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-r ("r") -> ScopeId(2)
-RegExp ("RegExp") -> ScopeId(1)
-run ("run") -> ScopeId(2)
-str ("str") -> ScopeId(3)
-r ("r") -> ScopeId(3)
-m ("m") -> ScopeId(3)
-m ("m") -> ScopeId(3)
-r ("r") -> ScopeId(3)
-str ("str") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-m ("m") -> ScopeId(3)
-run ("run") -> ScopeId(2)
-r ("r") -> ScopeId(2)
+7 -> 1
+20 -> 0
+44 -> 2
+48 -> 3
+51 -> 4
+64 -> 5
+77 -> 5
+81 -> 4
+90 -> 3
+110 -> 0
+116 -> 5
+129 -> 2
+140 -> 1

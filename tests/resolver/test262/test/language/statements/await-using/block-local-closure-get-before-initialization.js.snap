@@ -1,9 +1,7 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-f ("f") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-f ("f") -> ScopeId(3)
-x ("x") -> ScopeId(3)
+409 -> 0
+442 -> 1
+455 -> 2
+472 -> 0
+494 -> 0
+514 -> 1
+540 -> 2

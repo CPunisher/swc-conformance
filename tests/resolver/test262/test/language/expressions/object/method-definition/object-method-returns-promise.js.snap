@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-p ("p") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-p ("p") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
+307 -> 1
+339 -> 2
+345 -> 1
+362 -> 0
+364 -> 2
+383 -> 0

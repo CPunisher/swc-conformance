@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
-EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-EvalMutableClass ("EvalMutableClass") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-EvalMutableFunction ("EvalMutableFunction") -> ScopeId(2)
+22 -> 1
+55 -> 2
+65 -> 0
+101 -> 1
+106 -> 0
+148 -> 2
+155 -> 0
+237 -> 0
+271 -> 1
+285 -> 0
+325 -> 2

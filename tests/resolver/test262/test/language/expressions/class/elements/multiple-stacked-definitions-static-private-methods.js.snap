@@ -1,57 +1,55 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
+668 -> 1
+734 -> 2
+754 -> 2
+781 -> 3
+801 -> 3
+905 -> 4
+913 -> 1
+924 -> 0
+936 -> 4
+959 -> 0
+970 -> 0
+1002 -> 1
+1084 -> 0
+1095 -> 0
+1127 -> 1
+1226 -> 0
+1228 -> 4
+1329 -> 0
+1341 -> 4
+1364 -> 0
+1375 -> 0
+1407 -> 1
+1489 -> 0
+1500 -> 0
+1532 -> 1
+1631 -> 0
+1633 -> 4
+1810 -> 0
+1818 -> 0
+1850 -> 1
+1886 -> 0
+1894 -> 0
+1926 -> 1
+1952 -> 0
+1960 -> 0
+1992 -> 4
+2019 -> 0
+2027 -> 0
+2059 -> 1
+2095 -> 0
+2103 -> 0
+2135 -> 1
+2161 -> 0
+2169 -> 0
+2201 -> 4
+2299 -> 0
+2311 -> 1
+2338 -> 0
+2350 -> 1
+2459 -> 0
+2467 -> 0
+2499 -> 1
+2525 -> 0
+2533 -> 0
+2565 -> 1

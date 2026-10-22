@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-innerPromise ("innerPromise") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-asyncIter ("asyncIter") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-innerPromise ("innerPromise") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-f ("f") -> ScopeId(2)
-asyncIter ("asyncIter") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-v ("v") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(10)
-innerPromise ("innerPromise") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+395 -> 1
+405 -> 0
+448 -> 2
+462 -> 0
+572 -> 1
+629 -> 0
+712 -> 0
+773 -> 3
+796 -> 2
+802 -> 3
+824 -> 4
+840 -> 0
+852 -> 4
+872 -> 1
+972 -> 0
+979 -> 0

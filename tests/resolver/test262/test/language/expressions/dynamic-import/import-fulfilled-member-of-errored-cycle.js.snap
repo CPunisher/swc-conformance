@@ -1,23 +1,21 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-errorFromMain ("errorFromMain") -> ScopeId(3)
-err ("err") -> ScopeId(5)
-errorFromMain ("errorFromMain") -> ScopeId(3)
-err ("err") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-errorFromMain ("errorFromMain") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-errorFromMain ("errorFromMain") -> ScopeId(3)
-Error ("Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-errorFromMain ("errorFromMain") -> ScopeId(3)
-errorFromC ("errorFromC") -> ScopeId(3)
-err ("err") -> ScopeId(7)
-errorFromC ("errorFromC") -> ScopeId(3)
-err ("err") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-errorFromC ("errorFromC") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-errorFromC ("errorFromC") -> ScopeId(3)
-errorFromMain ("errorFromMain") -> ScopeId(3)
+2419 -> 0
+2459 -> 1
+2570 -> 2
+2591 -> 1
+2597 -> 2
+2611 -> 0
+2638 -> 1
+2691 -> 0
+2720 -> 1
+2737 -> 0
+2828 -> 0
+2852 -> 1
+2900 -> 3
+3008 -> 4
+3026 -> 3
+3032 -> 4
+3046 -> 0
+3070 -> 3
+3120 -> 0
+3146 -> 3
+3165 -> 1

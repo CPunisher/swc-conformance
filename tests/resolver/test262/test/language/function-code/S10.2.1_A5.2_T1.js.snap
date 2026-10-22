@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f1 ("f1") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-f1 ("f1") -> ScopeId(2)
-f2 ("f2") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-f2 ("f2") -> ScopeId(2)
+458 -> 1
+460 -> 2
+470 -> 2
+492 -> 2
+503 -> 0
+516 -> 1
+554 -> 3
+556 -> 4
+566 -> 4
+581 -> 4
+592 -> 0
+605 -> 3

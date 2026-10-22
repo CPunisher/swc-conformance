@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-$DONOTEVALUATE ("$DONOTEVALUATE") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-globalThis ("globalThis") -> ScopeId(1)
+784 -> 0
+842 -> 1
+1152 -> 0
+1164 -> 1
+1180 -> 0
+1201 -> 0

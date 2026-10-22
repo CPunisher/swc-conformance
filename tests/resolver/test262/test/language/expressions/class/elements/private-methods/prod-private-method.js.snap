@@ -1,47 +1,45 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-hasProp ("hasProp") -> ScopeId(2)
-obj ("obj") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-expected ("expected") -> ScopeId(3)
-msg ("msg") -> ScopeId(3)
-hasOwnProperty ("hasOwnProperty") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-obj ("obj") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-hasOwnProperty ("hasOwnProperty") -> ScopeId(3)
-expected ("expected") -> ScopeId(3)
-msg ("msg") -> ScopeId(3)
-hasProperty ("hasProperty") -> ScopeId(3)
-Reflect ("Reflect") -> ScopeId(1)
-obj ("obj") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-hasProperty ("hasProperty") -> ScopeId(3)
-expected ("expected") -> ScopeId(3)
-msg ("msg") -> ScopeId(3)
-C ("C") -> ScopeId(2)
-hasProp ("hasProp") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-other ("other") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-hasProp ("hasProp") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-hasProp ("hasProp") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-hasProp ("hasProp") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-other ("other") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+2390 -> 1
+2394 -> 2
+2400 -> 3
+2410 -> 4
+2415 -> 5
+2439 -> 6
+2448 -> 0
+2482 -> 2
+2488 -> 3
+2499 -> 0
+2524 -> 6
+2534 -> 4
+2539 -> 5
+2560 -> 7
+2570 -> 0
+2578 -> 2
+2584 -> 3
+2595 -> 0
+2617 -> 7
+2627 -> 4
+2632 -> 5
+2643 -> 8
+2740 -> 1
+2868 -> 0
+2918 -> 0
+2985 -> 0
+3082 -> 0
+3150 -> 0
+3231 -> 9
+3239 -> 8
+3252 -> 10
+3260 -> 8
+3272 -> 1
+3274 -> 8
+3349 -> 1
+3351 -> 8
+3418 -> 1
+3420 -> 9
+3674 -> 0
+3686 -> 9
+3697 -> 10
+3810 -> 0
+3822 -> 9
+3860 -> 0
+3872 -> 9

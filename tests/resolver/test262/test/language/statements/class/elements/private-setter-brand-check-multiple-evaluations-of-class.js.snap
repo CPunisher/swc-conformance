@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-C ("C") -> ScopeId(3)
-v ("v") -> ScopeId(5)
-v ("v") -> ScopeId(5)
-o ("o") -> ScopeId(6)
-v ("v") -> ScopeId(6)
-o ("o") -> ScopeId(6)
-v ("v") -> ScopeId(6)
-c ("c") -> ScopeId(3)
-C ("C") -> ScopeId(3)
-c ("c") -> ScopeId(3)
-c1 ("c1") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-createAndInstantiateClass ("createAndInstantiateClass") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
+808 -> 1
+834 -> 2
+849 -> 3
+864 -> 3
+885 -> 4
+888 -> 5
+899 -> 4
+906 -> 5
+928 -> 6
+936 -> 2
+950 -> 6
+962 -> 7
+990 -> 1
+1000 -> 8
+1028 -> 1
+1035 -> 7
+1045 -> 7
+1065 -> 0
+1078 -> 7
+1097 -> 8
+1107 -> 8
+1127 -> 0
+1140 -> 8
+1164 -> 0
+1181 -> 0
+1200 -> 7
+1210 -> 8
+1270 -> 0
+1287 -> 0
+1306 -> 8
+1316 -> 7

@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-globalThis ("globalThis") -> ScopeId(1)
-Marker ("Marker") -> ScopeId(2)
-obj ("obj") -> ScopeId(5)
-Marker ("Marker") -> ScopeId(2)
-obj ("obj") -> ScopeId(5)
-obj ("obj") -> ScopeId(6)
-obj ("obj") -> ScopeId(6)
-x ("x") -> ScopeId(4)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Marker ("Marker") -> ScopeId(2)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Marker ("Marker") -> ScopeId(2)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-globalThis ("globalThis") -> ScopeId(1)
+916 -> 1
+949 -> 0
+970 -> 0
+1052 -> 2
+1072 -> 3
+1084 -> 3
+1124 -> 4
+1142 -> 2
+1146 -> 4
+1173 -> 5
+1200 -> 5
+1215 -> 0
+1232 -> 0
+1256 -> 2
+1264 -> 1
+1278 -> 0
+1302 -> 2
+1312 -> 1
+1323 -> 0
+1344 -> 0

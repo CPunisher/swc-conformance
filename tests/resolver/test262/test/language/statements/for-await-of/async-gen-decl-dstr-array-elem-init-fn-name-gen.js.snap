@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-xGen ("xGen") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-xGen ("xGen") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-gen ("gen") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-xGen ("xGen") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-gen ("gen") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1661 -> 1
+1666 -> 2
+1682 -> 3
+1707 -> 4
+1731 -> 1
+1745 -> 5
+1755 -> 2
+1796 -> 0
+1814 -> 1
+1849 -> 0
+1853 -> 2
+1980 -> 3
+2005 -> 6
+2010 -> 4
+2029 -> 6
+2050 -> 0
+2070 -> 3
+2115 -> 0
+2130 -> 0
+2137 -> 0

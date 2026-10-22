@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-unreachable ("unreachable") -> ScopeId(2)
-reachable ("reachable") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-reachable ("reachable") -> ScopeId(2)
-unreachable ("unreachable") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-reachable ("reachable") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-unreachable ("unreachable") -> ScopeId(2)
+1177 -> 1
+1196 -> 2
+1210 -> 3
+1257 -> 2
+1292 -> 1
+1312 -> 0
+1329 -> 0
+1351 -> 3
+1366 -> 0
+1386 -> 2
+1398 -> 0
+1420 -> 1

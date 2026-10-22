@@ -1,13 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-LABEL1 ("LABEL1") -> ScopeId(4294967295)
-x ("x") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(5)
-e ("e") -> ScopeId(5)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
+331 -> 1
+335 -> 2
+458 -> 1
+474 -> 0
+501 -> 2
+544 -> 0
+619 -> 3
+629 -> 3
+652 -> 0
+680 -> 0

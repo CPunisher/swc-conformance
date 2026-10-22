@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initialBV ("initialBV") -> ScopeId(2)
-currentBV ("currentBV") -> ScopeId(2)
-varBinding ("varBinding") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-initialBV ("initialBV") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-currentBV ("currentBV") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-varBinding ("varBinding") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-initialBV ("initialBV") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-currentBV ("currentBV") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-varBinding ("varBinding") -> ScopeId(2)
+1088 -> 1
+1099 -> 2
+1111 -> 3
+1176 -> 4
+1190 -> 1
+1194 -> 4
+1197 -> 4
+1214 -> 2
+1218 -> 4
+1254 -> 3
+1258 -> 4
+1263 -> 4
+1281 -> 0
+1304 -> 1
+1395 -> 0
+1415 -> 2
+1464 -> 0
+1488 -> 3

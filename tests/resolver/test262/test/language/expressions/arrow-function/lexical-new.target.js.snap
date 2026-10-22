@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-functionInvocationCount ("functionInvocationCount") -> ScopeId(2)
-newInvocationCount ("newInvocationCount") -> ScopeId(2)
-F ("F") -> ScopeId(2)
-_ ("_") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-newInvocationCount ("newInvocationCount") -> ScopeId(2)
-functionInvocationCount ("functionInvocationCount") -> ScopeId(2)
-F ("F") -> ScopeId(2)
-F ("F") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-functionInvocationCount ("functionInvocationCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-newInvocationCount ("newInvocationCount") -> ScopeId(2)
+1147 -> 1
+1175 -> 2
+1192 -> 3
+1205 -> 4
+1236 -> 0
+1262 -> 2
+1295 -> 1
+1303 -> 3
+1312 -> 3
+1323 -> 0
+1357 -> 1
+1369 -> 0
+1398 -> 2

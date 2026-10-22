@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-invoked ("invoked") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-savedArg ("savedArg") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-arg ("arg") -> ScopeId(3)
-invoked ("invoked") -> ScopeId(2)
-savedArg ("savedArg") -> ScopeId(2)
-arg ("arg") -> ScopeId(3)
-A ("A") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-A ("A") -> ScopeId(2)
-instance ("instance") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-invoked ("invoked") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-savedArg ("savedArg") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-instance ("instance") -> ScopeId(2)
+297 -> 1
+319 -> 2
+329 -> 3
+342 -> 4
+346 -> 5
+359 -> 1
+378 -> 3
+384 -> 5
+406 -> 4
+433 -> 6
+443 -> 4
+456 -> 2
+464 -> 6
+476 -> 0
+494 -> 1
+509 -> 0
+528 -> 3
+540 -> 0
+559 -> 2

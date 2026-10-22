@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-example1 ("example1") -> ScopeId(2)
-param ("param") -> ScopeId(3)
-param ("param") -> ScopeId(4)
-param ("param") -> ScopeId(4)
-example2 ("example2") -> ScopeId(2)
-param ("param") -> ScopeId(5)
-param ("param") -> ScopeId(6)
-param ("param") -> ScopeId(6)
-example3 ("example3") -> ScopeId(2)
-param ("param") -> ScopeId(7)
-param ("param") -> ScopeId(8)
-param ("param") -> ScopeId(8)
-example4 ("example4") -> ScopeId(2)
-param ("param") -> ScopeId(9)
-param ("param") -> ScopeId(10)
-param ("param") -> ScopeId(10)
-example5 ("example5") -> ScopeId(2)
-param ("param") -> ScopeId(11)
-param ("param") -> ScopeId(12)
-param ("param") -> ScopeId(12)
-Foo ("Foo") -> ScopeId(2)
-Bar ("Bar") -> ScopeId(1)
+21 -> 1
+30 -> 2
+42 -> 3
+51 -> 3
+104 -> 4
+113 -> 5
+125 -> 6
+134 -> 6
+173 -> 7
+182 -> 8
+194 -> 9
+203 -> 9
+247 -> 10
+256 -> 11
+268 -> 12
+277 -> 12
+331 -> 13
+340 -> 14
+352 -> 15
+361 -> 15
+385 -> 16
+397 -> 0

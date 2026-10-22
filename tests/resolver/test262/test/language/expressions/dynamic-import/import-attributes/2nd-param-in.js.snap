@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-promise ("promise") -> ScopeId(2)
-promise ("promise") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-promise ("promise") -> ScopeId(2)
-module ("module") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-module ("module") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+556 -> 1
+571 -> 1
+635 -> 0
+657 -> 1
+681 -> 2
+695 -> 0
+712 -> 2
+746 -> 0
+753 -> 0

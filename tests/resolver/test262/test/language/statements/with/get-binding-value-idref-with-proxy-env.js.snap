@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-log ("log") -> ScopeId(2)
-env ("env") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-proxy ("proxy") -> ScopeId(2)
-Proxy ("Proxy") -> ScopeId(1)
-env ("env") -> ScopeId(2)
-allowProxyTraps ("allowProxyTraps") -> ScopeId(1)
-t ("t") -> ScopeId(5)
-pk ("pk") -> ScopeId(5)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(5)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(5)
-pk ("pk") -> ScopeId(5)
-t ("t") -> ScopeId(6)
-pk ("pk") -> ScopeId(6)
-r ("r") -> ScopeId(6)
-log ("log") -> ScopeId(2)
-String ("String") -> ScopeId(1)
-pk ("pk") -> ScopeId(6)
-Reflect ("Reflect") -> ScopeId(1)
-t ("t") -> ScopeId(6)
-pk ("pk") -> ScopeId(6)
-r ("r") -> ScopeId(6)
-proxy ("proxy") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
+985 -> 1
+1044 -> 2
+1057 -> 0
+1072 -> 3
+1084 -> 0
+1088 -> 2
+1105 -> 0
+1115 -> 4
+1119 -> 5
+1130 -> 1
+1151 -> 0
+1154 -> 5
+1176 -> 0
+1182 -> 4
+1186 -> 5
+1201 -> 6
+1205 -> 7
+1208 -> 8
+1219 -> 1
+1240 -> 0
+1243 -> 7
+1265 -> 0
+1271 -> 6
+1275 -> 7
+1278 -> 8
+1303 -> 3
+1315 -> 0
+1326 -> 0
+1343 -> 1

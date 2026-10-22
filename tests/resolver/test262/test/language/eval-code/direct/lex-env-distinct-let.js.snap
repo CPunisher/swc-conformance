@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-outside ("outside") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-eval ("eval") -> ScopeId(1)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-xNonStrict ("xNonStrict") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-xNonStrict ("xNonStrict") -> ScopeId(1)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-xStrict ("xStrict") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-xStrict ("xStrict") -> ScopeId(1)
+454 -> 1
+466 -> 0
+488 -> 0
+525 -> 0
+557 -> 0
+585 -> 0
+607 -> 0
+629 -> 0
+656 -> 0
+667 -> 0
+710 -> 0
+735 -> 0
+757 -> 0
+779 -> 0
+803 -> 0

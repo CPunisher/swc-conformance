@@ -1,11 +1,9 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-globalThis ("globalThis") -> ScopeId(1)
-_ ("_") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-console ("console") -> ScopeId(1)
-f ("f") -> ScopeId(1)
+1 -> 0
+6 -> 1
+12 -> 1
+25 -> 0
+32 -> 2
+35 -> 3
+41 -> 3
+51 -> 0
+57 -> 0

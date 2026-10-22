@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-args ("args") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-args ("args") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-arguments ("arguments") -> ScopeId(3)
-g ("g") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(2)
+713 -> 1
+721 -> 2
+737 -> 3
+744 -> 1
+756 -> 0
+775 -> 4
+782 -> 2
+800 -> 0
+822 -> 1
+841 -> 0
+856 -> 1

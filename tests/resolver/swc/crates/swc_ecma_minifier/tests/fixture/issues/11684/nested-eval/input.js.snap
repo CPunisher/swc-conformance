@@ -1,18 +1,16 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
-constructOuterClassAfterEval ("constructOuterClassAfterEval") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-OuterEvalMutableClass ("OuterEvalMutableClass") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-constructOuterClassAfterEval ("constructOuterClassAfterEval") -> ScopeId(2)
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
-constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-OuterEvalMutableFunction ("OuterEvalMutableFunction") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-constructOuterFunctionAfterEval ("constructOuterFunctionAfterEval") -> ScopeId(2)
+27 -> 1
+35 -> 0
+81 -> 1
+121 -> 2
+134 -> 0
+213 -> 1
+230 -> 0
+290 -> 2
+326 -> 3
+336 -> 0
+388 -> 3
+431 -> 4
+444 -> 0
+532 -> 3
+549 -> 0
+615 -> 4

@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-f ("f") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-unresolvableReference ("unresolvableReference") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-f ("f") -> ScopeId(2)
+1812 -> 1
+1827 -> 2
+1851 -> 0
+1866 -> 0
+1888 -> 0
+1906 -> 1

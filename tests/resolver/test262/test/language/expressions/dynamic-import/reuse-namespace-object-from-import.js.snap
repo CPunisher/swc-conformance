@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ns ("ns") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-ns ("ns") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(3)
-ns ("ns") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1163 -> 1
+1205 -> 0
+1303 -> 2
+1306 -> 3
+1324 -> 0
+1336 -> 2
+1339 -> 3
+1398 -> 0
+1410 -> 2
+1414 -> 1
+1474 -> 0
+1486 -> 3
+1490 -> 1
+1553 -> 0
+1560 -> 0

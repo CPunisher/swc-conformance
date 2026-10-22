@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(5)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(9)
-value ("value") -> ScopeId(10)
-value ("value") -> ScopeId(10)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(13)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(13)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(14)
-error ("error") -> ScopeId(15)
-error ("error") -> ScopeId(15)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(13)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1489 -> 1
+1638 -> 2
+1661 -> 2
+1703 -> 3
+1726 -> 3
+1768 -> 4
+1796 -> 4
+1845 -> 5
+1910 -> 5
+1962 -> 6
+2033 -> 6
+2090 -> 7
+2160 -> 7
+2201 -> 8
+2209 -> 1
+2220 -> 0
+2231 -> 0
+2263 -> 8
+2338 -> 0
+2349 -> 0
+2381 -> 1
+2476 -> 0
+2478 -> 1
+2571 -> 1
+2591 -> 9
+2603 -> 0
+2615 -> 9
+2644 -> 10
+2711 -> 11
+2717 -> 12
+2736 -> 12
+2770 -> 0
+2823 -> 0
+2835 -> 1
+2856 -> 0
+2868 -> 1
+2889 -> 0
+2901 -> 1
+2922 -> 0
+2934 -> 1
+3002 -> 0
+3014 -> 1
+3083 -> 0
+3095 -> 1
+3176 -> 0
+3195 -> 10
+3213 -> 0
+3220 -> 0

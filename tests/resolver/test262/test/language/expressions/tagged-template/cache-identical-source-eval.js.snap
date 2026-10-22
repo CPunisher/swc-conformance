@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-tag ("tag") -> ScopeId(2)
-templateObject ("templateObject") -> ScopeId(3)
-previousObject ("previousObject") -> ScopeId(2)
-templateObject ("templateObject") -> ScopeId(3)
-a ("a") -> ScopeId(2)
-firstObject ("firstObject") -> ScopeId(2)
-previousObject ("previousObject") -> ScopeId(2)
-tag ("tag") -> ScopeId(2)
-a ("a") -> ScopeId(2)
-firstObject ("firstObject") -> ScopeId(2)
-previousObject ("previousObject") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-firstObject ("firstObject") -> ScopeId(2)
-previousObject ("previousObject") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-previousObject ("previousObject") -> ScopeId(2)
-firstObject ("firstObject") -> ScopeId(2)
+450 -> 1
+465 -> 2
+485 -> 3
+502 -> 2
+511 -> 4
+532 -> 5
+559 -> 3
+572 -> 1
+580 -> 4
+599 -> 5
+616 -> 3
+624 -> 0
+636 -> 5
+662 -> 3
+676 -> 0
+705 -> 0
+733 -> 3
+746 -> 5

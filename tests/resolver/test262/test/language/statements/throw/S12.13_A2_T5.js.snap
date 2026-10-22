@@ -1,40 +1,38 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-e ("e") -> ScopeId(4)
-e ("e") -> ScopeId(4)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-b ("b") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-e ("e") -> ScopeId(6)
-e ("e") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-e ("e") -> ScopeId(8)
-e ("e") -> ScopeId(8)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(8)
-NaN ("NaN") -> ScopeId(1)
-e ("e") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(10)
-NaN ("NaN") -> ScopeId(1)
-Infinity ("Infinity") -> ScopeId(1)
-e ("e") -> ScopeId(12)
-e ("e") -> ScopeId(12)
-Infinity ("Infinity") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(12)
-Infinity ("Infinity") -> ScopeId(1)
-e ("e") -> ScopeId(14)
-e ("e") -> ScopeId(14)
-Infinity ("Infinity") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(14)
-e ("e") -> ScopeId(16)
-e ("e") -> ScopeId(16)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(16)
-e ("e") -> ScopeId(18)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(18)
+340 -> 1
+350 -> 1
+379 -> 0
+428 -> 1
+451 -> 2
+470 -> 2
+481 -> 3
+491 -> 3
+520 -> 0
+569 -> 3
+615 -> 4
+625 -> 4
+656 -> 0
+707 -> 4
+741 -> 0
+752 -> 5
+763 -> 0
+775 -> 5
+780 -> 0
+831 -> 0
+842 -> 6
+852 -> 6
+864 -> 0
+888 -> 0
+944 -> 6
+984 -> 0
+995 -> 7
+1005 -> 7
+1017 -> 0
+1041 -> 0
+1097 -> 7
+1141 -> 8
+1151 -> 8
+1180 -> 0
+1229 -> 8
+1273 -> 9
+1284 -> 0
+1296 -> 9

@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-asyncTest ("asyncTest") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-resource1 ("resource1") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-resource2 ("resource2") -> ScopeId(3)
-Symbol ("Symbol") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-r1 ("r1") -> ScopeId(8)
-resource1 ("resource1") -> ScopeId(3)
-r2 ("r2") -> ScopeId(8)
-resource2 ("resource2") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-resource2 ("resource2") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-disposed ("disposed") -> ScopeId(3)
-resource1 ("resource1") -> ScopeId(3)
+1680 -> 0
+1714 -> 1
+1736 -> 2
+1760 -> 0
+1797 -> 1
+1838 -> 3
+1856 -> 0
+1888 -> 1
+1936 -> 4
+1948 -> 2
+1952 -> 5
+1964 -> 3
+1978 -> 0
+2000 -> 1
+2018 -> 0
+2037 -> 1
+2051 -> 3
+2118 -> 0
+2137 -> 1
+2151 -> 2

@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__func ("__func") -> ScopeId(2)
-was_del ("was_del") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-i ("i") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(3)
-was_del ("was_del") -> ScopeId(3)
-was_del ("was_del") -> ScopeId(3)
-arguments ("arguments") -> ScopeId(1)
-i ("i") -> ScopeId(3)
-was_del ("was_del") -> ScopeId(3)
-__func ("__func") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+355 -> 1
+374 -> 2
+396 -> 3
+401 -> 3
+413 -> 0
+423 -> 3
+441 -> 2
+450 -> 2
+470 -> 0
+472 -> 3
+493 -> 2
+598 -> 1
+638 -> 0

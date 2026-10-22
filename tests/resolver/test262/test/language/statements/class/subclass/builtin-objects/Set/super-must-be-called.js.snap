@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-S1 ("S1") -> ScopeId(2)
-Set ("Set") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-S1 ("S1") -> ScopeId(2)
-S2 ("S2") -> ScopeId(2)
-Set ("Set") -> ScopeId(1)
-S2 ("S2") -> ScopeId(2)
+663 -> 1
+675 -> 0
+706 -> 0
+728 -> 0
+751 -> 1
+768 -> 2
+780 -> 0
+827 -> 2

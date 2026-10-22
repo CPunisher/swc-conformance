@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-err1 ("err1") -> ScopeId(2)
-err2 ("err2") -> ScopeId(2)
-f ("f") -> ScopeId(3)
-exception ("exception") -> ScopeId(5)
-err1 ("err1") -> ScopeId(2)
-exception ("exception") -> ScopeId(5)
-f ("f") -> ScopeId(3)
-f ("f") -> ScopeId(3)
-exception ("exception") -> ScopeId(9)
-err2 ("err2") -> ScopeId(2)
-exception ("exception") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-err1 ("err1") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-err2 ("err2") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
+493 -> 1
+499 -> 2
+529 -> 3
+551 -> 4
+563 -> 1
+575 -> 4
+626 -> 3
+652 -> 3
+674 -> 5
+686 -> 2
+698 -> 5
+717 -> 0
+732 -> 1
+743 -> 0
+752 -> 0
+767 -> 2
+778 -> 0

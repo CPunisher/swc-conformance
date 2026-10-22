@@ -1,35 +1,33 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assert ("assert") -> ScopeId(1)
-args ("args") -> ScopeId(3)
-args ("args") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(4)
-args ("args") -> ScopeId(4)
-args ("args") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(5)
-b ("b") -> ScopeId(5)
-args ("args") -> ScopeId(5)
-args ("args") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(6)
-b ("b") -> ScopeId(6)
-c ("c") -> ScopeId(6)
-args ("args") -> ScopeId(6)
-args ("args") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(7)
-b ("b") -> ScopeId(7)
-c ("c") -> ScopeId(7)
-d ("d") -> ScopeId(7)
-args ("args") -> ScopeId(7)
-args ("args") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(8)
-b ("b") -> ScopeId(8)
-c ("c") -> ScopeId(8)
-d ("d") -> ScopeId(8)
-e ("e") -> ScopeId(8)
-args ("args") -> ScopeId(8)
-args ("args") -> ScopeId(8)
+198 -> 0
+231 -> 1
+246 -> 1
+361 -> 0
+388 -> 2
+397 -> 3
+412 -> 3
+530 -> 0
+557 -> 4
+560 -> 5
+569 -> 6
+584 -> 6
+705 -> 0
+732 -> 7
+735 -> 8
+738 -> 9
+747 -> 10
+762 -> 10
+886 -> 0
+913 -> 11
+916 -> 12
+919 -> 13
+922 -> 14
+931 -> 15
+946 -> 15
+1073 -> 0
+1100 -> 16
+1103 -> 17
+1106 -> 18
+1109 -> 19
+1112 -> 20
+1121 -> 21
+1136 -> 21

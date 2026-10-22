@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-obj ("obj") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-_this ("_this") -> ScopeId(6)
-setTimeout ("setTimeout") -> ScopeId(1)
-_this ("_this") -> ScopeId(6)
-obj ("obj") -> ScopeId(3)
-foo ("foo") -> ScopeId(2)
+12 -> 1
+30 -> 2
+83 -> 0
+160 -> 3
+191 -> 0
+227 -> 3
+290 -> 2
+321 -> 1

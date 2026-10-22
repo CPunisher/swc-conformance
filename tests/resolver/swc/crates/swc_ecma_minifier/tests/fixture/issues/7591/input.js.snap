@@ -1,9 +1,7 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-someFunction ("someFunction") -> ScopeId(2)
-someFunction ("someFunction") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-x ("x") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-x ("x") -> ScopeId(2)
+5 -> 1
+20 -> 2
+44 -> 2
+73 -> 0
+79 -> 1
+89 -> 0
+95 -> 1

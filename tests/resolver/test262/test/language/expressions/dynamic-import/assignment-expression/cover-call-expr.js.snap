@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-ns1 ("ns1") -> ScopeId(5)
-a ("a") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns1 ("ns1") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-ns1 ("ns1") -> ScopeId(5)
-ns2 ("ns2") -> ScopeId(5)
-b ("b") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns2 ("ns2") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-ns2 ("ns2") -> ScopeId(5)
-asyncTest ("asyncTest") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+1260 -> 1
+1304 -> 2
+1365 -> 3
+1383 -> 4
+1400 -> 1
+1454 -> 0
+1468 -> 4
+1499 -> 0
+1513 -> 4
+1542 -> 5
+1559 -> 2
+1619 -> 0
+1633 -> 5
+1672 -> 0
+1686 -> 5
+1715 -> 0
+1718 -> 3

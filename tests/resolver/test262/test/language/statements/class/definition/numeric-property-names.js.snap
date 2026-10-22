@@ -1,80 +1,78 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-assertMethodDescriptor ("assertMethodDescriptor") -> ScopeId(2)
-object ("object") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-desc ("desc") -> ScopeId(3)
-Object ("Object") -> ScopeId(1)
-object ("object") -> ScopeId(3)
-name ("name") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(3)
-assertGetterDescriptor ("assertGetterDescriptor") -> ScopeId(2)
-object ("object") -> ScopeId(4)
-name ("name") -> ScopeId(4)
-desc ("desc") -> ScopeId(4)
-Object ("Object") -> ScopeId(1)
-object ("object") -> ScopeId(4)
-name ("name") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-object ("object") -> ScopeId(5)
-name ("name") -> ScopeId(5)
-desc ("desc") -> ScopeId(5)
-Object ("Object") -> ScopeId(1)
-object ("object") -> ScopeId(5)
-name ("name") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-desc ("desc") -> ScopeId(5)
-undefined ("undefined") -> ScopeId(1)
-B ("B") -> ScopeId(2)
-_ ("_") -> ScopeId(9)
-_ ("_") -> ScopeId(12)
-assertMethodDescriptor ("assertMethodDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assertGetterDescriptor ("assertGetterDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assertMethodDescriptor ("assertMethodDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assertGetterDescriptor ("assertGetterDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assertSetterDescriptor ("assertSetterDescriptor") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
+241 -> 1
+248 -> 2
+254 -> 3
+268 -> 4
+277 -> 0
+309 -> 2
+315 -> 3
+326 -> 0
+341 -> 4
+417 -> 0
+432 -> 4
+506 -> 0
+521 -> 4
+589 -> 0
+611 -> 4
+679 -> 0
+709 -> 4
+815 -> 5
+822 -> 6
+828 -> 7
+842 -> 8
+851 -> 0
+883 -> 6
+889 -> 7
+900 -> 0
+915 -> 8
+991 -> 0
+1006 -> 8
+1080 -> 0
+1102 -> 8
+1166 -> 0
+1196 -> 8
+1272 -> 0
+1287 -> 8
+1302 -> 0
+1381 -> 9
+1388 -> 10
+1394 -> 11
+1408 -> 12
+1417 -> 0
+1449 -> 10
+1455 -> 11
+1466 -> 0
+1481 -> 12
+1557 -> 0
+1572 -> 12
+1646 -> 0
+1668 -> 12
+1732 -> 0
+1762 -> 12
+1838 -> 0
+1853 -> 12
+1868 -> 0
+1923 -> 13
+1979 -> 14
+2059 -> 15
+2089 -> 1
+2091 -> 13
+2131 -> 5
+2133 -> 13
+2173 -> 9
+2175 -> 13
+2216 -> 1
+2218 -> 13
+2248 -> 5
+2250 -> 13
+2280 -> 9
+2282 -> 13
+2298 -> 16
+2308 -> 13
+2454 -> 0
+2470 -> 16
+2560 -> 0
+2576 -> 16
+2672 -> 0
+2684 -> 16
+2773 -> 0
+2785 -> 16

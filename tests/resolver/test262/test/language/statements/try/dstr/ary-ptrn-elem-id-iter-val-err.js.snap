@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-poisonedValue ("poisonedValue") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-g ("g") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-poisonedValue ("poisonedValue") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-g ("g") -> ScopeId(2)
-x ("x") -> ScopeId(12)
+1234 -> 1
+1243 -> 0
+1320 -> 0
+1337 -> 2
+1345 -> 2
+1352 -> 0
+1438 -> 1
+1461 -> 0
+1481 -> 0
+1515 -> 2
+1530 -> 3

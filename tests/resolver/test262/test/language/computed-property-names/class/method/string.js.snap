@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-ID ("ID") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-C ("C") -> ScopeId(2)
-ID ("ID") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
+276 -> 1
+278 -> 2
+292 -> 2
+304 -> 3
+380 -> 1
+413 -> 0
+429 -> 3
+512 -> 0
+528 -> 3
+617 -> 0
+633 -> 3
+718 -> 0
+734 -> 3
+827 -> 0
+844 -> 0
+851 -> 3
+914 -> 0
+937 -> 0
+959 -> 3

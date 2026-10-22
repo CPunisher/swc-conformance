@@ -1,56 +1,54 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(8)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(8)
-assertions ("assertions") -> ScopeId(8)
-$DONE ("$DONE") -> ScopeId(9)
-error ("error") -> ScopeId(10)
-error ("error") -> ScopeId(10)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(8)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+625 -> 1
+652 -> 2
+709 -> 1
+722 -> 3
+730 -> 2
+741 -> 0
+752 -> 0
+784 -> 3
+859 -> 0
+870 -> 0
+902 -> 2
+997 -> 0
+999 -> 2
+1092 -> 2
+1119 -> 4
+1131 -> 0
+1143 -> 4
+1164 -> 0
+1176 -> 4
+1212 -> 5
+1279 -> 6
+1285 -> 7
+1304 -> 7
+1338 -> 0
+1391 -> 0
+1406 -> 0
+1438 -> 2
+1532 -> 0
+1547 -> 0
+1579 -> 2
+1674 -> 0
+1676 -> 3
+1707 -> 0
+1799 -> 0
+1814 -> 0
+1846 -> 2
+1940 -> 0
+1955 -> 0
+1987 -> 2
+2082 -> 0
+2084 -> 3
+2200 -> 0
+2215 -> 0
+2247 -> 2
+2341 -> 0
+2356 -> 0
+2388 -> 2
+2483 -> 0
+2485 -> 3
+2509 -> 1
+2612 -> 0
+2631 -> 5
+2649 -> 0
+2656 -> 0

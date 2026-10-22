@@ -1,19 +1,17 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-TopLevelCtor ("TopLevelCtor") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-out ("out") -> ScopeId(1)
-TopLevelCtor ("TopLevelCtor") -> ScopeId(2)
-constructors ("constructors") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-TopLevelCtor ("TopLevelCtor") -> ScopeId(2)
-constructLocal ("constructLocal") -> ScopeId(2)
-constructors ("constructors") -> ScopeId(5)
-LocalCtor ("LocalCtor") -> ScopeId(5)
-value ("value") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-constructors ("constructors") -> ScopeId(5)
-LocalCtor ("LocalCtor") -> ScopeId(5)
-out ("out") -> ScopeId(1)
-constructLocal ("constructLocal") -> ScopeId(2)
+21 -> 1
+27 -> 2
+53 -> 2
+61 -> 0
+89 -> 1
+110 -> 0
+121 -> 0
+149 -> 1
+186 -> 3
+199 -> 4
+225 -> 5
+231 -> 6
+261 -> 6
+292 -> 4
+324 -> 5
+347 -> 0
+379 -> 3

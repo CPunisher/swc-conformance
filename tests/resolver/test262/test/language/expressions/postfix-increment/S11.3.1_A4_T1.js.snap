@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-Boolean ("Boolean") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-x ("x") -> ScopeId(2)
-y ("y") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-y ("y") -> ScopeId(2)
+280 -> 1
+295 -> 2
+299 -> 1
+308 -> 2
+342 -> 0
+399 -> 2
+421 -> 1
+435 -> 0
+448 -> 2
+452 -> 1
+461 -> 2
+495 -> 0
+564 -> 2

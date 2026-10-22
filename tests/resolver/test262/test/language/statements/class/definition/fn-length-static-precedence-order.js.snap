@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-A ("A") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-A ("A") -> ScopeId(2)
-attr ("attr") -> ScopeId(2)
-B ("B") -> ScopeId(2)
-attr ("attr") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-B ("B") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-D ("D") -> ScopeId(2)
-_ ("_") -> ScopeId(11)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-D ("D") -> ScopeId(2)
-E ("E") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-E ("E") -> ScopeId(2)
+1101 -> 1
+1150 -> 0
+1260 -> 0
+1333 -> 0
+1353 -> 0
+1375 -> 1
+1430 -> 2
+1450 -> 3
+1467 -> 2
+1499 -> 0
+1625 -> 0
+1645 -> 0
+1667 -> 3
+1711 -> 4
+1764 -> 0
+1845 -> 0
+1865 -> 0
+1887 -> 4
+1931 -> 5
+1955 -> 6
+1985 -> 0
+2066 -> 0
+2086 -> 0
+2108 -> 5
+2152 -> 7
+2202 -> 0
+2284 -> 0
+2304 -> 0
+2326 -> 7

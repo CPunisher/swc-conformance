@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-AB1 ("AB1") -> ScopeId(2)
-ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-AB1 ("AB1") -> ScopeId(2)
-AB2 ("AB2") -> ScopeId(2)
-length ("length") -> ScopeId(7)
-length ("length") -> ScopeId(7)
-ArrayBuffer ("ArrayBuffer") -> ScopeId(1)
-AB2 ("AB2") -> ScopeId(2)
+703 -> 1
+723 -> 0
+754 -> 0
+776 -> 0
+800 -> 1
+819 -> 2
+839 -> 0
+862 -> 3
+882 -> 3
+899 -> 2

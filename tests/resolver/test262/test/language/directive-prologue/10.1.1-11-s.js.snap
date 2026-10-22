@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-err ("err") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-err ("err") -> ScopeId(2)
-e ("e") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-err ("err") -> ScopeId(2)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-public ("public") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-anotherVariableNotReserveWord ("anotherVariableNotReserveWord") -> ScopeId(1)
+313 -> 1
+353 -> 0
+445 -> 2
+464 -> 1
+468 -> 2
+487 -> 0
+491 -> 1
+514 -> 0
+553 -> 0
+577 -> 0
+616 -> 0
+663 -> 0

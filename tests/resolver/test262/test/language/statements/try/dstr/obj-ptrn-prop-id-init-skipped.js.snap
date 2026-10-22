@@ -1,39 +1,37 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-initCount ("initCount") -> ScopeId(2)
-ranCatch ("ranCatch") -> ScopeId(2)
-t ("t") -> ScopeId(6)
-counter ("counter") -> ScopeId(2)
-v ("v") -> ScopeId(6)
-counter ("counter") -> ScopeId(2)
-x ("x") -> ScopeId(6)
-counter ("counter") -> ScopeId(2)
-z ("z") -> ScopeId(6)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-t ("t") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-s ("s") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-u ("u") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-w ("w") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-y ("y") -> ScopeId(1)
-ranCatch ("ranCatch") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ranCatch ("ranCatch") -> ScopeId(2)
+802 -> 1
+824 -> 2
+840 -> 1
+862 -> 3
+938 -> 4
+948 -> 2
+956 -> 5
+966 -> 2
+974 -> 6
+984 -> 2
+992 -> 7
+1002 -> 2
+1018 -> 0
+1030 -> 4
+1047 -> 0
+1059 -> 5
+1073 -> 0
+1085 -> 6
+1103 -> 0
+1115 -> 7
+1130 -> 0
+1150 -> 1
+1165 -> 0
+1187 -> 0
+1207 -> 0
+1223 -> 0
+1245 -> 0
+1265 -> 0
+1281 -> 0
+1303 -> 0
+1323 -> 0
+1339 -> 0
+1361 -> 0
+1381 -> 0
+1399 -> 3
+1417 -> 0
+1426 -> 3

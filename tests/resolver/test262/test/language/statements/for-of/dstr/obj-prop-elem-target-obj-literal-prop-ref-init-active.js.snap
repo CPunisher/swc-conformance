@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-setValue ("setValue") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-val ("val") -> ScopeId(6)
-setValue ("setValue") -> ScopeId(2)
-val ("val") -> ScopeId(6)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-setValue ("setValue") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
+3097 -> 1
+3111 -> 2
+3168 -> 0
+3226 -> 3
+3242 -> 1
+3248 -> 3
+3281 -> 0
+3295 -> 0
+3314 -> 1
+3331 -> 2
+3347 -> 0
+3365 -> 2

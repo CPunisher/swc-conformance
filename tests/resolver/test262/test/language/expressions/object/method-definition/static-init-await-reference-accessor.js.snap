@@ -1,16 +1,14 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-await ("await") -> ScopeId(2)
-fromParam ("fromParam") -> ScopeId(2)
-fromBody ("fromBody") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-x ("x") -> ScopeId(6)
-fromParam ("fromParam") -> ScopeId(2)
-await ("await") -> ScopeId(2)
-fromBody ("fromBody") -> ScopeId(2)
-await ("await") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-fromParam ("fromParam") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-fromBody ("fromBody") -> ScopeId(2)
+494 -> 1
+513 -> 2
+523 -> 3
+533 -> 4
+574 -> 5
+586 -> 2
+594 -> 1
+614 -> 3
+622 -> 1
+659 -> 0
+674 -> 0
+694 -> 2
+724 -> 0
+743 -> 3

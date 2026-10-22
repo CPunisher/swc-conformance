@@ -1,71 +1,69 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Global ("Global") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-value ("value") -> ScopeId(4)
-out ("out") -> ScopeId(1)
-Global ("Global") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-Global ("Global") -> ScopeId(2)
-constructUnknown ("constructUnknown") -> ScopeId(2)
-Global ("Global") -> ScopeId(5)
-Global ("Global") -> ScopeId(5)
-out ("out") -> ScopeId(1)
-constructUnknown ("constructUnknown") -> ScopeId(2)
-constructLocal ("constructLocal") -> ScopeId(2)
-Global ("Global") -> ScopeId(6)
-first ("first") -> ScopeId(8)
-second ("second") -> ScopeId(8)
-first ("first") -> ScopeId(8)
-second ("second") -> ScopeId(8)
-out ("out") -> ScopeId(1)
-Global ("Global") -> ScopeId(6)
-Global ("Global") -> ScopeId(6)
-out ("out") -> ScopeId(1)
-constructLocal ("constructLocal") -> ScopeId(2)
-MutableClass ("MutableClass") -> ScopeId(2)
-condition ("condition") -> ScopeId(1)
-MutableClass ("MutableClass") -> ScopeId(2)
-ExternalClass ("ExternalClass") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-MutableClass ("MutableClass") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-MutableClass ("MutableClass") -> ScopeId(2)
-MutableFunction ("MutableFunction") -> ScopeId(2)
-condition ("condition") -> ScopeId(1)
-MutableFunction ("MutableFunction") -> ScopeId(2)
-ExternalFunction ("ExternalFunction") -> ScopeId(1)
-out ("out") -> ScopeId(1)
-MutableFunction ("MutableFunction") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-MutableFunction ("MutableFunction") -> ScopeId(2)
-DifferentArity ("DifferentArity") -> ScopeId(2)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-condition ("condition") -> ScopeId(1)
-DifferentArity ("DifferentArity") -> ScopeId(2)
-first ("first") -> ScopeId(15)
-second ("second") -> ScopeId(15)
-first ("first") -> ScopeId(15)
-second ("second") -> ScopeId(15)
-out ("out") -> ScopeId(1)
-DifferentArity ("DifferentArity") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-DifferentArity ("DifferentArity") -> ScopeId(2)
-SameArity ("SameArity") -> ScopeId(2)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-condition ("condition") -> ScopeId(1)
-SameArity ("SameArity") -> ScopeId(2)
-value ("value") -> ScopeId(19)
-value ("value") -> ScopeId(19)
-out ("out") -> ScopeId(1)
-SameArity ("SameArity") -> ScopeId(2)
-out ("out") -> ScopeId(1)
-SameArity ("SameArity") -> ScopeId(2)
-constructAfterEval ("constructAfterEval") -> ScopeId(2)
-EvalMutable ("EvalMutable") -> ScopeId(20)
-eval ("eval") -> ScopeId(1)
-EvalMutable ("EvalMutable") -> ScopeId(20)
-out ("out") -> ScopeId(1)
-constructAfterEval ("constructAfterEval") -> ScopeId(2)
+12 -> 1
+36 -> 2
+66 -> 2
+80 -> 0
+96 -> 1
+101 -> 0
+121 -> 1
+158 -> 3
+165 -> 4
+190 -> 4
+207 -> 0
+243 -> 3
+269 -> 5
+290 -> 6
+318 -> 7
+326 -> 8
+360 -> 7
+394 -> 8
+420 -> 0
+435 -> 6
+458 -> 6
+478 -> 0
+510 -> 5
+531 -> 9
+549 -> 0
+569 -> 9
+585 -> 0
+593 -> 0
+621 -> 9
+626 -> 0
+658 -> 9
+694 -> 10
+714 -> 0
+737 -> 10
+756 -> 0
+764 -> 0
+798 -> 10
+803 -> 0
+841 -> 10
+871 -> 11
+889 -> 12
+915 -> 12
+934 -> 0
+956 -> 11
+974 -> 13
+982 -> 14
+1012 -> 13
+1042 -> 14
+1057 -> 0
+1089 -> 11
+1094 -> 0
+1130 -> 11
+1155 -> 15
+1173 -> 16
+1199 -> 16
+1218 -> 0
+1235 -> 15
+1271 -> 17
+1305 -> 17
+1330 -> 0
+1352 -> 15
+1357 -> 0
+1383 -> 15
+1422 -> 18
+1448 -> 19
+1461 -> 0
+1520 -> 19
+1537 -> 0
+1577 -> 18

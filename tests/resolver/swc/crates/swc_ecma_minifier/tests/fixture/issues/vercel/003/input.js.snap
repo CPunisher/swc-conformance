@@ -1,84 +1,82 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(2)
-window ("window") -> ScopeId(1)
-require ("require") -> ScopeId(1)
-manager ("manager") -> ScopeId(2)
-makeManager ("makeManager") -> ScopeId(4)
-c ("c") -> ScopeId(5)
-Map ("Map") -> ScopeId(1)
-d ("d") -> ScopeId(5)
-e ("e") -> ScopeId(6)
-f ("f") -> ScopeId(5)
-e ("e") -> ScopeId(6)
-IntersectionObserver ("IntersectionObserver") -> ScopeId(1)
-g ("g") -> ScopeId(5)
-e ("e") -> ScopeId(6)
-f ("f") -> ScopeId(5)
-g ("g") -> ScopeId(7)
-h ("h") -> ScopeId(7)
-b ("b") -> ScopeId(2)
-g ("g") -> ScopeId(7)
-i ("i") -> ScopeId(9)
-c ("c") -> ScopeId(5)
-a ("a") -> ScopeId(2)
-i ("i") -> ScopeId(9)
-h ("h") -> ScopeId(7)
-i ("i") -> ScopeId(9)
-j ("j") -> ScopeId(5)
-k ("k") -> ScopeId(12)
-c ("c") -> ScopeId(5)
-k ("k") -> ScopeId(12)
-c ("c") -> ScopeId(5)
-k ("k") -> ScopeId(12)
-Map ("Map") -> ScopeId(1)
-k ("k") -> ScopeId(12)
-c ("c") -> ScopeId(5)
-k ("k") -> ScopeId(12)
-l ("l") -> ScopeId(5)
-m ("m") -> ScopeId(13)
-n ("n") -> ScopeId(13)
-o ("o") -> ScopeId(13)
-p ("p") -> ScopeId(13)
-j ("j") -> ScopeId(5)
-m ("m") -> ScopeId(13)
-p ("p") -> ScopeId(13)
-n ("n") -> ScopeId(13)
-o ("o") -> ScopeId(13)
-m ("m") -> ScopeId(13)
-n ("n") -> ScopeId(13)
-q ("q") -> ScopeId(5)
-r ("r") -> ScopeId(14)
-s ("s") -> ScopeId(14)
-t ("t") -> ScopeId(14)
-j ("j") -> ScopeId(5)
-r ("r") -> ScopeId(14)
-t ("t") -> ScopeId(14)
-s ("s") -> ScopeId(14)
-r ("r") -> ScopeId(14)
-s ("s") -> ScopeId(14)
-g ("g") -> ScopeId(5)
-u ("u") -> ScopeId(15)
-v ("v") -> ScopeId(15)
-w ("w") -> ScopeId(16)
-u ("u") -> ScopeId(15)
-x ("x") -> ScopeId(17)
-j ("j") -> ScopeId(5)
-v ("v") -> ScopeId(15)
-y ("y") -> ScopeId(17)
-x ("x") -> ScopeId(17)
-w ("w") -> ScopeId(16)
-y ("y") -> ScopeId(17)
-y ("y") -> ScopeId(17)
-w ("w") -> ScopeId(16)
-d ("d") -> ScopeId(5)
-l ("l") -> ScopeId(5)
-q ("q") -> ScopeId(5)
-manager ("manager") -> ScopeId(2)
-d ("d") -> ScopeId(2)
-manager ("manager") -> ScopeId(2)
-l ("l") -> ScopeId(2)
-manager ("manager") -> ScopeId(2)
-q ("q") -> ScopeId(2)
-manager ("manager") -> ScopeId(2)
+10 -> 1
+13 -> 2
+50 -> 0
+81 -> 0
+124 -> 3
+148 -> 4
+164 -> 5
+174 -> 0
+193 -> 6
+195 -> 7
+215 -> 8
+217 -> 7
+246 -> 0
+248 -> 9
+251 -> 7
+275 -> 8
+277 -> 10
+301 -> 11
+305 -> 2
+307 -> 10
+330 -> 12
+335 -> 5
+363 -> 1
+365 -> 12
+368 -> 11
+397 -> 12
+465 -> 13
+467 -> 14
+488 -> 5
+494 -> 14
+499 -> 5
+505 -> 14
+514 -> 0
+523 -> 14
+528 -> 5
+534 -> 14
+558 -> 15
+560 -> 16
+563 -> 17
+566 -> 18
+585 -> 19
+589 -> 13
+591 -> 16
+603 -> 19
+609 -> 17
+612 -> 18
+624 -> 16
+634 -> 17
+658 -> 20
+660 -> 21
+663 -> 22
+682 -> 23
+686 -> 13
+688 -> 21
+700 -> 23
+709 -> 22
+721 -> 21
+733 -> 22
+757 -> 9
+759 -> 24
+762 -> 25
+784 -> 26
+789 -> 24
+812 -> 27
+816 -> 13
+818 -> 25
+840 -> 28
+844 -> 27
+850 -> 26
+877 -> 28
+898 -> 28
+900 -> 26
+956 -> 6
+967 -> 15
+978 -> 20
+1016 -> 3
+1034 -> 29
+1046 -> 3
+1064 -> 30
+1076 -> 3
+1094 -> 31
+1106 -> 3

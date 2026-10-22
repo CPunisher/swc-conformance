@@ -1,5 +1,6 @@
 use std::{
     borrow::Cow,
+    collections::{BTreeMap, HashMap},
     error::Error,
     ffi::OsString,
     fmt::Write,
@@ -9,7 +10,10 @@ use std::{
 
 use saphyr::{LoadableYamlNode, Yaml};
 use swc_experimental_allocator::Allocator;
-use swc_experimental_ecma_ast::{EsVersion, Ident, Program, Visit};
+use swc_experimental_ecma_ast::{
+    EsVersion, ExportNamedSpecifier, Ident, JSXElementName, JSXObject, ModuleExportName,
+    NamedExport, Program, ScopeId, Visit, VisitWith,
+};
 use swc_experimental_ecma_parser::{EsSyntax, Syntax, with_file_parser};
 use swc_experimental_ecma_semantic::resolver::{Semantic, resolver};
 use walkdir::WalkDir;
@@ -146,15 +150,12 @@ fn resolver_snapshot(path: &Path, jsx: bool, test262: bool) -> Option<String> {
         },
     )?;
     let semantic = resolver(&program);
-    let mut output = String::new();
-    let _ = writeln!(output, "Top level: {:?}", semantic.top_level_scope_id());
-    let _ = writeln!(output, "Unresolved: {:?}", semantic.unresolved_scope_id());
     let mut visitor = SnapshotWriter {
         semantic: &semantic,
-        output: &mut output,
+        identifiers: BTreeMap::new(),
     };
     visitor.visit_program(&program);
-    Some(output)
+    Some(visitor.finish())
 }
 
 #[derive(Clone, Copy, Default)]
@@ -230,18 +231,84 @@ fn prepare_source(source: &str, options: Test262ParseOptions) -> Cow<'_, str> {
     }
 }
 
-struct SnapshotWriter<'a, 'b> {
+struct SnapshotWriter<'a> {
     semantic: &'a Semantic,
-    output: &'b mut String,
+    identifiers: BTreeMap<u32, Option<(String, ScopeId)>>,
 }
 
-impl<'a> Visit<'a> for SnapshotWriter<'_, '_> {
+impl SnapshotWriter<'_> {
+    fn finish(self) -> String {
+        // Identifier end offsets make ordering independent of AST traversal and scope allocation.
+        // Zero denotes an unresolved name; other targets identify (name, scope) pairs.
+        let mut bindings = HashMap::new();
+        let mut output = String::new();
+        for (end, binding) in self.identifiers {
+            let target = binding.map_or(0, |binding| {
+                let next = bindings.len() + 1;
+                *bindings.entry(binding).or_insert(next)
+            });
+            writeln!(output, "{end} -> {target}").unwrap();
+        }
+        output
+    }
+}
+
+impl<'a> Visit<'a> for SnapshotWriter<'_> {
     fn visit_ident(&mut self, node: &Ident) {
-        let scope = if node.symbol_id.get().is_some() {
-            self.semantic.node_scope(node)
-        } else {
-            self.semantic.unresolved_scope_id()
-        };
-        let _ = writeln!(self.output, "{} ({:?}) -> {:?}", node.sym, node.sym, scope,);
+        let scope = node
+            .symbol_id
+            .get()
+            .map_or(self.semantic.unresolved_scope_id(), |_| {
+                self.semantic.node_scope(node)
+            });
+        // Labels are control-flow names rather than lexical bindings.
+        if scope.raw() == u32::MAX {
+            return;
+        }
+        let binding =
+            (scope != self.semantic.unresolved_scope_id()).then(|| (node.sym.to_string(), scope));
+        // The reference parser reserves position zero for synthetic nodes.
+        if !node.span.is_dummy() {
+            self.identifiers.insert(node.span.end - 1, binding);
+        }
+    }
+
+    // Imported and re-exported names, and exported aliases, are external names.
+    fn visit_module_export_name(&mut self, _: &ModuleExportName) {}
+
+    fn visit_named_export(&mut self, node: &NamedExport<'a>) {
+        if node.src.is_none() {
+            node.specifiers.visit_with(self);
+        }
+    }
+
+    fn visit_export_named_specifier(&mut self, node: &ExportNamedSpecifier<'a>) {
+        if let ModuleExportName::Ident(local) = &node.orig {
+            self.visit_ident(local);
+        }
+    }
+
+    fn visit_jsx_element_name(&mut self, node: &JSXElementName<'a>) {
+        match node {
+            JSXElementName::Ident(identifier) => {
+                let name = identifier.sym.as_bytes();
+                if name.first().is_some_and(u8::is_ascii_lowercase) || name.contains(&b'-') {
+                    return;
+                }
+                self.visit_ident(identifier);
+            }
+            JSXElementName::JSXMemberExpr(member) => member.obj.visit_with(self),
+            JSXElementName::JSXNamespacedName(_) => {}
+        }
+    }
+
+    fn visit_jsx_object(&mut self, node: &JSXObject<'a>) {
+        match node {
+            JSXObject::Ident(identifier) if identifier.sym != "this" => {
+                self.visit_ident(identifier)
+            }
+            JSXObject::JSXMemberExpr(member) => member.obj.visit_with(self),
+            JSXObject::Ident(_) => {}
+        }
     }
 }

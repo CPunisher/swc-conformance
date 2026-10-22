@@ -1,33 +1,31 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-MyError ("MyError") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-error1 ("error1") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-error2 ("error2") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-error3 ("error3") -> ScopeId(2)
-MyError ("MyError") -> ScopeId(2)
-_1 ("_1") -> ScopeId(4)
-Symbol ("Symbol") -> ScopeId(1)
-error1 ("error1") -> ScopeId(2)
-_2 ("_2") -> ScopeId(4)
-Symbol ("Symbol") -> ScopeId(1)
-error2 ("error2") -> ScopeId(2)
-error3 ("error3") -> ScopeId(2)
-e ("e") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(9)
-SuppressedError ("SuppressedError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(9)
-error1 ("error1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(9)
-SuppressedError ("SuppressedError") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(9)
-error2 ("error2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-e ("e") -> ScopeId(9)
-error3 ("error3") -> ScopeId(2)
+1444 -> 1
+1458 -> 0
+1474 -> 2
+1488 -> 1
+1504 -> 3
+1518 -> 1
+1534 -> 4
+1548 -> 1
+1569 -> 5
+1581 -> 0
+1607 -> 2
+1624 -> 6
+1636 -> 0
+1662 -> 3
+1683 -> 4
+1695 -> 7
+1707 -> 0
+1709 -> 7
+1736 -> 0
+1798 -> 0
+1810 -> 7
+1824 -> 2
+1901 -> 0
+1903 -> 7
+1941 -> 0
+2026 -> 0
+2038 -> 7
+2063 -> 3
+2140 -> 0
+2152 -> 7
+2182 -> 4

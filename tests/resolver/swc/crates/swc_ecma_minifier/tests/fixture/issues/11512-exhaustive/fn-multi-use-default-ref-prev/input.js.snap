@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-keep ("keep") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-a ("a") -> ScopeId(3)
-fnMultiUseDefaultRefPrev ("fnMultiUseDefaultRefPrev") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(4)
-keep ("keep") -> ScopeId(2)
-value ("value") -> ScopeId(4)
+13 -> 1
+15 -> 2
+18 -> 3
+22 -> 2
+38 -> 2
+83 -> 4
+89 -> 5
+108 -> 1
+114 -> 5
+122 -> 1
+128 -> 5

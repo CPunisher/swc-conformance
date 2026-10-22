@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-count ("count") -> ScopeId(2)
-asyncFn ("asyncFn") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-asyncFn ("asyncFn") -> ScopeId(2)
-retFn ("retFn") -> ScopeId(5)
-count ("count") -> ScopeId(2)
-retFn ("retFn") -> ScopeId(5)
-result ("result") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-count ("count") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+554 -> 1
+584 -> 2
+586 -> 3
+612 -> 3
+624 -> 2
+638 -> 4
+651 -> 1
+669 -> 4
+687 -> 5
+701 -> 0
+718 -> 5
+732 -> 0
+748 -> 1
+767 -> 0
+774 -> 0

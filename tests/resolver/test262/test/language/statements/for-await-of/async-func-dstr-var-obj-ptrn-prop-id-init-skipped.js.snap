@@ -1,44 +1,42 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-initCount ("initCount") -> ScopeId(2)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-t ("t") -> ScopeId(4)
-counter ("counter") -> ScopeId(2)
-v ("v") -> ScopeId(4)
-counter ("counter") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-counter ("counter") -> ScopeId(2)
-z ("z") -> ScopeId(4)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-t ("t") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-initCount ("initCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-s ("s") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-u ("u") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-w ("w") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-y ("y") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-iterCount ("iterCount") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1477 -> 1
+1499 -> 2
+1515 -> 1
+1538 -> 3
+1562 -> 4
+1590 -> 5
+1600 -> 2
+1608 -> 6
+1618 -> 2
+1626 -> 7
+1636 -> 2
+1644 -> 8
+1654 -> 2
+1712 -> 0
+1724 -> 5
+1743 -> 0
+1755 -> 6
+1771 -> 0
+1783 -> 7
+1803 -> 0
+1815 -> 8
+1832 -> 0
+1852 -> 1
+1869 -> 0
+1891 -> 0
+1913 -> 0
+1933 -> 0
+1955 -> 0
+1977 -> 0
+1997 -> 0
+2019 -> 0
+2041 -> 0
+2061 -> 0
+2083 -> 0
+2105 -> 0
+2129 -> 3
+2145 -> 4
+2168 -> 0
+2188 -> 3
+2233 -> 0
+2248 -> 0
+2255 -> 0

@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(4)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(5)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(5)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(6)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(6)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+383 -> 1
+435 -> 2
+439 -> 1
+447 -> 2
+475 -> 3
+487 -> 0
+504 -> 3
+548 -> 0
+565 -> 3
+625 -> 0
+632 -> 0
+640 -> 2
+668 -> 4
+680 -> 0
+697 -> 4
+714 -> 0
+750 -> 0
+767 -> 4
+828 -> 0
+835 -> 0
+843 -> 2
+871 -> 5
+883 -> 0
+900 -> 5
+917 -> 0
+952 -> 0
+969 -> 5
+1023 -> 0
+1030 -> 0

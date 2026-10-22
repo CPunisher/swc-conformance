@@ -1,31 +1,29 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-value1 ("value1") -> ScopeId(2)
-value2 ("value2") -> ScopeId(2)
-value3 ("value3") -> ScopeId(2)
-arg1 ("arg1") -> ScopeId(2)
-arg2 ("arg2") -> ScopeId(2)
-arg3 ("arg3") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-a ("a") -> ScopeId(7)
-b ("b") -> ScopeId(7)
-c ("c") -> ScopeId(7)
-arg1 ("arg1") -> ScopeId(2)
-a ("a") -> ScopeId(7)
-arg2 ("arg2") -> ScopeId(2)
-b ("b") -> ScopeId(7)
-arg3 ("arg3") -> ScopeId(2)
-c ("c") -> ScopeId(7)
-obj ("obj") -> ScopeId(2)
-value1 ("value1") -> ScopeId(2)
-value2 ("value2") -> ScopeId(2)
-value3 ("value3") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arg1 ("arg1") -> ScopeId(2)
-value1 ("value1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arg2 ("arg2") -> ScopeId(2)
-value2 ("value2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arg3 ("arg3") -> ScopeId(2)
-value3 ("value3") -> ScopeId(2)
+265 -> 1
+282 -> 2
+299 -> 3
+314 -> 4
+320 -> 5
+326 -> 6
+335 -> 7
+350 -> 8
+353 -> 9
+356 -> 10
+368 -> 4
+372 -> 8
+382 -> 5
+386 -> 9
+396 -> 6
+400 -> 10
+413 -> 7
+427 -> 1
+435 -> 2
+443 -> 3
+453 -> 0
+468 -> 4
+476 -> 1
+485 -> 0
+500 -> 5
+508 -> 2
+517 -> 0
+532 -> 6
+540 -> 3

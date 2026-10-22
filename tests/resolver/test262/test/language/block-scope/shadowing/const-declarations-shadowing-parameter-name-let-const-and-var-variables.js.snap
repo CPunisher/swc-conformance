@@ -1,28 +1,26 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-a ("a") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-c ("c") -> ScopeId(3)
-d ("d") -> ScopeId(3)
-a ("a") -> ScopeId(4)
-b ("b") -> ScopeId(4)
-c ("c") -> ScopeId(4)
-d ("d") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-d ("d") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-a ("a") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-b ("b") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-d ("d") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
+266 -> 1
+268 -> 2
+279 -> 3
+292 -> 4
+307 -> 5
+328 -> 6
+345 -> 7
+362 -> 8
+379 -> 9
+395 -> 0
+407 -> 6
+423 -> 0
+435 -> 7
+451 -> 0
+463 -> 8
+479 -> 0
+491 -> 9
+510 -> 0
+522 -> 2
+536 -> 0
+548 -> 3
+562 -> 0
+574 -> 4
+588 -> 0
+600 -> 5
+610 -> 1

@@ -1,24 +1,22 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-probeBefore ("probeBefore") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-setBefore ("setBefore") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-probeBefore ("probeBefore") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
-setBefore ("setBefore") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-probeBefore ("probeBefore") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
+888 -> 1
+912 -> 2
+930 -> 3
+947 -> 2
+967 -> 2
+994 -> 2
+1018 -> 2
+1042 -> 4
+1056 -> 1
+1066 -> 0
+1087 -> 4
+1111 -> 3
+1121 -> 0
+1143 -> 1
+1161 -> 0
+1175 -> 4
+1198 -> 4
+1230 -> 0
+1250 -> 0
+1255 -> 4
+1320 -> 0
+1344 -> 4

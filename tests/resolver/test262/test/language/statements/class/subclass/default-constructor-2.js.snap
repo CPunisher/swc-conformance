@@ -1,56 +1,54 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Base1 ("Base1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Base1 ("Base1") -> ScopeId(2)
-Subclass1 ("Subclass1") -> ScopeId(2)
-Base1 ("Base1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Subclass1 ("Subclass1") -> ScopeId(2)
-s1 ("s1") -> ScopeId(2)
-Subclass1 ("Subclass1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Subclass1 ("Subclass1") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-s1 ("s1") -> ScopeId(2)
-Base2 ("Base2") -> ScopeId(2)
-x ("x") -> ScopeId(8)
-y ("y") -> ScopeId(8)
-x ("x") -> ScopeId(8)
-y ("y") -> ScopeId(8)
-Subclass2 ("Subclass2") -> ScopeId(2)
-Base2 ("Base2") -> ScopeId(2)
-s2 ("s2") -> ScopeId(2)
-Subclass2 ("Subclass2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Subclass2 ("Subclass2") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-s2 ("s2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-s2 ("s2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-s2 ("s2") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-Subclass2 ("Subclass2") -> ScopeId(2)
-s2prime ("s2prime") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Subclass2 ("Subclass2") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-s2prime ("s2prime") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-s2prime ("s2prime") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-s2prime ("s2prime") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Base3 ("Base3") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Subclass3 ("Subclass3") -> ScopeId(2)
-Base3 ("Base3") -> ScopeId(2)
-s3 ("s3") -> ScopeId(2)
-Subclass3 ("Subclass3") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-s3 ("s3") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
+220 -> 1
+231 -> 0
+248 -> 0
+268 -> 1
+292 -> 2
+306 -> 1
+318 -> 0
+335 -> 0
+359 -> 2
+374 -> 3
+390 -> 2
+400 -> 0
+423 -> 2
+443 -> 0
+461 -> 3
+594 -> 4
+612 -> 5
+615 -> 6
+633 -> 5
+649 -> 6
+673 -> 7
+687 -> 4
+699 -> 8
+715 -> 7
+730 -> 0
+753 -> 7
+773 -> 0
+791 -> 8
+922 -> 0
+935 -> 8
+979 -> 0
+992 -> 8
+1036 -> 9
+1048 -> 7
+1076 -> 10
+1084 -> 9
+1094 -> 0
+1117 -> 7
+1137 -> 0
+1160 -> 10
+1247 -> 0
+1265 -> 10
+1314 -> 0
+1332 -> 10
+1384 -> 11
+1402 -> 12
+1437 -> 11
+1461 -> 13
+1475 -> 12
+1487 -> 14
+1503 -> 13
+1513 -> 0
+1526 -> 14
+1531 -> 11

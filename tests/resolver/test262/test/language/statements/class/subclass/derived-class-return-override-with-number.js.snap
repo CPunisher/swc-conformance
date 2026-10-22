@@ -1,8 +1,6 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Base ("Base") -> ScopeId(2)
-Derived ("Derived") -> ScopeId(2)
-Base ("Base") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-Derived ("Derived") -> ScopeId(2)
+398 -> 1
+435 -> 2
+448 -> 1
+510 -> 0
+527 -> 0
+555 -> 2

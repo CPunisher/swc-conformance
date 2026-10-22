@@ -1,61 +1,59 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-value ("value") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-value ("value") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-result ("result") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-value ("value") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-value ("value") -> ScopeId(3)
-e ("e") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-result ("result") -> ScopeId(3)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-SwitchTest2 ("SwitchTest2") -> ScopeId(2)
-value ("value") -> ScopeId(8)
-result ("result") -> ScopeId(8)
-value ("value") -> ScopeId(8)
-result ("result") -> ScopeId(8)
-c2 ("c2") -> ScopeId(2)
-result ("result") -> ScopeId(8)
-result ("result") -> ScopeId(8)
-result ("result") -> ScopeId(8)
-SwitchTest2 ("SwitchTest2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest2 ("SwitchTest2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest1 ("SwitchTest1") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-SwitchTest3 ("SwitchTest3") -> ScopeId(2)
-value ("value") -> ScopeId(12)
-result ("result") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-result ("result") -> ScopeId(12)
-result ("result") -> ScopeId(12)
-result ("result") -> ScopeId(12)
-x3 ("x3") -> ScopeId(2)
-SwitchTest3 ("SwitchTest3") -> ScopeId(2)
-x3 ("x3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-x3 ("x3") -> ScopeId(2)
-e ("e") -> ScopeId(17)
-Test262Error ("Test262Error") -> ScopeId(1)
+352 -> 1
+358 -> 2
+373 -> 3
+404 -> 2
+436 -> 3
+463 -> 3
+509 -> 3
+560 -> 3
+611 -> 3
+626 -> 4
+644 -> 2
+653 -> 4
+682 -> 0
+732 -> 4
+751 -> 2
+760 -> 4
+792 -> 0
+845 -> 4
+882 -> 3
+905 -> 1
+936 -> 0
+1004 -> 1
+1026 -> 1
+1058 -> 0
+1127 -> 1
+1152 -> 5
+1176 -> 6
+1182 -> 7
+1197 -> 8
+1217 -> 7
+1260 -> 8
+1315 -> 5
+1351 -> 8
+1396 -> 8
+1436 -> 8
+1455 -> 6
+1486 -> 0
+1554 -> 1
+1567 -> 5
+1595 -> 0
+1644 -> 6
+1675 -> 0
+1743 -> 1
+1756 -> 5
+1784 -> 0
+1861 -> 9
+1867 -> 10
+1882 -> 11
+1902 -> 10
+1945 -> 11
+2043 -> 11
+2083 -> 11
+2100 -> 12
+2112 -> 9
+2125 -> 12
+2153 -> 0
+2186 -> 12
+2198 -> 13
+2225 -> 0

@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-Subclass ("Subclass") -> ScopeId(2)
-SharedArrayBuffer ("SharedArrayBuffer") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-Subclass ("Subclass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-sub ("sub") -> ScopeId(2)
-SharedArrayBuffer ("SharedArrayBuffer") -> ScopeId(1)
+350 -> 1
+384 -> 0
+398 -> 2
+413 -> 1
+423 -> 0
+427 -> 2
+447 -> 1
+456 -> 0
+460 -> 2
+489 -> 0

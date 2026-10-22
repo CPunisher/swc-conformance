@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-z ("z") -> ScopeId(2)
-z ("z") -> ScopeId(3)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(2)
-obj ("obj") -> ScopeId(4)
-Symbol ("Symbol") -> ScopeId(1)
-z ("z") -> ScopeId(4)
-obj ("obj") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(4)
-obj ("obj") -> ScopeId(4)
+320 -> 1
+362 -> 2
+374 -> 0
+385 -> 0
+397 -> 1
+430 -> 3
+442 -> 0
+476 -> 4
+482 -> 3
+492 -> 0
+504 -> 4
+509 -> 3

@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-FACTORY ("FACTORY") -> ScopeId(2)
-func ("func") -> ScopeId(3)
-func ("func") -> ScopeId(3)
-obj ("obj") -> ScopeId(2)
-FACTORY ("FACTORY") -> ScopeId(2)
-e ("e") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(6)
-obj ("obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
+405 -> 1
+449 -> 2
+473 -> 2
+619 -> 3
+633 -> 1
+647 -> 4
+674 -> 0
+765 -> 4
+949 -> 3
+995 -> 0
+1048 -> 3

@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(11)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(12)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(13)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(14)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(15)
-value ("value") -> ScopeId(16)
-value ("value") -> ScopeId(16)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-verifyProperty ("verifyProperty") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-v ("v") -> ScopeId(19)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(19)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(20)
-error ("error") -> ScopeId(21)
-error ("error") -> ScopeId(21)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-Promise ("Promise") -> ScopeId(1)
-assertions ("assertions") -> ScopeId(19)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1453 -> 1
+1833 -> 2
+1857 -> 2
+1892 -> 3
+1916 -> 3
+1956 -> 4
+1985 -> 4
+2027 -> 5
+2053 -> 5
+2098 -> 6
+2130 -> 6
+2180 -> 7
+2211 -> 7
+2253 -> 8
+2261 -> 1
+2272 -> 0
+2283 -> 0
+2315 -> 8
+2390 -> 0
+2401 -> 0
+2433 -> 1
+2528 -> 0
+2530 -> 1
+2623 -> 1
+2643 -> 9
+2655 -> 0
+2667 -> 9
+2696 -> 10
+2763 -> 11
+2769 -> 12
+2788 -> 12
+2822 -> 0
+2875 -> 0
+2887 -> 8
+2908 -> 0
+2920 -> 8
+2941 -> 0
+2953 -> 8
+2979 -> 0
+2991 -> 8
+3014 -> 0
+3026 -> 8
+3055 -> 0
+3067 -> 8
+3106 -> 0
+3125 -> 10
+3143 -> 0
+3150 -> 0

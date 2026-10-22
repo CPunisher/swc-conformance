@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-tag ("tag") -> ScopeId(2)
-arg ("arg") -> ScopeId(3)
-arg ("arg") -> ScopeId(3)
-fn ("fn") -> ScopeId(2)
-ns ("ns") -> ScopeId(4)
-tag ("tag") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-ns ("ns") -> ScopeId(4)
-asyncTest ("asyncTest") -> ScopeId(1)
-fn ("fn") -> ScopeId(2)
+861 -> 1
+865 -> 2
+883 -> 2
+908 -> 3
+965 -> 4
+984 -> 1
+1074 -> 0
+1087 -> 4
+1126 -> 0
+1139 -> 4
+1168 -> 0
+1171 -> 3

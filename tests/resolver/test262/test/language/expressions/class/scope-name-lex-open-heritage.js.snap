@@ -1,28 +1,26 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-probeBefore ("probeBefore") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-probeHeritage ("probeHeritage") -> ScopeId(2)
-setHeritage ("setHeritage") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-C ("C") -> ScopeId(6)
-C ("C") -> ScopeId(6)
-probeHeritage ("probeHeritage") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-setHeritage ("setHeritage") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-probeBefore ("probeBefore") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-probeHeritage ("probeHeritage") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-setHeritage ("setHeritage") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-probeHeritage ("probeHeritage") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-cls ("cls") -> ScopeId(2)
-cls ("cls") -> ScopeId(2)
+803 -> 1
+827 -> 2
+849 -> 3
+862 -> 4
+869 -> 2
+891 -> 5
+901 -> 6
+929 -> 3
+953 -> 2
+973 -> 4
+990 -> 2
+1032 -> 6
+1048 -> 0
+1070 -> 1
+1092 -> 0
+1116 -> 3
+1123 -> 5
+1155 -> 0
+1172 -> 0
+1185 -> 4
+1232 -> 0
+1256 -> 3
+1263 -> 5
+1302 -> 0
+1316 -> 5
+1340 -> 5

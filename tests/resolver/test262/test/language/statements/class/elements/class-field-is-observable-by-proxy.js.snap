@@ -1,38 +1,36 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-expectedTarget ("expectedTarget") -> ScopeId(2)
-ProxyBase ("ProxyBase") -> ScopeId(2)
-expectedTarget ("expectedTarget") -> ScopeId(2)
-Proxy ("Proxy") -> ScopeId(1)
-target ("target") -> ScopeId(5)
-key ("key") -> ScopeId(5)
-descriptor ("descriptor") -> ScopeId(5)
-arr ("arr") -> ScopeId(2)
-key ("key") -> ScopeId(5)
-arr ("arr") -> ScopeId(2)
-descriptor ("descriptor") -> ScopeId(5)
-arr ("arr") -> ScopeId(2)
-target ("target") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-descriptor ("descriptor") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-descriptor ("descriptor") -> ScopeId(5)
-assert ("assert") -> ScopeId(1)
-descriptor ("descriptor") -> ScopeId(5)
-Reflect ("Reflect") -> ScopeId(1)
-target ("target") -> ScopeId(5)
-key ("key") -> ScopeId(5)
-descriptor ("descriptor") -> ScopeId(5)
-Test ("Test") -> ScopeId(2)
-ProxyBase ("ProxyBase") -> ScopeId(2)
-t ("t") -> ScopeId(2)
-Test ("Test") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-t ("t") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-t ("t") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-arr ("arr") -> ScopeId(2)
-expectedTarget ("expectedTarget") -> ScopeId(2)
-expectedTarget ("expectedTarget") -> ScopeId(2)
+637 -> 1
+662 -> 2
+689 -> 3
+710 -> 2
+737 -> 0
+782 -> 4
+787 -> 5
+799 -> 6
+812 -> 1
+821 -> 5
+833 -> 1
+849 -> 6
+867 -> 1
+879 -> 4
+894 -> 0
+915 -> 6
+947 -> 0
+968 -> 6
+1002 -> 0
+1023 -> 6
+1061 -> 0
+1083 -> 4
+1088 -> 5
+1100 -> 6
+1128 -> 7
+1146 -> 3
+1183 -> 8
+1194 -> 7
+1204 -> 0
+1216 -> 8
+1230 -> 0
+1242 -> 8
+1265 -> 0
+1282 -> 1
+1307 -> 2
+1339 -> 2

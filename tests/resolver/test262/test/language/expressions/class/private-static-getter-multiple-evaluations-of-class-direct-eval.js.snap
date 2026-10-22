@@ -1,22 +1,20 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-evalClass ("evalClass") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-classStringExpression ("classStringExpression") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
-evalClass ("evalClass") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-evalClass ("evalClass") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C1 ("C1") -> ScopeId(2)
-C2 ("C2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C2 ("C2") -> ScopeId(2)
-C1 ("C1") -> ScopeId(2)
+1071 -> 1
+1197 -> 2
+1227 -> 0
+1249 -> 1
+1262 -> 3
+1274 -> 2
+1284 -> 4
+1296 -> 2
+1307 -> 0
+1320 -> 3
+1349 -> 0
+1362 -> 4
+1392 -> 0
+1409 -> 0
+1428 -> 3
+1443 -> 4
+1503 -> 0
+1520 -> 0
+1539 -> 4
+1554 -> 3

@@ -1,50 +1,48 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-v ("v") -> ScopeId(9)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(9)
-TypeError ("TypeError") -> ScopeId(1)
-iter ("iter") -> ScopeId(2)
-done ("done") -> ScopeId(10)
-value ("value") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(10)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(10)
-undefined ("undefined") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+1500 -> 1
+1514 -> 0
+1569 -> 2
+1581 -> 3
+1629 -> 2
+1654 -> 1
+1688 -> 0
+1776 -> 4
+1784 -> 3
+1870 -> 0
+1881 -> 0
+1913 -> 3
+2002 -> 0
+2013 -> 0
+2045 -> 3
+2126 -> 0
+2137 -> 0
+2169 -> 4
+2250 -> 5
+2254 -> 4
+2267 -> 5
+2312 -> 0
+2352 -> 6
+2366 -> 0
+2378 -> 6
+2401 -> 0
+2424 -> 5
+2444 -> 7
+2451 -> 8
+2470 -> 0
+2485 -> 7
+2533 -> 0
+2549 -> 8
+2560 -> 0
+2600 -> 0
+2607 -> 0
+2624 -> 0
+2634 -> 0
+2654 -> 2
+2741 -> 0
+2752 -> 0
+2784 -> 3
+2873 -> 0
+2884 -> 0
+2916 -> 3
+2997 -> 0
+3008 -> 0
+3040 -> 4

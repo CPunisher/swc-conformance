@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-foo ("foo") -> ScopeId(2)
-l ("l") -> ScopeId(3)
-r ("r") -> ScopeId(3)
-lightGreeting ("lightGreeting") -> ScopeId(3)
-l ("l") -> ScopeId(3)
-greeting ("greeting") -> ScopeId(3)
-greeting ("greeting") -> ScopeId(3)
-r ("r") -> ScopeId(3)
-lightGreeting ("lightGreeting") -> ScopeId(3)
-greeting ("greeting") -> ScopeId(3)
-lightGreeting ("lightGreeting") -> ScopeId(3)
-module ("module") -> ScopeId(1)
-foo ("foo") -> ScopeId(2)
+12 -> 1
+14 -> 2
+17 -> 3
+42 -> 4
+54 -> 2
+82 -> 5
+127 -> 5
+155 -> 3
+184 -> 4
+195 -> 5
+241 -> 4
+252 -> 0
+266 -> 1

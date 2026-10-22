@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-global ("global") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-method ("method") -> ScopeId(2)
-thisValue ("thisValue") -> ScopeId(2)
-method ("method") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-thisValue ("thisValue") -> ScopeId(2)
-global ("global") -> ScopeId(2)
+361 -> 1
+410 -> 2
+429 -> 3
+461 -> 2
+491 -> 3
+509 -> 0
+529 -> 2
+537 -> 1

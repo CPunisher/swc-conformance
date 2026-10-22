@@ -1,102 +1,100 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-log ("log") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-Symbol ("Symbol") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(4)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-arguments ("arguments") -> ScopeId(1)
-returnCount ("returnCount") -> ScopeId(4)
-returnCount ("returnCount") -> ScopeId(4)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-log ("log") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-gen ("gen") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(28)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(28)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(28)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(29)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(29)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(29)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-v ("v") -> ScopeId(30)
-assert ("assert") -> ScopeId(1)
-log ("log") -> ScopeId(2)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+2166 -> 1
+2180 -> 2
+2194 -> 0
+2228 -> 3
+2305 -> 1
+2505 -> 1
+2622 -> 1
+2723 -> 0
+2761 -> 3
+2790 -> 3
+2906 -> 1
+3120 -> 1
+3402 -> 1
+3602 -> 1
+3808 -> 4
+3820 -> 5
+3859 -> 4
+3873 -> 1
+3923 -> 2
+3937 -> 6
+3941 -> 5
+3966 -> 7
+3972 -> 6
+3983 -> 0
+3997 -> 1
+4029 -> 7
+4043 -> 8
+4057 -> 0
+4071 -> 1
+4108 -> 0
+4122 -> 1
+4154 -> 0
+4166 -> 8
+4199 -> 0
+4211 -> 8
+4235 -> 0
+4249 -> 1
+4283 -> 7
+4313 -> 9
+4329 -> 0
+4343 -> 1
+4378 -> 0
+4392 -> 1
+4464 -> 0
+4478 -> 1
+4514 -> 0
+4528 -> 1
+4595 -> 0
+4609 -> 1
+4662 -> 0
+4676 -> 1
+4735 -> 0
+4749 -> 1
+4793 -> 0
+4807 -> 1
+4887 -> 0
+4901 -> 1
+4946 -> 0
+4960 -> 1
+5041 -> 0
+5053 -> 9
+5090 -> 0
+5102 -> 9
+5128 -> 0
+5142 -> 1
+5178 -> 7
+5194 -> 10
+5212 -> 0
+5226 -> 1
+5263 -> 0
+5277 -> 1
+5351 -> 0
+5365 -> 1
+5403 -> 0
+5417 -> 1
+5490 -> 0
+5504 -> 1
+5559 -> 0
+5573 -> 1
+5595 -> 0
+5629 -> 0
+5643 -> 1
+5689 -> 0
+5703 -> 1
+5785 -> 0
+5799 -> 1
+5846 -> 0
+5860 -> 1
+5943 -> 0
+5955 -> 10
+5994 -> 0
+6006 -> 10
+6033 -> 0
+6047 -> 1
+6092 -> 0
+6099 -> 0
+6118 -> 0
+6135 -> 0
+6145 -> 0
+6165 -> 4

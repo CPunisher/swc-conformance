@@ -1,79 +1,77 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-push ("push") -> ScopeId(1)
-za ("za") -> ScopeId(5)
-eval ("eval") -> ScopeId(1)
-a ("a") -> ScopeId(1)
-b ("b") -> ScopeId(8)
-Rb ("Rb") -> ScopeId(5)
-a ("a") -> ScopeId(9)
-p ("p") -> ScopeId(1)
-JSON ("JSON") -> ScopeId(1)
-za ("za") -> ScopeId(5)
-h ("h") -> ScopeId(1)
-a ("a") -> ScopeId(10)
-a ("a") -> ScopeId(10)
-Rb ("Rb") -> ScopeId(5)
-a ("a") -> ScopeId(10)
-shadowmap_pars_vertex ("shadowmap_pars_vertex") -> ScopeId(11)
-shadowmap_vertex ("shadowmap_vertex") -> ScopeId(11)
-shadowmask_pars_fragment ("shadowmask_pars_fragment") -> ScopeId(11)
-skinbase_vertex ("skinbase_vertex") -> ScopeId(11)
-skinning_pars_vertex ("skinning_pars_vertex") -> ScopeId(11)
-skinning_vertex ("skinning_vertex") -> ScopeId(11)
-skinnormal_vertex ("skinnormal_vertex") -> ScopeId(11)
-specularmap_fragment ("specularmap_fragment") -> ScopeId(11)
-specularmap_pars_fragment ("specularmap_pars_fragment") -> ScopeId(11)
-tonemapping_fragment ("tonemapping_fragment") -> ScopeId(11)
-tonemapping_pars_fragment ("tonemapping_pars_fragment") -> ScopeId(11)
-uv_pars_fragment ("uv_pars_fragment") -> ScopeId(11)
-uv_pars_vertex ("uv_pars_vertex") -> ScopeId(11)
-uv_vertex ("uv_vertex") -> ScopeId(11)
-uv2_pars_fragment ("uv2_pars_fragment") -> ScopeId(11)
-uv2_pars_vertex ("uv2_pars_vertex") -> ScopeId(11)
-uv2_vertex ("uv2_vertex") -> ScopeId(11)
-worldpos_vertex ("worldpos_vertex") -> ScopeId(11)
-cube_frag ("cube_frag") -> ScopeId(11)
-cube_vert ("cube_vert") -> ScopeId(11)
-depth_frag ("depth_frag") -> ScopeId(11)
-depth_vert ("depth_vert") -> ScopeId(11)
-distanceRGBA_frag ("distanceRGBA_frag") -> ScopeId(11)
-distanceRGBA_vert ("distanceRGBA_vert") -> ScopeId(11)
-equirect_frag ("equirect_frag") -> ScopeId(11)
-equirect_vert ("equirect_vert") -> ScopeId(11)
-linedashed_frag ("linedashed_frag") -> ScopeId(11)
-linedashed_vert ("linedashed_vert") -> ScopeId(11)
-meshphong_frag ("meshphong_frag") -> ScopeId(11)
-meshphong_vert ("meshphong_vert") -> ScopeId(11)
-ShaderChunk ("ShaderChunk") -> ScopeId(11)
-shadowmap_pars_vertex ("shadowmap_pars_vertex") -> ScopeId(11)
-shadowmap_vertex ("shadowmap_vertex") -> ScopeId(11)
-shadowmask_pars_fragment ("shadowmask_pars_fragment") -> ScopeId(11)
-skinbase_vertex ("skinbase_vertex") -> ScopeId(11)
-skinning_pars_vertex ("skinning_pars_vertex") -> ScopeId(11)
-skinning_vertex ("skinning_vertex") -> ScopeId(11)
-skinnormal_vertex ("skinnormal_vertex") -> ScopeId(11)
-specularmap_fragment ("specularmap_fragment") -> ScopeId(11)
-specularmap_pars_fragment ("specularmap_pars_fragment") -> ScopeId(11)
-tonemapping_fragment ("tonemapping_fragment") -> ScopeId(11)
-tonemapping_pars_fragment ("tonemapping_pars_fragment") -> ScopeId(11)
-uv_pars_fragment ("uv_pars_fragment") -> ScopeId(11)
-uv_pars_vertex ("uv_pars_vertex") -> ScopeId(11)
-uv_vertex ("uv_vertex") -> ScopeId(11)
-uv2_pars_fragment ("uv2_pars_fragment") -> ScopeId(11)
-uv2_pars_vertex ("uv2_pars_vertex") -> ScopeId(11)
-uv2_vertex ("uv2_vertex") -> ScopeId(11)
-worldpos_vertex ("worldpos_vertex") -> ScopeId(11)
-cube_frag ("cube_frag") -> ScopeId(11)
-cube_vert ("cube_vert") -> ScopeId(11)
-depth_frag ("depth_frag") -> ScopeId(11)
-depth_vert ("depth_vert") -> ScopeId(11)
-distanceRGBA_frag ("distanceRGBA_frag") -> ScopeId(11)
-distanceRGBA_vert ("distanceRGBA_vert") -> ScopeId(11)
-equirect_frag ("equirect_frag") -> ScopeId(11)
-equirect_vert ("equirect_vert") -> ScopeId(11)
-linedashed_frag ("linedashed_frag") -> ScopeId(11)
-linedashed_vert ("linedashed_vert") -> ScopeId(11)
-meshphong_frag ("meshphong_frag") -> ScopeId(11)
-ShaderLib ("ShaderLib") -> ScopeId(1)
-ShaderChunk ("ShaderChunk") -> ScopeId(11)
+4 -> 0
+75 -> 1
+166 -> 0
+168 -> 0
+201 -> 2
+243 -> 3
+245 -> 4
+273 -> 0
+282 -> 0
+287 -> 1
+318 -> 0
+336 -> 5
+372 -> 5
+384 -> 3
+386 -> 5
+487 -> 6
+522 -> 7
+565 -> 8
+599 -> 9
+638 -> 10
+672 -> 11
+708 -> 12
+747 -> 13
+791 -> 14
+830 -> 15
+874 -> 16
+909 -> 17
+942 -> 18
+970 -> 19
+1006 -> 20
+1040 -> 21
+1069 -> 22
+1103 -> 23
+1131 -> 24
+1159 -> 25
+1188 -> 26
+1217 -> 27
+1253 -> 28
+1289 -> 29
+1321 -> 30
+1353 -> 31
+1387 -> 32
+1421 -> 33
+1454 -> 34
+1487 -> 35
+1517 -> 36
+1578 -> 6
+1626 -> 7
+1690 -> 8
+1736 -> 9
+1792 -> 10
+1838 -> 11
+1888 -> 12
+1944 -> 13
+2010 -> 14
+2066 -> 15
+2132 -> 16
+2180 -> 17
+2224 -> 18
+2258 -> 19
+2308 -> 20
+2354 -> 21
+2390 -> 22
+2436 -> 23
+2470 -> 24
+2504 -> 25
+2540 -> 26
+2576 -> 27
+2626 -> 28
+2676 -> 29
+2718 -> 30
+2760 -> 31
+2806 -> 32
+2852 -> 33
+2896 -> 34
+2927 -> 0
+2967 -> 36

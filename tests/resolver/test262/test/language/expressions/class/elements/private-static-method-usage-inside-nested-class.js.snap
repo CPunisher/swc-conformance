@@ -1,12 +1,10 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-C ("C") -> ScopeId(2)
-o ("o") -> ScopeId(6)
-o ("o") -> ScopeId(6)
-assert ("assert") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-C ("C") -> ScopeId(2)
+3474 -> 1
+3578 -> 2
+3596 -> 2
+3622 -> 0
+3634 -> 1
+3651 -> 1
+3676 -> 0
+3693 -> 0
+3711 -> 1
+3728 -> 1

@@ -1,15 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-y ("y") -> ScopeId(2)
-x ("x") -> ScopeId(1)
-z ("z") -> ScopeId(2)
-x ("x") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(2)
-fnGlobalObject ("fnGlobalObject") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-y ("y") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-z ("z") -> ScopeId(2)
+816 -> 1
+824 -> 2
+887 -> 0
+899 -> 1
+911 -> 0
+923 -> 2
+1137 -> 0
+1164 -> 0
+1176 -> 1
+1188 -> 0
+1200 -> 2

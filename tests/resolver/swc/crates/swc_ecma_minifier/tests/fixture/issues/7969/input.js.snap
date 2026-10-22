@@ -1,20 +1,18 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-a ("a") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-arr ("arr") -> ScopeId(3)
-b ("b") -> ScopeId(3)
-a ("a") -> ScopeId(2)
-arr ("arr") -> ScopeId(3)
-child ("child") -> ScopeId(4)
-a ("a") -> ScopeId(2)
-b ("b") -> ScopeId(3)
-g ("g") -> ScopeId(2)
-arr ("arr") -> ScopeId(5)
-f ("f") -> ScopeId(2)
-arr ("arr") -> ScopeId(5)
-globalThis ("globalThis") -> ScopeId(1)
-g ("g") -> ScopeId(2)
-g ("g") -> ScopeId(2)
-console ("console") -> ScopeId(1)
-a ("a") -> ScopeId(2)
+5 -> 1
+21 -> 2
+25 -> 3
+38 -> 4
+42 -> 1
+61 -> 3
+72 -> 5
+88 -> 1
+92 -> 4
+125 -> 6
+129 -> 7
+145 -> 2
+149 -> 7
+164 -> 0
+170 -> 6
+173 -> 6
+192 -> 0
+198 -> 1

@@ -1,59 +1,57 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-k1 ("k1") -> ScopeId(2)
-x ("x") -> ScopeId(3)
-y ("y") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-x ("x") -> ScopeId(3)
-y ("y") -> ScopeId(3)
-console ("console") -> ScopeId(1)
-y ("y") -> ScopeId(3)
-k2 ("k2") -> ScopeId(2)
-x ("x") -> ScopeId(5)
-y ("y") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-x ("x") -> ScopeId(5)
-y ("y") -> ScopeId(5)
-console ("console") -> ScopeId(1)
-y ("y") -> ScopeId(5)
-k3 ("k3") -> ScopeId(2)
-x ("x") -> ScopeId(7)
-y ("y") -> ScopeId(7)
-x ("x") -> ScopeId(7)
-y ("y") -> ScopeId(7)
-x ("x") -> ScopeId(7)
-console ("console") -> ScopeId(1)
-y ("y") -> ScopeId(7)
-k4 ("k4") -> ScopeId(2)
-x ("x") -> ScopeId(9)
-y ("y") -> ScopeId(9)
-x ("x") -> ScopeId(9)
-y ("y") -> ScopeId(9)
-x ("x") -> ScopeId(9)
-console ("console") -> ScopeId(1)
-y ("y") -> ScopeId(9)
-k5 ("k5") -> ScopeId(2)
-x ("x") -> ScopeId(11)
-y ("y") -> ScopeId(11)
-z ("z") -> ScopeId(11)
-x ("x") -> ScopeId(11)
-y ("y") -> ScopeId(11)
-z ("z") -> ScopeId(11)
-x ("x") -> ScopeId(11)
-console ("console") -> ScopeId(1)
-y ("y") -> ScopeId(11)
-z ("z") -> ScopeId(11)
-c ("c") -> ScopeId(2)
-f ("f") -> ScopeId(13)
-a ("a") -> ScopeId(14)
-NaN ("NaN") -> ScopeId(14)
-g ("g") -> ScopeId(14)
-a ("a") -> ScopeId(14)
-a ("a") -> ScopeId(14)
-c ("c") -> ScopeId(2)
-NaN ("NaN") -> ScopeId(14)
-c ("c") -> ScopeId(2)
-g ("g") -> ScopeId(14)
-f ("f") -> ScopeId(13)
-console ("console") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+8 -> 1
+31 -> 2
+51 -> 3
+77 -> 2
+95 -> 2
+128 -> 3
+156 -> 0
+162 -> 3
+180 -> 4
+203 -> 5
+223 -> 6
+249 -> 5
+267 -> 5
+283 -> 6
+328 -> 0
+334 -> 6
+352 -> 7
+375 -> 8
+395 -> 9
+419 -> 8
+438 -> 9
+452 -> 8
+489 -> 0
+495 -> 9
+513 -> 10
+536 -> 11
+556 -> 12
+580 -> 11
+598 -> 12
+625 -> 11
+661 -> 0
+667 -> 12
+685 -> 13
+708 -> 14
+728 -> 15
+748 -> 16
+772 -> 14
+790 -> 15
+817 -> 16
+844 -> 14
+880 -> 0
+886 -> 15
+889 -> 16
+905 -> 17
+945 -> 18
+947 -> 19
+952 -> 20
+974 -> 21
+1000 -> 19
+1026 -> 19
+1079 -> 17
+1094 -> 20
+1118 -> 17
+1188 -> 21
+1203 -> 18
+1225 -> 0
+1231 -> 17

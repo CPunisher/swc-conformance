@@ -1,99 +1,97 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-iter ("iter") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-result ("result") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
-undefined ("undefined") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-result ("result") -> ScopeId(2)
+278 -> 1
+286 -> 2
+295 -> 3
+435 -> 1
+441 -> 3
+454 -> 2
+461 -> 1
+476 -> 0
+496 -> 2
+513 -> 0
+567 -> 0
+587 -> 2
+657 -> 2
+664 -> 1
+679 -> 0
+699 -> 2
+716 -> 0
+773 -> 0
+793 -> 2
+864 -> 1
+870 -> 3
+883 -> 2
+890 -> 1
+905 -> 0
+925 -> 2
+942 -> 0
+992 -> 0
+1012 -> 2
+1078 -> 2
+1085 -> 1
+1100 -> 0
+1120 -> 2
+1137 -> 0
+1190 -> 0
+1210 -> 2
+1277 -> 1
+1283 -> 3
+1296 -> 2
+1303 -> 1
+1318 -> 0
+1338 -> 2
+1355 -> 0
+1406 -> 0
+1426 -> 2
+1493 -> 2
+1500 -> 1
+1515 -> 0
+1535 -> 2
+1552 -> 0
+1606 -> 0
+1626 -> 2
+1694 -> 1
+1700 -> 3
+1713 -> 2
+1720 -> 1
+1735 -> 0
+1755 -> 2
+1774 -> 0
+1842 -> 0
+1862 -> 2
+1948 -> 2
+1955 -> 1
+1970 -> 0
+1990 -> 2
+2009 -> 0
+2078 -> 0
+2098 -> 2
+2185 -> 2
+2192 -> 1
+2207 -> 0
+2227 -> 2
+2244 -> 0
+2300 -> 0
+2320 -> 2
+2390 -> 1
+2396 -> 3
+2409 -> 2
+2416 -> 1
+2431 -> 0
+2451 -> 2
+2470 -> 0
+2548 -> 0
+2568 -> 2
+2664 -> 2
+2671 -> 1
+2686 -> 0
+2706 -> 2
+2725 -> 0
+2787 -> 0
+2807 -> 2
+2887 -> 2
+2894 -> 1
+2909 -> 0
+2929 -> 2
+2946 -> 0
+3006 -> 0
+3026 -> 2

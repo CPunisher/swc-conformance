@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-proto ("proto") -> ScopeId(2)
-ConstructFun ("ConstructFun") -> ScopeId(2)
-ConstructFun ("ConstructFun") -> ScopeId(2)
-proto ("proto") -> ScopeId(2)
-child ("child") -> ScopeId(2)
-ConstructFun ("ConstructFun") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-child ("child") -> ScopeId(2)
-accessedProp ("accessedProp") -> ScopeId(2)
-p ("p") -> ScopeId(2)
-child ("child") -> ScopeId(2)
-p ("p") -> ScopeId(2)
-accessedProp ("accessedProp") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-accessedProp ("accessedProp") -> ScopeId(2)
+400 -> 1
+477 -> 2
+517 -> 2
+535 -> 1
+555 -> 3
+574 -> 2
+593 -> 0
+614 -> 3
+734 -> 4
+763 -> 5
+772 -> 3
+793 -> 5
+836 -> 4
+876 -> 0
+899 -> 4

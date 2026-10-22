@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-ref ("ref") -> ScopeId(2)
-BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
-callCount ("callCount") -> ScopeId(2)
-BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
-BindingIdentifier ("BindingIdentifier") -> ScopeId(3)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-ref ("ref") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
+608 -> 1
+621 -> 2
+650 -> 3
+666 -> 1
+702 -> 3
+742 -> 3
+754 -> 0
+771 -> 0
+786 -> 2
+800 -> 0
+820 -> 1

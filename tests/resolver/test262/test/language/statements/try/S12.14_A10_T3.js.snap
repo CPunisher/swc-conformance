@@ -1,74 +1,72 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-er1 ("er1") -> ScopeId(5)
-fin ("fin") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-c1 ("c1") -> ScopeId(2)
-fin ("fin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c1 ("c1") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-er1 ("er1") -> ScopeId(11)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-c2 ("c2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-fin2 ("fin2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c2 ("c2") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-c3 ("c3") -> ScopeId(2)
-er1 ("er1") -> ScopeId(17)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-c3 ("c3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-fin3 ("fin3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c3 ("c3") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c4 ("c4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-c4 ("c4") -> ScopeId(2)
-fin4 ("fin4") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c4 ("c4") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c5 ("c5") -> ScopeId(2)
-c5 ("c5") -> ScopeId(2)
-er1 ("er1") -> ScopeId(28)
-c5 ("c5") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-er1 ("er1") -> ScopeId(32)
-c6 ("c6") -> ScopeId(2)
-c6 ("c6") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c7 ("c7") -> ScopeId(2)
-fin7 ("fin7") -> ScopeId(2)
-c7 ("c7") -> ScopeId(2)
-c7 ("c7") -> ScopeId(2)
-fin7 ("fin7") -> ScopeId(2)
-fin7 ("fin7") -> ScopeId(2)
-c7 ("c7") -> ScopeId(2)
-ex1 ("ex1") -> ScopeId(38)
-c7 ("c7") -> ScopeId(2)
-fin7 ("fin7") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-c7 ("c7") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
+338 -> 1
+344 -> 2
+356 -> 1
+374 -> 1
+405 -> 3
+427 -> 2
+440 -> 2
+449 -> 1
+462 -> 2
+493 -> 0
+545 -> 1
+576 -> 0
+653 -> 4
+660 -> 5
+672 -> 4
+716 -> 6
+725 -> 4
+764 -> 5
+776 -> 4
+787 -> 5
+801 -> 5
+832 -> 0
+884 -> 4
+915 -> 0
+993 -> 7
+1000 -> 8
+1012 -> 7
+1056 -> 9
+1065 -> 7
+1093 -> 8
+1116 -> 7
+1127 -> 8
+1140 -> 8
+1171 -> 0
+1223 -> 7
+1254 -> 0
+1332 -> 10
+1339 -> 11
+1351 -> 10
+1369 -> 10
+1408 -> 11
+1422 -> 11
+1431 -> 10
+1445 -> 11
+1476 -> 0
+1528 -> 10
+1559 -> 0
+1631 -> 12
+1643 -> 12
+1687 -> 13
+1712 -> 12
+1743 -> 0
+1811 -> 14
+1823 -> 14
+1841 -> 14
+1872 -> 15
+1880 -> 14
+1892 -> 14
+1923 -> 0
+1991 -> 16
+1998 -> 17
+2017 -> 16
+2039 -> 16
+2092 -> 17
+2123 -> 17
+2134 -> 16
+2154 -> 18
+2161 -> 16
+2175 -> 17
+2206 -> 0
+2258 -> 16
+2289 -> 0

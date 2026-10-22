@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-gen ("gen") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-unresolvableReference ("unresolvableReference") -> ScopeId(1)
-gen ("gen") -> ScopeId(2)
-_ ("_") -> ScopeId(6)
-Test262Error ("Test262Error") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-constructor ("constructor") -> ScopeId(7)
-ReferenceError ("ReferenceError") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
+1885 -> 1
+1910 -> 2
+1934 -> 0
+1970 -> 1
+1989 -> 3
+2021 -> 0
+2094 -> 4
+2113 -> 0
+2135 -> 4
+2151 -> 0
+2177 -> 0
+2184 -> 0

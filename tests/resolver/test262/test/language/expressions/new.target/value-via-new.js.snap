@@ -1,14 +1,12 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-newTarget ("newTarget") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-newTarget ("newTarget") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-newTarget ("newTarget") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-newTarget ("newTarget") -> ScopeId(2)
-f ("f") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-newTarget ("newTarget") -> ScopeId(2)
-f ("f") -> ScopeId(2)
+717 -> 1
+736 -> 2
+752 -> 1
+775 -> 2
+784 -> 0
+804 -> 1
+807 -> 2
+849 -> 1
+864 -> 2
+875 -> 0
+895 -> 1
+898 -> 2

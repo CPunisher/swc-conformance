@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__proto ("__proto") -> ScopeId(2)
-__proto ("__proto") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-Robin ("Robin") -> ScopeId(2)
-Robin ("Robin") -> ScopeId(2)
-__proto ("__proto") -> ScopeId(2)
-__my__robin ("__my__robin") -> ScopeId(2)
-Robin ("Robin") -> ScopeId(2)
-__my__robin ("__my__robin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__my__robin ("__my__robin") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-__my__robin ("__my__robin") -> ScopeId(2)
+543 -> 1
+678 -> 1
+707 -> 0
+865 -> 2
+893 -> 2
+911 -> 1
+929 -> 3
+941 -> 2
+1062 -> 3
+1091 -> 0
+1433 -> 3
+1486 -> 0
+1684 -> 3

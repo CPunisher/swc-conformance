@@ -1,10 +1,8 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-global ("global") -> ScopeId(2)
-testcase ("testcase") -> ScopeId(2)
-my_eval ("my_eval") -> ScopeId(3)
-eval ("eval") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-my_eval ("my_eval") -> ScopeId(3)
-global ("global") -> ScopeId(2)
-testcase ("testcase") -> ScopeId(2)
+307 -> 1
+334 -> 2
+350 -> 3
+357 -> 0
+365 -> 0
+383 -> 3
+399 -> 1
+431 -> 2

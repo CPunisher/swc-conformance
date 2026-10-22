@@ -1,46 +1,44 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-values ("values") -> ScopeId(2)
-dataIterator ("dataIterator") -> ScopeId(2)
-values ("values") -> ScopeId(2)
-controlIterator ("controlIterator") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-dataIterator ("dataIterator") -> ScopeId(2)
-Error ("Error") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-err ("err") -> ScopeId(8)
-i ("i") -> ScopeId(2)
-j ("j") -> ScopeId(2)
-k ("k") -> ScopeId(2)
-l ("l") -> ScopeId(2)
-i ("i") -> ScopeId(2)
-j ("j") -> ScopeId(2)
-k ("k") -> ScopeId(2)
-l ("l") -> ScopeId(2)
-controlIterator ("controlIterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-j ("j") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-k ("k") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-l ("l") -> ScopeId(2)
-controlIterator ("controlIterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-j ("j") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-k ("k") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-l ("l") -> ScopeId(2)
-controlIterator ("controlIterator") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-i ("i") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-j ("j") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-k ("k") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-l ("l") -> ScopeId(2)
+344 -> 1
+389 -> 2
+398 -> 1
+421 -> 3
+451 -> 4
+467 -> 2
+502 -> 0
+534 -> 0
+581 -> 5
+592 -> 6
+616 -> 7
+631 -> 8
+643 -> 9
+658 -> 6
+669 -> 7
+680 -> 8
+691 -> 9
+713 -> 3
+728 -> 0
+740 -> 6
+782 -> 0
+794 -> 7
+837 -> 0
+849 -> 8
+890 -> 0
+902 -> 9
+956 -> 3
+971 -> 0
+983 -> 6
+1026 -> 0
+1038 -> 7
+1082 -> 0
+1094 -> 8
+1136 -> 0
+1148 -> 9
+1203 -> 3
+1218 -> 0
+1230 -> 6
+1272 -> 0
+1284 -> 7
+1327 -> 0
+1339 -> 8
+1380 -> 0
+1392 -> 9

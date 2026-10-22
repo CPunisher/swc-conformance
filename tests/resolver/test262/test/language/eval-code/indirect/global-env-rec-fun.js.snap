@@ -1,13 +1,11 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-__10_4_2_1_2 ("__10_4_2_1_2") -> ScopeId(2)
-testcase ("testcase") -> ScopeId(2)
-_eval ("_eval") -> ScopeId(3)
-eval ("eval") -> ScopeId(1)
-__10_4_2_1_2 ("__10_4_2_1_2") -> ScopeId(3)
-foo ("foo") -> ScopeId(3)
-__10_4_2_1_2 ("__10_4_2_1_2") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-_eval ("_eval") -> ScopeId(3)
-foo ("foo") -> ScopeId(3)
-testcase ("testcase") -> ScopeId(2)
+279 -> 1
+306 -> 2
+332 -> 3
+339 -> 0
+369 -> 4
+404 -> 5
+441 -> 6
+474 -> 0
+480 -> 3
+557 -> 5
+575 -> 2

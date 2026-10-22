@@ -1,21 +1,19 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-fn ("fn") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-A ("A") -> ScopeId(4)
-fn ("fn") -> ScopeId(2)
-bound ("bound") -> ScopeId(2)
-Object ("Object") -> ScopeId(1)
-bound ("bound") -> ScopeId(2)
-Test262Error ("Test262Error") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(9)
-bound ("bound") -> ScopeId(2)
-proxy ("proxy") -> ScopeId(2)
-Proxy ("Proxy") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-TypeError ("TypeError") -> ScopeId(1)
-C ("C") -> ScopeId(13)
-proxy ("proxy") -> ScopeId(2)
+669 -> 1
+682 -> 0
+699 -> 0
+723 -> 2
+734 -> 1
+752 -> 3
+793 -> 0
+814 -> 3
+877 -> 0
+936 -> 0
+953 -> 0
+977 -> 4
+991 -> 3
+1009 -> 5
+1021 -> 0
+1057 -> 0
+1074 -> 0
+1098 -> 6
+1112 -> 5

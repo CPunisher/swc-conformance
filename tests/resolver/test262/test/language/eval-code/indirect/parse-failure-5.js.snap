@@ -1,15 +1,13 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-value ("value") -> ScopeId(2)
-value ("value") -> ScopeId(2)
-eval ("eval") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-value ("value") -> ScopeId(2)
-e ("e") -> ScopeId(4)
-e ("e") -> ScopeId(4)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-Test262Error ("Test262Error") -> ScopeId(1)
-e ("e") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-SyntaxError ("SyntaxError") -> ScopeId(1)
-eval ("eval") -> ScopeId(1)
+358 -> 1
+374 -> 1
+384 -> 0
+422 -> 0
+478 -> 1
+490 -> 2
+502 -> 2
+525 -> 0
+565 -> 0
+617 -> 2
+633 -> 0
+652 -> 0
+676 -> 0

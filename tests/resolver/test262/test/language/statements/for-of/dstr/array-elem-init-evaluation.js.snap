@@ -1,17 +1,15 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-flag1 ("flag1") -> ScopeId(2)
-flag2 ("flag2") -> ScopeId(2)
-_ ("_") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-_ ("_") -> ScopeId(2)
-flag1 ("flag1") -> ScopeId(2)
-_ ("_") -> ScopeId(2)
-flag2 ("flag2") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-flag1 ("flag1") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-flag2 ("flag2") -> ScopeId(2)
-counter ("counter") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-counter ("counter") -> ScopeId(2)
+1092 -> 1
+1107 -> 2
+1122 -> 3
+1136 -> 4
+1151 -> 3
+1159 -> 1
+1169 -> 3
+1177 -> 2
+1208 -> 0
+1224 -> 1
+1242 -> 0
+1258 -> 2
+1276 -> 4
+1292 -> 0
+1310 -> 4

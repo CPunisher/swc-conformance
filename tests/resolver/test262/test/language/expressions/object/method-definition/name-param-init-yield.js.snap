@@ -1,9 +1,7 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-yield ("yield") -> ScopeId(2)
-obj ("obj") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-yield ("yield") -> ScopeId(2)
-x ("x") -> ScopeId(4)
-assert ("assert") -> ScopeId(1)
-obj ("obj") -> ScopeId(2)
+390 -> 1
+411 -> 2
+426 -> 3
+434 -> 1
+450 -> 3
+467 -> 0
+481 -> 2

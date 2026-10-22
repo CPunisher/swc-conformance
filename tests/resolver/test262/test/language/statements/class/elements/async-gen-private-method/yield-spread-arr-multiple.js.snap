@@ -1,51 +1,49 @@
-Top level: ScopeId(2)
-Unresolved: ScopeId(1)
-arr ("arr") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-callCount ("callCount") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-c ("c") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-item ("item") -> ScopeId(2)
-done ("done") -> ScopeId(6)
-value ("value") -> ScopeId(6)
-item ("item") -> ScopeId(2)
-iter ("iter") -> ScopeId(2)
-value ("value") -> ScopeId(6)
-item ("item") -> ScopeId(2)
-done ("done") -> ScopeId(7)
-value ("value") -> ScopeId(7)
-assert ("assert") -> ScopeId(1)
-value ("value") -> ScopeId(7)
-arr ("arr") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-done ("done") -> ScopeId(7)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-$DONE ("$DONE") -> ScopeId(1)
-assert ("assert") -> ScopeId(1)
-callCount ("callCount") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-C ("C") -> ScopeId(2)
-assert ("assert") -> ScopeId(1)
-Object ("Object") -> ScopeId(1)
-c ("c") -> ScopeId(2)
+864 -> 1
+892 -> 2
+909 -> 3
+923 -> 4
+963 -> 3
+1054 -> 5
+1062 -> 4
+1148 -> 0
+1159 -> 0
+1191 -> 4
+1280 -> 0
+1291 -> 0
+1323 -> 4
+1404 -> 0
+1415 -> 0
+1447 -> 5
+1528 -> 6
+1532 -> 5
+1545 -> 6
+1563 -> 2
+1570 -> 6
+1599 -> 2
+1612 -> 7
+1619 -> 8
+1634 -> 2
+1641 -> 6
+1652 -> 8
+1662 -> 2
+1675 -> 9
+1682 -> 10
+1701 -> 0
+1720 -> 10
+1725 -> 1
+1738 -> 0
+1753 -> 9
+1778 -> 0
+1785 -> 0
+1802 -> 0
+1812 -> 0
+1832 -> 3
+1919 -> 0
+1930 -> 0
+1962 -> 4
+2051 -> 0
+2062 -> 0
+2094 -> 4
+2175 -> 0
+2186 -> 0
+2218 -> 5
