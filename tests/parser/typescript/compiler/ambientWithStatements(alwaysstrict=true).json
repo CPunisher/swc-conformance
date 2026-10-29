@@ -1,0 +1,30 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1036,
+      "end": 31,
+      "file": "/.src/ambientWithStatements.ts",
+      "start": 26
+    },
+    {
+      "code": 1104,
+      "end": 46,
+      "file": "/.src/ambientWithStatements.ts",
+      "start": 37
+    },
+    {
+      "code": 1344,
+      "end": 160,
+      "file": "/.src/ambientWithStatements.ts",
+      "start": 159
+    },
+    {
+      "code": 1101,
+      "end": 359,
+      "file": "/.src/ambientWithStatements.ts",
+      "start": 355
+    }
+  ],
+  "path": "compiler/ambientWithStatements.ts"
+}

@@ -1,0 +1,42 @@
+{
+  "config": "module=commonjs",
+  "diagnostics": [
+    {
+      "code": 18058,
+      "end": 16,
+      "file": "/.src/b.ts",
+      "start": 7
+    },
+    {
+      "code": 18117,
+      "end": 50,
+      "file": "/.src/b.ts",
+      "start": 45
+    },
+    {
+      "code": 18117,
+      "end": 73,
+      "file": "/.src/b.ts",
+      "start": 68
+    },
+    {
+      "code": 18117,
+      "end": 25,
+      "file": "/.src/c.js",
+      "start": 20
+    },
+    {
+      "code": 18117,
+      "end": 48,
+      "file": "/.src/c.js",
+      "start": 43
+    },
+    {
+      "code": 18117,
+      "end": 12,
+      "file": "/.src/d.js",
+      "start": 7
+    }
+  ],
+  "path": "conformance/importDefer/importDeferInvalidDefault.ts"
+}

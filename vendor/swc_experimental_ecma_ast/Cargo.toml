@@ -1,0 +1,20 @@
+[package]
+name = "swc_experimental_ecma_ast"
+version = "0.11.0"
+edition = "2024"
+license = "Apache-2.0"
+repository = "https://github.com/CPunisher/swc-experimental"
+
+[lib]
+test = false
+doctest = false
+
+[features]
+shared_string_allocator = []
+
+[dependencies]
+num-bigint = "0.4.6"
+oxc_index = { version = "4.1.0", features = ["nonmax"] }
+swc_experimental_allocator = "0.11.0"
+swc_experimental_ast_macros = "0.11.0"
+unicode-id-start = { git = "https://github.com/Boshen/unicode-id-start", rev = "22af0cb339052b7567f0074645e20e0fa1624809" }

@@ -1,0 +1,40 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 22,
+      "file": "/.src/a.js",
+      "related": [
+        {
+          "code": 2753,
+          "end": 41,
+          "file": "/.src/a.js",
+          "start": 41
+        }
+      ],
+      "start": 21
+    },
+    {
+      "code": 2528,
+      "end": 41,
+      "file": "/.src/a.js",
+      "related": [
+        {
+          "code": 2752,
+          "end": 22,
+          "file": "/.src/a.js",
+          "start": 21
+        }
+      ],
+      "start": 41
+    },
+    {
+      "code": 1109,
+      "end": 45,
+      "file": "/.src/a.js",
+      "start": 42
+    }
+  ],
+  "path": "compiler/jsFileCompilationBindMultipleDefaultExports.ts"
+}

@@ -1,0 +1,12 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1099,
+      "end": 171,
+      "file": "/.src/file.js",
+      "start": 169
+    }
+  ],
+  "path": "conformance/jsdoc/declarations/jsDeclarationsMissingTypeParameters.ts"
+}

@@ -1,0 +1,54 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 24,
+      "file": "/.src/m1.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 95,
+          "file": "/.src/m1.ts",
+          "start": 94
+        }
+      ],
+      "start": 21
+    },
+    {
+      "code": 2528,
+      "end": 58,
+      "file": "/.src/m1.ts",
+      "related": [
+        {
+          "code": 2753,
+          "end": 95,
+          "file": "/.src/m1.ts",
+          "start": 94
+        }
+      ],
+      "start": 55
+    },
+    {
+      "code": 2528,
+      "end": 95,
+      "file": "/.src/m1.ts",
+      "related": [
+        {
+          "code": 2752,
+          "end": 24,
+          "file": "/.src/m1.ts",
+          "start": 21
+        },
+        {
+          "code": 2752,
+          "end": 58,
+          "file": "/.src/m1.ts",
+          "start": 55
+        }
+      ],
+      "start": 94
+    }
+  ],
+  "path": "conformance/es6/modules/multipleDefaultExports01.ts"
+}

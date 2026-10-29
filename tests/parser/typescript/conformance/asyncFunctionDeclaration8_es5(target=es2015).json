@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 16,
+      "file": "/.src/asyncFunctionDeclaration8_es5.ts",
+      "start": 11
+    },
+    {
+      "code": 2304,
+      "end": 22,
+      "file": "/.src/asyncFunctionDeclaration8_es5.ts",
+      "start": 19
+    }
+  ],
+  "path": "conformance/async/es5/functionDeclarations/asyncFunctionDeclaration8_es5.ts"
+}

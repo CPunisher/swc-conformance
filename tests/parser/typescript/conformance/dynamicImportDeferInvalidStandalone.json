@@ -1,0 +1,30 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 12,
+      "file": "/.src/b.ts",
+      "start": 12
+    },
+    {
+      "code": 1005,
+      "end": 28,
+      "file": "/.src/b.ts",
+      "start": 28
+    },
+    {
+      "code": 1005,
+      "end": 58,
+      "file": "/.src/b.ts",
+      "start": 58
+    },
+    {
+      "code": 1005,
+      "end": 74,
+      "file": "/.src/b.ts",
+      "start": 74
+    }
+  ],
+  "path": "conformance/importDefer/dynamicImportDeferInvalidStandalone.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 72,
+      "file": "/.src/regExpWithOpenBracketInCharClass.ts",
+      "start": 72
+    },
+    {
+      "code": 1501,
+      "end": 74,
+      "file": "/.src/regExpWithOpenBracketInCharClass.ts",
+      "start": 73
+    }
+  ],
+  "path": "compiler/regExpWithOpenBracketInCharClass.ts"
+}

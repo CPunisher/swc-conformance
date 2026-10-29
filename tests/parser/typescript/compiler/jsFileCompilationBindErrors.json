@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 5,
+      "file": "/.src/a.js",
+      "start": 4
+    },
+    {
+      "code": 2451,
+      "end": 20,
+      "file": "/.src/a.js",
+      "start": 19
+    },
+    {
+      "code": 1100,
+      "end": 212,
+      "file": "/.src/a.js",
+      "start": 203
+    }
+  ],
+  "path": "compiler/jsFileCompilationBindErrors.ts"
+}

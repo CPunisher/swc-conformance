@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 12,
+      "file": "/.src/index.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 10,
+          "file": "/.src/index.ts",
+          "start": 10
+        }
+      ],
+      "start": 12
+    }
+  ],
+  "path": "compiler/prettyContextNotDebugAssertion.ts"
+}

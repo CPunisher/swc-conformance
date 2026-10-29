@@ -1,0 +1,26 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1100,
+      "end": 22,
+      "file": "/.src/variableDeclarationInStrictMode1.ts",
+      "start": 18
+    },
+    {
+      "code": 2300,
+      "end": 22,
+      "file": "/.src/variableDeclarationInStrictMode1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 1168,
+          "file": "bundled:///libs/lib.es5.d.ts",
+          "start": 1164
+        }
+      ],
+      "start": 18
+    }
+  ],
+  "path": "compiler/variableDeclarationInStrictMode1.ts"
+}

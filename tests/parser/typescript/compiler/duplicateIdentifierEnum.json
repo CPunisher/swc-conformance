@@ -1,0 +1,98 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2567,
+      "end": 6,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 5
+    },
+    {
+      "code": 2567,
+      "end": 26,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 25
+    },
+    {
+      "code": 2567,
+      "end": 60,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 59
+    },
+    {
+      "code": 2567,
+      "end": 94,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 93
+    },
+    {
+      "code": 2567,
+      "end": 120,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 119
+    },
+    {
+      "code": 2567,
+      "end": 136,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "start": 135
+    },
+    {
+      "code": 2567,
+      "end": 164,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 10,
+          "file": "/.src/duplicateIdentifierEnum_B.ts",
+          "start": 9
+        }
+      ],
+      "start": 163
+    },
+    {
+      "code": 2567,
+      "end": 184,
+      "file": "/.src/duplicateIdentifierEnum_A.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 37,
+          "file": "/.src/duplicateIdentifierEnum_B.ts",
+          "start": 36
+        }
+      ],
+      "start": 183
+    },
+    {
+      "code": 2567,
+      "end": 10,
+      "file": "/.src/duplicateIdentifierEnum_B.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 164,
+          "file": "/.src/duplicateIdentifierEnum_A.ts",
+          "start": 163
+        }
+      ],
+      "start": 9
+    },
+    {
+      "code": 2567,
+      "end": 37,
+      "file": "/.src/duplicateIdentifierEnum_B.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 184,
+          "file": "/.src/duplicateIdentifierEnum_A.ts",
+          "start": 183
+        }
+      ],
+      "start": 36
+    }
+  ],
+  "path": "compiler/duplicateIdentifierEnum.ts"
+}

@@ -1,0 +1,36 @@
+{
+  "config": "deduplicatepackages=false",
+  "diagnostics": [
+    {
+      "code": 1434,
+      "end": 7,
+      "file": "/node_modules/b/node_modules/x/index.d.ts",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 7,
+      "file": "/node_modules/b/node_modules/x/index.d.ts",
+      "start": 0
+    },
+    {
+      "code": 1434,
+      "end": 11,
+      "file": "/node_modules/b/node_modules/x/index.d.ts",
+      "start": 8
+    },
+    {
+      "code": 2304,
+      "end": 11,
+      "file": "/node_modules/b/node_modules/x/index.d.ts",
+      "start": 8
+    },
+    {
+      "code": 2304,
+      "end": 18,
+      "file": "/node_modules/b/node_modules/x/index.d.ts",
+      "start": 12
+    }
+  ],
+  "path": "compiler/deduplicatePackages.ts"
+}

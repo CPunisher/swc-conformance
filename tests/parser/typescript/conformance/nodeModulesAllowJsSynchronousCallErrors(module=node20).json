@@ -1,0 +1,30 @@
+{
+  "config": "module=node20",
+  "diagnostics": [
+    {
+      "code": 8002,
+      "end": 90,
+      "file": "/.src/index.js",
+      "start": 55
+    },
+    {
+      "code": 8002,
+      "end": 177,
+      "file": "/.src/index.js",
+      "start": 131
+    },
+    {
+      "code": 8002,
+      "end": 86,
+      "file": "/.src/subfolder/index.js",
+      "start": 50
+    },
+    {
+      "code": 8002,
+      "end": 159,
+      "file": "/.src/subfolder/index.js",
+      "start": 123
+    }
+  ],
+  "path": "conformance/node/allowJs/nodeModulesAllowJsSynchronousCallErrors.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2657,
+      "end": 72,
+      "file": "/.src/file1.tsx",
+      "start": 49
+    },
+    {
+      "code": 2657,
+      "end": 30,
+      "file": "/.src/file2.tsx",
+      "start": 8
+    }
+  ],
+  "path": "conformance/jsx/tsxErrorRecovery3.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "module=node16",
+  "diagnostics": [
+    {
+      "code": 8003,
+      "end": 44,
+      "file": "/.src/index.js",
+      "start": 33
+    },
+    {
+      "code": 8003,
+      "end": 44,
+      "file": "/.src/subfolder/index.js",
+      "start": 33
+    }
+  ],
+  "path": "conformance/node/allowJs/nodeModulesAllowJsExportAssignment.ts"
+}

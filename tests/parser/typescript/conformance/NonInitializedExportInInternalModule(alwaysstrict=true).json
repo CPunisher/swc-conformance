@@ -1,0 +1,30 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1123,
+      "end": 25,
+      "file": "/.src/NonInitializedExportInInternalModule.ts",
+      "start": 25
+    },
+    {
+      "code": 1212,
+      "end": 34,
+      "file": "/.src/NonInitializedExportInInternalModule.ts",
+      "start": 31
+    },
+    {
+      "code": 2304,
+      "end": 34,
+      "file": "/.src/NonInitializedExportInInternalModule.ts",
+      "start": 31
+    },
+    {
+      "code": 1123,
+      "end": 45,
+      "file": "/.src/NonInitializedExportInInternalModule.ts",
+      "start": 45
+    }
+  ],
+  "path": "conformance/internalModules/exportDeclarations/NonInitializedExportInInternalModule.ts"
+}

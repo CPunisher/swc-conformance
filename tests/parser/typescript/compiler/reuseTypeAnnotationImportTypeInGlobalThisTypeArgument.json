@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 42,
+      "file": "/types.js",
+      "start": 35
+    },
+    {
+      "code": 2304,
+      "end": 59,
+      "file": "/types.js",
+      "start": 44
+    }
+  ],
+  "path": "compiler/reuseTypeAnnotationImportTypeInGlobalThisTypeArgument.ts"
+}

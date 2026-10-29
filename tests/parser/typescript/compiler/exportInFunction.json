@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 31,
+      "file": "/.src/exportInFunction.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 13,
+          "file": "/.src/exportInFunction.ts",
+          "start": 13
+        }
+      ],
+      "start": 31
+    }
+  ],
+  "path": "compiler/exportInFunction.ts"
+}

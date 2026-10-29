@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 78,
+      "file": "/.src/a.ts",
+      "start": 71
+    },
+    {
+      "code": 2304,
+      "end": 57,
+      "file": "/.src/b.ts",
+      "start": 50
+    }
+  ],
+  "path": "compiler/defaultIsNotVisibleInLocalScope.ts"
+}

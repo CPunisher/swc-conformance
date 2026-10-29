@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1253,
+      "end": 366,
+      "file": "/.src/abstractPropertyNegative.ts",
+      "start": 358
+    },
+    {
+      "code": 1005,
+      "end": 424,
+      "file": "/.src/abstractPropertyNegative.ts",
+      "start": 423
+    }
+  ],
+  "path": "compiler/abstractPropertyNegative.ts"
+}

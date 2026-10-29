@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1003,
+      "end": 4,
+      "file": "/.src/a.js",
+      "start": 3
+    },
+    {
+      "code": 1109,
+      "end": 4,
+      "file": "/.src/a.js",
+      "start": 4
+    }
+  ],
+  "path": "compiler/parseJsxElementInUnaryExpressionNoCrash1.ts"
+}

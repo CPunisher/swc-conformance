@@ -1,0 +1,12 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 23,
+      "file": "/.src/emitArrowFunctionWhenUsingArguments02.ts",
+      "start": 14
+    }
+  ],
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionWhenUsingArguments02.ts"
+}

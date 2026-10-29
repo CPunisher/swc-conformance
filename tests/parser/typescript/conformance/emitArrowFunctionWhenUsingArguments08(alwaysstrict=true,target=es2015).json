@@ -1,0 +1,18 @@
+{
+  "config": "alwaysstrict=true,target=es2015",
+  "diagnostics": [
+    {
+      "code": 1100,
+      "end": 20,
+      "file": "/.src/emitArrowFunctionWhenUsingArguments08.ts",
+      "start": 11
+    },
+    {
+      "code": 1100,
+      "end": 52,
+      "file": "/.src/emitArrowFunctionWhenUsingArguments08.ts",
+      "start": 43
+    }
+  ],
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionWhenUsingArguments08.ts"
+}

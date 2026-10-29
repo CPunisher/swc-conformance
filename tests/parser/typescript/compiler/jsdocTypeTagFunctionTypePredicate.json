@@ -1,0 +1,30 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 426,
+      "file": "/.src/inferredArrow.mjs",
+      "start": 411
+    },
+    {
+      "code": 2304,
+      "end": 355,
+      "file": "/.src/isFoo.mjs",
+      "start": 348
+    },
+    {
+      "code": 2304,
+      "end": 465,
+      "file": "/.src/isFoo.mjs",
+      "start": 450
+    },
+    {
+      "code": 2304,
+      "end": 64,
+      "file": "/.src/missingExpression.mjs",
+      "start": 47
+    }
+  ],
+  "path": "compiler/jsdocTypeTagFunctionTypePredicate.ts"
+}

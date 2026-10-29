@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 47,
+      "file": "/.src/missingCloseBraceInObjectLiteral.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 10,
+          "file": "/.src/missingCloseBraceInObjectLiteral.ts",
+          "start": 10
+        }
+      ],
+      "start": 47
+    }
+  ],
+  "path": "compiler/missingCloseBraceInObjectLiteral.ts"
+}

@@ -1,0 +1,36 @@
+{
+  "config": "alwaysstrict=true,target=es2015",
+  "diagnostics": [
+    {
+      "code": 1101,
+      "end": 73,
+      "file": "/.src/es5-asyncFunctionWithStatements.ts",
+      "start": 69
+    },
+    {
+      "code": 1101,
+      "end": 142,
+      "file": "/.src/es5-asyncFunctionWithStatements.ts",
+      "start": 138
+    },
+    {
+      "code": 1101,
+      "end": 217,
+      "file": "/.src/es5-asyncFunctionWithStatements.ts",
+      "start": 213
+    },
+    {
+      "code": 1101,
+      "end": 314,
+      "file": "/.src/es5-asyncFunctionWithStatements.ts",
+      "start": 310
+    },
+    {
+      "code": 1101,
+      "end": 333,
+      "file": "/.src/es5-asyncFunctionWithStatements.ts",
+      "start": 329
+    }
+  ],
+  "path": "compiler/es5-asyncFunctionWithStatements.ts"
+}

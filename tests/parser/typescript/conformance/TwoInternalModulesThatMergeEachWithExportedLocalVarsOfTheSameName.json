@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 115,
+      "file": "/.src/part2.ts",
+      "start": 110
+    },
+    {
+      "code": 2304,
+      "end": 233,
+      "file": "/.src/part2.ts",
+      "start": 228
+    },
+    {
+      "code": 2304,
+      "end": 251,
+      "file": "/.src/part2.ts",
+      "start": 246
+    }
+  ],
+  "path": "conformance/internalModules/DeclarationMerging/TwoInternalModulesThatMergeEachWithExportedLocalVarsOfTheSameName.ts"
+}

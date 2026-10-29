@@ -1,0 +1,74 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 27,
+      "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 2753,
+          "end": 220,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 217
+        }
+      ],
+      "start": 24
+    },
+    {
+      "code": 2528,
+      "end": 78,
+      "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 220,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 217
+        }
+      ],
+      "start": 75
+    },
+    {
+      "code": 2528,
+      "end": 129,
+      "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 220,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 217
+        }
+      ],
+      "start": 126
+    },
+    {
+      "code": 2528,
+      "end": 220,
+      "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 2752,
+          "end": 27,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 24
+        },
+        {
+          "code": 2752,
+          "end": 78,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 75
+        },
+        {
+          "code": 2752,
+          "end": 129,
+          "file": "/.src/exportDefaultTypeAndFunctionOverloads.ts",
+          "start": 126
+        }
+      ],
+      "start": 217
+    }
+  ],
+  "path": "compiler/exportDefaultTypeAndFunctionOverloads.ts"
+}

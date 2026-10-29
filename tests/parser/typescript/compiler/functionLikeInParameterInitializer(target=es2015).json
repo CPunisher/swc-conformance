@@ -1,0 +1,30 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 45,
+      "file": "/.src/functionLikeInParameterInitializer.ts",
+      "start": 42
+    },
+    {
+      "code": 2304,
+      "end": 126,
+      "file": "/.src/functionLikeInParameterInitializer.ts",
+      "start": 123
+    },
+    {
+      "code": 2304,
+      "end": 218,
+      "file": "/.src/functionLikeInParameterInitializer.ts",
+      "start": 215
+    },
+    {
+      "code": 2304,
+      "end": 299,
+      "file": "/.src/functionLikeInParameterInitializer.ts",
+      "start": 296
+    }
+  ],
+  "path": "compiler/functionLikeInParameterInitializer.ts"
+}

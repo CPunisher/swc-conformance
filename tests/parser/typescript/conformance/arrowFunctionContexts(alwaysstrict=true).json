@@ -1,0 +1,18 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1101,
+      "end": 45,
+      "file": "/.src/arrowFunctionContexts.ts",
+      "start": 41
+    },
+    {
+      "code": 1101,
+      "end": 969,
+      "file": "/.src/arrowFunctionContexts.ts",
+      "start": 965
+    }
+  ],
+  "path": "conformance/expressions/functions/arrowFunctionContexts.ts"
+}

@@ -1,0 +1,40 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1206,
+      "end": 20,
+      "file": "/.src/file3.js",
+      "start": 16
+    },
+    {
+      "code": 8038,
+      "end": 25,
+      "file": "/.src/file6.js",
+      "related": [
+        {
+          "code": 1486,
+          "end": 13,
+          "file": "/.src/file6.js",
+          "start": 9
+        }
+      ],
+      "start": 21
+    },
+    {
+      "code": 8038,
+      "end": 33,
+      "file": "/.src/file7.js",
+      "related": [
+        {
+          "code": 1486,
+          "end": 13,
+          "file": "/.src/file7.js",
+          "start": 9
+        }
+      ],
+      "start": 29
+    }
+  ],
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-exportModifier.ts"
+}

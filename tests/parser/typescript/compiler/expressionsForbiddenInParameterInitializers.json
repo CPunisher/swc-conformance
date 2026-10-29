@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2524,
+      "end": 55,
+      "file": "/.src/bar.ts",
+      "start": 34
+    },
+    {
+      "code": 2523,
+      "end": 99,
+      "file": "/.src/bar.ts",
+      "start": 94
+    }
+  ],
+  "path": "compiler/expressionsForbiddenInParameterInitializers.ts"
+}

@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 13,
+      "file": "/.src/file1.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 15,
+          "file": "/.src/file2.js",
+          "start": 6
+        }
+      ],
+      "start": 4
+    },
+    {
+      "code": 2300,
+      "end": 15,
+      "file": "/.src/file2.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 13,
+          "file": "/.src/file1.js",
+          "start": 4
+        }
+      ],
+      "start": 6
+    }
+  ],
+  "path": "conformance/salsa/constructorFunctionMergeWithClass.ts"
+}

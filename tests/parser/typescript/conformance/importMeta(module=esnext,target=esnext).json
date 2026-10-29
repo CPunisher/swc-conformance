@@ -1,0 +1,30 @@
+{
+  "config": "module=esnext,target=esnext",
+  "diagnostics": [
+    {
+      "code": 17012,
+      "end": 55,
+      "file": "/.src/moduleLookingFile01.ts",
+      "start": 50
+    },
+    {
+      "code": 17012,
+      "end": 85,
+      "file": "/.src/moduleLookingFile01.ts",
+      "start": 79
+    },
+    {
+      "code": 17012,
+      "end": 53,
+      "file": "/.src/scriptLookingFile01.ts",
+      "start": 48
+    },
+    {
+      "code": 17012,
+      "end": 82,
+      "file": "/.src/scriptLookingFile01.ts",
+      "start": 76
+    }
+  ],
+  "path": "conformance/es2019/importMeta/importMeta.ts"
+}

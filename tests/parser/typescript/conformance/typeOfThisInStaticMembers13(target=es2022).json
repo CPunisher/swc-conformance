@@ -1,0 +1,18 @@
+{
+  "config": "target=es2022",
+  "diagnostics": [
+    {
+      "code": 1166,
+      "end": 102,
+      "file": "/.src/typeOfThisInStaticMembers13.ts",
+      "start": 94
+    },
+    {
+      "code": 1166,
+      "end": 126,
+      "file": "/.src/typeOfThisInStaticMembers13.ts",
+      "start": 118
+    }
+  ],
+  "path": "conformance/classes/members/instanceAndStaticMembers/typeOfThisInStaticMembers13.ts"
+}

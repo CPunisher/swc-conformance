@@ -1,0 +1,74 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 27,
+      "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 2753,
+          "end": 227,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 224
+        }
+      ],
+      "start": 24
+    },
+    {
+      "code": 2528,
+      "end": 78,
+      "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 227,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 224
+        }
+      ],
+      "start": 75
+    },
+    {
+      "code": 2528,
+      "end": 129,
+      "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 227,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 224
+        }
+      ],
+      "start": 126
+    },
+    {
+      "code": 2528,
+      "end": 227,
+      "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+      "related": [
+        {
+          "code": 2752,
+          "end": 27,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 24
+        },
+        {
+          "code": 2752,
+          "end": 78,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 75
+        },
+        {
+          "code": 2752,
+          "end": 129,
+          "file": "/.src/exportDefaultInterfaceClassAndFunctionOverloads.ts",
+          "start": 126
+        }
+      ],
+      "start": 224
+    }
+  ],
+  "path": "compiler/exportDefaultInterfaceClassAndFunctionOverloads.ts"
+}

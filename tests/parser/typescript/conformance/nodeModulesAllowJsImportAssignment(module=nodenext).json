@@ -1,0 +1,42 @@
+{
+  "config": "module=nodenext",
+  "diagnostics": [
+    {
+      "code": 8002,
+      "end": 98,
+      "file": "/.src/file.js",
+      "start": 72
+    },
+    {
+      "code": 8002,
+      "end": 146,
+      "file": "/.src/file.js",
+      "start": 112
+    },
+    {
+      "code": 8002,
+      "end": 45,
+      "file": "/.src/index.js",
+      "start": 19
+    },
+    {
+      "code": 8002,
+      "end": 93,
+      "file": "/.src/index.js",
+      "start": 59
+    },
+    {
+      "code": 8002,
+      "end": 45,
+      "file": "/.src/subfolder/index.js",
+      "start": 19
+    },
+    {
+      "code": 8002,
+      "end": 93,
+      "file": "/.src/subfolder/index.js",
+      "start": 59
+    }
+  ],
+  "path": "conformance/node/allowJs/nodeModulesAllowJsImportAssignment.ts"
+}

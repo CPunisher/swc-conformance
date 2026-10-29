@@ -1,0 +1,12 @@
+{
+  "config": "isolatedmodules=false,verbatimmodulesyntax=false",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 37,
+      "file": "/.src/a.ts",
+      "start": 36
+    }
+  ],
+  "path": "compiler/isolatedModulesMergedImportAlias.ts"
+}

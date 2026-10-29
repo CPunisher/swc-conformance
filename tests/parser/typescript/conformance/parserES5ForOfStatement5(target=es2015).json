@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2483,
+      "end": 10,
+      "file": "/.src/parserES5ForOfStatement5.ts",
+      "start": 9
+    },
+    {
+      "code": 2304,
+      "end": 23,
+      "file": "/.src/parserES5ForOfStatement5.ts",
+      "start": 22
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/Statements/parserES5ForOfStatement5.ts"
+}

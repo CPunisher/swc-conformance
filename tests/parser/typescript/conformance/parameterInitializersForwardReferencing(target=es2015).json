@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 182,
+      "file": "/.src/parameterInitializersForwardReferencing.ts",
+      "start": 181
+    },
+    {
+      "code": 2304,
+      "end": 599,
+      "file": "/.src/parameterInitializersForwardReferencing.ts",
+      "start": 598
+    }
+  ],
+  "path": "conformance/functions/parameterInitializersForwardReferencing.ts"
+}

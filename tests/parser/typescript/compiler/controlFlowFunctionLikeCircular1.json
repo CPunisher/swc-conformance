@@ -1,0 +1,40 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1155,
+      "end": 68,
+      "file": "/.src/controlFlowFunctionLikeCircular_1.ts",
+      "start": 41
+    },
+    {
+      "code": 2451,
+      "end": 68,
+      "file": "/.src/controlFlowFunctionLikeCircular_1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 68,
+          "file": "/.src/controlFlowFunctionLikeCircular_2.ts",
+          "start": 41
+        }
+      ],
+      "start": 41
+    },
+    {
+      "code": 2451,
+      "end": 68,
+      "file": "/.src/controlFlowFunctionLikeCircular_2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 68,
+          "file": "/.src/controlFlowFunctionLikeCircular_1.ts",
+          "start": 41
+        }
+      ],
+      "start": 41
+    }
+  ],
+  "path": "compiler/controlFlowFunctionLikeCircular1.ts"
+}

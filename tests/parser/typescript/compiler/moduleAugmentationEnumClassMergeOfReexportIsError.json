@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2567,
+      "end": 84,
+      "file": "/.src/augment.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 16,
+          "file": "/.src/file.ts",
+          "start": 13
+        }
+      ],
+      "start": 81
+    },
+    {
+      "code": 2567,
+      "end": 16,
+      "file": "/.src/file.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 84,
+          "file": "/.src/augment.ts",
+          "start": 81
+        }
+      ],
+      "start": 13
+    }
+  ],
+  "path": "compiler/moduleAugmentationEnumClassMergeOfReexportIsError.ts"
+}

@@ -1,0 +1,134 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 21,
+      "file": "/.src/forAwaitInWithDeclIsError.ts",
+      "start": 19
+    },
+    {
+      "code": 2304,
+      "end": 23,
+      "file": "/.src/forAwaitInWithDeclIsError.ts",
+      "start": 22
+    },
+    {
+      "code": 2304,
+      "end": 12,
+      "file": "/.src/forAwaitInWithExprIsError.ts",
+      "start": 11
+    },
+    {
+      "code": 1005,
+      "end": 15,
+      "file": "/.src/forAwaitInWithExprIsError.ts",
+      "start": 13
+    },
+    {
+      "code": 2304,
+      "end": 17,
+      "file": "/.src/forAwaitInWithExprIsError.ts",
+      "start": 16
+    },
+    {
+      "code": 1103,
+      "end": 45,
+      "file": "/.src/inFunctionDeclWithDeclIsError.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 11,
+          "file": "/.src/inFunctionDeclWithDeclIsError.ts",
+          "start": 9
+        }
+      ],
+      "start": 40
+    },
+    {
+      "code": 1103,
+      "end": 53,
+      "file": "/.src/inFunctionDeclWithExprIsError.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 11,
+          "file": "/.src/inFunctionDeclWithExprIsError.ts",
+          "start": 9
+        }
+      ],
+      "start": 48
+    },
+    {
+      "code": 1103,
+      "end": 47,
+      "file": "/.src/inGeneratorWithDeclIsError.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 13,
+          "file": "/.src/inGeneratorWithDeclIsError.ts",
+          "start": 10
+        }
+      ],
+      "start": 42
+    },
+    {
+      "code": 1103,
+      "end": 55,
+      "file": "/.src/inGeneratorWithExprIsError.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 13,
+          "file": "/.src/inGeneratorWithExprIsError.ts",
+          "start": 10
+        }
+      ],
+      "start": 50
+    },
+    {
+      "code": 1431,
+      "end": 9,
+      "file": "/.src/topLevelWithDeclIsError.ts",
+      "start": 4
+    },
+    {
+      "code": 1432,
+      "end": 9,
+      "file": "/.src/topLevelWithDeclIsError.ts",
+      "start": 4
+    },
+    {
+      "code": 2304,
+      "end": 23,
+      "file": "/.src/topLevelWithDeclIsError.ts",
+      "start": 22
+    },
+    {
+      "code": 1431,
+      "end": 9,
+      "file": "/.src/topLevelWithExprIsError.ts",
+      "start": 4
+    },
+    {
+      "code": 1432,
+      "end": 9,
+      "file": "/.src/topLevelWithExprIsError.ts",
+      "start": 4
+    },
+    {
+      "code": 2304,
+      "end": 12,
+      "file": "/.src/topLevelWithExprIsError.ts",
+      "start": 11
+    },
+    {
+      "code": 2304,
+      "end": 17,
+      "file": "/.src/topLevelWithExprIsError.ts",
+      "start": 16
+    }
+  ],
+  "path": "conformance/parser/ecmascript2018/forAwait/parser.forAwait.es2018.ts"
+}

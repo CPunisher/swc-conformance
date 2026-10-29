@@ -1,0 +1,12 @@
+{
+  "config": "allowunreachablecode=true",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 196,
+      "file": "/.src/unreachableFlowAfterThrowingForHead1.ts",
+      "start": 194
+    }
+  ],
+  "path": "compiler/unreachableFlowAfterThrowingForHead1.ts"
+}

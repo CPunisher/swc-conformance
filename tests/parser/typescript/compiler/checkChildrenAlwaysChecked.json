@@ -1,0 +1,30 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 121,
+      "file": "/.src/exportAssignmentInNamespace.ts",
+      "start": 104
+    },
+    {
+      "code": 2304,
+      "end": 134,
+      "file": "/.src/returnInStaticBlock.ts",
+      "start": 117
+    },
+    {
+      "code": 1163,
+      "end": 115,
+      "file": "/.src/yieldOutsideGenerator.ts",
+      "start": 110
+    },
+    {
+      "code": 2304,
+      "end": 132,
+      "file": "/.src/yieldOutsideGenerator.ts",
+      "start": 116
+    }
+  ],
+  "path": "compiler/checkChildrenAlwaysChecked.ts"
+}

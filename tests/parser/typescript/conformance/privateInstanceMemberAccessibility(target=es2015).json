@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 168,
+      "file": "/.src/privateInstanceMemberAccessibility.ts",
+      "start": 163
+    },
+    {
+      "code": 1442,
+      "end": 196,
+      "file": "/.src/privateInstanceMemberAccessibility.ts",
+      "start": 195
+    }
+  ],
+  "path": "conformance/classes/members/accessibility/privateInstanceMemberAccessibility.ts"
+}

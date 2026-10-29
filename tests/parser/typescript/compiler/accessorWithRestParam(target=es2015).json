@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1053,
+      "end": 23,
+      "file": "/.src/accessorWithRestParam.ts",
+      "start": 20
+    },
+    {
+      "code": 1053,
+      "end": 50,
+      "file": "/.src/accessorWithRestParam.ts",
+      "start": 47
+    }
+  ],
+  "path": "compiler/accessorWithRestParam.ts"
+}

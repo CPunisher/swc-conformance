@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1212,
+      "end": 38,
+      "file": "/.src/letInVarDeclOfForIn_ES5.ts",
+      "start": 35
+    },
+    {
+      "code": 1212,
+      "end": 70,
+      "file": "/.src/letInVarDeclOfForIn_ES5.ts",
+      "start": 67
+    }
+  ],
+  "path": "compiler/letInVarDeclOfForIn_ES5.ts"
+}

@@ -1,0 +1,102 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 29,
+      "file": "/.src/asyncGeneratorGetAccessorIsError.ts",
+      "start": 28
+    },
+    {
+      "code": 1005,
+      "end": 27,
+      "file": "/.src/asyncGeneratorPropertyIsError.ts",
+      "start": 26
+    },
+    {
+      "code": 1005,
+      "end": 29,
+      "file": "/.src/asyncGeneratorSetAccessorIsError.ts",
+      "start": 28
+    },
+    {
+      "code": 2524,
+      "end": 36,
+      "file": "/.src/awaitInParameterInitializerIsError.ts",
+      "start": 29
+    },
+    {
+      "code": 1109,
+      "end": 44,
+      "file": "/.src/awaitMissingValueIsError.ts",
+      "start": 43
+    },
+    {
+      "code": 1359,
+      "end": 30,
+      "file": "/.src/awaitParameterIsError.ts",
+      "start": 25
+    },
+    {
+      "code": 1359,
+      "end": 52,
+      "file": "/.src/nestedFunctionDeclarationNamedAwaitIsError.ts",
+      "start": 47
+    },
+    {
+      "code": 1213,
+      "end": 51,
+      "file": "/.src/nestedFunctionDeclarationNamedYieldIsError.ts",
+      "start": 46
+    },
+    {
+      "code": 1359,
+      "end": 62,
+      "file": "/.src/nestedFunctionExpressionNamedAwaitIsError.ts",
+      "start": 57
+    },
+    {
+      "code": 1213,
+      "end": 62,
+      "file": "/.src/nestedFunctionExpressionNamedYieldIsError.ts",
+      "start": 57
+    },
+    {
+      "code": 1212,
+      "end": 15,
+      "file": "/.src/yieldAsTypeIsStrictError.ts",
+      "start": 10
+    },
+    {
+      "code": 1213,
+      "end": 69,
+      "file": "/.src/yieldAsTypeIsStrictError.ts",
+      "start": 64
+    },
+    {
+      "code": 1213,
+      "end": 30,
+      "file": "/.src/yieldInClassComputedPropertyIsError.ts",
+      "start": 25
+    },
+    {
+      "code": 2523,
+      "end": 34,
+      "file": "/.src/yieldInParameterInitializerIsError.ts",
+      "start": 29
+    },
+    {
+      "code": 1213,
+      "end": 30,
+      "file": "/.src/yieldParameterIsError.ts",
+      "start": 25
+    },
+    {
+      "code": 1109,
+      "end": 46,
+      "file": "/.src/yieldStarMissingValueIsError.ts",
+      "start": 45
+    }
+  ],
+  "path": "conformance/parser/ecmascript2018/asyncGenerators/parser.asyncGenerators.classMethods.es2018.ts"
+}

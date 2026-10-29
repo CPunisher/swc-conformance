@@ -1,0 +1,90 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1308,
+      "end": 34,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 20,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 9
+        }
+      ],
+      "start": 29
+    },
+    {
+      "code": 1308,
+      "end": 83,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 69,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 58
+        }
+      ],
+      "start": 78
+    },
+    {
+      "code": 1308,
+      "end": 122,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 108,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 99
+        }
+      ],
+      "start": 117
+    },
+    {
+      "code": 1308,
+      "end": 165,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 151,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 141
+        }
+      ],
+      "start": 160
+    },
+    {
+      "code": 1308,
+      "end": 208,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 194,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 185
+        }
+      ],
+      "start": 203
+    },
+    {
+      "code": 1308,
+      "end": 255,
+      "file": "/.src/awaitLiteralValues.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 241,
+          "file": "/.src/awaitLiteralValues.ts",
+          "start": 227
+        }
+      ],
+      "start": 250
+    }
+  ],
+  "path": "compiler/awaitLiteralValues.ts"
+}

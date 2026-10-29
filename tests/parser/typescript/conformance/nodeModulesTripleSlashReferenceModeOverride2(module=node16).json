@@ -1,0 +1,12 @@
+{
+  "config": "module=node16",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 104,
+      "file": "/index.ts",
+      "start": 101
+    }
+  ],
+  "path": "conformance/node/nodeModulesTripleSlashReferenceModeOverride2.ts"
+}

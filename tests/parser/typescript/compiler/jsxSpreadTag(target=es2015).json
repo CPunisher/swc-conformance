@@ -1,0 +1,30 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 127,
+      "file": "/a.tsx",
+      "start": 123
+    },
+    {
+      "code": 2304,
+      "end": 205,
+      "file": "/a.tsx",
+      "start": 201
+    },
+    {
+      "code": 2304,
+      "end": 296,
+      "file": "/a.tsx",
+      "start": 292
+    },
+    {
+      "code": 2304,
+      "end": 391,
+      "file": "/a.tsx",
+      "start": 387
+    }
+  ],
+  "path": "compiler/jsxSpreadTag.ts"
+}

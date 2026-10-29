@@ -1,0 +1,30 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 1,
+      "file": "/.src/parserAmbiguity1.ts",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 3,
+      "file": "/.src/parserAmbiguity1.ts",
+      "start": 2
+    },
+    {
+      "code": 2304,
+      "end": 5,
+      "file": "/.src/parserAmbiguity1.ts",
+      "start": 4
+    },
+    {
+      "code": 2304,
+      "end": 8,
+      "file": "/.src/parserAmbiguity1.ts",
+      "start": 7
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/Generics/parserAmbiguity1.ts"
+}

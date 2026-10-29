@@ -1,0 +1,68 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 46,
+      "file": "/.src/missingCloseParenStatements.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 23,
+          "file": "/.src/missingCloseParenStatements.ts",
+          "start": 23
+        }
+      ],
+      "start": 45
+    },
+    {
+      "code": 1005,
+      "end": 78,
+      "file": "/.src/missingCloseParenStatements.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 56,
+          "file": "/.src/missingCloseParenStatements.ts",
+          "start": 56
+        }
+      ],
+      "start": 77
+    },
+    {
+      "code": 1101,
+      "end": 160,
+      "file": "/.src/missingCloseParenStatements.ts",
+      "start": 156
+    },
+    {
+      "code": 1005,
+      "end": 183,
+      "file": "/.src/missingCloseParenStatements.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 161,
+          "file": "/.src/missingCloseParenStatements.ts",
+          "start": 161
+        }
+      ],
+      "start": 182
+    },
+    {
+      "code": 1005,
+      "end": 267,
+      "file": "/.src/missingCloseParenStatements.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 248,
+          "file": "/.src/missingCloseParenStatements.ts",
+          "start": 248
+        }
+      ],
+      "start": 266
+    }
+  ],
+  "path": "compiler/missingCloseParenStatements.ts"
+}

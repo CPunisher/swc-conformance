@@ -1,0 +1,54 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1117,
+      "end": 44,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 43
+    },
+    {
+      "code": 1117,
+      "end": 75,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 69
+    },
+    {
+      "code": 1117,
+      "end": 101,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 100
+    },
+    {
+      "code": 1117,
+      "end": 130,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 127
+    },
+    {
+      "code": 2300,
+      "end": 179,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 178
+    },
+    {
+      "code": 2300,
+      "end": 206,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 205
+    },
+    {
+      "code": 1118,
+      "end": 232,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 231
+    },
+    {
+      "code": 2300,
+      "end": 232,
+      "file": "/.src/duplicateObjectLiteralProperty.ts",
+      "start": 231
+    }
+  ],
+  "path": "compiler/duplicateObjectLiteralProperty.ts"
+}

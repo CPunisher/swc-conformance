@@ -1,0 +1,32 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 135,
+      "file": "/.src/recursiveComplicatedClasses.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 3524,
+          "file": "bundled:///libs/lib.es5.d.ts",
+          "start": 3518
+        },
+        {
+          "code": 6204,
+          "end": 1587,
+          "file": "bundled:///libs/lib.es2015.symbol.d.ts",
+          "start": 1581
+        },
+        {
+          "code": 6204,
+          "end": 2921,
+          "file": "bundled:///libs/lib.es2015.symbol.wellknown.d.ts",
+          "start": 2915
+        }
+      ],
+      "start": 129
+    }
+  ],
+  "path": "compiler/recursiveComplicatedClasses.ts"
+}

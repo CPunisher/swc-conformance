@@ -1,0 +1,48 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 8,
+      "file": "/.src/b.json",
+      "start": 0
+    },
+    {
+      "code": 1136,
+      "end": 8,
+      "file": "/.src/b.json",
+      "start": 0
+    },
+    {
+      "code": 1005,
+      "end": 12,
+      "file": "/.src/b.json",
+      "start": 9
+    },
+    {
+      "code": 1136,
+      "end": 12,
+      "file": "/.src/b.json",
+      "start": 9
+    },
+    {
+      "code": 1005,
+      "end": 17,
+      "file": "/.src/b.json",
+      "start": 13
+    },
+    {
+      "code": 1136,
+      "end": 17,
+      "file": "/.src/b.json",
+      "start": 13
+    },
+    {
+      "code": 1005,
+      "end": 17,
+      "file": "/.src/b.json",
+      "start": 17
+    }
+  ],
+  "path": "compiler/requireOfJsonFileWithoutResolveJsonModule.ts"
+}

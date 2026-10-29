@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 64,
+      "file": "/.src/missingCloseBrace.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 21,
+          "file": "/.src/missingCloseBrace.ts",
+          "start": 21
+        }
+      ],
+      "start": 64
+    }
+  ],
+  "path": "compiler/missingCloseBrace.ts"
+}

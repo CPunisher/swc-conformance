@@ -1,0 +1,30 @@
+{
+  "config": "experimentaldecorators=true,target=es2022",
+  "diagnostics": [
+    {
+      "code": 1136,
+      "end": 565,
+      "file": "/.src/malformedDestructuringAssignmentTransformVariants.ts",
+      "start": 564
+    },
+    {
+      "code": 1136,
+      "end": 629,
+      "file": "/.src/malformedDestructuringAssignmentTransformVariants.ts",
+      "start": 628
+    },
+    {
+      "code": 1136,
+      "end": 704,
+      "file": "/.src/malformedDestructuringAssignmentTransformVariants.ts",
+      "start": 703
+    },
+    {
+      "code": 1136,
+      "end": 779,
+      "file": "/.src/malformedDestructuringAssignmentTransformVariants.ts",
+      "start": 778
+    }
+  ],
+  "path": "compiler/malformedDestructuringAssignmentTransformVariants.ts"
+}

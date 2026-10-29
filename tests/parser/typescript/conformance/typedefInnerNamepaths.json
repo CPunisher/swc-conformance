@@ -1,0 +1,36 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 7,
+      "file": "/.src/bug25104.js",
+      "start": 6
+    },
+    {
+      "code": 1003,
+      "end": 36,
+      "file": "/.src/bug25104.js",
+      "start": 35
+    },
+    {
+      "code": 1005,
+      "end": 37,
+      "file": "/.src/bug25104.js",
+      "start": 36
+    },
+    {
+      "code": 2300,
+      "end": 70,
+      "file": "/.src/bug25104.js",
+      "start": 69
+    },
+    {
+      "code": 1005,
+      "end": 99,
+      "file": "/.src/bug25104.js",
+      "start": 98
+    }
+  ],
+  "path": "conformance/jsdoc/typedefInnerNamepaths.ts"
+}

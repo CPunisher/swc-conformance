@@ -1,0 +1,24 @@
+{
+  "config": "target=esnext",
+  "diagnostics": [
+    {
+      "code": 1125,
+      "end": 207,
+      "file": "/.src/invalidTaggedTemplateEscapeSequences.ts",
+      "start": 207
+    },
+    {
+      "code": 1125,
+      "end": 225,
+      "file": "/.src/invalidTaggedTemplateEscapeSequences.ts",
+      "start": 225
+    },
+    {
+      "code": 1125,
+      "end": 267,
+      "file": "/.src/invalidTaggedTemplateEscapeSequences.ts",
+      "start": 267
+    }
+  ],
+  "path": "conformance/es2018/invalidTaggedTemplateEscapeSequences.ts"
+}

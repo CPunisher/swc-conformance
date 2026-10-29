@@ -1,0 +1,36 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1109,
+      "end": 113,
+      "file": "/.src/ambiguousGenericAssertion1.ts",
+      "start": 111
+    },
+    {
+      "code": 2304,
+      "end": 117,
+      "file": "/.src/ambiguousGenericAssertion1.ts",
+      "start": 116
+    },
+    {
+      "code": 1005,
+      "end": 118,
+      "file": "/.src/ambiguousGenericAssertion1.ts",
+      "start": 117
+    },
+    {
+      "code": 1005,
+      "end": 121,
+      "file": "/.src/ambiguousGenericAssertion1.ts",
+      "start": 120
+    },
+    {
+      "code": 1005,
+      "end": 124,
+      "file": "/.src/ambiguousGenericAssertion1.ts",
+      "start": 122
+    }
+  ],
+  "path": "compiler/ambiguousGenericAssertion1.ts"
+}

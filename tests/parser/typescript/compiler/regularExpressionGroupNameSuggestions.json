@@ -1,0 +1,25 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1503,
+      "end": 22,
+      "file": "/.src/regularExpressionGroupNameSuggestions.ts",
+      "start": 17
+    },
+    {
+      "code": 1532,
+      "end": 29,
+      "file": "/.src/regularExpressionGroupNameSuggestions.ts",
+      "related": [
+        {
+          "code": 1369,
+          "end": 29,
+          "start": 26
+        }
+      ],
+      "start": 26
+    }
+  ],
+  "path": "compiler/regularExpressionGroupNameSuggestions.ts"
+}

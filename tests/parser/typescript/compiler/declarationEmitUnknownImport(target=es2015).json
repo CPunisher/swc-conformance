@@ -1,0 +1,12 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 32,
+      "file": "/.src/declarationEmitUnknownImport.ts",
+      "start": 13
+    }
+  ],
+  "path": "compiler/declarationEmitUnknownImport.ts"
+}

@@ -1,0 +1,78 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1003,
+      "end": 25,
+      "file": "/.src/type-clause-bad-export.ts",
+      "start": 14
+    },
+    {
+      "code": 1003,
+      "end": 32,
+      "file": "/.src/type-clause-bad-import.ts",
+      "start": 21
+    },
+    {
+      "code": 1003,
+      "end": 25,
+      "file": "/.src/type-clause-no-as.ts",
+      "start": 14
+    },
+    {
+      "code": 1003,
+      "end": 31,
+      "file": "/.src/type-clause-type-as-as.ts",
+      "start": 20
+    },
+    {
+      "code": 1003,
+      "end": 25,
+      "file": "/.src/type-decls-bad-export.ts",
+      "start": 14
+    },
+    {
+      "code": 1003,
+      "end": 32,
+      "file": "/.src/type-decls-bad-import.ts",
+      "start": 21
+    },
+    {
+      "code": 1003,
+      "end": 25,
+      "file": "/.src/type-decls-no-as.ts",
+      "start": 14
+    },
+    {
+      "code": 1003,
+      "end": 33,
+      "file": "/.src/type-decls-type-as.ts",
+      "start": 22
+    },
+    {
+      "code": 1003,
+      "end": 20,
+      "file": "/.src/values-bad-export.ts",
+      "start": 9
+    },
+    {
+      "code": 1003,
+      "end": 27,
+      "file": "/.src/values-bad-import.ts",
+      "start": 16
+    },
+    {
+      "code": 1003,
+      "end": 20,
+      "file": "/.src/values-no-as.ts",
+      "start": 9
+    },
+    {
+      "code": 1003,
+      "end": 28,
+      "file": "/.src/values-type-as.ts",
+      "start": 17
+    }
+  ],
+  "path": "conformance/es2022/arbitraryModuleNamespaceIdentifiers/arbitraryModuleNamespaceIdentifiers_syntax.ts"
+}

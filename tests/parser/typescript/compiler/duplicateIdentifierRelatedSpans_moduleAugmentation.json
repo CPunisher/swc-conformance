@@ -1,0 +1,54 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 14,
+      "file": "/dir/a.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 53,
+          "file": "/dir/b.ts",
+          "start": 52
+        },
+        {
+          "code": 6203,
+          "end": 108,
+          "file": "/dir/b.ts",
+          "start": 107
+        }
+      ],
+      "start": 13
+    },
+    {
+      "code": 2451,
+      "end": 53,
+      "file": "/dir/b.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 14,
+          "file": "/dir/a.ts",
+          "start": 13
+        }
+      ],
+      "start": 52
+    },
+    {
+      "code": 2451,
+      "end": 108,
+      "file": "/dir/b.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 14,
+          "file": "/dir/a.ts",
+          "start": 13
+        }
+      ],
+      "start": 107
+    }
+  ],
+  "path": "compiler/duplicateIdentifierRelatedSpans_moduleAugmentation.ts"
+}

@@ -1,0 +1,30 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1212,
+      "end": 73,
+      "file": "/.src/letInLetDeclarations_ES5.ts",
+      "start": 70
+    },
+    {
+      "code": 2480,
+      "end": 73,
+      "file": "/.src/letInLetDeclarations_ES5.ts",
+      "start": 70
+    },
+    {
+      "code": 1212,
+      "end": 101,
+      "file": "/.src/letInLetDeclarations_ES5.ts",
+      "start": 98
+    },
+    {
+      "code": 2480,
+      "end": 101,
+      "file": "/.src/letInLetDeclarations_ES5.ts",
+      "start": 98
+    }
+  ],
+  "path": "compiler/letInLetDeclarations_ES5.ts"
+}

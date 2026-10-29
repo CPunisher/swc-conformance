@@ -1,0 +1,54 @@
+{
+  "config": "module=node18",
+  "diagnostics": [
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/index.cts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/index.mts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder/index.cts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder/index.mts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder2/another/index.cts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder2/another/index.mts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder2/index.cts",
+      "start": 30
+    },
+    {
+      "code": 7060,
+      "end": 31,
+      "file": "/.src/subfolder2/index.mts",
+      "start": 30
+    }
+  ],
+  "path": "conformance/node/nodeModulesForbidenSyntax.ts"
+}

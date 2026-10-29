@@ -1,0 +1,186 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1103,
+      "end": 110,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 76,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 66
+        }
+      ],
+      "start": 105
+    },
+    {
+      "code": 1308,
+      "end": 142,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 76,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 66
+        }
+      ],
+      "start": 137
+    },
+    {
+      "code": 1103,
+      "end": 211,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 177,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 165
+        }
+      ],
+      "start": 206
+    },
+    {
+      "code": 1308,
+      "end": 243,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 177,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 165
+        }
+      ],
+      "start": 238
+    },
+    {
+      "code": 1103,
+      "end": 319,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 274,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 256
+        }
+      ],
+      "start": 314
+    },
+    {
+      "code": 1308,
+      "end": 344,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 274,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 256
+        }
+      ],
+      "start": 339
+    },
+    {
+      "code": 1103,
+      "end": 406,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 394,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 369
+        }
+      ],
+      "start": 401
+    },
+    {
+      "code": 1308,
+      "end": 438,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 394,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 369
+        }
+      ],
+      "start": 433
+    },
+    {
+      "code": 1103,
+      "end": 503,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 469,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 456
+        }
+      ],
+      "start": 498
+    },
+    {
+      "code": 1308,
+      "end": 534,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 469,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 456
+        }
+      ],
+      "start": 529
+    },
+    {
+      "code": 1103,
+      "end": 604,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "start": 599
+    },
+    {
+      "code": 1308,
+      "end": 631,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "start": 626
+    },
+    {
+      "code": 1103,
+      "end": 681,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 647,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 641
+        }
+      ],
+      "start": 676
+    },
+    {
+      "code": 1308,
+      "end": 708,
+      "file": "/.src/awaitInNonAsyncFunction.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 647,
+          "file": "/.src/awaitInNonAsyncFunction.ts",
+          "start": 641
+        }
+      ],
+      "start": 703
+    }
+  ],
+  "path": "compiler/awaitInNonAsyncFunction.ts"
+}

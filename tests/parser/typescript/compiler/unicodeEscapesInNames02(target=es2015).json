@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1127,
+      "end": 19,
+      "file": "/.src/astralAsSurrogatePair.ts",
+      "start": 18
+    },
+    {
+      "code": 1127,
+      "end": 25,
+      "file": "/.src/astralAsSurrogatePair.ts",
+      "start": 24
+    }
+  ],
+  "path": "compiler/unicodeEscapesInNames02.ts"
+}

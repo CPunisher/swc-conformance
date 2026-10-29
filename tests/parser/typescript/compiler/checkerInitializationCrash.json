@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 96,
+      "file": "/node_modules/@fullcalendar/core/index.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 103,
+          "file": "/node_modules/@fullcalendar/react/index.d.ts",
+          "start": 98
+        }
+      ],
+      "start": 91
+    },
+    {
+      "code": 2300,
+      "end": 103,
+      "file": "/node_modules/@fullcalendar/react/index.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 96,
+          "file": "/node_modules/@fullcalendar/core/index.d.ts",
+          "start": 91
+        }
+      ],
+      "start": 98
+    }
+  ],
+  "path": "compiler/checkerInitializationCrash.ts"
+}

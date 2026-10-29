@@ -1,0 +1,18 @@
+{
+  "config": "target=es2016",
+  "diagnostics": [
+    {
+      "code": 1432,
+      "end": 9,
+      "file": "/.src/modulePreserveTopLevelAwait1.ts",
+      "start": 4
+    },
+    {
+      "code": 1378,
+      "end": 34,
+      "file": "/.src/modulePreserveTopLevelAwait1.ts",
+      "start": 29
+    }
+  ],
+  "path": "compiler/modulePreserveTopLevelAwait1.ts"
+}

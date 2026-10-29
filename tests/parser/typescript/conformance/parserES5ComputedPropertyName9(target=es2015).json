@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 15,
+      "file": "/.src/parserES5ComputedPropertyName9.ts",
+      "start": 14
+    },
+    {
+      "code": 2304,
+      "end": 22,
+      "file": "/.src/parserES5ComputedPropertyName9.ts",
+      "start": 18
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ComputedPropertyNames/parserES5ComputedPropertyName9.ts"
+}

@@ -1,0 +1,230 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 35,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 35,
+          "file": "/.src/file2.ts",
+          "start": 25
+        }
+      ],
+      "start": 25
+    },
+    {
+      "code": 2300,
+      "end": 65,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 61,
+          "file": "/.src/file2.ts",
+          "start": 51
+        }
+      ],
+      "start": 55
+    },
+    {
+      "code": 2300,
+      "end": 95,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 87,
+          "file": "/.src/file2.ts",
+          "start": 77
+        }
+      ],
+      "start": 85
+    },
+    {
+      "code": 2300,
+      "end": 125,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 113,
+          "file": "/.src/file2.ts",
+          "start": 103
+        }
+      ],
+      "start": 115
+    },
+    {
+      "code": 2300,
+      "end": 155,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 139,
+          "file": "/.src/file2.ts",
+          "start": 129
+        }
+      ],
+      "start": 145
+    },
+    {
+      "code": 2300,
+      "end": 185,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 165,
+          "file": "/.src/file2.ts",
+          "start": 155
+        }
+      ],
+      "start": 175
+    },
+    {
+      "code": 2300,
+      "end": 215,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 191,
+          "file": "/.src/file2.ts",
+          "start": 181
+        }
+      ],
+      "start": 205
+    },
+    {
+      "code": 2300,
+      "end": 245,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 217,
+          "file": "/.src/file2.ts",
+          "start": 207
+        }
+      ],
+      "start": 235
+    },
+    {
+      "code": 2300,
+      "end": 35,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 35,
+          "file": "/.src/file1.ts",
+          "start": 25
+        }
+      ],
+      "start": 25
+    },
+    {
+      "code": 2300,
+      "end": 61,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 65,
+          "file": "/.src/file1.ts",
+          "start": 55
+        }
+      ],
+      "start": 51
+    },
+    {
+      "code": 2300,
+      "end": 87,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 95,
+          "file": "/.src/file1.ts",
+          "start": 85
+        }
+      ],
+      "start": 77
+    },
+    {
+      "code": 2300,
+      "end": 113,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 125,
+          "file": "/.src/file1.ts",
+          "start": 115
+        }
+      ],
+      "start": 103
+    },
+    {
+      "code": 2300,
+      "end": 139,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 155,
+          "file": "/.src/file1.ts",
+          "start": 145
+        }
+      ],
+      "start": 129
+    },
+    {
+      "code": 2300,
+      "end": 165,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 185,
+          "file": "/.src/file1.ts",
+          "start": 175
+        }
+      ],
+      "start": 155
+    },
+    {
+      "code": 2300,
+      "end": 191,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 215,
+          "file": "/.src/file1.ts",
+          "start": 205
+        }
+      ],
+      "start": 181
+    },
+    {
+      "code": 2300,
+      "end": 217,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 245,
+          "file": "/.src/file1.ts",
+          "start": 235
+        }
+      ],
+      "start": 207
+    }
+  ],
+  "path": "compiler/duplicateIdentifierRelatedSpans4.ts"
+}

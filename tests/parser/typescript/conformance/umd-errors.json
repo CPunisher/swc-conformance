@@ -1,0 +1,54 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1314,
+      "end": 60,
+      "file": "/.src/err1.d.ts",
+      "start": 36
+    },
+    {
+      "code": 1316,
+      "end": 96,
+      "file": "/.src/err2.d.ts",
+      "start": 72
+    },
+    {
+      "code": 1184,
+      "end": 78,
+      "file": "/.src/err3.d.ts",
+      "start": 47
+    },
+    {
+      "code": 1184,
+      "end": 111,
+      "file": "/.src/err3.d.ts",
+      "start": 79
+    },
+    {
+      "code": 1184,
+      "end": 143,
+      "file": "/.src/err3.d.ts",
+      "start": 112
+    },
+    {
+      "code": 1389,
+      "end": 156,
+      "file": "/.src/err3.d.ts",
+      "start": 150
+    },
+    {
+      "code": 1316,
+      "end": 78,
+      "file": "/.src/err4.d.ts",
+      "start": 55
+    },
+    {
+      "code": 1315,
+      "end": 88,
+      "file": "/.src/err5.ts",
+      "start": 65
+    }
+  ],
+  "path": "conformance/externalModules/umd-errors.ts"
+}

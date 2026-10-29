@@ -1,0 +1,24 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 83,
+      "file": "/.src/asyncGeneratorParameterEvaluation.ts",
+      "start": 82
+    },
+    {
+      "code": 2304,
+      "end": 110,
+      "file": "/.src/asyncGeneratorParameterEvaluation.ts",
+      "start": 109
+    },
+    {
+      "code": 2304,
+      "end": 206,
+      "file": "/.src/asyncGeneratorParameterEvaluation.ts",
+      "start": 205
+    }
+  ],
+  "path": "conformance/asyncGenerators/asyncGeneratorParameterEvaluation.ts"
+}

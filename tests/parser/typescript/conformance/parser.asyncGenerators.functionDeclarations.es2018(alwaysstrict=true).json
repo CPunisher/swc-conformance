@@ -1,0 +1,84 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 2524,
+      "end": 31,
+      "file": "/.src/awaitInParameterInitializerIsError.ts",
+      "start": 24
+    },
+    {
+      "code": 1109,
+      "end": 35,
+      "file": "/.src/awaitMissingValueIsError.ts",
+      "start": 34
+    },
+    {
+      "code": 1359,
+      "end": 25,
+      "file": "/.src/awaitParameterIsError.ts",
+      "start": 20
+    },
+    {
+      "code": 1359,
+      "end": 43,
+      "file": "/.src/nestedFunctionDeclarationNamedAwaitIsError.ts",
+      "start": 38
+    },
+    {
+      "code": 1212,
+      "end": 42,
+      "file": "/.src/nestedFunctionDeclarationNamedYieldIsError.ts",
+      "start": 37
+    },
+    {
+      "code": 1212,
+      "end": 53,
+      "file": "/.src/nestedFunctionExpressionNamedAwaitIsError.ts",
+      "start": 48
+    },
+    {
+      "code": 1212,
+      "end": 53,
+      "file": "/.src/nestedFunctionExpressionNamedYieldIsError.ts",
+      "start": 48
+    },
+    {
+      "code": 1212,
+      "end": 15,
+      "file": "/.src/yieldAsTypeIsOk.ts",
+      "start": 10
+    },
+    {
+      "code": 1212,
+      "end": 60,
+      "file": "/.src/yieldAsTypeIsOk.ts",
+      "start": 55
+    },
+    {
+      "code": 2523,
+      "end": 29,
+      "file": "/.src/yieldInParameterInitializerIsError.ts",
+      "start": 24
+    },
+    {
+      "code": 1212,
+      "end": 22,
+      "file": "/.src/yieldNameIsOk.ts",
+      "start": 17
+    },
+    {
+      "code": 1212,
+      "end": 25,
+      "file": "/.src/yieldParameterIsError.ts",
+      "start": 20
+    },
+    {
+      "code": 1109,
+      "end": 37,
+      "file": "/.src/yieldStarMissingValueIsError.ts",
+      "start": 36
+    }
+  ],
+  "path": "conformance/parser/ecmascript2018/asyncGenerators/parser.asyncGenerators.functionDeclarations.es2018.ts"
+}

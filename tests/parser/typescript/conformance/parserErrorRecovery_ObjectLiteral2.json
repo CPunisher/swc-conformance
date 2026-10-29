@@ -1,0 +1,32 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 18,
+      "file": "/.src/parserErrorRecovery_ObjectLiteral2.ts",
+      "start": 12
+    },
+    {
+      "code": 1005,
+      "end": 19,
+      "file": "/.src/parserErrorRecovery_ObjectLiteral2.ts",
+      "start": 18
+    },
+    {
+      "code": 1005,
+      "end": 19,
+      "file": "/.src/parserErrorRecovery_ObjectLiteral2.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 8,
+          "file": "/.src/parserErrorRecovery_ObjectLiteral2.ts",
+          "start": 8
+        }
+      ],
+      "start": 19
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ObjectLiterals/parserErrorRecovery_ObjectLiteral2.ts"
+}

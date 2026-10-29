@@ -1,0 +1,48 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 19,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 18
+    },
+    {
+      "code": 2300,
+      "end": 45,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 44
+    },
+    {
+      "code": 2300,
+      "end": 93,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 92
+    },
+    {
+      "code": 2300,
+      "end": 111,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 110
+    },
+    {
+      "code": 2300,
+      "end": 219,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 218
+    },
+    {
+      "code": 1118,
+      "end": 272,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 271
+    },
+    {
+      "code": 2300,
+      "end": 272,
+      "file": "/.src/twoAccessorsWithSameName.ts",
+      "start": 271
+    }
+  ],
+  "path": "conformance/classes/propertyMemberDeclarations/twoAccessorsWithSameName.ts"
+}

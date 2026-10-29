@@ -1,0 +1,12 @@
+{
+  "config": "module=esnext",
+  "diagnostics": [
+    {
+      "code": 1262,
+      "end": 57,
+      "file": "/.src/index.ts",
+      "start": 52
+    }
+  ],
+  "path": "conformance/externalModules/topLevelAwaitErrors.7.ts"
+}

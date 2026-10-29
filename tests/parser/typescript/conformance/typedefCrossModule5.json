@@ -1,0 +1,62 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 25,
+      "file": "/.src/mod1.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 9,
+          "file": "/.src/mod2.js",
+          "start": 6
+        }
+      ],
+      "start": 22
+    },
+    {
+      "code": 2451,
+      "end": 38,
+      "file": "/.src/mod1.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 39,
+          "file": "/.src/mod2.js",
+          "start": 36
+        }
+      ],
+      "start": 35
+    },
+    {
+      "code": 2300,
+      "end": 9,
+      "file": "/.src/mod2.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 25,
+          "file": "/.src/mod1.js",
+          "start": 22
+        }
+      ],
+      "start": 6
+    },
+    {
+      "code": 2451,
+      "end": 39,
+      "file": "/.src/mod2.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 38,
+          "file": "/.src/mod1.js",
+          "start": 35
+        }
+      ],
+      "start": 36
+    }
+  ],
+  "path": "conformance/jsdoc/typedefCrossModule5.ts"
+}

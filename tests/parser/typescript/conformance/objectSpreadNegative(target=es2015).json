@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1117,
+      "end": 888,
+      "file": "/.src/objectSpreadNegative.ts",
+      "start": 887
+    },
+    {
+      "code": 1117,
+      "end": 905,
+      "file": "/.src/objectSpreadNegative.ts",
+      "start": 904
+    }
+  ],
+  "path": "conformance/types/spread/objectSpreadNegative.ts"
+}

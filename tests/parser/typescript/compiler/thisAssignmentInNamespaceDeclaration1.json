@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 8006,
+      "end": 13,
+      "file": "/.src/a.js",
+      "start": 10
+    },
+    {
+      "code": 8006,
+      "end": 14,
+      "file": "/.src/b.js",
+      "start": 10
+    }
+  ],
+  "path": "compiler/thisAssignmentInNamespaceDeclaration1.ts"
+}

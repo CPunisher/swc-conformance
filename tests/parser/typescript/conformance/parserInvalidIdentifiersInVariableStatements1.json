@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1389,
+      "end": 10,
+      "file": "/.src/parserInvalidIdentifiersInVariableStatements1.ts",
+      "start": 4
+    },
+    {
+      "code": 1389,
+      "end": 30,
+      "file": "/.src/parserInvalidIdentifiersInVariableStatements1.ts",
+      "start": 25
+    },
+    {
+      "code": 1005,
+      "end": 31,
+      "file": "/.src/parserInvalidIdentifiersInVariableStatements1.ts",
+      "start": 30
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/VariableLists/parserInvalidIdentifiersInVariableStatements1.ts"
+}

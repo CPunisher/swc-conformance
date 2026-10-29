@@ -1,0 +1,72 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 34,
+      "file": "/.src/foo1.ts",
+      "start": 33
+    },
+    {
+      "code": 2300,
+      "end": 46,
+      "file": "/.src/foo1.ts",
+      "start": 45
+    },
+    {
+      "code": 2300,
+      "end": 34,
+      "file": "/.src/foo2.ts",
+      "start": 33
+    },
+    {
+      "code": 2300,
+      "end": 46,
+      "file": "/.src/foo2.ts",
+      "start": 45
+    },
+    {
+      "code": 2300,
+      "end": 70,
+      "file": "/.src/foo3.ts",
+      "start": 69
+    },
+    {
+      "code": 2300,
+      "end": 82,
+      "file": "/.src/foo3.ts",
+      "start": 81
+    },
+    {
+      "code": 2300,
+      "end": 10,
+      "file": "/.src/foo4.ts",
+      "start": 9
+    },
+    {
+      "code": 2300,
+      "end": 78,
+      "file": "/.src/foo4.ts",
+      "start": 77
+    },
+    {
+      "code": 2300,
+      "end": 49,
+      "file": "/.src/foo5.ts",
+      "start": 48
+    },
+    {
+      "code": 2300,
+      "end": 61,
+      "file": "/.src/foo5.ts",
+      "start": 60
+    },
+    {
+      "code": 2300,
+      "end": 73,
+      "file": "/.src/foo5.ts",
+      "start": 72
+    }
+  ],
+  "path": "conformance/externalModules/duplicateExportAssignments.ts"
+}

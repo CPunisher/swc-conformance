@@ -1,0 +1,30 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1038,
+      "end": 33,
+      "file": "/.src/declFile.d.ts",
+      "start": 26
+    },
+    {
+      "code": 1038,
+      "end": 52,
+      "file": "/.src/declFile.d.ts",
+      "start": 45
+    },
+    {
+      "code": 1038,
+      "end": 79,
+      "file": "/.src/declFile.d.ts",
+      "start": 72
+    },
+    {
+      "code": 1038,
+      "end": 108,
+      "file": "/.src/declFile.d.ts",
+      "start": 101
+    }
+  ],
+  "path": "compiler/declFileWithErrorsInInputDeclarationFile.ts"
+}

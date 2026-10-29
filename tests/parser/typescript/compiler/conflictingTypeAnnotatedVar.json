@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 7,
+      "file": "/.src/conflictingTypeAnnotatedVar.ts",
+      "start": 4
+    },
+    {
+      "code": 2300,
+      "end": 29,
+      "file": "/.src/conflictingTypeAnnotatedVar.ts",
+      "start": 26
+    },
+    {
+      "code": 2300,
+      "end": 56,
+      "file": "/.src/conflictingTypeAnnotatedVar.ts",
+      "start": 53
+    }
+  ],
+  "path": "compiler/conflictingTypeAnnotatedVar.ts"
+}

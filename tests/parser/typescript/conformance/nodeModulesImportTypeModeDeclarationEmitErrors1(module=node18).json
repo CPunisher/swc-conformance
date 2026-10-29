@@ -1,0 +1,384 @@
+{
+  "config": "module=node18",
+  "diagnostics": [
+    {
+      "code": 1453,
+      "end": 85,
+      "file": "/index.ts",
+      "start": 77
+    },
+    {
+      "code": 1453,
+      "end": 269,
+      "file": "/index.ts",
+      "start": 261
+    },
+    {
+      "code": 1005,
+      "end": 86,
+      "file": "/other.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 68,
+          "file": "/other.ts",
+          "start": 68
+        }
+      ],
+      "start": 69
+    },
+    {
+      "code": 1005,
+      "end": 87,
+      "file": "/other.ts",
+      "start": 86
+    },
+    {
+      "code": 1128,
+      "end": 98,
+      "file": "/other.ts",
+      "start": 97
+    },
+    {
+      "code": 1128,
+      "end": 99,
+      "file": "/other.ts",
+      "start": 98
+    },
+    {
+      "code": 1128,
+      "end": 100,
+      "file": "/other.ts",
+      "start": 99
+    },
+    {
+      "code": 2304,
+      "end": 116,
+      "file": "/other.ts",
+      "start": 100
+    },
+    {
+      "code": 1005,
+      "end": 251,
+      "file": "/other.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 233,
+          "file": "/other.ts",
+          "start": 233
+        }
+      ],
+      "start": 234
+    },
+    {
+      "code": 1005,
+      "end": 252,
+      "file": "/other.ts",
+      "start": 251
+    },
+    {
+      "code": 1128,
+      "end": 263,
+      "file": "/other.ts",
+      "start": 262
+    },
+    {
+      "code": 1128,
+      "end": 264,
+      "file": "/other.ts",
+      "start": 263
+    },
+    {
+      "code": 1128,
+      "end": 265,
+      "file": "/other.ts",
+      "start": 264
+    },
+    {
+      "code": 1434,
+      "end": 281,
+      "file": "/other.ts",
+      "start": 265
+    },
+    {
+      "code": 2304,
+      "end": 281,
+      "file": "/other.ts",
+      "start": 265
+    },
+    {
+      "code": 1128,
+      "end": 282,
+      "file": "/other.ts",
+      "start": 281
+    },
+    {
+      "code": 1005,
+      "end": 349,
+      "file": "/other.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 331,
+          "file": "/other.ts",
+          "start": 331
+        }
+      ],
+      "start": 332
+    },
+    {
+      "code": 1005,
+      "end": 350,
+      "file": "/other.ts",
+      "start": 349
+    },
+    {
+      "code": 1128,
+      "end": 360,
+      "file": "/other.ts",
+      "start": 359
+    },
+    {
+      "code": 1128,
+      "end": 361,
+      "file": "/other.ts",
+      "start": 360
+    },
+    {
+      "code": 1128,
+      "end": 362,
+      "file": "/other.ts",
+      "start": 361
+    },
+    {
+      "code": 1434,
+      "end": 377,
+      "file": "/other.ts",
+      "start": 362
+    },
+    {
+      "code": 2304,
+      "end": 377,
+      "file": "/other.ts",
+      "start": 362
+    },
+    {
+      "code": 1128,
+      "end": 378,
+      "file": "/other.ts",
+      "start": 377
+    },
+    {
+      "code": 2880,
+      "end": 80,
+      "file": "/other2.ts",
+      "start": 74
+    },
+    {
+      "code": 2880,
+      "end": 149,
+      "file": "/other2.ts",
+      "start": 143
+    },
+    {
+      "code": 2880,
+      "end": 245,
+      "file": "/other2.ts",
+      "start": 239
+    },
+    {
+      "code": 2880,
+      "end": 343,
+      "file": "/other2.ts",
+      "start": 337
+    },
+    {
+      "code": 1005,
+      "end": 85,
+      "file": "/other3.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 84,
+          "file": "/other3.ts",
+          "start": 84
+        }
+      ],
+      "start": 84
+    },
+    {
+      "code": 1005,
+      "end": 119,
+      "file": "/other3.ts",
+      "start": 118
+    },
+    {
+      "code": 1128,
+      "end": 120,
+      "file": "/other3.ts",
+      "start": 119
+    },
+    {
+      "code": 2304,
+      "end": 136,
+      "file": "/other3.ts",
+      "start": 120
+    },
+    {
+      "code": 1005,
+      "end": 258,
+      "file": "/other3.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 257,
+          "file": "/other3.ts",
+          "start": 257
+        }
+      ],
+      "start": 257
+    },
+    {
+      "code": 1005,
+      "end": 310,
+      "file": "/other3.ts",
+      "start": 309
+    },
+    {
+      "code": 1005,
+      "end": 360,
+      "file": "/other3.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 359,
+          "file": "/other3.ts",
+          "start": 359
+        }
+      ],
+      "start": 359
+    },
+    {
+      "code": 1005,
+      "end": 410,
+      "file": "/other3.ts",
+      "start": 409
+    },
+    {
+      "code": 1005,
+      "end": 229,
+      "file": "/other4.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 221,
+          "file": "/other4.ts",
+          "start": 221
+        }
+      ],
+      "start": 221
+    },
+    {
+      "code": 1128,
+      "end": 230,
+      "file": "/other4.ts",
+      "start": 229
+    },
+    {
+      "code": 1128,
+      "end": 231,
+      "file": "/other4.ts",
+      "start": 230
+    },
+    {
+      "code": 1005,
+      "end": 351,
+      "file": "/other4.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 343,
+          "file": "/other4.ts",
+          "start": 343
+        }
+      ],
+      "start": 343
+    },
+    {
+      "code": 1005,
+      "end": 352,
+      "file": "/other4.ts",
+      "start": 351
+    },
+    {
+      "code": 1134,
+      "end": 353,
+      "file": "/other4.ts",
+      "start": 352
+    },
+    {
+      "code": 1005,
+      "end": 370,
+      "file": "/other4.ts",
+      "start": 369
+    },
+    {
+      "code": 1005,
+      "end": 427,
+      "file": "/other4.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 419,
+          "file": "/other4.ts",
+          "start": 419
+        }
+      ],
+      "start": 419
+    },
+    {
+      "code": 1005,
+      "end": 428,
+      "file": "/other4.ts",
+      "start": 427
+    },
+    {
+      "code": 1134,
+      "end": 429,
+      "file": "/other4.ts",
+      "start": 428
+    },
+    {
+      "code": 1005,
+      "end": 445,
+      "file": "/other4.ts",
+      "start": 444
+    },
+    {
+      "code": 2880,
+      "end": 57,
+      "file": "/other5.ts",
+      "start": 51
+    },
+    {
+      "code": 2880,
+      "end": 110,
+      "file": "/other5.ts",
+      "start": 104
+    },
+    {
+      "code": 2880,
+      "end": 191,
+      "file": "/other5.ts",
+      "start": 185
+    },
+    {
+      "code": 2880,
+      "end": 273,
+      "file": "/other5.ts",
+      "start": 267
+    }
+  ],
+  "path": "conformance/node/nodeModulesImportTypeModeDeclarationEmitErrors1.ts"
+}

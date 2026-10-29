@@ -1,0 +1,24 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 15,
+      "file": "/.src/declarationEmitUnknownImport2.ts",
+      "start": 11
+    },
+    {
+      "code": 2304,
+      "end": 15,
+      "file": "/.src/declarationEmitUnknownImport2.ts",
+      "start": 11
+    },
+    {
+      "code": 1005,
+      "end": 23,
+      "file": "/.src/declarationEmitUnknownImport2.ts",
+      "start": 16
+    }
+  ],
+  "path": "compiler/declarationEmitUnknownImport2.ts"
+}

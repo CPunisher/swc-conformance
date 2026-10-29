@@ -1,0 +1,38 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 330,
+      "file": "/.src/b.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 296,
+          "file": "/.src/b.ts",
+          "start": 296
+        }
+      ],
+      "start": 329
+    },
+    {
+      "code": 1128,
+      "end": 332,
+      "file": "/.src/b.ts",
+      "start": 331
+    },
+    {
+      "code": 1128,
+      "end": 333,
+      "file": "/.src/b.ts",
+      "start": 332
+    },
+    {
+      "code": 1478,
+      "end": 412,
+      "file": "/.src/b.ts",
+      "start": 411
+    }
+  ],
+  "path": "conformance/importAttributes/importAttributes10.ts"
+}

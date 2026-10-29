@@ -1,0 +1,26 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1042,
+      "end": 19,
+      "file": "/.src/a.ts",
+      "start": 14
+    },
+    {
+      "code": 1103,
+      "end": 47,
+      "file": "/.src/a.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 25,
+          "file": "/.src/a.ts",
+          "start": 24
+        }
+      ],
+      "start": 42
+    }
+  ],
+  "path": "compiler/forAwaitInAsyncAccessor.ts"
+}

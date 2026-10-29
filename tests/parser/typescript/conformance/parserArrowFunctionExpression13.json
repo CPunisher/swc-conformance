@@ -1,0 +1,36 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 1,
+      "file": "/.src/fileJs.js",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 11,
+      "file": "/.src/fileJs.js",
+      "start": 10
+    },
+    {
+      "code": 8010,
+      "end": 23,
+      "file": "/.src/fileJs.js",
+      "start": 20
+    },
+    {
+      "code": 2304,
+      "end": 1,
+      "file": "/.src/fileTs.ts",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 11,
+      "file": "/.src/fileTs.ts",
+      "start": 10
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ArrowFunctionExpressions/parserArrowFunctionExpression13.ts"
+}

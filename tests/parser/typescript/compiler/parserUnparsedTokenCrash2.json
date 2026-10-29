@@ -1,0 +1,56 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1109,
+      "end": 10,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 9
+    },
+    {
+      "code": 2304,
+      "end": 12,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 11
+    },
+    {
+      "code": 2304,
+      "end": 18,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 17
+    },
+    {
+      "code": 2304,
+      "end": 22,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 21
+    },
+    {
+      "code": 1109,
+      "end": 27,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 26
+    },
+    {
+      "code": 1005,
+      "end": 39,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "start": 38
+    },
+    {
+      "code": 1005,
+      "end": 42,
+      "file": "/.src/parserUnparsedTokenCrash2.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 40,
+          "file": "/.src/parserUnparsedTokenCrash2.ts",
+          "start": 40
+        }
+      ],
+      "start": 42
+    }
+  ],
+  "path": "compiler/parserUnparsedTokenCrash2.ts"
+}

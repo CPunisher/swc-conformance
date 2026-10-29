@@ -1,12 +1,15 @@
-use std::error::Error;
+use std::{error::Error, fs, path::PathBuf};
 
 use clap::{Parser, Subcommand};
 
-pub mod parser;
-pub mod resolver;
+mod case;
+mod files;
+mod runner;
+
+type Result<T> = std::result::Result<T, Box<dyn Error>>;
 
 #[derive(Parser)]
-#[command(about = "Generate SWC conformance snapshots")]
+#[command(about = "Generate conformance snapshots")]
 struct Cli {
     #[command(subcommand)]
     command: Command,
@@ -14,27 +17,32 @@ struct Cli {
 
 #[derive(Subcommand)]
 enum Command {
-    Parser,
-    Resolver,
+    Swc,
+    V8,
+    Tsrs,
 }
 
-#[derive(Clone, Copy)]
-struct FixtureSet {
-    input: &'static str,
-    output: &'static str,
-    extensions: &'static [&'static str],
-    file_name: Option<&'static str>,
-    jsx: bool,
-    test262: bool,
-}
-
-fn main() -> Result<(), Box<dyn Error>> {
-    match Cli::parse().command {
-        Command::Parser => parser::run(),
-        Command::Resolver => resolver::run(),
+fn main() -> Result<()> {
+    let (directory, output) = match Cli::parse().command {
+        Command::Swc => ("tests/resolver", runner::swc::run()?),
+        Command::V8 => ("tests/parser/test262", runner::v8::run()?),
+        Command::Tsrs => ("tests/parser/typescript", runner::tsrs::run()?),
+    };
+    let root = workspace_root().join(directory);
+    if root.exists() {
+        fs::remove_dir_all(&root)?;
     }
+    fs::create_dir_all(&root)?;
+    let count = output.len();
+    for (path, value) in output {
+        let path = root.join(path);
+        fs::create_dir_all(path.parent().unwrap())?;
+        fs::write(path, serde_json::to_vec_pretty(&value)?)?;
+    }
+    println!("{directory}: updated {count}");
+    Ok(())
 }
 
-fn workspace_root() -> std::path::PathBuf {
-    std::path::Path::new(env!("CARGO_MANIFEST_DIR")).to_path_buf()
+fn workspace_root() -> PathBuf {
+    PathBuf::from(env!("CARGO_MANIFEST_DIR"))
 }

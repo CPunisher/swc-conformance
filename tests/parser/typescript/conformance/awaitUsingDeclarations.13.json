@@ -1,0 +1,26 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2853,
+      "end": 5,
+      "file": "/.src/awaitUsingDeclarations.13.ts",
+      "start": 0
+    },
+    {
+      "code": 2852,
+      "end": 47,
+      "file": "/.src/awaitUsingDeclarations.13.ts",
+      "related": [
+        {
+          "code": 1356,
+          "end": 33,
+          "file": "/.src/awaitUsingDeclarations.13.ts",
+          "start": 32
+        }
+      ],
+      "start": 42
+    }
+  ],
+  "path": "conformance/statements/VariableStatements/usingDeclarations/awaitUsingDeclarations.13.ts"
+}

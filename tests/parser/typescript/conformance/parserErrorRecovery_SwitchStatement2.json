@@ -1,0 +1,32 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 41,
+      "file": "/.src/parserErrorRecovery_SwitchStatement2.ts",
+      "start": 40
+    },
+    {
+      "code": 1130,
+      "end": 51,
+      "file": "/.src/parserErrorRecovery_SwitchStatement2.ts",
+      "start": 46
+    },
+    {
+      "code": 1005,
+      "end": 57,
+      "file": "/.src/parserErrorRecovery_SwitchStatement2.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 26,
+          "file": "/.src/parserErrorRecovery_SwitchStatement2.ts",
+          "start": 26
+        }
+      ],
+      "start": 57
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/SwitchStatements/parserErrorRecovery_SwitchStatement2.ts"
+}

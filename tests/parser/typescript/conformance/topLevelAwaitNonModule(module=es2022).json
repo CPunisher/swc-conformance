@@ -1,0 +1,24 @@
+{
+  "config": "module=es2022",
+  "diagnostics": [
+    {
+      "code": 1375,
+      "end": 5,
+      "file": "/.src/topLevelAwaitNonModule.ts",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 7,
+      "file": "/.src/topLevelAwaitNonModule.ts",
+      "start": 6
+    },
+    {
+      "code": 1431,
+      "end": 53,
+      "file": "/.src/topLevelAwaitNonModule.ts",
+      "start": 48
+    }
+  ],
+  "path": "conformance/externalModules/topLevelAwaitNonModule.ts"
+}

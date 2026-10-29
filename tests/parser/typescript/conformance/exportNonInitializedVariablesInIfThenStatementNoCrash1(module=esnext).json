@@ -1,0 +1,24 @@
+{
+  "config": "module=esnext",
+  "diagnostics": [
+    {
+      "code": 1184,
+      "end": 73,
+      "file": "/.src/exportNonInitializedVariablesInIfThenStatementNoCrash1.ts",
+      "start": 67
+    },
+    {
+      "code": 1155,
+      "end": 90,
+      "file": "/.src/exportNonInitializedVariablesInIfThenStatementNoCrash1.ts",
+      "start": 80
+    },
+    {
+      "code": 2304,
+      "end": 102,
+      "file": "/.src/exportNonInitializedVariablesInIfThenStatementNoCrash1.ts",
+      "start": 92
+    }
+  ],
+  "path": "conformance/externalModules/exportNonInitializedVariablesInIfThenStatementNoCrash1.ts"
+}

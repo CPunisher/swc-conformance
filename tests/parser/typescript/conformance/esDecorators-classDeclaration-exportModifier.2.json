@@ -1,0 +1,82 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1434,
+      "end": 17,
+      "file": "/.src/file13.ts",
+      "start": 9
+    },
+    {
+      "code": 2304,
+      "end": 17,
+      "file": "/.src/file13.ts",
+      "start": 9
+    },
+    {
+      "code": 1128,
+      "end": 15,
+      "file": "/.src/file14.ts",
+      "start": 9
+    },
+    {
+      "code": 1434,
+      "end": 24,
+      "file": "/.src/file14.ts",
+      "start": 16
+    },
+    {
+      "code": 2304,
+      "end": 24,
+      "file": "/.src/file14.ts",
+      "start": 16
+    },
+    {
+      "code": 2304,
+      "end": 32,
+      "file": "/.src/file15.ts",
+      "start": 24
+    },
+    {
+      "code": 1005,
+      "end": 34,
+      "file": "/.src/file15.ts",
+      "start": 33
+    },
+    {
+      "code": 1206,
+      "end": 20,
+      "file": "/.src/file3.ts",
+      "start": 16
+    },
+    {
+      "code": 8038,
+      "end": 25,
+      "file": "/.src/file6.ts",
+      "related": [
+        {
+          "code": 1486,
+          "end": 13,
+          "file": "/.src/file6.ts",
+          "start": 9
+        }
+      ],
+      "start": 21
+    },
+    {
+      "code": 8038,
+      "end": 33,
+      "file": "/.src/file7.ts",
+      "related": [
+        {
+          "code": 1486,
+          "end": 13,
+          "file": "/.src/file7.ts",
+          "start": 9
+        }
+      ],
+      "start": 29
+    }
+  ],
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-exportModifier.2.ts"
+}

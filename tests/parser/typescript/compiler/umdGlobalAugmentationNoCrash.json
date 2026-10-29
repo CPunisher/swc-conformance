@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 32,
+      "file": "/.src/global.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 25,
+          "file": "/.src/module.d.ts",
+          "start": 20
+        }
+      ],
+      "start": 27
+    },
+    {
+      "code": 2451,
+      "end": 25,
+      "file": "/.src/module.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 32,
+          "file": "/.src/global.d.ts",
+          "start": 27
+        }
+      ],
+      "start": 20
+    }
+  ],
+  "path": "compiler/umdGlobalAugmentationNoCrash.ts"
+}

@@ -1,0 +1,96 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2567,
+      "end": 12,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 5
+    },
+    {
+      "code": 2300,
+      "end": 40,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 37
+    },
+    {
+      "code": 2300,
+      "end": 64,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 58
+    },
+    {
+      "code": 1005,
+      "end": 100,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 99
+    },
+    {
+      "code": 2567,
+      "end": 175,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "related": [
+        {
+          "code": 1369,
+          "end": 175,
+          "file": "/.src/exportDeclaration_missingBraces.ts",
+          "start": 168
+        }
+      ],
+      "start": 168
+    },
+    {
+      "code": 1005,
+      "end": 176,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 175
+    },
+    {
+      "code": 2300,
+      "end": 192,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "related": [
+        {
+          "code": 1369,
+          "end": 192,
+          "file": "/.src/exportDeclaration_missingBraces.ts",
+          "start": 189
+        }
+      ],
+      "start": 189
+    },
+    {
+      "code": 1005,
+      "end": 193,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 192
+    },
+    {
+      "code": 2300,
+      "end": 212,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "related": [
+        {
+          "code": 1369,
+          "end": 212,
+          "file": "/.src/exportDeclaration_missingBraces.ts",
+          "start": 206
+        }
+      ],
+      "start": 206
+    },
+    {
+      "code": 1005,
+      "end": 213,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 212
+    },
+    {
+      "code": 1005,
+      "end": 229,
+      "file": "/.src/exportDeclaration_missingBraces.ts",
+      "start": 228
+    }
+  ],
+  "path": "conformance/externalModules/typeOnly/exportDeclaration_missingBraces.ts"
+}

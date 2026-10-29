@@ -1,0 +1,30 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1101,
+      "end": 192,
+      "file": "/.src/constDeclarations-validContexts.ts",
+      "start": 188
+    },
+    {
+      "code": 1344,
+      "end": 337,
+      "file": "/.src/constDeclarations-validContexts.ts",
+      "start": 332
+    },
+    {
+      "code": 1344,
+      "end": 398,
+      "file": "/.src/constDeclarations-validContexts.ts",
+      "start": 392
+    },
+    {
+      "code": 1344,
+      "end": 731,
+      "file": "/.src/constDeclarations-validContexts.ts",
+      "start": 724
+    }
+  ],
+  "path": "compiler/constDeclarations-validContexts.ts"
+}

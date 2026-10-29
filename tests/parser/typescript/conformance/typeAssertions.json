@@ -1,0 +1,70 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 1086,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1084
+    },
+    {
+      "code": 2304,
+      "end": 1086,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1084
+    },
+    {
+      "code": 1005,
+      "end": 1093,
+      "file": "/.src/typeAssertions.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 1073,
+          "file": "/.src/typeAssertions.ts",
+          "start": 1073
+        }
+      ],
+      "start": 1087
+    },
+    {
+      "code": 1005,
+      "end": 1119,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1118
+    },
+    {
+      "code": 1005,
+      "end": 1225,
+      "file": "/.src/typeAssertions.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 1185,
+          "file": "/.src/typeAssertions.ts",
+          "start": 1185
+        }
+      ],
+      "start": 1223
+    },
+    {
+      "code": 2304,
+      "end": 1225,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1223
+    },
+    {
+      "code": 1434,
+      "end": 1232,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1226
+    },
+    {
+      "code": 1128,
+      "end": 1233,
+      "file": "/.src/typeAssertions.ts",
+      "start": 1232
+    }
+  ],
+  "path": "conformance/expressions/typeAssertions/typeAssertions.ts"
+}

@@ -1,0 +1,30 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1228,
+      "end": 165,
+      "file": "/.src/typeGuardOfFormThisMemberErrors.ts",
+      "start": 141
+    },
+    {
+      "code": 1228,
+      "end": 195,
+      "file": "/.src/typeGuardOfFormThisMemberErrors.ts",
+      "start": 183
+    },
+    {
+      "code": 1228,
+      "end": 309,
+      "file": "/.src/typeGuardOfFormThisMemberErrors.ts",
+      "start": 292
+    },
+    {
+      "code": 1228,
+      "end": 394,
+      "file": "/.src/typeGuardOfFormThisMemberErrors.ts",
+      "start": 368
+    }
+  ],
+  "path": "conformance/expressions/typeGuards/typeGuardOfFormThisMemberErrors.ts"
+}

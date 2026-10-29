@@ -1,0 +1,12 @@
+{
+  "config": "module=node18",
+  "diagnostics": [
+    {
+      "code": 1216,
+      "end": 100,
+      "file": "/.src/subfolder/index.ts",
+      "start": 90
+    }
+  ],
+  "path": "conformance/node/nodeModulesGeneratedNameCollisions.ts"
+}

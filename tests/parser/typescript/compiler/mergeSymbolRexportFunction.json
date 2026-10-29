@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 43,
+      "file": "/.src/a.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 16,
+          "file": "/.src/index.d.ts",
+          "start": 13
+        }
+      ],
+      "start": 40
+    },
+    {
+      "code": 2451,
+      "end": 16,
+      "file": "/.src/index.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 43,
+          "file": "/.src/a.d.ts",
+          "start": 40
+        }
+      ],
+      "start": 13
+    }
+  ],
+  "path": "compiler/mergeSymbolRexportFunction.ts"
+}

@@ -1,0 +1,114 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1003,
+      "end": 26,
+      "file": "/.src/mod1.js",
+      "start": 25
+    },
+    {
+      "code": 2300,
+      "end": 26,
+      "file": "/.src/mod1.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 72,
+          "file": "/.src/mod3.js",
+          "start": 72
+        },
+        {
+          "code": 6203,
+          "end": 72,
+          "file": "/.src/mod4.js",
+          "start": 72
+        }
+      ],
+      "start": 26
+    },
+    {
+      "code": 1005,
+      "end": 27,
+      "file": "/.src/mod1.js",
+      "start": 26
+    },
+    {
+      "code": 1003,
+      "end": 72,
+      "file": "/.src/mod3.js",
+      "start": 71
+    },
+    {
+      "code": 2300,
+      "end": 72,
+      "file": "/.src/mod3.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 26,
+          "file": "/.src/mod1.js",
+          "start": 26
+        }
+      ],
+      "start": 72
+    },
+    {
+      "code": 1005,
+      "end": 73,
+      "file": "/.src/mod3.js",
+      "start": 72
+    },
+    {
+      "code": 2304,
+      "end": 229,
+      "file": "/.src/mod3.js",
+      "start": 214
+    },
+    {
+      "code": 1003,
+      "end": 72,
+      "file": "/.src/mod4.js",
+      "start": 71
+    },
+    {
+      "code": 2300,
+      "end": 72,
+      "file": "/.src/mod4.js",
+      "related": [
+        {
+          "code": 6203,
+          "end": 26,
+          "file": "/.src/mod1.js",
+          "start": 26
+        }
+      ],
+      "start": 72
+    },
+    {
+      "code": 1005,
+      "end": 73,
+      "file": "/.src/mod4.js",
+      "start": 72
+    },
+    {
+      "code": 2304,
+      "end": 234,
+      "file": "/.src/mod4.js",
+      "start": 219
+    },
+    {
+      "code": 1110,
+      "end": 116,
+      "file": "/.src/mod7.js",
+      "start": 115
+    },
+    {
+      "code": 1110,
+      "end": 138,
+      "file": "/.src/mod7.js",
+      "start": 137
+    }
+  ],
+  "path": "conformance/jsdoc/typedefTagWrapping.ts"
+}

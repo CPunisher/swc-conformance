@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2880,
+      "end": 133,
+      "file": "/a.ts",
+      "start": 127
+    },
+    {
+      "code": 2880,
+      "end": 42,
+      "file": "/b.ts",
+      "start": 36
+    },
+    {
+      "code": 2880,
+      "end": 56,
+      "file": "/c.ts",
+      "start": 50
+    }
+  ],
+  "path": "compiler/importAssertionsDeprecatedIgnored.ts"
+}

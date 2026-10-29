@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 61,
+      "file": "/.src/global.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 101,
+          "file": "/.src/global.d.ts",
+          "start": 96
+        }
+      ],
+      "start": 56
+    },
+    {
+      "code": 2451,
+      "end": 101,
+      "file": "/.src/global.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 61,
+          "file": "/.src/global.d.ts",
+          "start": 56
+        }
+      ],
+      "start": 96
+    }
+  ],
+  "path": "compiler/checkMergedGlobalUMDSymbol.ts"
+}

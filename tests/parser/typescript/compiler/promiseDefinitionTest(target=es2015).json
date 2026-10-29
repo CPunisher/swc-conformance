@@ -1,0 +1,38 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 13,
+      "file": "/.src/promiseDefinitionTest.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 71838,
+          "file": "bundled:///libs/lib.es5.d.ts",
+          "start": 71831
+        },
+        {
+          "code": 6204,
+          "end": 6843,
+          "file": "bundled:///libs/lib.es2015.iterable.d.ts",
+          "start": 6836
+        },
+        {
+          "code": 6204,
+          "end": 3139,
+          "file": "bundled:///libs/lib.es2015.promise.d.ts",
+          "start": 3132
+        },
+        {
+          "code": 6204,
+          "end": 5262,
+          "file": "bundled:///libs/lib.es2015.symbol.wellknown.d.ts",
+          "start": 5255
+        }
+      ],
+      "start": 6
+    }
+  ],
+  "path": "compiler/promiseDefinitionTest.ts"
+}

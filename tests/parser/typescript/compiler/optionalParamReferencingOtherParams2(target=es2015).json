@@ -1,0 +1,12 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 40,
+      "file": "/.src/optionalParamReferencingOtherParams2.ts",
+      "start": 39
+    }
+  ],
+  "path": "compiler/optionalParamReferencingOtherParams2.ts"
+}

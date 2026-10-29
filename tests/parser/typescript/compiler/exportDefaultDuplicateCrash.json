@@ -1,0 +1,54 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 17,
+      "file": "/.src/exportDefaultDuplicateCrash.ts",
+      "related": [
+        {
+          "code": 2753,
+          "end": 95,
+          "file": "/.src/exportDefaultDuplicateCrash.ts",
+          "start": 88
+        }
+      ],
+      "start": 11
+    },
+    {
+      "code": 2528,
+      "end": 58,
+      "file": "/.src/exportDefaultDuplicateCrash.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 95,
+          "file": "/.src/exportDefaultDuplicateCrash.ts",
+          "start": 88
+        }
+      ],
+      "start": 51
+    },
+    {
+      "code": 2528,
+      "end": 95,
+      "file": "/.src/exportDefaultDuplicateCrash.ts",
+      "related": [
+        {
+          "code": 2752,
+          "end": 17,
+          "file": "/.src/exportDefaultDuplicateCrash.ts",
+          "start": 11
+        },
+        {
+          "code": 2752,
+          "end": 58,
+          "file": "/.src/exportDefaultDuplicateCrash.ts",
+          "start": 51
+        }
+      ],
+      "start": 88
+    }
+  ],
+  "path": "compiler/exportDefaultDuplicateCrash.ts"
+}

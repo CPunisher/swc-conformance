@@ -1,0 +1,48 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1260,
+      "end": 65,
+      "file": "/.src/file1.ts",
+      "start": 55
+    },
+    {
+      "code": 1260,
+      "end": 142,
+      "file": "/.src/file1.ts",
+      "start": 132
+    },
+    {
+      "code": 1260,
+      "end": 196,
+      "file": "/.src/file1.ts",
+      "start": 187
+    },
+    {
+      "code": 1260,
+      "end": 10,
+      "file": "/.src/file2.ts",
+      "start": 0
+    },
+    {
+      "code": 1260,
+      "end": 104,
+      "file": "/.src/file2.ts",
+      "start": 92
+    },
+    {
+      "code": 1260,
+      "end": 185,
+      "file": "/.src/file2.ts",
+      "start": 173
+    },
+    {
+      "code": 1260,
+      "end": 243,
+      "file": "/.src/file2.ts",
+      "start": 232
+    }
+  ],
+  "path": "conformance/scanner/ecmascript5/scannerUnicodeEscapeInKeyword2.ts"
+}

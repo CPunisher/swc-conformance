@@ -1,0 +1,18 @@
+{
+  "config": "module=node20",
+  "diagnostics": [
+    {
+      "code": 1453,
+      "end": 47,
+      "file": "/index.ts",
+      "start": 44
+    },
+    {
+      "code": 2304,
+      "end": 54,
+      "file": "/index.ts",
+      "start": 51
+    }
+  ],
+  "path": "conformance/node/nodeModulesTripleSlashReferenceModeOverrideModeError.ts"
+}

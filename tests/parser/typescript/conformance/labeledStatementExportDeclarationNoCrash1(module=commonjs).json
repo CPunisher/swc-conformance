@@ -1,0 +1,30 @@
+{
+  "config": "module=commonjs",
+  "diagnostics": [
+    {
+      "code": 1155,
+      "end": 73,
+      "file": "/.src/labeledStatementExportDeclarationNoCrash1.ts",
+      "start": 70
+    },
+    {
+      "code": 1344,
+      "end": 90,
+      "file": "/.src/labeledStatementExportDeclarationNoCrash1.ts",
+      "start": 82
+    },
+    {
+      "code": 1184,
+      "end": 98,
+      "file": "/.src/labeledStatementExportDeclarationNoCrash1.ts",
+      "start": 92
+    },
+    {
+      "code": 1155,
+      "end": 110,
+      "file": "/.src/labeledStatementExportDeclarationNoCrash1.ts",
+      "start": 105
+    }
+  ],
+  "path": "conformance/statements/labeledStatements/labeledStatementExportDeclarationNoCrash1.ts"
+}

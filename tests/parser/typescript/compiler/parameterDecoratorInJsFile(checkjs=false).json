@@ -1,0 +1,12 @@
+{
+  "config": "checkjs=false",
+  "diagnostics": [
+    {
+      "code": 1206,
+      "end": 64,
+      "file": "/.src/a.js",
+      "start": 60
+    }
+  ],
+  "path": "compiler/parameterDecoratorInJsFile.ts"
+}

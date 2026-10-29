@@ -1,0 +1,90 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 12,
+      "file": "/.src/badExport.ts",
+      "start": 9
+    },
+    {
+      "code": 1003,
+      "end": 18,
+      "file": "/.src/badExport.ts",
+      "start": 16
+    },
+    {
+      "code": 1128,
+      "end": 20,
+      "file": "/.src/badExport.ts",
+      "start": 19
+    },
+    {
+      "code": 1003,
+      "end": 11,
+      "file": "/.src/badExport2.ts",
+      "start": 9
+    },
+    {
+      "code": 2304,
+      "end": 18,
+      "file": "/.src/badExport2.ts",
+      "start": 15
+    },
+    {
+      "code": 1128,
+      "end": 20,
+      "file": "/.src/badExport2.ts",
+      "start": 19
+    },
+    {
+      "code": 1003,
+      "end": 11,
+      "file": "/.src/badImport.ts",
+      "start": 9
+    },
+    {
+      "code": 1128,
+      "end": 20,
+      "file": "/.src/badImport.ts",
+      "start": 19
+    },
+    {
+      "code": 1434,
+      "end": 25,
+      "file": "/.src/badImport.ts",
+      "start": 21
+    },
+    {
+      "code": 2304,
+      "end": 25,
+      "file": "/.src/badImport.ts",
+      "start": 21
+    },
+    {
+      "code": 1003,
+      "end": 18,
+      "file": "/.src/badImport2.ts",
+      "start": 16
+    },
+    {
+      "code": 1128,
+      "end": 20,
+      "file": "/.src/badImport2.ts",
+      "start": 19
+    },
+    {
+      "code": 1434,
+      "end": 25,
+      "file": "/.src/badImport2.ts",
+      "start": 21
+    },
+    {
+      "code": 2304,
+      "end": 25,
+      "file": "/.src/badImport2.ts",
+      "start": 21
+    }
+  ],
+  "path": "compiler/bigintArbirtraryIdentifier.ts"
+}

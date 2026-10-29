@@ -1,0 +1,24 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 8002,
+      "end": 29,
+      "file": "/.src/bar.js",
+      "start": 0
+    },
+    {
+      "code": 8003,
+      "end": 42,
+      "file": "/.src/bar.js",
+      "start": 30
+    },
+    {
+      "code": 1315,
+      "end": 47,
+      "file": "/.src/globalNs.js",
+      "start": 23
+    }
+  ],
+  "path": "conformance/jsdoc/declarations/jsDeclarationsExportFormsErr.ts"
+}

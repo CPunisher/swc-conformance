@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1070,
+      "end": 36,
+      "file": "/otherModifierError.d.ts",
+      "start": 30
+    },
+    {
+      "code": 1558,
+      "end": 38,
+      "file": "/readonlyError.d.ts",
+      "start": 30
+    },
+    {
+      "code": 1558,
+      "end": 165,
+      "file": "/readonlyError.d.ts",
+      "start": 157
+    }
+  ],
+  "path": "compiler/importAttributeTypeReadonly.ts"
+}

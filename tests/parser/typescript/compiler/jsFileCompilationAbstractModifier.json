@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 8009,
+      "end": 8,
+      "file": "/.src/a.js",
+      "start": 0
+    },
+    {
+      "code": 8009,
+      "end": 31,
+      "file": "/.src/a.js",
+      "start": 23
+    }
+  ],
+  "path": "compiler/jsFileCompilationAbstractModifier.ts"
+}

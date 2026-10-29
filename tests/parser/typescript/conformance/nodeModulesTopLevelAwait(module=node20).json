@@ -1,0 +1,18 @@
+{
+  "config": "module=node20",
+  "diagnostics": [
+    {
+      "code": 1309,
+      "end": 34,
+      "file": "/.src/subfolder/index.ts",
+      "start": 29
+    },
+    {
+      "code": 1309,
+      "end": 59,
+      "file": "/.src/subfolder/index.ts",
+      "start": 54
+    }
+  ],
+  "path": "conformance/node/nodeModulesTopLevelAwait.ts"
+}

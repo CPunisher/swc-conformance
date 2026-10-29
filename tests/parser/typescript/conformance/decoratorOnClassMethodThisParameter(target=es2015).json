@@ -1,0 +1,18 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1433,
+      "end": 124,
+      "file": "/.src/decoratorOnClassMethodThisParameter.ts",
+      "start": 120
+    },
+    {
+      "code": 1433,
+      "end": 184,
+      "file": "/.src/decoratorOnClassMethodThisParameter.ts",
+      "start": 179
+    }
+  ],
+  "path": "conformance/decorators/class/method/parameter/decoratorOnClassMethodThisParameter.ts"
+}

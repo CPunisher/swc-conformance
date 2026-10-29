@@ -1,0 +1,54 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 64,
+      "file": "/a.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 120,
+          "file": "/b.ts",
+          "start": 112
+        },
+        {
+          "code": 6203,
+          "end": 207,
+          "file": "/b.ts",
+          "start": 199
+        }
+      ],
+      "start": 56
+    },
+    {
+      "code": 2451,
+      "end": 120,
+      "file": "/b.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 64,
+          "file": "/a.d.ts",
+          "start": 56
+        }
+      ],
+      "start": 112
+    },
+    {
+      "code": 2451,
+      "end": 207,
+      "file": "/b.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 64,
+          "file": "/a.d.ts",
+          "start": 56
+        }
+      ],
+      "start": 199
+    }
+  ],
+  "path": "compiler/exportAsNamespace_augment.ts"
+}

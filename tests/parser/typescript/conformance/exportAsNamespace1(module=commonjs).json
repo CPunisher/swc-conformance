@@ -1,0 +1,18 @@
+{
+  "config": "module=commonjs",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 29,
+      "file": "/.src/1.ts",
+      "start": 27
+    },
+    {
+      "code": 2304,
+      "end": 35,
+      "file": "/.src/1.ts",
+      "start": 33
+    }
+  ],
+  "path": "conformance/es2020/modules/exportAsNamespace1.ts"
+}

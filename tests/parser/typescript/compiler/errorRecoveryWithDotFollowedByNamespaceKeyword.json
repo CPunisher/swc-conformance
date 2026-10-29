@@ -1,0 +1,26 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1003,
+      "end": 69,
+      "file": "/.src/errorRecoveryWithDotFollowedByNamespaceKeyword.ts",
+      "start": 69
+    },
+    {
+      "code": 1005,
+      "end": 145,
+      "file": "/.src/errorRecoveryWithDotFollowedByNamespaceKeyword.ts",
+      "related": [
+        {
+          "code": 1007,
+          "end": 53,
+          "file": "/.src/errorRecoveryWithDotFollowedByNamespaceKeyword.ts",
+          "start": 53
+        }
+      ],
+      "start": 145
+    }
+  ],
+  "path": "compiler/errorRecoveryWithDotFollowedByNamespaceKeyword.ts"
+}

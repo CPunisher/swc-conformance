@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 65,
+      "file": "/a.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 41,
+          "file": "/b.d.ts",
+          "start": 38
+        }
+      ],
+      "start": 62
+    },
+    {
+      "code": 2451,
+      "end": 41,
+      "file": "/b.d.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 65,
+          "file": "/a.d.ts",
+          "start": 62
+        }
+      ],
+      "start": 38
+    }
+  ],
+  "path": "compiler/globalArrayAugmentationWithAmbientModuleReexportMerge1.ts"
+}

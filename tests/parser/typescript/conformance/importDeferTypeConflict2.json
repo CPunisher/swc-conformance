@@ -1,0 +1,36 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 19,
+      "file": "/.src/b.ts",
+      "start": 18
+    },
+    {
+      "code": 1005,
+      "end": 26,
+      "file": "/.src/b.ts",
+      "start": 23
+    },
+    {
+      "code": 2304,
+      "end": 26,
+      "file": "/.src/b.ts",
+      "start": 23
+    },
+    {
+      "code": 1434,
+      "end": 31,
+      "file": "/.src/b.ts",
+      "start": 27
+    },
+    {
+      "code": 2304,
+      "end": 31,
+      "file": "/.src/b.ts",
+      "start": 27
+    }
+  ],
+  "path": "conformance/importDefer/importDeferTypeConflict2.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 40,
+      "file": "/.src/functionWithSameNameAsField.ts",
+      "start": 35
+    },
+    {
+      "code": 2300,
+      "end": 66,
+      "file": "/.src/functionWithSameNameAsField.ts",
+      "start": 61
+    }
+  ],
+  "path": "compiler/functionWithSameNameAsField.ts"
+}

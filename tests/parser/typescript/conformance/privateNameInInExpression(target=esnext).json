@@ -1,0 +1,18 @@
+{
+  "config": "target=esnext",
+  "diagnostics": [
+    {
+      "code": 1451,
+      "end": 595,
+      "file": "/.src/privateNameInInExpression.ts",
+      "start": 589
+    },
+    {
+      "code": 18016,
+      "end": 2797,
+      "file": "/.src/privateNameInInExpression.ts",
+      "start": 2791
+    }
+  ],
+  "path": "conformance/classes/members/privateNames/privateNameInInExpression.ts"
+}

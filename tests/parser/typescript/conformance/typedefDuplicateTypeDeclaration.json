@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 8033,
+      "end": 55,
+      "file": "/.src/typedefDuplicateTypeDeclaration.js",
+      "related": [
+        {
+          "code": 8034,
+          "end": 0,
+          "file": "/.src/typedefDuplicateTypeDeclaration.js",
+          "start": 0
+        }
+      ],
+      "start": 54
+    }
+  ],
+  "path": "conformance/jsdoc/typedefDuplicateTypeDeclaration.ts"
+}

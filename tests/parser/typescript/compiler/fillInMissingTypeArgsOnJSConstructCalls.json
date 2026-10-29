@@ -1,0 +1,48 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 8004,
+      "end": 60,
+      "file": "/.src/BaseB.js",
+      "start": 52
+    },
+    {
+      "code": 1005,
+      "end": 54,
+      "file": "/.src/BaseB.js",
+      "start": 53
+    },
+    {
+      "code": 2304,
+      "end": 82,
+      "file": "/.src/BaseB.js",
+      "start": 77
+    },
+    {
+      "code": 8010,
+      "end": 85,
+      "file": "/.src/BaseB.js",
+      "start": 77
+    },
+    {
+      "code": 2304,
+      "end": 116,
+      "file": "/.src/BaseB.js",
+      "start": 111
+    },
+    {
+      "code": 8010,
+      "end": 119,
+      "file": "/.src/BaseB.js",
+      "start": 111
+    },
+    {
+      "code": 8011,
+      "end": 100,
+      "file": "/.src/SubB.js",
+      "start": 96
+    }
+  ],
+  "path": "compiler/fillInMissingTypeArgsOnJSConstructCalls.ts"
+}

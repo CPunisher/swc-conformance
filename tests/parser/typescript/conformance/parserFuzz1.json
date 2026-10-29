@@ -1,0 +1,48 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2304,
+      "end": 3,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 0
+    },
+    {
+      "code": 2304,
+      "end": 7,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 5
+    },
+    {
+      "code": 1005,
+      "end": 9,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 8
+    },
+    {
+      "code": 1434,
+      "end": 13,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 12
+    },
+    {
+      "code": 2304,
+      "end": 13,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 12
+    },
+    {
+      "code": 1128,
+      "end": 20,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 14
+    },
+    {
+      "code": 1005,
+      "end": 24,
+      "file": "/.src/parserFuzz1.ts",
+      "start": 24
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserFuzz1.ts"
+}

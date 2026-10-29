@@ -1,0 +1,24 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 8006,
+      "end": 25,
+      "file": "/a.js",
+      "start": 0
+    },
+    {
+      "code": 8006,
+      "end": 44,
+      "file": "/a.js",
+      "start": 26
+    },
+    {
+      "code": 1363,
+      "end": 23,
+      "file": "/b.ts",
+      "start": 7
+    }
+  ],
+  "path": "conformance/externalModules/typeOnly/grammarErrors.ts"
+}

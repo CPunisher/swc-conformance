@@ -1,0 +1,20 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 70,
+      "file": "/.src/intersectionsOfLargeUnions2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 2289498,
+          "file": "bundled:///libs/lib.dom.d.ts",
+          "start": 2289481
+        }
+      ],
+      "start": 53
+    }
+  ],
+  "path": "compiler/intersectionsOfLargeUnions2.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1212,
+      "end": 121,
+      "file": "/.src/parserStatementIsNotAMemberVariableDeclaration1.ts",
+      "start": 114
+    },
+    {
+      "code": 2304,
+      "end": 121,
+      "file": "/.src/parserStatementIsNotAMemberVariableDeclaration1.ts",
+      "start": 114
+    }
+  ],
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserStatementIsNotAMemberVariableDeclaration1.ts"
+}

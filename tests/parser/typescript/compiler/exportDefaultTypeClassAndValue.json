@@ -1,0 +1,54 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2528,
+      "end": 32,
+      "file": "/.src/exportDefaultTypeClassAndValue.ts",
+      "related": [
+        {
+          "code": 2753,
+          "end": 93,
+          "file": "/.src/exportDefaultTypeClassAndValue.ts",
+          "start": 90
+        }
+      ],
+      "start": 29
+    },
+    {
+      "code": 2528,
+      "end": 57,
+      "file": "/.src/exportDefaultTypeClassAndValue.ts",
+      "related": [
+        {
+          "code": 6204,
+          "end": 93,
+          "file": "/.src/exportDefaultTypeClassAndValue.ts",
+          "start": 90
+        }
+      ],
+      "start": 54
+    },
+    {
+      "code": 2528,
+      "end": 93,
+      "file": "/.src/exportDefaultTypeClassAndValue.ts",
+      "related": [
+        {
+          "code": 2752,
+          "end": 32,
+          "file": "/.src/exportDefaultTypeClassAndValue.ts",
+          "start": 29
+        },
+        {
+          "code": 2752,
+          "end": 57,
+          "file": "/.src/exportDefaultTypeClassAndValue.ts",
+          "start": 54
+        }
+      ],
+      "start": 90
+    }
+  ],
+  "path": "compiler/exportDefaultTypeClassAndValue.ts"
+}

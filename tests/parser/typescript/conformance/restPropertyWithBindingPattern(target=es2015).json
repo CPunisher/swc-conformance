@@ -1,0 +1,30 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 2501,
+      "end": 7,
+      "file": "/.src/restPropertyWithBindingPattern.ts",
+      "start": 5
+    },
+    {
+      "code": 2501,
+      "end": 25,
+      "file": "/.src/restPropertyWithBindingPattern.ts",
+      "start": 21
+    },
+    {
+      "code": 2501,
+      "end": 41,
+      "file": "/.src/restPropertyWithBindingPattern.ts",
+      "start": 39
+    },
+    {
+      "code": 2501,
+      "end": 59,
+      "file": "/.src/restPropertyWithBindingPattern.ts",
+      "start": 55
+    }
+  ],
+  "path": "conformance/es6/destructuring/restPropertyWithBindingPattern.ts"
+}

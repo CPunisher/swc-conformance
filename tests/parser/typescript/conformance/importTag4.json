@@ -1,0 +1,18 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 20,
+      "file": "/foo.js",
+      "start": 17
+    },
+    {
+      "code": 2300,
+      "end": 63,
+      "file": "/foo.js",
+      "start": 60
+    }
+  ],
+  "path": "conformance/jsdoc/importTag4.ts"
+}

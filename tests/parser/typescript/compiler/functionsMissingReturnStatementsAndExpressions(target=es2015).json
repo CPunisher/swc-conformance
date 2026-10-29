@@ -1,0 +1,12 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 1003,
+      "end": 3260,
+      "file": "/.src/functionsMissingReturnStatementsAndExpressions.ts",
+      "start": 3259
+    }
+  ],
+  "path": "compiler/functionsMissingReturnStatementsAndExpressions.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "config": "module=commonjs",
+  "diagnostics": [
+    {
+      "code": 18113,
+      "end": 15,
+      "file": "/.src/b.js",
+      "start": 7
+    },
+    {
+      "code": 18113,
+      "end": 64,
+      "file": "/.src/b.js",
+      "start": 41
+    }
+  ],
+  "path": "conformance/importSource/importSource15.ts"
+}

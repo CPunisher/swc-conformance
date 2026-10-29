@@ -1,0 +1,34 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2451,
+      "end": 8,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 8,
+          "file": "/.src/file2.ts",
+          "start": 4
+        }
+      ],
+      "start": 4
+    },
+    {
+      "code": 2451,
+      "end": 8,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 8,
+          "file": "/.src/file1.ts",
+          "start": 4
+        }
+      ],
+      "start": 4
+    }
+  ],
+  "path": "compiler/letDeclarations-scopes-duplicates7.ts"
+}

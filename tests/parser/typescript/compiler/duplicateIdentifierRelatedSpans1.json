@@ -1,0 +1,102 @@
+{
+  "config": "",
+  "diagnostics": [
+    {
+      "code": 2300,
+      "end": 9,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 8,
+          "file": "/.src/file2.ts",
+          "start": 5
+        },
+        {
+          "code": 6203,
+          "end": 8,
+          "file": "/.src/file3.ts",
+          "start": 5
+        }
+      ],
+      "start": 6
+    },
+    {
+      "code": 2451,
+      "end": 23,
+      "file": "/.src/file1.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 28,
+          "file": "/.src/file2.ts",
+          "start": 25
+        },
+        {
+          "code": 6203,
+          "end": 22,
+          "file": "/.src/file3.ts",
+          "start": 19
+        }
+      ],
+      "start": 20
+    },
+    {
+      "code": 2300,
+      "end": 8,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 9,
+          "file": "/.src/file1.ts",
+          "start": 6
+        }
+      ],
+      "start": 5
+    },
+    {
+      "code": 2451,
+      "end": 28,
+      "file": "/.src/file2.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 23,
+          "file": "/.src/file1.ts",
+          "start": 20
+        }
+      ],
+      "start": 25
+    },
+    {
+      "code": 2300,
+      "end": 8,
+      "file": "/.src/file3.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 9,
+          "file": "/.src/file1.ts",
+          "start": 6
+        }
+      ],
+      "start": 5
+    },
+    {
+      "code": 2451,
+      "end": 22,
+      "file": "/.src/file3.ts",
+      "related": [
+        {
+          "code": 6203,
+          "end": 23,
+          "file": "/.src/file1.ts",
+          "start": 20
+        }
+      ],
+      "start": 19
+    }
+  ],
+  "path": "compiler/duplicateIdentifierRelatedSpans1.ts"
+}

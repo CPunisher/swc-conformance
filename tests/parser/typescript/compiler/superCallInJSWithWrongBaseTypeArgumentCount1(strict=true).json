@@ -1,0 +1,18 @@
+{
+  "config": "strict=true",
+  "diagnostics": [
+    {
+      "code": 8011,
+      "end": 135,
+      "file": "/.src/b.js",
+      "start": 129
+    },
+    {
+      "code": 8011,
+      "end": 225,
+      "file": "/.src/b.js",
+      "start": 211
+    }
+  ],
+  "path": "compiler/superCallInJSWithWrongBaseTypeArgumentCount1.ts"
+}

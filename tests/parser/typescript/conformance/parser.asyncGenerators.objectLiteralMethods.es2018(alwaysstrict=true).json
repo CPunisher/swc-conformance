@@ -1,0 +1,96 @@
+{
+  "config": "alwaysstrict=true",
+  "diagnostics": [
+    {
+      "code": 1005,
+      "end": 31,
+      "file": "/.src/asyncGeneratorGetAccessorIsError.ts",
+      "start": 30
+    },
+    {
+      "code": 1005,
+      "end": 28,
+      "file": "/.src/asyncGeneratorPropertyIsError.ts",
+      "start": 27
+    },
+    {
+      "code": 1005,
+      "end": 31,
+      "file": "/.src/asyncGeneratorSetAccessorIsError.ts",
+      "start": 30
+    },
+    {
+      "code": 2524,
+      "end": 38,
+      "file": "/.src/awaitInParameterInitializerIsError.ts",
+      "start": 31
+    },
+    {
+      "code": 1109,
+      "end": 46,
+      "file": "/.src/awaitMissingValueIsError.ts",
+      "start": 45
+    },
+    {
+      "code": 1359,
+      "end": 32,
+      "file": "/.src/awaitParameterIsError.ts",
+      "start": 27
+    },
+    {
+      "code": 1359,
+      "end": 54,
+      "file": "/.src/nestedFunctionDeclarationNamedAwaitIsError.ts",
+      "start": 49
+    },
+    {
+      "code": 1212,
+      "end": 53,
+      "file": "/.src/nestedFunctionDeclarationNamedYieldIsError.ts",
+      "start": 48
+    },
+    {
+      "code": 1359,
+      "end": 64,
+      "file": "/.src/nestedFunctionExpressionNamedAwaitIsError.ts",
+      "start": 59
+    },
+    {
+      "code": 1212,
+      "end": 64,
+      "file": "/.src/nestedFunctionExpressionNamedYieldIsError.ts",
+      "start": 59
+    },
+    {
+      "code": 1212,
+      "end": 15,
+      "file": "/.src/yieldAsTypeIsOk.ts",
+      "start": 10
+    },
+    {
+      "code": 1212,
+      "end": 71,
+      "file": "/.src/yieldAsTypeIsOk.ts",
+      "start": 66
+    },
+    {
+      "code": 2523,
+      "end": 36,
+      "file": "/.src/yieldInParameterInitializerIsError.ts",
+      "start": 31
+    },
+    {
+      "code": 1212,
+      "end": 32,
+      "file": "/.src/yieldParameterIsError.ts",
+      "start": 27
+    },
+    {
+      "code": 1109,
+      "end": 48,
+      "file": "/.src/yieldStarMissingValueIsError.ts",
+      "start": 47
+    }
+  ],
+  "path": "conformance/parser/ecmascript2018/asyncGenerators/parser.asyncGenerators.objectLiteralMethods.es2018.ts"
+}

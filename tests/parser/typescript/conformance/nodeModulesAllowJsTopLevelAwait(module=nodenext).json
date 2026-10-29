@@ -1,0 +1,18 @@
+{
+  "config": "module=nodenext",
+  "diagnostics": [
+    {
+      "code": 1309,
+      "end": 34,
+      "file": "/.src/subfolder/index.js",
+      "start": 29
+    },
+    {
+      "code": 1309,
+      "end": 59,
+      "file": "/.src/subfolder/index.js",
+      "start": 54
+    }
+  ],
+  "path": "conformance/node/allowJs/nodeModulesAllowJsTopLevelAwait.ts"
+}

@@ -1,0 +1,42 @@
+{
+  "config": "target=es2015",
+  "diagnostics": [
+    {
+      "code": 18016,
+      "end": 37,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 35
+    },
+    {
+      "code": 18016,
+      "end": 63,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 61
+    },
+    {
+      "code": 18016,
+      "end": 93,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 91
+    },
+    {
+      "code": 18016,
+      "end": 153,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 151
+    },
+    {
+      "code": 18016,
+      "end": 179,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 177
+    },
+    {
+      "code": 18016,
+      "end": 209,
+      "file": "/.src/privateNameJsPrototype.js",
+      "start": 207
+    }
+  ],
+  "path": "conformance/classes/members/privateNames/privateNameJsBadDeclaration.ts"
+}
