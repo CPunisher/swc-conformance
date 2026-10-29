@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "BigInt",
+      "DataView",
+      "arrow-function",
+      "ArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/setBigInt64/not-a-constructor.js"
+}

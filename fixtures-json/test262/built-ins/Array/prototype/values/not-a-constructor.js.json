@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Array.prototype.values",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/values/not-a-constructor.js"
+}

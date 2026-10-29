@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeFunctionMatcher.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Function/prototype/toString/proxy-method-definition.js"
+}

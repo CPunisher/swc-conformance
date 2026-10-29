@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "change-array-by-copy",
+      "exponentiation"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/toSpliced/length-clamped-to-2pow53minus1.js"
+}

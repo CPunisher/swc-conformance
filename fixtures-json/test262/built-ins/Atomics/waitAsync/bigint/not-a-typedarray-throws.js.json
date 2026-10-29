@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "arrow-function",
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/not-a-typedarray-throws.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Array.prototype.flatMap"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/flatMap/thisArg-argument.js"
+}

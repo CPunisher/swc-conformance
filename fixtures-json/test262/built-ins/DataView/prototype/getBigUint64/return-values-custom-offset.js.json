@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "ArrayBuffer",
+      "DataView.prototype.setUint8",
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getBigUint64/return-values-custom-offset.js"
+}

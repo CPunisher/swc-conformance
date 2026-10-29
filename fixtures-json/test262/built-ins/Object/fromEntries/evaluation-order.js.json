@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.iterator",
+      "Object.fromEntries"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Object/fromEntries/evaluation-order.js"
+}

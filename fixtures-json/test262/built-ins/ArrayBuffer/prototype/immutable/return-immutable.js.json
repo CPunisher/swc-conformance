@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/immutable/return-immutable.js"
+}

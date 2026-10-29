@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "BigInt",
+      "computed-property-names",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "Atomics",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/value-not-equal.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/slice/species-returns-immutable-arraybuffer.js"
+}

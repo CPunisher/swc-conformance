@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "ArrayBuffer",
+      "BigInt",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getBigInt64/detached-buffer.js"
+}

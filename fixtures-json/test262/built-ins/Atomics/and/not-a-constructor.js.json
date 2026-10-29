@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Atomics",
+      "arrow-function",
+      "TypedArray",
+      "SharedArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/and/not-a-constructor.js"
+}

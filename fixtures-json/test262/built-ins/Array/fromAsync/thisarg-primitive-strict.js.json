@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync"
+    ],
+    "flags": [
+      "async",
+      "onlyStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/thisarg-primitive-strict.js"
+}

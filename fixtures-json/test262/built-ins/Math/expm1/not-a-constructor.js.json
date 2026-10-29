@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Math/expm1/not-a-constructor.js"
+}

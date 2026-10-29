@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "computed-property-names",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "Atomics",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/value-not-equal.js"
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/isLockFree/expected-return-value.js"
+}

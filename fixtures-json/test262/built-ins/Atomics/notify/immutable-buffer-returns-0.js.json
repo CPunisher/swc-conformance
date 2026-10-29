@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "Atomics",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/notify/immutable-buffer-returns-0.js"
+}

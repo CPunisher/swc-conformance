@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "Atomics",
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/out-of-range-index-throws.js"
+}

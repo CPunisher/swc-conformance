@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "BigInt",
+      "DataView",
+      "DataView.prototype.setUint8",
+      "Symbol"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getBigInt64/to-boolean-littleendian.js"
+}

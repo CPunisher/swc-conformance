@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "Atomics",
+      "computed-property-names",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/implicit-infinity-for-timeout.js"
+}

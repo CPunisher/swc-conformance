@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "Atomics",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/compareExchange/non-shared-int-views-throws.js"
+}

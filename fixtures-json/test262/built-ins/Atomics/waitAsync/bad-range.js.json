@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "Atomics",
+      "SharedArrayBuffer",
+      "ArrayBuffer",
+      "DataView",
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testAtomics.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bad-range.js"
+}

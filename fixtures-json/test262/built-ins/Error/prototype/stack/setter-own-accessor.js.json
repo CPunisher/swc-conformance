@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeErrors.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/setter-own-accessor.js"
+}

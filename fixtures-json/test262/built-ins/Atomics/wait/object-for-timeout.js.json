@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "SharedArrayBuffer",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "TypedArray"
+    ],
+    "flags": [
+      "CanBlockIsTrue"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/wait/object-for-timeout.js"
+}

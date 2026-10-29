@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor",
+      "cross-realm"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/setter-cross-realm.js"
+}

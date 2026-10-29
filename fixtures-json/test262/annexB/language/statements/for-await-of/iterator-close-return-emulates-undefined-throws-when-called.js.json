@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "IsHTMLDDA"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "annexB/language/statements/for-await-of/iterator-close-return-emulates-undefined-throws-when-called.js"
+}

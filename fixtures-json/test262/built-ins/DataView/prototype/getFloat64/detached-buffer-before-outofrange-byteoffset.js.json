@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getFloat64/detached-buffer-before-outofrange-byteoffset.js"
+}

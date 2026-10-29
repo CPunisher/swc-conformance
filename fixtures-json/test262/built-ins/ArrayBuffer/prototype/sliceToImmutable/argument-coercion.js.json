@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/sliceToImmutable/argument-coercion.js"
+}

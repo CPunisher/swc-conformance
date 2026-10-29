@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Symbol.species"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/splice/property-traps-order-with-species.js"
+}

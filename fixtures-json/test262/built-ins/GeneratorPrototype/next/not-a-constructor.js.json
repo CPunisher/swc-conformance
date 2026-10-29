@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "generators",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/GeneratorPrototype/next/not-a-constructor.js"
+}

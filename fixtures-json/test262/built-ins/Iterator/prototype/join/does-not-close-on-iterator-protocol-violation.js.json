@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "features": [
+      "Iterator.prototype.join"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Iterator/prototype/join/does-not-close-on-iterator-protocol-violation.js"
+}

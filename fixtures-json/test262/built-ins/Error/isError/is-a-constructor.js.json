@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Error.isError",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/isError/is-a-constructor.js"
+}

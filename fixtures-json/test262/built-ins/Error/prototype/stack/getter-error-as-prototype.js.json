@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor",
+      "__proto__"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeErrors.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/getter-error-as-prototype.js"
+}

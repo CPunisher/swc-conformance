@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "DataView",
+      "ArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/is-a-constructor.js"
+}

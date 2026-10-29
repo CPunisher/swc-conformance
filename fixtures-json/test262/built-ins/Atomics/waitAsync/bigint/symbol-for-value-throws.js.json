@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "TypedArray",
+      "computed-property-names",
+      "Atomics",
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/symbol-for-value-throws.js"
+}

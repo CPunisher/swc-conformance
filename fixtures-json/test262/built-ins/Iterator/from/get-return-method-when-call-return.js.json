@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "iterator-helpers"
+    ],
+    "flags": [],
+    "includes": [
+      "temporalHelpers.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Iterator/from/get-return-method-when-call-return.js"
+}

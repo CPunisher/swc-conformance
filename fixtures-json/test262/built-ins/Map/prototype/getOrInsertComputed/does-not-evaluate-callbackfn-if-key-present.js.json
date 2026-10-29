@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "WeakMap",
+      "upsert"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Map/prototype/getOrInsertComputed/does-not-evaluate-callbackfn-if-key-present.js"
+}

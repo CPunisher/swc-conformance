@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "legacy-regexp",
+      "cross-realm",
+      "Reflect",
+      "Reflect.set"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "annexB/built-ins/RegExp/legacy-accessors/input/this-cross-realm-constructor.js"
+}

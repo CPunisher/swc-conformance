@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "Atomics",
+      "BigInt"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "atomicsHelper.js",
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/good-views.js"
+}

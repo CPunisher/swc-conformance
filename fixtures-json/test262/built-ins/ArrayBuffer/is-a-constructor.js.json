@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "ArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/is-a-constructor.js"
+}

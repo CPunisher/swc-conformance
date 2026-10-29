@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "TypedArray",
+      "computed-property-names",
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/symbol-for-timeout-throws.js"
+}

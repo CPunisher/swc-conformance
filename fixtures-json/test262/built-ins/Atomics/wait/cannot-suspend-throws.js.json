@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "SharedArrayBuffer",
+      "TypedArray"
+    ],
+    "flags": [
+      "CanBlockIsFalse"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/wait/cannot-suspend-throws.js"
+}

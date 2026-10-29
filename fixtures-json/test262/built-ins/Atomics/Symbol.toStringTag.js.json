@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "Symbol",
+      "Symbol.toStringTag"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/Symbol.toStringTag.js"
+}

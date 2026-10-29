@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeErrors.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/getter-foreign-new-target.js"
+}

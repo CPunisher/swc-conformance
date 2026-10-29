@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "deepEqual.js",
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/AsyncDisposableStack/prototype/use/gets-value-Symbol.dispose-property-after-trying-Symbol.asyncDispose.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "joint-iteration"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "propertyHelper.js",
+      "iteratorZipUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Iterator/zipKeyed/basic-longest.js"
+}

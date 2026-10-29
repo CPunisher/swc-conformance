@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "Int8Array",
+      "ArrayBuffer",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/transferToImmutable/this-has-no-arraybufferdata-internal.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Symbol",
+      "Reflect"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Object/freeze/proxy-no-ownkeys-returned-keys-order.js"
+}

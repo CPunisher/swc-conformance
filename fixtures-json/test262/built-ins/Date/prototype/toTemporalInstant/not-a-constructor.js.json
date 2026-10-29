@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Temporal",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Date/prototype/toTemporalInstant/not-a-constructor.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "arrow-function",
+      "Object.hasOwn"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Object/hasOwn/not-a-constructor.js"
+}

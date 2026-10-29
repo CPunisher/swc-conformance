@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "Atomics",
+      "BigInt",
+      "DataView",
+      "SharedArrayBuffer",
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testAtomics.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/compareExchange/bigint/bad-range.js"
+}

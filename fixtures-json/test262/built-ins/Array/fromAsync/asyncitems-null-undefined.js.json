@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/asyncitems-null-undefined.js"
+}

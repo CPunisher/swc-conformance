@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "SharedArrayBuffer",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "nans.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/notify/count-from-nans.js"
+}

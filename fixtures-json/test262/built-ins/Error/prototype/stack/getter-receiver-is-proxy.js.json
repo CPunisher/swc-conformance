@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor",
+      "Proxy",
+      "Reflect"
+    ],
+    "flags": [],
+    "includes": [
+      "proxyTrapsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/getter-receiver-is-proxy.js"
+}

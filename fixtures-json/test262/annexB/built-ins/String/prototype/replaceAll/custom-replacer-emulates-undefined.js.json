@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.replace",
+      "String.prototype.replaceAll",
+      "IsHTMLDDA"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "annexB/built-ins/String/prototype/replaceAll/custom-replacer-emulates-undefined.js"
+}

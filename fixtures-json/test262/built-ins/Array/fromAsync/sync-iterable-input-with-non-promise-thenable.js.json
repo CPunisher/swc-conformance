@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "compareArray.js",
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/sync-iterable-input-with-non-promise-thenable.js"
+}

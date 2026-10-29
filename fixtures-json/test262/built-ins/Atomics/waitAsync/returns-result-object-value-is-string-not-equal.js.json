@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "TypedArray",
+      "SharedArrayBuffer",
+      "destructuring-binding",
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/returns-result-object-value-is-string-not-equal.js"
+}

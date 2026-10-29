@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/isView/arg-is-typedarray-subclass-instance.js"
+}

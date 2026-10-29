@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/includes/get-prop.js"
+}

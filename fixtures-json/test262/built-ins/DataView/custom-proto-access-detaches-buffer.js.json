@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/custom-proto-access-detaches-buffer.js"
+}

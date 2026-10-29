@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "SharedArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/custom-proto-if-object-is-used-sab.js"
+}

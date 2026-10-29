@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeFunctionMatcher.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Function/prototype/toString/async-method-object.js"
+}

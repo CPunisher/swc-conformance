@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync"
+    ],
+    "flags": [
+      "async",
+      "noStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "built-ins/Array/fromAsync/thisarg-omitted-sloppy.js"
+}

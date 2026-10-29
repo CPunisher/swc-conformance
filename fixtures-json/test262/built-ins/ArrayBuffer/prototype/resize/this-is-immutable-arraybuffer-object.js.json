@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "resizable-arraybuffer",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/resize/this-is-immutable-arraybuffer-object.js"
+}

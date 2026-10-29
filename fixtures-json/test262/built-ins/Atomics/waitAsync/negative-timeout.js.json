@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "Atomics",
+      "destructuring-binding",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/negative-timeout.js"
+}

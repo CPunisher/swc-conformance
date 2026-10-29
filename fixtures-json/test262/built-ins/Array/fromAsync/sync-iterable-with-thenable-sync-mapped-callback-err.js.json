@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/sync-iterable-with-thenable-sync-mapped-callback-err.js"
+}

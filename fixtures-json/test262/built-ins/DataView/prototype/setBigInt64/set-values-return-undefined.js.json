@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "ArrayBuffer",
+      "BigInt",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "byteConversionValues.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/setBigInt64/set-values-return-undefined.js"
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "TypedArray",
+      "SharedArrayBuffer",
+      "destructuring-binding",
+      "Atomics",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/returns-result-object-value-is-promise-resolves-to-ok.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Math.sumPrecise"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Math/sumPrecise/not-a-constructor.js"
+}

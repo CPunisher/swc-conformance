@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Symbol",
+      "Symbol.iterator",
+      "Map",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Map/prototype/Symbol.iterator/not-a-constructor.js"
+}

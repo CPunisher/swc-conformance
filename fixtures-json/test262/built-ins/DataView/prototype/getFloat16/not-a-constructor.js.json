@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Float16Array",
+      "Reflect.construct",
+      "DataView",
+      "arrow-function",
+      "ArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getFloat16/not-a-constructor.js"
+}

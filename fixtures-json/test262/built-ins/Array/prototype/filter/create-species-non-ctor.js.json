@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/filter/create-species-non-ctor.js"
+}

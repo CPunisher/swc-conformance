@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync",
+      "BigInt",
+      "Symbol"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/mapfn-not-callable.js"
+}

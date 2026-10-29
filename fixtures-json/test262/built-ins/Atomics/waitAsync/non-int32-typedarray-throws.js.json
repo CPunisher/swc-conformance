@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "Float32Array",
+      "Float64Array",
+      "Int8Array",
+      "TypedArray",
+      "Uint16Array",
+      "Uint8Array",
+      "Uint8ClampedArray",
+      "arrow-function",
+      "SharedArrayBuffer",
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/non-int32-typedarray-throws.js"
+}

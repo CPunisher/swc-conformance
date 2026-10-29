@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "arrow-function",
+      "Reflect",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeFunctionMatcher.js",
+      "wellKnownIntrinsicObjects.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Function/prototype/toString/built-in-function-object.js"
+}

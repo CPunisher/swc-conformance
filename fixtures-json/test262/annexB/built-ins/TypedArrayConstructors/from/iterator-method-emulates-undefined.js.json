@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.iterator",
+      "TypedArray",
+      "IsHTMLDDA"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "annexB/built-ins/TypedArrayConstructors/from/iterator-method-emulates-undefined.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Array.fromAsync",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/fromAsync/not-a-constructor.js"
+}

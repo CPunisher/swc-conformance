@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "BigInt",
+      "SharedArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/wait/bigint/non-bigint64-typedarray-throws.js"
+}

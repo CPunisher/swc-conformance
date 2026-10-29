@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "exponentiation"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "proxyTrapsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/splice/create-species-length-exceeding-integer-limit.js"
+}

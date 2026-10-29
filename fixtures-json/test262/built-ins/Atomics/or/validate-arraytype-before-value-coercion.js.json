@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/or/validate-arraytype-before-value-coercion.js"
+}

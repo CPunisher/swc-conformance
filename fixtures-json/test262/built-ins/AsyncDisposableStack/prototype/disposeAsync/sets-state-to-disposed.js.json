@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/AsyncDisposableStack/prototype/disposeAsync/sets-state-to-disposed.js"
+}

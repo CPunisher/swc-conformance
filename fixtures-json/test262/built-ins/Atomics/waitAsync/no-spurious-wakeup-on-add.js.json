@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "Atomics",
+      "arrow-function",
+      "async-functions"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "atomicsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/no-spurious-wakeup-on-add.js"
+}

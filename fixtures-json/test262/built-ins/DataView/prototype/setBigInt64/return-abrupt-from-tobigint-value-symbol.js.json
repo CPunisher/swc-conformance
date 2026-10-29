@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "ArrayBuffer",
+      "Symbol",
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/setBigInt64/return-abrupt-from-tobigint-value-symbol.js"
+}

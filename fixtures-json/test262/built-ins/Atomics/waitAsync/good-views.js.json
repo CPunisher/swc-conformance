@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "Atomics"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "atomicsHelper.js",
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/good-views.js"
+}

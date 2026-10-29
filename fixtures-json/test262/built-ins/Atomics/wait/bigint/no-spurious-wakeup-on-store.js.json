@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "BigInt",
+      "SharedArrayBuffer",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "atomicsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/wait/bigint/no-spurious-wakeup-on-store.js"
+}

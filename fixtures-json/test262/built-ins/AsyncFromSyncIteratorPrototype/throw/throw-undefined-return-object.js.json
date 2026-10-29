@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/AsyncFromSyncIteratorPrototype/throw/throw-undefined-return-object.js"
+}

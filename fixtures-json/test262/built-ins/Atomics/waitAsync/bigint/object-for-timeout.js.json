@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "TypedArray",
+      "computed-property-names",
+      "Atomics",
+      "BigInt",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/object-for-timeout.js"
+}

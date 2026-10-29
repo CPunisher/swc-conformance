@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "change-array-by-copy",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/toSpliced/not-a-constructor.js"
+}

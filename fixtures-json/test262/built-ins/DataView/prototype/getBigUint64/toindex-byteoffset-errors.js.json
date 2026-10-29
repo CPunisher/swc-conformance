@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "BigInt",
+      "DataView",
+      "DataView.prototype.setUint8",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "computed-property-names"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/getBigUint64/toindex-byteoffset-errors.js"
+}

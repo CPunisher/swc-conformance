@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Reflect.construct",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/BigInt/is-a-constructor.js"
+}

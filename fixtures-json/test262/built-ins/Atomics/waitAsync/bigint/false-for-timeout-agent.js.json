@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "TypedArray",
+      "Atomics",
+      "BigInt",
+      "arrow-function",
+      "async-functions"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "atomicsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/false-for-timeout-agent.js"
+}

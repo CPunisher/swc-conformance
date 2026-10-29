@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/AsyncDisposableStack/is-a-constructor.js"
+}

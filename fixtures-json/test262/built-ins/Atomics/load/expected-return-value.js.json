@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "SharedArrayBuffer",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/load/expected-return-value.js"
+}

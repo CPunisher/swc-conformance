@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "Symbol.toPrimitive",
+      "Reflect",
+      "Reflect.set"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/length/define-own-prop-length-coercion-order-set.js"
+}

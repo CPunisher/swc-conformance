@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "joint-iteration"
+    ],
+    "flags": [],
+    "includes": [
+      "proxyTrapsHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Iterator/zipKeyed/padding-iteration.js"
+}

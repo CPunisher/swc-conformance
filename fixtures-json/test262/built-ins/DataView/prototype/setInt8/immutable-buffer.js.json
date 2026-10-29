@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/setInt8/immutable-buffer.js"
+}

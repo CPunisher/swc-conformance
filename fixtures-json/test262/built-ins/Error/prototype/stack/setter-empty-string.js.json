@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "error-stack-accessor"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "nativeErrors.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Error/prototype/stack/setter-empty-string.js"
+}

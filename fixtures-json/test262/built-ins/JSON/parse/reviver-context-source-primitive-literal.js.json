@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "json-parse-with-source"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/JSON/parse/reviver-context-source-primitive-literal.js"
+}

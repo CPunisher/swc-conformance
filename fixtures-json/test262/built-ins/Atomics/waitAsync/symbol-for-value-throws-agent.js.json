@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "SharedArrayBuffer",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "TypedArray",
+      "Atomics",
+      "arrow-function",
+      "async-functions"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "atomicsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/symbol-for-value-throws-agent.js"
+}

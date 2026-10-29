@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "error-cause"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "nativeErrors.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/NativeErrors/cause_property_native_error.js"
+}

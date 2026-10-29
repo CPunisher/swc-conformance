@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "Atomics",
+      "DataView",
+      "SharedArrayBuffer",
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testAtomics.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/load/good-views.js"
+}

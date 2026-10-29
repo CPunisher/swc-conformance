@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "Symbol",
+      "arrow-function",
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/not-an-object-throws.js"
+}

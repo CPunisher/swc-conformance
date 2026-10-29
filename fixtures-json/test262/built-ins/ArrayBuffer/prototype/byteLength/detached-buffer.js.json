@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/byteLength/detached-buffer.js"
+}

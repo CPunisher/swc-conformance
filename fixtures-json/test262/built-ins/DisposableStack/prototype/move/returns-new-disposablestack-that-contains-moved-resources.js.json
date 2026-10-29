@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [],
+    "includes": [
+      "deepEqual.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DisposableStack/prototype/move/returns-new-disposablestack-that-contains-moved-resources.js"
+}

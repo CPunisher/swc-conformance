@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "exponentiation"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "proxyTrapsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Array/prototype/reverse/length-exceeding-integer-limit-with-proxy.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Symbol"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Object/getOwnPropertyDescriptors/proxy-no-ownkeys-returned-keys-order.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions",
+      "Proxy"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeFunctionMatcher.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Function/prototype/toString/proxy-async-method-definition.js"
+}

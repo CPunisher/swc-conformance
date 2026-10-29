@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-methods-private"
+    ],
+    "flags": [],
+    "includes": [
+      "nativeFunctionMatcher.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Function/prototype/toString/private-static-method-class-statement.js"
+}

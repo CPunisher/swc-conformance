@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "ArrayBuffer",
+      "Atomics",
+      "TypedArray",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/non-shared-bufferdata-throws.js"
+}

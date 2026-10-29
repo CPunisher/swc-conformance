@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "arraybuffer-transfer",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ArrayBuffer/prototype/detached/detached-buffer-resizable.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "DataView",
+      "ArrayBuffer",
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/DataView/prototype/setBigInt64/detached-buffer-after-bigint-value.js"
+}

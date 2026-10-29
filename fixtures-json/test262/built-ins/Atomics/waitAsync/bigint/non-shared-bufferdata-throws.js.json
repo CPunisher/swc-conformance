@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics.waitAsync",
+      "ArrayBuffer",
+      "Atomics",
+      "TypedArray",
+      "BigInt",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Atomics/waitAsync/bigint/non-shared-bufferdata-throws.js"
+}
