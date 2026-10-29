@@ -7,6 +7,7 @@ use std::{
 use serde_json::Value;
 use walkdir::WalkDir;
 
+mod runners;
 mod swc;
 mod test262;
 mod typescript;
@@ -15,11 +16,12 @@ type Result<T> = std::result::Result<T, Box<dyn Error>>;
 type Output = Vec<(PathBuf, Value)>;
 
 fn main() -> Result<()> {
-    for suite in ["test262", "typescript", "swc-minifier"] {
+    for suite in ["test262", "typescript", "swc-minifier", "runners"] {
         let output = match suite {
             "test262" => test262::read()?,
             "typescript" => typescript::read()?,
             "swc-minifier" => swc::read()?,
+            "runners" => runners::read()?,
             _ => unreachable!(),
         };
         let root = workspace_root().join("fixtures-json").join(suite);

@@ -366,6 +366,7 @@ version = "0.1.0"
 dependencies = [
  "regex",
  "saphyr",
+ "serde",
  "serde_json",
  "tsrs_testrunner",
  "walkdir",
@@ -1129,7 +1130,6 @@ dependencies = [
  "tsrs_tsoptions",
  "tsrs_vfs",
  "v8",
- "walkdir",
 ]
 
 [[package]]

@@ -11,17 +11,16 @@ use swc_experimental_ecma_semantic::resolver::{Semantic, resolver};
 
 use crate::{
     Result,
-    case::{Case, swc_minifier, test262},
+    case::{self, Case},
     runner::Output,
 };
 
 pub fn run() -> Result<Output> {
-    let mut cases = test262::resolver_cases()?;
-    cases.extend(swc_minifier::read()?);
+    let cases = case::read("swc")?;
     let mut output = Vec::new();
     for case in cases {
         if let Some(value) = resolve(&case) {
-            output.push((case.path.with_added_extension("json"), value));
+            output.push((case.snapshot, value));
         }
     }
     Ok(output)

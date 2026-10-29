@@ -28,7 +28,7 @@ const REVISION: &str = "677622d08ef3c12f370b9342623a41d156687c0c";
 pub fn run() -> Result<Output> {
     let cases = TypeScriptCase::read()?;
     let runner = Tsrs {
-        codes: typescript::syntax_codes()?,
+        codes: crate::case::json("typescript/syntax-codes.json")?,
     };
     let libraries = typescript::libraries()?;
     let mut output = Vec::new();

@@ -1,14 +1,18 @@
 use serde_json::{Value, json};
 
-use crate::{Result, case::test262::Test262Case, runner::Output};
+use crate::{
+    Result,
+    case::{self, Case},
+    runner::Output,
+};
 
 pub fn run() -> Result<Output> {
-    let cases = Test262Case::read()?;
+    let cases = case::read("v8")?;
     let mut runner = V8::new();
     let mut output = Vec::new();
     for case in cases {
         let value = runner.parse(&case);
-        output.push((case.path(), value));
+        output.push((case.snapshot, value));
     }
     let version = json!({ "v8": v8::V8::get_version(), "offsetEncoding": "utf8" });
     output.push(("version.json".into(), version));
@@ -29,13 +33,13 @@ impl V8 {
         }
     }
 
-    fn parse(&mut self, case: &Test262Case) -> Value {
+    fn parse(&mut self, case: &Case) -> Value {
         v8::scope!(let scope, &mut self.isolate);
         let context = v8::Context::new(scope, Default::default());
         let scope = &mut v8::ContextScope::new(scope, context);
         v8::tc_scope!(let scope, scope);
         let code = v8::String::new(scope, &case.source).unwrap();
-        if case.mode == "module" {
+        if case.module {
             let name = v8::String::new(scope, "case.mjs").unwrap();
             let origin = v8::ScriptOrigin::new(
                 scope,

@@ -24,9 +24,11 @@ The workspace contains two crates:
 - `fixture-json` decodes upstream fixtures into `fixtures-json/`, including
   positive and negative cases, Test262 metadata and modes, TypeScript virtual
   file line indices, configuration variants, and baseline diagnostic codes.
+  It also prepares the fixed snapshot selections in `fixtures-json/runners/`.
   Source text stays in the upstream fixtures.
-- `swc-conformance`, in `crates/swc-conformance/`, reconstructs cases from JSON
-  metadata and source files under `fixtures/`, then generates snapshots.
+- `swc-conformance`, in `crates/swc-conformance/`, loads those selections and
+  reconstructs source from `fixtures/`, then generates snapshots. Case filtering,
+  mode expansion, and snapshot naming are performed by the generator.
 
 Each runner uses fixed cases: V8 reads Test262 parse negatives, tsrs reads
 TypeScript syntax-error variants, and SWC reads Test262 language cases and SWC
