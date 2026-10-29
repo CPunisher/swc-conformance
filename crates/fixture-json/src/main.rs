@@ -16,9 +16,15 @@ type Result<T> = std::result::Result<T, Box<dyn Error>>;
 type Output = Vec<(PathBuf, Value)>;
 
 fn main() -> Result<()> {
-    for suite in ["test262", "typescript", "swc-minifier", "runners"] {
+    for suite in [
+        "test262",
+        "test262-legacy",
+        "typescript",
+        "swc-minifier",
+        "runners",
+    ] {
         let output = match suite {
-            "test262" => test262::read()?,
+            "test262" | "test262-legacy" => test262::read(suite)?,
             "typescript" => typescript::read()?,
             "swc-minifier" => swc::read()?,
             "runners" => runners::read()?,

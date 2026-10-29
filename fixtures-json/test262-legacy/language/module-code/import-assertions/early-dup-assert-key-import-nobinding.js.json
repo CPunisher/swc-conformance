@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-assertions"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-assertions/early-dup-assert-key-import-nobinding.js"
+}

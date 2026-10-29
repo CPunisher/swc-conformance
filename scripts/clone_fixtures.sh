@@ -29,3 +29,6 @@ prepare_fixture "microsoft/TypeScript" "typescript" "5237fd46890956e4bb8177a1a05
 prepare_fixture "babel/babel" "babel" "93e39e4d0b657efe7f569f9d25acbff96ddb89dc"
 prepare_fixture "oxc-project/estree-conformance" "estree-conformance" "eb050aeacb0d0588f84829da0a5cbf0c63676637"
 prepare_fixture "swc-project/swc" "swc" "4768dbe091a6706a009d2e9c08950cacba107d55"
+
+rm -rf -- "$fixtures_root/test262-legacy"
+cp -R -- "$project_root/fixtures-test262-legacy" "$fixtures_root/test262-legacy"

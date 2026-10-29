@@ -5,8 +5,8 @@ use serde_json::{Value, json};
 
 use crate::{Output, Result, files, workspace_root};
 
-pub fn read() -> Result<Output> {
-    let root = workspace_root().join("fixtures/test262/test");
+pub fn read(suite: &str) -> Result<Output> {
+    let root = workspace_root().join("fixtures").join(suite).join("test");
     let mut output = Vec::new();
     for path in files(&root)? {
         if path.extension().is_none_or(|extension| extension != "js") {

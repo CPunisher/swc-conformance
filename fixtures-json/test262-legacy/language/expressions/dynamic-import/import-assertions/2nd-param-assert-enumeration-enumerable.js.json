@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-assertions",
+      "json-modules",
+      "Symbol",
+      "Proxy"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration-enumerable.js"
+}

@@ -142751,6 +142751,342 @@
     "snapshot": "test262/test/language/white-space/string-vertical-tab.js.json"
   },
   {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration-abrupt.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration-abrupt.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration-enumerable.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration-enumerable.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-enumeration.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-non-object.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-non-object.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-undefined.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-undefined.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-value-abrupt.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-value-abrupt.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-value-non-string.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-assert-value-non-string.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-await-expr.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-await-expr.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-await-ident.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-await-ident.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-abrupt-return.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-abrupt-return.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-abrupt-throw.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-abrupt-throw.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-sequence.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-evaluation-sequence.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-get-assert-error.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-get-assert-error.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-in.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-in.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-non-object.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-non-object.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-trailing-comma-fulfill.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-trailing-comma-fulfill.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-trailing-comma-reject.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-trailing-comma-reject.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-yield-expr.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-yield-expr.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-yield-ident-valid.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-yield-ident-valid.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param_FIXTURE.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param_FIXTURE.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/trailing-comma-fulfill.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/trailing-comma-fulfill.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/trailing-comma-reject.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/trailing-comma-reject.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-extensibility-array.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-extensibility-array.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-extensibility-object.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-extensibility-object.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/import/import-assertions/json-idempotency-indirect_FIXTURE.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-idempotency-indirect_FIXTURE.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-idempotency.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-idempotency.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-invalid.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-invalid.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-named-bindings.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-named-bindings.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-array.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-array.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-boolean.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-boolean.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-null.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-null.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-number.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-number.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-object.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-object.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-value-string.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-value-string.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/import/import-assertions/json-via-namespace.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/import/import-assertions/json-via-namespace.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/eval-gtbndng-indirect-faux-assertion.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/eval-gtbndng-indirect-faux-assertion.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-1_FIXTURE.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-1_FIXTURE.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-2_FIXTURE.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-2_FIXTURE.js.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-3_FIXTURE.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-3_FIXTURE.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-empty.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-empty.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-identifiername.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-identifiername.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-string-double.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-string-double.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-string-single.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-key-string-single.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-many.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-many.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-newlines.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-newlines.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-trlng-comma.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-trlng-comma.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-value-string-double.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-value-string-double.js.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/import-assertion-value-string-single.js",
+    "prefix": "",
+    "snapshot": "test262-legacy/test/language/module-code/import-assertions/import-assertion-value-string-single.js.json"
+  },
+  {
     "jsx": true,
     "module": false,
     "path": "swc/crates/swc_ecma_minifier/tests/fixture/issues/10041/input.js",

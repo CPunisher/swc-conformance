@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-assertions",
+      "json-modules"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "resolution",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-assertions/json-named-bindings.js"
+}

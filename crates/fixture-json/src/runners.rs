@@ -60,46 +60,52 @@ pub fn read() -> Result<Output> {
     let root = workspace_root().join("fixtures-json");
     let mut swc = Vec::new();
     let mut v8 = Vec::new();
-    for path in files(&root.join("test262"))? {
-        let input: Test262 = read_json(&path)?;
-        let meta = input.metadata.unwrap_or_default();
-        let has = |name: &str| meta.flags.iter().any(|flag| flag == name);
-        let module = has("module");
-        let prefix = if has("onlyStrict") && !module {
-            STRICT
-        } else {
-            ""
-        };
-        let parse_error = meta
-            .negative
-            .as_ref()
-            .is_some_and(|negative| matches!(negative.phase.as_str(), "parse" | "early"));
-        let language =
-            input.path.starts_with("language") || input.path.starts_with("annexB/language");
-        let source = PathBuf::from("test262/test").join(&input.path);
-        if language && !parse_error {
-            swc.push(json!({
-                "path": source,
-                "snapshot": source.with_added_extension("json"),
-                "module": module,
-                "jsx": false,
-                "prefix": prefix,
-            }));
-        }
-        let syntax_error = meta
-            .negative
-            .as_ref()
-            .is_some_and(|negative| parse_error && negative.kind.as_deref() == Some("SyntaxError"));
-        let name = input.path.file_name().unwrap().to_string_lossy();
-        if syntax_error && !name.contains("_FIXTURE") {
-            for mode in input.modes {
-                v8.push(json!({
+    for suite in ["test262", "test262-legacy"] {
+        for path in files(&root.join(suite))? {
+            let input: Test262 = read_json(&path)?;
+            let meta = input.metadata.unwrap_or_default();
+            let has = |name: &str| meta.flags.iter().any(|flag| flag == name);
+            let module = has("module");
+            let prefix = if has("onlyStrict") && !module {
+                STRICT
+            } else {
+                ""
+            };
+            let parse_error = meta
+                .negative
+                .as_ref()
+                .is_some_and(|negative| matches!(negative.phase.as_str(), "parse" | "early"));
+            let language =
+                input.path.starts_with("language") || input.path.starts_with("annexB/language");
+            let source = PathBuf::from(suite).join("test").join(&input.path);
+            if language && !parse_error {
+                swc.push(json!({
                     "path": source,
-                    "snapshot": format!("{}.{}.json", input.path.display(), mode),
-                    "module": mode == "module",
+                    "snapshot": source.with_added_extension("json"),
+                    "module": module,
                     "jsx": false,
-                    "prefix": if mode == "strict" { STRICT } else { "" },
+                    "prefix": prefix,
                 }));
+            }
+            let syntax_error = meta.negative.as_ref().is_some_and(|negative| {
+                parse_error && negative.kind.as_deref() == Some("SyntaxError")
+            });
+            let name = input.path.file_name().unwrap().to_string_lossy();
+            if syntax_error && !name.contains("_FIXTURE") {
+                for mode in input.modes {
+                    let mut snapshot =
+                        PathBuf::from(format!("{}.{}.json", input.path.display(), mode));
+                    if suite == "test262-legacy" {
+                        snapshot = PathBuf::from("legacy").join(snapshot);
+                    }
+                    v8.push(json!({
+                        "path": source,
+                        "snapshot": snapshot,
+                        "module": mode == "module",
+                        "jsx": false,
+                        "prefix": if mode == "strict" { STRICT } else { "" },
+                    }));
+                }
             }
         }
     }

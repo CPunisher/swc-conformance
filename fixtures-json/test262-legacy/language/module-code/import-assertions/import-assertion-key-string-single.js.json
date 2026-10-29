@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-assertions",
+      "globalThis"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "resolution",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-assertions/import-assertion-key-string-single.js"
+}

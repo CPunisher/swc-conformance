@@ -60611,5 +60611,33 @@
     "path": "test262/test/staging/sm/module/duplicate-exported-names-in-single-export-var-declaration.js",
     "prefix": "",
     "snapshot": "staging/sm/module/duplicate-exported-names-in-single-export-var-declaration.js.module.json"
+  },
+  {
+    "jsx": false,
+    "module": false,
+    "path": "test262-legacy/test/language/expressions/dynamic-import/import-assertions/2nd-param-yield-ident-invalid.js",
+    "prefix": "\"use strict\";\n",
+    "snapshot": "legacy/language/expressions/dynamic-import/import-assertions/2nd-param-yield-ident-invalid.js.strict.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/early-dup-assert-key-export.js",
+    "prefix": "",
+    "snapshot": "legacy/language/module-code/import-assertions/early-dup-assert-key-export.js.module.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/early-dup-assert-key-import-nobinding.js",
+    "prefix": "",
+    "snapshot": "legacy/language/module-code/import-assertions/early-dup-assert-key-import-nobinding.js.module.json"
+  },
+  {
+    "jsx": false,
+    "module": true,
+    "path": "test262-legacy/test/language/module-code/import-assertions/early-dup-assert-key-import-withbinding.js",
+    "prefix": "",
+    "snapshot": "legacy/language/module-code/import-assertions/early-dup-assert-key-import-withbinding.js.module.json"
   }
 ]

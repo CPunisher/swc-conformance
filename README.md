@@ -47,6 +47,7 @@ workspace Cargo check/Clippy and formatting. Do not add unit tests.
 
 The script prepares Test262, TypeScript, Babel, ESTree conformance, and SWC under
 `fixtures/`, using the revisions previously pinned by SWC Next. SWC Next passes
-its fixture directory and shared cache directory. Pins are maintained in the script.
+its fixture directory and shared cache directory. Pins are maintained in the script. Legacy Test262 sources are tracked in
+`fixtures-test262-legacy/` and initialized alongside the external fixtures.
 Bare repositories are cached under the Git common directory for worktree reuse.
 Run setup serially across worktrees sharing a cache.
