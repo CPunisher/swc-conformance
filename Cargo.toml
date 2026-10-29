@@ -1,8 +1,8 @@
 [workspace]
-members = ["crates/fixture-json", "crates/swc-conformance"]
 default-members = ["crates/swc-conformance"]
-exclude = ["vendor/swc_experimental_ecma_ast"]
-resolver = "3"
+exclude         = ["vendor/swc_experimental_ecma_ast"]
+members         = ["crates/fixture-json", "crates/swc-conformance"]
+resolver        = "3"
 
 [patch.crates-io]
 swc_experimental_ecma_ast = { path = "vendor/swc_experimental_ecma_ast" }

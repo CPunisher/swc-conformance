@@ -1,18 +1,18 @@
 [package]
-name = "fixture-json"
-version = "0.1.0"
-edition = "2024"
+edition      = "2024"
+name         = "fixture-json"
+publish      = false
 rust-version = "1.99"
-publish = false
+version      = "0.1.0"
 
 [[bin]]
 name = "fixture-json"
 test = false
 
 [dependencies]
-regex = "1"
-saphyr = "0.0.6"
-serde = { version = "1", features = ["derive"] }
-serde_json = "1"
-walkdir = "2.5.0"
+regex           = "1"
+saphyr          = "0.0.6"
+serde           = { version = "1", features = ["derive"] }
+serde_json      = "1"
 tsrs_testrunner = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
+walkdir         = "2.5.0"
