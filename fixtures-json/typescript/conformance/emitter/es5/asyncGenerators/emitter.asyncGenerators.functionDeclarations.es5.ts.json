@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "F1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "F2.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "F3.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "F4.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21
+      ],
+      "name": "F5.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "F6.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "F7.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/emitter/es5/asyncGenerators/emitter.asyncGenerators.functionDeclarations.es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emitter.asyncGenerators.functionDeclarations.es5(target=es5)",
+      "options": {
+        "filename": "F7.ts",
+        "lib": "esnext",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emitter.asyncGenerators.functionDeclarations.es5(target=es2015)",
+      "options": {
+        "filename": "F7.ts",
+        "lib": "esnext",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "TypedArray.prototype.at",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/at/return-abrupt-from-this-out-of-bounds.js"
+}

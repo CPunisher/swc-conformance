@@ -1,0 +1,83 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "exportDefaultObject.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "exportDefaultFunction.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "exportDefaultClass.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "exportDefaultLiteral.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "exportDefaultNull.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext, commonjs",
+    "strict": "true"
+  },
+  "path": "compiler/jsdocCommentDefaultExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "jsdocCommentDefaultExport(module=esnext)",
+      "options": {
+        "declaration": "true",
+        "filename": "exportDefaultNull.ts",
+        "module": "esnext",
+        "strict": "true"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "jsdocCommentDefaultExport(module=commonjs)",
+      "options": {
+        "declaration": "true",
+        "filename": "exportDefaultNull.ts",
+        "module": "commonjs",
+        "strict": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "scopeTests.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/scopeTests.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2415,
+            2415
+          ],
+          "file": "scopeTests.ts"
+        }
+      ],
+      "name": "scopeTests",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

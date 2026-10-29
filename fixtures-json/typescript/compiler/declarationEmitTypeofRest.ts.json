@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "v1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "v2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitTypeofRest.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitTypeofRest",
+      "options": {
+        "declaration": "true",
+        "filename": "v2.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "es6,dom",
+    "noemit": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment8_1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeFromPropertyAssignment8_1",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.js",
+        "lib": "es6,dom",
+        "noemit": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

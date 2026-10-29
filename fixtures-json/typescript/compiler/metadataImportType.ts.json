@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "metadataImportType.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/metadataImportType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2593,
+            2307
+          ],
+          "file": "metadataImportType.ts"
+        }
+      ],
+      "name": "metadataImportType",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

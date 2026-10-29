@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/component.vue"
+    }
+  ],
+  "options": {
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperDeclarationEmitFailure.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "contentMapperDeclarationEmitFailure",
+      "options": {
+        "filename": "/component.vue",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

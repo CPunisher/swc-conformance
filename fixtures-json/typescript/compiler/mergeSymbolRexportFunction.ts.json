@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "./a.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "./index.d.ts"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "./common.d.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "compiler/mergeSymbolRexportFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "main.ts"
+        },
+        {
+          "codes": [
+            2451
+          ],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [
+            2451
+          ],
+          "file": "index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "common.d.ts"
+        }
+      ],
+      "name": "mergeSymbolRexportFunction",
+      "options": {
+        "filename": "./common.d.ts",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

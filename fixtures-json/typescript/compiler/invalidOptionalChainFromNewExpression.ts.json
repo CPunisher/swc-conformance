@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "invalidOptionalChainFromNewExpression.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/invalidOptionalChainFromNewExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1209
+          ],
+          "file": "invalidOptionalChainFromNewExpression.ts"
+        }
+      ],
+      "name": "invalidOptionalChainFromNewExpression",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "asiPreventsParsingAsInterface03.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/interfaces/interfaceDeclarations/asiPreventsParsingAsInterface03.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            1212
+          ],
+          "file": "asiPreventsParsingAsInterface03.ts"
+        }
+      ],
+      "name": "asiPreventsParsingAsInterface03",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importClause_namespaceImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            1361,
+            1361,
+            2749,
+            2741,
+            2741,
+            1361
+          ],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "importClause_namespaceImport",
+      "options": {
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "exponentiationOperatorInTemplateStringWithSyntaxError3.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es7/exponentiationOperator/exponentiationOperatorInTemplateStringWithSyntaxError3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exponentiationOperatorInTemplateStringWithSyntaxError3(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            17006,
+            17006,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006,
+            2362,
+            17006
+          ],
+          "file": "exponentiationOperatorInTemplateStringWithSyntaxError3.ts"
+        }
+      ],
+      "name": "exponentiationOperatorInTemplateStringWithSyntaxError3(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

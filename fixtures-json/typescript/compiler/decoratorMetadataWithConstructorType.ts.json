@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "decoratorMetadataWithConstructorType.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "noemithelpers": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/decoratorMetadataWithConstructorType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorMetadataWithConstructorType(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "decoratorMetadataWithConstructorType(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "iteratorSpreadInArray10.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/spread/iteratorSpreadInArray10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2488
+          ],
+          "file": "iteratorSpreadInArray10.ts"
+        }
+      ],
+      "name": "iteratorSpreadInArray10",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

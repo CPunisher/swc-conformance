@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any",
+      "Symbol.iterator",
+      "arrow-function",
+      "computed-property-names",
+      "Symbol"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/invoke-then-get-error-close.js"
+}

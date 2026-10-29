@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "input.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationFileNoCrashOnExtraExportModifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309
+          ],
+          "file": "input.ts"
+        }
+      ],
+      "name": "declarationFileNoCrashOnExtraExportModifier",
+      "options": {
+        "filename": "input.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

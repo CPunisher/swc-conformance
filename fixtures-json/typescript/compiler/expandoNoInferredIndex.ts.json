@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/expandoNoInferredIndex.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "expandoNoInferredIndex",
+      "options": {
+        "checkjs": "true",
+        "filename": "main.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

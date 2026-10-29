@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "async.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309
+          ],
+          "file": "async.js"
+        }
+      ],
+      "name": "moduleExportAssignment4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "async.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

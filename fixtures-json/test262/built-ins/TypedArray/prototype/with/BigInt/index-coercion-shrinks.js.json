@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray",
+      "change-array-by-copy",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/with/BigInt/index-coercion-shrinks.js"
+}

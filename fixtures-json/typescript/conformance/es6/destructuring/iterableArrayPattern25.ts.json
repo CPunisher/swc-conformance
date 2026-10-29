@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "iterableArrayPattern25.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/destructuring/iterableArrayPattern25.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2554
+          ],
+          "file": "iterableArrayPattern25.ts"
+        }
+      ],
+      "name": "iterableArrayPattern25",
+      "options": {
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

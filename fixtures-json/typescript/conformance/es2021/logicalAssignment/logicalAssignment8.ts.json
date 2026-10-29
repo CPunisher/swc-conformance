@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "logicalAssignment8.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "esnext, es2021, es2020, es2015"
+  },
+  "path": "conformance/es2021/logicalAssignment/logicalAssignment8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2532
+          ],
+          "file": "logicalAssignment8.ts"
+        }
+      ],
+      "name": "logicalAssignment8(target=esnext)",
+      "options": {
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2021",
+      "diagnostics": [
+        {
+          "codes": [
+            2532
+          ],
+          "file": "logicalAssignment8.ts"
+        }
+      ],
+      "name": "logicalAssignment8(target=es2021)",
+      "options": {
+        "strict": "true",
+        "target": "es2021"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [
+        {
+          "codes": [
+            2532
+          ],
+          "file": "logicalAssignment8.ts"
+        }
+      ],
+      "name": "logicalAssignment8(target=es2020)",
+      "options": {
+        "strict": "true",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2532
+          ],
+          "file": "logicalAssignment8.ts"
+        }
+      ],
+      "name": "logicalAssignment8(target=es2015)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

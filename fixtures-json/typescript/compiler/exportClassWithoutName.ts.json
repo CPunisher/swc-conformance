@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "exportClassWithoutName.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportClassWithoutName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1211
+          ],
+          "file": "exportClassWithoutName.ts"
+        }
+      ],
+      "name": "exportClassWithoutName",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

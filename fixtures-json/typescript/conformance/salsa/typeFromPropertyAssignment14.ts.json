@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "def.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "work.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment14.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "def.js"
+        },
+        {
+          "codes": [],
+          "file": "work.js"
+        },
+        {
+          "codes": [
+            2503
+          ],
+          "file": "use.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment14",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

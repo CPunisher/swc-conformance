@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "objectBindingPattern_restElementWithPropertyName.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectBindingPattern_restElementWithPropertyName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2566
+          ],
+          "file": "objectBindingPattern_restElementWithPropertyName.ts"
+        }
+      ],
+      "name": "objectBindingPattern_restElementWithPropertyName",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

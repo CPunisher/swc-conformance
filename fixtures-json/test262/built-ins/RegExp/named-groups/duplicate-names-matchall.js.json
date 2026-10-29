@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-duplicate-named-groups"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "compareIterator.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/named-groups/duplicate-names-matchall.js"
+}

@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "decoratorOnFunctionExpression.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnFunctionExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            1005,
+            1003
+          ],
+          "file": "decoratorOnFunctionExpression.ts"
+        }
+      ],
+      "name": "decoratorOnFunctionExpression",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

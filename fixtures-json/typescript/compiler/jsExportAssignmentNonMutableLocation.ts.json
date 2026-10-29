@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "file.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "path": "compiler/jsExportAssignmentNonMutableLocation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2551
+          ],
+          "file": "file.js"
+        }
+      ],
+      "name": "jsExportAssignmentNonMutableLocation",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "file.js",
+        "module": "commonjs",
+        "target": "es6"
+      }
+    }
+  ]
+}

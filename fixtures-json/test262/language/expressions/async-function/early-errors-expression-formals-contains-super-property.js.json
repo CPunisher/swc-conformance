@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-function/early-errors-expression-formals-contains-super-property.js"
+}

@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importedAliasesInTypePositions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [],
+          "file": "file1.ts"
+        }
+      ],
+      "name": "importedAliasesInTypePositions",
+      "options": {
+        "filename": "file2.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

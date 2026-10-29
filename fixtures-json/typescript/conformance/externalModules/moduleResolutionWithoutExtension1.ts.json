@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/src/foo.mts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/src/bar.mts"
+    }
+  ],
+  "options": {
+    "module": "node16",
+    "moduleresolution": "node16",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/moduleResolutionWithoutExtension1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/foo.mts"
+        },
+        {
+          "codes": [
+            2835,
+            2834
+          ],
+          "file": "/src/bar.mts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension1",
+      "options": {
+        "filename": "/src/bar.mts",
+        "module": "node16",
+        "moduleresolution": "node16",
+        "target": "es2022"
+      }
+    }
+  ]
+}

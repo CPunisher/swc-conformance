@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/directives/ts-expect-error-js.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2578
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "ts-expect-error-js",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/source-phase-imports/import-source-source-text-module.js"
+}

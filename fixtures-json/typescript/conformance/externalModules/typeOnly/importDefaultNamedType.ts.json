@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importDefaultNamedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importDefaultNamedType",
+      "options": {
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

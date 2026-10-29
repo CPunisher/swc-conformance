@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "instanceofWithPrimitiveUnion.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/instanceofWithPrimitiveUnion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2358,
+            2358
+          ],
+          "file": "instanceofWithPrimitiveUnion.ts"
+        }
+      ],
+      "name": "instanceofWithPrimitiveUnion",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "MyComponent.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "compiler/importElisionExportNonExportAndDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importElisionExportNonExportAndDefault",
+      "options": {
+        "filename": "MyComponent.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

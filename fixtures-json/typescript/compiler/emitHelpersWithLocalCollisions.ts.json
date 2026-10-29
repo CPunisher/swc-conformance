@@ -1,0 +1,172 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "module": "*, -amd",
+    "notypesandsymbols": "true",
+    "target": "es6"
+  },
+  "path": "compiler/emitHelpersWithLocalCollisions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=commonjs)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=system)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "system",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=umd",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=umd)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "umd",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=es6",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=es6)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "es6",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=es2020",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=es2020)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "es2020",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=es2022",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=es2022)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "es2022",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=esnext)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=node16",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=node16)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "node16",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=node18)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "node18",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=node20)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "node20",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=nodenext)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "emitHelpersWithLocalCollisions(module=preserve)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "a.ts",
+        "module": "preserve",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

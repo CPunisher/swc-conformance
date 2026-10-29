@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "extendedEscapesForAstralsInVarsAndClasses.ts"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "astralAsSurrogatePair.ts"
+    }
+  ],
+  "options": {
+    "module": "es2015",
+    "sourcemap": "true",
+    "target": "es5,es2015"
+  },
+  "path": "compiler/unicodeEscapesInNames02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "unicodeEscapesInNames02(target=es5)",
+      "options": {
+        "filename": "astralAsSurrogatePair.ts",
+        "module": "es2015",
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "extendedEscapesForAstralsInVarsAndClasses.ts"
+        },
+        {
+          "codes": [
+            1127,
+            2305,
+            1127,
+            2305
+          ],
+          "file": "astralAsSurrogatePair.ts"
+        }
+      ],
+      "name": "unicodeEscapesInNames02(target=es2015)",
+      "options": {
+        "filename": "astralAsSurrogatePair.ts",
+        "module": "es2015",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

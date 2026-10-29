@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "aux.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "aux1.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "aux2.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/decoratorMetadataRestParameterWithImportedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorMetadataRestParameterWithImportedType(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aux.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aux1.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aux2.ts"
+        },
+        {
+          "codes": [],
+          "file": "main.ts"
+        }
+      ],
+      "name": "decoratorMetadataRestParameterWithImportedType(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/src/library-a/index.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/src/library-b/index.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/src/app.ts"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "outdir": "/src/bin",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithSymlinks_withOutDir.ts",
+  "symlinks": {
+    "/src/library-b/node_modules/library-a/index.ts": "/src/library-a/index.ts"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "/src/app.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "/src/library-a/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/src/library-b/index.ts"
+        }
+      ],
+      "name": "moduleResolutionWithSymlinks_withOutDir",
+      "options": {
+        "filename": "/src/app.ts",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "outdir": "/src/bin",
+        "symlink": "/src/library-b/node_modules/library-a/index.ts",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

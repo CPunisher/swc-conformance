@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "declarationEmitUnknownImport.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/declarationEmitUnknownImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declarationEmitUnknownImport(target=es5)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2303,
+            2304,
+            2503,
+            2303
+          ],
+          "file": "declarationEmitUnknownImport.ts"
+        }
+      ],
+      "name": "declarationEmitUnknownImport(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

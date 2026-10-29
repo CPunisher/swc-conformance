@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        5,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationDuplicateFunctionImplementation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            2393
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "jsFileCompilationDuplicateFunctionImplementation",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "a.ts",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "bar.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "foo.d.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/crashDeclareGlobalTypeofExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2451,
+            2451,
+            2502
+          ],
+          "file": "bar.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo.d.ts"
+        }
+      ],
+      "name": "crashDeclareGlobalTypeofExport",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "foo.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality",
+      "Reflect",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/DefineOwnProperty/detached-buffer.js"
+}

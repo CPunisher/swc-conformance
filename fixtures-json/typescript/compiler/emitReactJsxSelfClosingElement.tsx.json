@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx"
+  },
+  "path": "compiler/emitReactJsxSelfClosingElement.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2875,
+            2552
+          ],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "emitReactJsxSelfClosingElement",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "react-jsx"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "foo_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "foo_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/importNonExternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2306
+          ],
+          "file": "foo_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo_0.ts"
+        }
+      ],
+      "name": "importNonExternalModule",
+      "options": {
+        "filename": "foo_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsTypeReferences4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsTypeReferences4(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            8006,
+            8006
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/node/index.d.ts"
+        }
+      ],
+      "name": "jsDeclarationsTypeReferences4(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

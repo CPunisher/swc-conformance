@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "change-array-by-copy"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/with/index-casted-to-number.js"
+}

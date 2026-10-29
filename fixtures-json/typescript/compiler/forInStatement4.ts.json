@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "forInStatement4.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/forInStatement4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2404
+          ],
+          "file": "forInStatement4.ts"
+        }
+      ],
+      "name": "forInStatement4",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

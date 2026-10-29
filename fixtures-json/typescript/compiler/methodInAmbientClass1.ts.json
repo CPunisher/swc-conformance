@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "methodInAmbientClass1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/methodInAmbientClass1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2355,
+            1183
+          ],
+          "file": "methodInAmbientClass1.ts"
+        }
+      ],
+      "name": "methodInAmbientClass1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

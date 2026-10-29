@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "bug24024.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAlias4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "bug24024.js"
+        }
+      ],
+      "name": "moduleExportAlias4",
+      "options": {
+        "checkjs": "true",
+        "filename": "bug24024.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

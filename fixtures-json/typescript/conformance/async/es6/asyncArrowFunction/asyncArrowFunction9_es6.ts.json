@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "asyncArrowFunction9_es6.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/async/es6/asyncArrowFunction/asyncArrowFunction9_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            1005,
+            2403,
+            1005,
+            1109
+          ],
+          "file": "asyncArrowFunction9_es6.ts"
+        }
+      ],
+      "name": "asyncArrowFunction9_es6",
+      "options": {
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

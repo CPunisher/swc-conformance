@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/foo/zone.js/index.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/foo/zone.tsx/index.d.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution_withExtensionInName.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution_withExtensionInName",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

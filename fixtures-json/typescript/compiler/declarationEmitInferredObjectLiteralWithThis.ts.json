@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "declarationEmitInferredObjectLiteralWithThis.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/declarationEmitInferredObjectLiteralWithThis.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2527,
+            2527
+          ],
+          "file": "declarationEmitInferredObjectLiteralWithThis.ts"
+        }
+      ],
+      "name": "declarationEmitInferredObjectLiteralWithThis",
+      "options": {
+        "declaration": "true"
+      }
+    }
+  ]
+}

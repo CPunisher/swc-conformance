@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "spreadIntersectionJsx.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "compiler/spreadIntersectionJsx.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7008,
+            7008,
+            7026,
+            2454
+          ],
+          "file": "spreadIntersectionJsx.tsx"
+        }
+      ],
+      "name": "spreadIntersectionJsx",
+      "options": {
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

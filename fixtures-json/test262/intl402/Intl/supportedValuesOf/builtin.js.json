@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/builtin.js"
+}

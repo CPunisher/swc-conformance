@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "vs/foo_0.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/importNonStringLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1141
+          ],
+          "file": "vs/foo_0.ts"
+        }
+      ],
+      "name": "importNonStringLiteral",
+      "options": {
+        "filename": "vs/foo_0.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

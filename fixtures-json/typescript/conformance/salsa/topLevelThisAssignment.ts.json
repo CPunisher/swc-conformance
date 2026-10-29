@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/topLevelThisAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "topLevelThisAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.js",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

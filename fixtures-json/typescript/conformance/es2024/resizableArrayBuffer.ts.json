@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "resizableArrayBuffer.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2023,es2024.arraybuffer",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/es2024/resizableArrayBuffer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "resizableArrayBuffer",
+      "options": {
+        "lib": "es2023,es2024.arraybuffer",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "functionAndPropertyNameConflict.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionAndPropertyNameConflict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "functionAndPropertyNameConflict.ts"
+        }
+      ],
+      "name": "functionAndPropertyNameConflict",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

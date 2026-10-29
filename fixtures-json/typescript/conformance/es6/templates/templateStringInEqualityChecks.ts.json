@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "templateStringInEqualityChecks.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInEqualityChecks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367,
+            2367
+          ],
+          "file": "templateStringInEqualityChecks.ts"
+        }
+      ],
+      "name": "templateStringInEqualityChecks",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

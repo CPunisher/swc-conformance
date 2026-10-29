@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "emptyFile-declaration.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "sourcemap": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/emptyFile-declaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emptyFile-declaration(target=es5)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emptyFile-declaration(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

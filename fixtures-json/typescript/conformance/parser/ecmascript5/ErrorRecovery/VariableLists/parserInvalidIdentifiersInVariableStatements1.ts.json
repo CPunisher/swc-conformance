@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserInvalidIdentifiersInVariableStatements1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/VariableLists/parserInvalidIdentifiersInVariableStatements1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1389,
+            1389,
+            1005
+          ],
+          "file": "parserInvalidIdentifiersInVariableStatements1.ts"
+        }
+      ],
+      "name": "parserInvalidIdentifiersInVariableStatements1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

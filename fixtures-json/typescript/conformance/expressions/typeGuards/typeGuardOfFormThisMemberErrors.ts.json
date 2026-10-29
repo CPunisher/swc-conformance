@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "typeGuardOfFormThisMemberErrors.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/expressions/typeGuards/typeGuardOfFormThisMemberErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "typeGuardOfFormThisMemberErrors(target=es5)",
+      "options": {
+        "declaration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            1228,
+            1228,
+            1228,
+            2564,
+            1228,
+            2564
+          ],
+          "file": "typeGuardOfFormThisMemberErrors.ts"
+        }
+      ],
+      "name": "typeGuardOfFormThisMemberErrors(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

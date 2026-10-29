@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "stringLiteralsAssertionsInEqualityComparisons02.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/literal/stringLiteralsAssertionsInEqualityComparisons02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367,
+            2367,
+            2352
+          ],
+          "file": "stringLiteralsAssertionsInEqualityComparisons02.ts"
+        }
+      ],
+      "name": "stringLiteralsAssertionsInEqualityComparisons02",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

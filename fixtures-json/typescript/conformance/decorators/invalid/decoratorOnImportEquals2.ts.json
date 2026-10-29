@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "decoratorOnImportEquals2_0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "decoratorOnImportEquals2_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnImportEquals2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "decoratorOnImportEquals2_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "decoratorOnImportEquals2_0.ts"
+        }
+      ],
+      "name": "decoratorOnImportEquals2",
+      "options": {
+        "filename": "decoratorOnImportEquals2_1.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

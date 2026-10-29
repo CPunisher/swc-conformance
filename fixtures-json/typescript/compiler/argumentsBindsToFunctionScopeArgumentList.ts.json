@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "argumentsBindsToFunctionScopeArgumentList.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/argumentsBindsToFunctionScopeArgumentList.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1100,
+            1100,
+            2322
+          ],
+          "file": "argumentsBindsToFunctionScopeArgumentList.ts"
+        }
+      ],
+      "name": "argumentsBindsToFunctionScopeArgumentList(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "argumentsBindsToFunctionScopeArgumentList(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

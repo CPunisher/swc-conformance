@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "data.json"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "data.d.json.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "module": "commonjs",
+    "resolvejsonmodule": "true,false",
+    "target": "es2015"
+  },
+  "path": "conformance/nonjsExtensions/declarationFileForJsonImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "resolvejsonmodule=true",
+      "diagnostics": [],
+      "name": "declarationFileForJsonImport(resolvejsonmodule=true)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "data.d.json.ts",
+        "module": "commonjs",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "resolvejsonmodule=false",
+      "diagnostics": [],
+      "name": "declarationFileForJsonImport(resolvejsonmodule=false)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "data.d.json.ts",
+        "module": "commonjs",
+        "resolvejsonmodule": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

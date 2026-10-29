@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/Card.astro"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperOutputExtensionsNoReverseResolution.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mapper/package.json"
+        }
+      ],
+      "name": "contentMapperOutputExtensionsNoReverseResolution",
+      "options": {
+        "filename": "/main.ts",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        12,
+        19
+      ],
+      "name": "/b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocSatisfiesTag4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2741
+          ],
+          "file": "/a.js"
+        },
+        {
+          "codes": [],
+          "file": "/b.js"
+        }
+      ],
+      "name": "checkJsdocSatisfiesTag4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/b.js",
+        "module": "esnext",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

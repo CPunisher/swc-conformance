@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "declarationEmitLambdaWithMissingTypeParameterNoCrash.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitLambdaWithMissingTypeParameterNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "declarationEmitLambdaWithMissingTypeParameterNoCrash.ts"
+        }
+      ],
+      "name": "declarationEmitLambdaWithMissingTypeParameterNoCrash",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "typeInferenceTypePredicate.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeInferenceTypePredicate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2677,
+            2677
+          ],
+          "file": "typeInferenceTypePredicate.ts"
+        }
+      ],
+      "name": "typeInferenceTypePredicate",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

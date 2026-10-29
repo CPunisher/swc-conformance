@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "other.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeValueMerge1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeValueMerge1",
+      "options": {
+        "filename": "main.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

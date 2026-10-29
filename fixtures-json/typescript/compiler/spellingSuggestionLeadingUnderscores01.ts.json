@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "spellingSuggestionLeadingUnderscores01.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/spellingSuggestionLeadingUnderscores01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2551,
+            2561
+          ],
+          "file": "spellingSuggestionLeadingUnderscores01.ts"
+        }
+      ],
+      "name": "spellingSuggestionLeadingUnderscores01",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

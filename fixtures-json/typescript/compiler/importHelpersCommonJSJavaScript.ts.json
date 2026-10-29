@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        38,
+        39
+      ],
+      "name": "/node_modules/tslib/modules/package.json"
+    },
+    {
+      "lines": [
+        41,
+        42
+      ],
+      "name": "/node_modules/tslib/modules/index.d.ts"
+    },
+    {
+      "lines": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "importhelpers": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es2015",
+    "verbatimmodulesyntax": "true,false"
+  },
+  "path": "compiler/importHelpersCommonJSJavaScript.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "verbatimmodulesyntax=true",
+      "diagnostics": [],
+      "name": "importHelpersCommonJSJavaScript(verbatimmodulesyntax=true)",
+      "options": {
+        "checkjs": "true",
+        "filename": "/index.js",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "importHelpersCommonJSJavaScript(verbatimmodulesyntax=false)",
+      "options": {
+        "checkjs": "true",
+        "filename": "/index.js",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015",
+        "verbatimmodulesyntax": "false"
+      }
+    }
+  ]
+}

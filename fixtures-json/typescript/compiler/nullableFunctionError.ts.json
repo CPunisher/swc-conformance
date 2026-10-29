@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "nullableFunctionError.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/nullableFunctionError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2721,
+            2722,
+            2723
+          ],
+          "file": "nullableFunctionError.ts"
+        }
+      ],
+      "name": "nullableFunctionError",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

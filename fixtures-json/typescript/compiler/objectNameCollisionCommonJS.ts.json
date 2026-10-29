@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "objectNameCollisionCommonJS.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs,esnext"
+  },
+  "path": "compiler/objectNameCollisionCommonJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [
+            2441
+          ],
+          "file": "objectNameCollisionCommonJS.ts"
+        }
+      ],
+      "name": "objectNameCollisionCommonJS(module=commonjs)",
+      "options": {
+        "module": "commonjs"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "objectNameCollisionCommonJS(module=esnext)",
+      "options": {
+        "module": "esnext"
+      }
+    }
+  ]
+}

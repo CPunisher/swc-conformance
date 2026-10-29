@@ -1,0 +1,225 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "index.mjs"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "index.cjs"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeAllowJsPackageSelfName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2209
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeAllowJsPackageSelfName(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2209
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeAllowJsPackageSelfName(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2209
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeAllowJsPackageSelfName(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2209
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeAllowJsPackageSelfName(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

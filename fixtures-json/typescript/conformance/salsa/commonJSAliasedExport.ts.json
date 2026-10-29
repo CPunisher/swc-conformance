@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "commonJSAliasedExport.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "bug43713.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out/",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/commonJSAliasedExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2305
+          ],
+          "file": "bug43713.js"
+        },
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "commonJSAliasedExport.js"
+        }
+      ],
+      "name": "commonJSAliasedExport",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "bug43713.js",
+        "outdir": "out/",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "r/node_modules/foo/node_modules/nested/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "r/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "r/entry.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitUnsafeImportSymbolName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/node_modules/nested/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [
+            2883
+          ],
+          "file": "r/entry.ts"
+        }
+      ],
+      "name": "declarationEmitUnsafeImportSymbolName",
+      "options": {
+        "declaration": "true",
+        "filename": "r/entry.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

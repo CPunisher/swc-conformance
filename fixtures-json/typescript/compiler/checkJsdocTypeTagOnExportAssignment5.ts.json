@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "checkJsdocTypeTagOnExportAssignment5.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsdocTypeTagOnExportAssignment5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "checkJsdocTypeTagOnExportAssignment5",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

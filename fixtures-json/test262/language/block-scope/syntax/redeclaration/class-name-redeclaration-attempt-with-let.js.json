@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/block-scope/syntax/redeclaration/class-name-redeclaration-attempt-with-let.js"
+}

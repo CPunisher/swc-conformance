@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/declarations.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport_vsAmbient.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "untypedModuleImport_vsAmbient",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

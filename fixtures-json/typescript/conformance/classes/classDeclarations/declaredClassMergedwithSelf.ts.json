@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "file3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/declaredClassMergedwithSelf.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300,
+            2300,
+            2300,
+            2300
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2300
+          ],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [
+            2300
+          ],
+          "file": "file3.ts"
+        }
+      ],
+      "name": "declaredClassMergedwithSelf",
+      "options": {
+        "filename": "file3.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "myFile01.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/salsa/exportDefaultInJsFile01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportDefaultInJsFile01(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "filename": "myFile01.js",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "myFile01.js"
+        }
+      ],
+      "name": "exportDefaultInJsFile01(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "filename": "myFile01.js",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

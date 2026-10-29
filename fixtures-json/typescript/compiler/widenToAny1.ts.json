@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "widenToAny1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/widenToAny1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "widenToAny1.ts"
+        }
+      ],
+      "name": "widenToAny1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

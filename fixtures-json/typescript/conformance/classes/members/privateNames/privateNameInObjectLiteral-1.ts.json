@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "privateNameInObjectLiteral-1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameInObjectLiteral-1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18016
+          ],
+          "file": "privateNameInObjectLiteral-1.ts"
+        }
+      ],
+      "name": "privateNameInObjectLiteral-1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

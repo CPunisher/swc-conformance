@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "classWithStaticFieldInParameterInitializer.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "esnext,es2015,es5"
+  },
+  "path": "conformance/classes/classExpressions/classWithStaticFieldInParameterInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterInitializer(target=esnext)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterInitializer(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterInitializer(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    }
+  ]
+}

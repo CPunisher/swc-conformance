@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "asyncArrowFunction5_es5.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/async/es5/asyncArrowFunction/asyncArrowFunction5_es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "asyncArrowFunction5_es5(target=es5)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1359
+          ],
+          "file": "asyncArrowFunction5_es5.ts"
+        }
+      ],
+      "name": "asyncArrowFunction5_es5(target=es2015)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

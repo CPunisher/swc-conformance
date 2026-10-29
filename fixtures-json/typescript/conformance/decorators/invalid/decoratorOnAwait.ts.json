@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "decoratorOnAwait.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnAwait.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1146
+          ],
+          "file": "decoratorOnAwait.ts"
+        }
+      ],
+      "name": "decoratorOnAwait",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

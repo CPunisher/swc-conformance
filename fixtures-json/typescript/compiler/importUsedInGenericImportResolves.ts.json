@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "test1.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "test2.d.ts"
+    },
+    {
+      "lines": [
+        11
+      ],
+      "name": "test3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importUsedInGenericImportResolves.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importUsedInGenericImportResolves",
+      "options": {
+        "filename": "test3.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

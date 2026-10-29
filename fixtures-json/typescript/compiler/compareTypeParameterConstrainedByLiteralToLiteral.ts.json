@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "compareTypeParameterConstrainedByLiteralToLiteral.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/compareTypeParameterConstrainedByLiteralToLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367
+          ],
+          "file": "compareTypeParameterConstrainedByLiteralToLiteral.ts"
+        }
+      ],
+      "name": "compareTypeParameterConstrainedByLiteralToLiteral",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

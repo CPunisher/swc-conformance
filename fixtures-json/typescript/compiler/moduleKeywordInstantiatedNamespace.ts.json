@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "moduleKeywordInstantiatedNamespace.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleKeywordInstantiatedNamespace.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1540
+          ],
+          "file": "moduleKeywordInstantiatedNamespace.ts"
+        }
+      ],
+      "name": "moduleKeywordInstantiatedNamespace",
+      "options": {
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

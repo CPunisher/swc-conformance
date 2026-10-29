@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "declarationWithNoInitializer.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/es6/destructuring/declarationWithNoInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1182,
+            1182
+          ],
+          "file": "declarationWithNoInitializer.ts"
+        }
+      ],
+      "name": "declarationWithNoInitializer",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

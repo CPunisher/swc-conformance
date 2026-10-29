@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes",
+      "globalThis"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "resolution",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-attributes/import-attribute-key-string-single.js"
+}

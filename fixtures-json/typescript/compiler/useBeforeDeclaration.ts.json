@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "A.ts"
+    },
+    {
+      "lines": [
+        4,
+        8,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "B.ts"
+    }
+  ],
+  "options": {
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/useBeforeDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "useBeforeDeclaration",
+      "options": {
+        "filename": "B.ts",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

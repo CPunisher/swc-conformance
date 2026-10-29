@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "blockScopedFunctionDeclarationInStrictModule.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "esnext"
+  },
+  "path": "compiler/blockScopedFunctionDeclarationInStrictModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "blockScopedFunctionDeclarationInStrictModule.ts"
+        }
+      ],
+      "name": "blockScopedFunctionDeclarationInStrictModule",
+      "options": {
+        "module": "commonjs",
+        "target": "esnext"
+      }
+    }
+  ]
+}

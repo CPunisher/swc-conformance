@@ -1,0 +1,171 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "dir/package.json"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "dir/native.d.node.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true,false",
+    "lib": "es2020,dom",
+    "module": "node18,node20,nodenext",
+    "target": "es2020"
+  },
+  "path": "conformance/nonjsExtensions/declarationFilesForNodeNativeModules.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowarbitraryextensions=true,module=node18",
+      "diagnostics": [],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=true,module=node18)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "node18",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=true,module=node20",
+      "diagnostics": [],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=true,module=node20)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "node20",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=true,module=nodenext",
+      "diagnostics": [],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=true,module=nodenext)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "nodenext",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=false,module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            6263
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/native.d.node.ts"
+        }
+      ],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=false,module=node18)",
+      "options": {
+        "allowarbitraryextensions": "false",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "node18",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=false,module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            6263
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/native.d.node.ts"
+        }
+      ],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=false,module=node20)",
+      "options": {
+        "allowarbitraryextensions": "false",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "node20",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=false,module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            6263
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/package.json"
+        },
+        {
+          "codes": [],
+          "file": "dir/native.d.node.ts"
+        }
+      ],
+      "name": "declarationFilesForNodeNativeModules(allowarbitraryextensions=false,module=nodenext)",
+      "options": {
+        "allowarbitraryextensions": "false",
+        "filename": "main.ts",
+        "lib": "es2020,dom",
+        "module": "nodenext",
+        "target": "es2020"
+      }
+    }
+  ]
+}

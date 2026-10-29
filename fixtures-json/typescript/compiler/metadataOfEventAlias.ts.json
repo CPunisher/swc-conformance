@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "event.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "skiplibcheck": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/metadataOfEventAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "metadataOfEventAlias(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "test.ts",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "event.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "metadataOfEventAlias(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "test.ts",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

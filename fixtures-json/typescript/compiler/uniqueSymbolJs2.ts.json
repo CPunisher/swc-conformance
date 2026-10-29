@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "lib": "esnext",
+    "outdir": "dist",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/uniqueSymbolJs2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367
+          ],
+          "file": "/index.js"
+        }
+      ],
+      "name": "uniqueSymbolJs2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "/index.js",
+        "lib": "esnext",
+        "outdir": "dist",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

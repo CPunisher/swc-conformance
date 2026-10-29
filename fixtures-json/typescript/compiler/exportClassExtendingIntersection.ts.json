@@ -1,0 +1,99 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "BaseClass.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "MixinClass.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "FinalClass.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "Main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportClassExtendingIntersection.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "BaseClass.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "MixinClass.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "FinalClass.ts"
+        },
+        {
+          "codes": [],
+          "file": "Main.ts"
+        }
+      ],
+      "name": "exportClassExtendingIntersection",
+      "options": {
+        "declaration": "true",
+        "filename": "Main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

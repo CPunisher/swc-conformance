@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parserConstructorDeclaration8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ConstructorDeclarations/parserConstructorDeclaration8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2390,
+            1005
+          ],
+          "file": "parserConstructorDeclaration8.ts"
+        }
+      ],
+      "name": "parserConstructorDeclaration8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/early-errors-object-method-arguments-in-formal-parameters.js"
+}

@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        0,
+        1,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "destructuringArrayBindingPatternAndAssignment4.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "lib": "es6",
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/destructuring/destructuringArrayBindingPatternAndAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringArrayBindingPatternAndAssignment4(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es6",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2488
+          ],
+          "file": "destructuringArrayBindingPatternAndAssignment4.ts"
+        }
+      ],
+      "name": "destructuringArrayBindingPatternAndAssignment4(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es6",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

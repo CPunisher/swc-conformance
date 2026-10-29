@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "mod3.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefCrossModule4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typedefCrossModule4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "mod3.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

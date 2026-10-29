@@ -1,0 +1,121 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport_require.ts"
+    },
+    {
+      "lines": [
+        5,
+        11,
+        12,
+        13
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport_require1.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport_require2.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport_require3.ts"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport_core.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/privacyTopLevelAmbientExternalModuleImportWithExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2323,
+            2323
+          ],
+          "file": "privacyTopLevelAmbientExternalModuleImportWithExport_core.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "privacyTopLevelAmbientExternalModuleImportWithExport_require.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "privacyTopLevelAmbientExternalModuleImportWithExport_require1.ts"
+        },
+        {
+          "codes": [],
+          "file": "privacyTopLevelAmbientExternalModuleImportWithExport_require2.ts"
+        },
+        {
+          "codes": [],
+          "file": "privacyTopLevelAmbientExternalModuleImportWithExport_require3.ts"
+        }
+      ],
+      "name": "privacyTopLevelAmbientExternalModuleImportWithExport",
+      "options": {
+        "declaration": "true",
+        "filename": "privacyTopLevelAmbientExternalModuleImportWithExport_core.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

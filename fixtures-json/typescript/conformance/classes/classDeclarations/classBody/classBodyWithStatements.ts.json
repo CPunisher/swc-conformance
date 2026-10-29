@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "classBodyWithStatements.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classBody/classBodyWithStatements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1068,
+            1128,
+            1068,
+            1128
+          ],
+          "file": "classBodyWithStatements.ts"
+        }
+      ],
+      "name": "classBodyWithStatements",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

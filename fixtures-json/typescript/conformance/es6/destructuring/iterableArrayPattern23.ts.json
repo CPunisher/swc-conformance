@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "iterableArrayPattern23.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/destructuring/iterableArrayPattern23.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2488
+          ],
+          "file": "iterableArrayPattern23.ts"
+        }
+      ],
+      "name": "iterableArrayPattern23",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

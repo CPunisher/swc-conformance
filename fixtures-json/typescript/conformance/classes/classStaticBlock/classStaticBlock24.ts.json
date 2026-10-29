@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "classStaticBlock24.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs, es2015, es2020, es2022, UMD, System, esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock24.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=commonjs)",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2015",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=es2015)",
+      "options": {
+        "module": "es2015",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2020",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=es2020)",
+      "options": {
+        "module": "es2020",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2022",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=es2022)",
+      "options": {
+        "module": "es2022",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=umd",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=umd)",
+      "options": {
+        "module": "UMD",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=system)",
+      "options": {
+        "module": "System",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "classStaticBlock24(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

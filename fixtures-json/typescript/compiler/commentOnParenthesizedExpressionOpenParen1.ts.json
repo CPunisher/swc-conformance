@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "commentOnParenthesizedExpressionOpenParen1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/commentOnParenthesizedExpressionOpenParen1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "commentOnParenthesizedExpressionOpenParen1.ts"
+        }
+      ],
+      "name": "commentOnParenthesizedExpressionOpenParen1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

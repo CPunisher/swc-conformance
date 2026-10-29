@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "definiteAssignmentWithErrorStillStripped.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "esnext",
+    "usedefineforclassfields": "true"
+  },
+  "path": "compiler/definiteAssignmentWithErrorStillStripped.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1264
+          ],
+          "file": "definiteAssignmentWithErrorStillStripped.ts"
+        }
+      ],
+      "name": "definiteAssignmentWithErrorStillStripped",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

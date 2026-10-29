@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "thingB.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "things.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitAliasExportStar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitAliasExportStar",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

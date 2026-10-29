@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/await-using/syntax/await-using-invalid-arraybindingpattern-does-not-break-element-access.js"
+}

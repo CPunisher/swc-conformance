@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/import/import-defer/syntax/invalid-defer-as-with-no-asterisk.js"
+}

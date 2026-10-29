@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "let",
+      "const"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/early-dup-lex.js"
+}

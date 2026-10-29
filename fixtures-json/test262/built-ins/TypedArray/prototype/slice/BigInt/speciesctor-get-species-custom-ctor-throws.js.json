@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol.species",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/slice/BigInt/speciesctor-get-species-custom-ctor-throws.js"
+}

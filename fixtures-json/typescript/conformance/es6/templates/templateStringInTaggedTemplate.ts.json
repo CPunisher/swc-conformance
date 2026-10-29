@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "templateStringInTaggedTemplate.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInTaggedTemplate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349
+          ],
+          "file": "templateStringInTaggedTemplate.ts"
+        }
+      ],
+      "name": "templateStringInTaggedTemplate",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

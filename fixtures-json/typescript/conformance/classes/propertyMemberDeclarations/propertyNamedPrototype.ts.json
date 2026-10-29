@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "propertyNamedPrototype.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/propertyNamedPrototype.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2699
+          ],
+          "file": "propertyNamedPrototype.ts"
+        }
+      ],
+      "name": "propertyNamedPrototype",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "unusedSemicolonInClass.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedSemicolonInClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "unusedSemicolonInClass",
+      "options": {
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

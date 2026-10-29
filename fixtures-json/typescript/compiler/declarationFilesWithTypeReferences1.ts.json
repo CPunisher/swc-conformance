@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/app.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "declaration": "true",
+    "target": "es2015",
+    "types": "node"
+  },
+  "path": "compiler/declarationFilesWithTypeReferences1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@types/node/index.d.ts"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "/app.ts"
+        }
+      ],
+      "name": "declarationFilesWithTypeReferences1",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/app.ts",
+        "target": "es2015",
+        "types": "node"
+      }
+    }
+  ]
+}

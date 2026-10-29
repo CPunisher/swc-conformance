@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "react.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsdocExtendsClauseMismatch.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "react.d.ts"
+        },
+        {
+          "codes": [
+            8023
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "jsdocExtendsClauseMismatch",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "main.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

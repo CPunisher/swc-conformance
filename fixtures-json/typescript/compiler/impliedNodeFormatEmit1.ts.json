@@ -1,0 +1,214 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/b.mts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/c.cts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/d.js"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/e.mjs"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/f.mjs"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "/g.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "/h.mts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "/i.cts"
+    },
+    {
+      "lines": [
+        39,
+        40
+      ],
+      "name": "/dummy.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext, commonjs, system, umd, preserve",
+    "moduleresolution": "bundler",
+    "notypesandsymbols": "true",
+    "outdir": "dist",
+    "target": "es2015"
+  },
+  "path": "compiler/impliedNodeFormatEmit1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.mts"
+        },
+        {
+          "codes": [],
+          "file": "/c.cts"
+        },
+        {
+          "codes": [],
+          "file": "/d.js"
+        },
+        {
+          "codes": [],
+          "file": "/e.mjs"
+        },
+        {
+          "codes": [],
+          "file": "/f.mjs"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/g.ts"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/h.mts"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/i.cts"
+        },
+        {
+          "codes": [],
+          "file": "/dummy.ts"
+        }
+      ],
+      "name": "impliedNodeFormatEmit1(module=esnext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit1(module=commonjs)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit1(module=system)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "system",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=umd",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit1(module=umd)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "umd",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit1(module=preserve)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    }
+  ]
+}

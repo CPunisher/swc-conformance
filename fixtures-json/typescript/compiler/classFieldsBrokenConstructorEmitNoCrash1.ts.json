@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "classFieldsBrokenConstructorEmitNoCrash1.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2021",
+    "usedefineforclassfields": "false"
+  },
+  "path": "compiler/classFieldsBrokenConstructorEmitNoCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2390,
+            1005
+          ],
+          "file": "classFieldsBrokenConstructorEmitNoCrash1.ts"
+        }
+      ],
+      "name": "classFieldsBrokenConstructorEmitNoCrash1",
+      "options": {
+        "strict": "true",
+        "target": "es2021",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

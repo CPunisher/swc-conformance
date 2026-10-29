@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/importElisionTypeofImportTypeQualifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importElisionTypeofImportTypeQualifier",
+      "options": {
+        "filename": "/a.ts"
+      }
+    }
+  ]
+}

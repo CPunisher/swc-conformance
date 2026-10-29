@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "esModuleInteropUsesExportStarWhenDefaultPlusNames.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/esModuleInteropUsesExportStarWhenDefaultPlusNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "esModuleInteropUsesExportStarWhenDefaultPlusNames.ts"
+        }
+      ],
+      "name": "esModuleInteropUsesExportStarWhenDefaultPlusNames",
+      "options": {
+        "esmoduleinterop": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

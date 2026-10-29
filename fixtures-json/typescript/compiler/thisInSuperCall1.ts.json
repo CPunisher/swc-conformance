@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "thisInSuperCall1.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/thisInSuperCall1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17009
+          ],
+          "file": "thisInSuperCall1.ts"
+        }
+      ],
+      "name": "thisInSuperCall1",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "noEmitOnError.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "noemitonerror": "true",
+    "sourcemap": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noEmitOnError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "noEmitOnError.ts"
+        }
+      ],
+      "name": "noEmitOnError",
+      "options": {
+        "declaration": "true",
+        "noemitonerror": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

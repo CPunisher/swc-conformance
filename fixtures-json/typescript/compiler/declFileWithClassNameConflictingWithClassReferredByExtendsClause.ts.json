@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "declFileWithClassNameConflictingWithClassReferredByExtendsClause.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileWithClassNameConflictingWithClassReferredByExtendsClause.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2564
+          ],
+          "file": "declFileWithClassNameConflictingWithClassReferredByExtendsClause.ts"
+        }
+      ],
+      "name": "declFileWithClassNameConflictingWithClassReferredByExtendsClause",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

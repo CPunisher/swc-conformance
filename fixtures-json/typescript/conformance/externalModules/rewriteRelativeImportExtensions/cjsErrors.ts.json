@@ -1,0 +1,104 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "foo.ts/index.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "node18,node20,nodenext",
+    "notypesandsymbols": "true",
+    "rewriterelativeimportextensions": "true",
+    "target": "es2022",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/rewriteRelativeImportExtensions/cjsErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2876
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo.ts/index.ts"
+        }
+      ],
+      "name": "cjsErrors(module=node18)",
+      "options": {
+        "filename": "index.ts",
+        "module": "node18",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2876
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo.ts/index.ts"
+        }
+      ],
+      "name": "cjsErrors(module=node20)",
+      "options": {
+        "filename": "index.ts",
+        "module": "node20",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2876
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo.ts/index.ts"
+        }
+      ],
+      "name": "cjsErrors(module=nodenext)",
+      "options": {
+        "filename": "index.ts",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

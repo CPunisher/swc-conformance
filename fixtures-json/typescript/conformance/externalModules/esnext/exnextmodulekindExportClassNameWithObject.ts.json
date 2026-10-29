@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "exnextmodulekindExportClassNameWithObject.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/externalModules/esnext/exnextmodulekindExportClassNameWithObject.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exnextmodulekindExportClassNameWithObject(target=es5)",
+      "options": {
+        "module": "esnext",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "exnextmodulekindExportClassNameWithObject(target=es2015)",
+      "options": {
+        "module": "esnext",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

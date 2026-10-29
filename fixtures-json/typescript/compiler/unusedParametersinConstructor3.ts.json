@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "unusedParametersinConstructor3.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedParametersinConstructor3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133,
+            6133
+          ],
+          "file": "unusedParametersinConstructor3.ts"
+        }
+      ],
+      "name": "unusedParametersinConstructor3",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

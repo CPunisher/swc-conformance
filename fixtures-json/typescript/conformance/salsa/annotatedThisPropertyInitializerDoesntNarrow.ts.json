@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "Compilation.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/annotatedThisPropertyInitializerDoesntNarrow.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "annotatedThisPropertyInitializerDoesntNarrow",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "Compilation.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

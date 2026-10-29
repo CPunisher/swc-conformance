@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "extendGlobalThis2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/extendGlobalThis2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2397
+          ],
+          "file": "extendGlobalThis2.ts"
+        }
+      ],
+      "name": "extendGlobalThis2",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

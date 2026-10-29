@@ -1,0 +1,169 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        12,
+        19,
+        20
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesImportMeta.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            1470
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesImportMeta(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            1470
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesImportMeta(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            1470
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesImportMeta(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            1470
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesImportMeta(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

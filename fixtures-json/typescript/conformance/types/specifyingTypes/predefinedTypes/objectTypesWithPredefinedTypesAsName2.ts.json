@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "objectTypesWithPredefinedTypesAsName2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/predefinedTypes/objectTypesWithPredefinedTypesAsName2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "objectTypesWithPredefinedTypesAsName2.ts"
+        }
+      ],
+      "name": "objectTypesWithPredefinedTypesAsName2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

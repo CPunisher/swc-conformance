@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "missingDiscriminants.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/missingDiscriminants.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353,
+            2353
+          ],
+          "file": "missingDiscriminants.ts"
+        }
+      ],
+      "name": "missingDiscriminants",
+      "options": {
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

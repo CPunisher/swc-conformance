@@ -1,0 +1,101 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "e.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27
+      ],
+      "name": "g.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31
+      ],
+      "name": "h.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35
+      ],
+      "name": "i.ts"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "j.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "preserve",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource3",
+      "options": {
+        "filename": "j.ts",
+        "lib": "esnext",
+        "module": "preserve",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserAmbiguity1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserAmbiguity1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "parserAmbiguity1.ts"
+        }
+      ],
+      "name": "parserAmbiguity1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

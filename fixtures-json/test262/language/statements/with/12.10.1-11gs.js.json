@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/with/12.10.1-11gs.js"
+}

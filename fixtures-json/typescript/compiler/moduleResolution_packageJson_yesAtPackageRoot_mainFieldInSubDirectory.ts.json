@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/foo/src/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolution_packageJson_yesAtPackageRoot_mainFieldInSubDirectory.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolution_packageJson_yesAtPackageRoot_mainFieldInSubDirectory",
+      "options": {
+        "filename": "/index.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

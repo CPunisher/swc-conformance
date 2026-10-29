@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "emptyGenericParamList.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/emptyGenericParamList.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2314,
+            1099
+          ],
+          "file": "emptyGenericParamList.ts"
+        }
+      ],
+      "name": "emptyGenericParamList",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

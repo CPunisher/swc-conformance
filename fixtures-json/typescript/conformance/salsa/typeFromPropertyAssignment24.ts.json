@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "usage.js"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "def.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment24.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2503
+          ],
+          "file": "usage.js"
+        },
+        {
+          "codes": [],
+          "file": "def.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment24",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "def.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

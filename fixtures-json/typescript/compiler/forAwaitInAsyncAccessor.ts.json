@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/forAwaitInAsyncAccessor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1042,
+            2378,
+            1103
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "forAwaitInAsyncAccessor",
+      "options": {
+        "filename": "a.ts"
+      }
+    }
+  ]
+}

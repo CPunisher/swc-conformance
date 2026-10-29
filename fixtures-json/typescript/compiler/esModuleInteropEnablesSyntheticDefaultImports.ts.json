@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "b.d.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "es2015",
+    "target": "es2015"
+  },
+  "path": "compiler/esModuleInteropEnablesSyntheticDefaultImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esModuleInteropEnablesSyntheticDefaultImports",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.d.ts",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

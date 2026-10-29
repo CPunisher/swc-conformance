@@ -1,0 +1,120 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/ambient.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/mainJs.js"
+    },
+    {
+      "lines": [
+        23,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "/main.ts"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext, preserve",
+    "moduleresolution": "bundler",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerSyntaxRestrictions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@types/node/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/ambient.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/mainJs.js"
+        },
+        {
+          "codes": [
+            1202,
+            1203
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "bundlerSyntaxRestrictions(module=esnext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "bundlerSyntaxRestrictions(module=preserve)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

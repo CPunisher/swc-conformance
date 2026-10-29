@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2020"
+  },
+  "path": "conformance/importDefer/importDeferFromInvalid.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18058
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importDeferFromInvalid",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2020"
+      }
+    }
+  ]
+}

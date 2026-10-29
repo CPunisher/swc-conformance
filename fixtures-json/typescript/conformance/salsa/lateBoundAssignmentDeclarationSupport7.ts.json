@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "lateBoundAssignmentDeclarationSupport7.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "usage.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/salsa/lateBoundAssignmentDeclarationSupport7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "lateBoundAssignmentDeclarationSupport7",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "usage.js",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

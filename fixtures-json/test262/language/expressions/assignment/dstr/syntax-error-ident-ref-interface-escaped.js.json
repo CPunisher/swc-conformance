@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "destructuring-assignment"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/assignment/dstr/syntax-error-ident-ref-interface-escaped.js"
+}

@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/contractHelper.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/exported.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "/types.js"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "preserve",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/reuseTypeAnnotationImportTypeInGlobalThisTypeArgument.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/contractHelper.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/exported.d.ts"
+        },
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "/types.js"
+        },
+        {
+          "codes": [],
+          "file": "/index.js"
+        }
+      ],
+      "name": "reuseTypeAnnotationImportTypeInGlobalThisTypeArgument",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/index.js",
+        "module": "preserve",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

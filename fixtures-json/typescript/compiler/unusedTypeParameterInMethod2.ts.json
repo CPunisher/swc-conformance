@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "unusedTypeParameterInMethod2.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedTypeParameterInMethod2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6196
+          ],
+          "file": "unusedTypeParameterInMethod2.ts"
+        }
+      ],
+      "name": "unusedTypeParameterInMethod2",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

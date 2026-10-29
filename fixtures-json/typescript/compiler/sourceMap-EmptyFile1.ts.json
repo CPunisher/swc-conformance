@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "sourceMap-EmptyFile1.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/sourceMap-EmptyFile1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "sourceMap-EmptyFile1(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "sourceMap-EmptyFile1(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

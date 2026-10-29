@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "unusedMultipleParameters1InFunctionDeclaration.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedMultipleParameters1InFunctionDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133,
+            6133,
+            6133
+          ],
+          "file": "unusedMultipleParameters1InFunctionDeclaration.ts"
+        }
+      ],
+      "name": "unusedMultipleParameters1InFunctionDeclaration",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "jsdocTypeReferenceToImport.js"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "ex.d.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocTypeReferenceToImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2749,
+            2749
+          ],
+          "file": "jsdocTypeReferenceToImport.js"
+        },
+        {
+          "codes": [],
+          "file": "ex.d.ts"
+        }
+      ],
+      "name": "jsdocTypeReferenceToImport",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "ex.d.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

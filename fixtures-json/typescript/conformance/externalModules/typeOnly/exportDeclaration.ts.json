@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        9,
+        15
+      ],
+      "name": "/d.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "false, true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolatedmodules=false",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            1362
+          ],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/d.ts"
+        }
+      ],
+      "name": "exportDeclaration(isolatedmodules=false)",
+      "options": {
+        "filename": "/d.ts",
+        "isolatedmodules": "false",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "isolatedmodules=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            1362
+          ],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [
+            1289
+          ],
+          "file": "/d.ts"
+        }
+      ],
+      "name": "exportDeclaration(isolatedmodules=true)",
+      "options": {
+        "filename": "/d.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

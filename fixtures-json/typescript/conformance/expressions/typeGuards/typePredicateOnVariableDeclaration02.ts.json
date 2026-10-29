@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "typePredicateOnVariableDeclaration02.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeGuards/typePredicateOnVariableDeclaration02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1005,
+            1005
+          ],
+          "file": "typePredicateOnVariableDeclaration02.ts"
+        }
+      ],
+      "name": "typePredicateOnVariableDeclaration02",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

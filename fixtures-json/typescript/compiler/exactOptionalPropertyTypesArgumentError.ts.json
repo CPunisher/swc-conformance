@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "exactOptionalPropertyTypesArgumentError.ts"
+    }
+  ],
+  "options": {
+    "exactoptionalpropertytypes": "true",
+    "noemit": "true",
+    "strictnullchecks": "true"
+  },
+  "path": "compiler/exactOptionalPropertyTypesArgumentError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2379,
+            2379,
+            2379
+          ],
+          "file": "exactOptionalPropertyTypesArgumentError.ts"
+        }
+      ],
+      "name": "exactOptionalPropertyTypesArgumentError",
+      "options": {
+        "exactoptionalpropertytypes": "true",
+        "noemit": "true",
+        "strictnullchecks": "true"
+      }
+    }
+  ]
+}

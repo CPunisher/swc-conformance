@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "strictTupleLength.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/tuple/strictTupleLength.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2403,
+            2403,
+            2322,
+            2322
+          ],
+          "file": "strictTupleLength.ts"
+        }
+      ],
+      "name": "strictTupleLength",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

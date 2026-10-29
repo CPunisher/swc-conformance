@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "destructuring-binding",
+      "default-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/generators/dstr/dflt-ary-ptrn-rest-not-final-obj.js"
+}

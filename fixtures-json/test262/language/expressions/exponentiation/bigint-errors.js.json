@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol",
+      "Symbol.toPrimitive",
+      "computed-property-names",
+      "exponentiation"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/exponentiation/bigint-errors.js"
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "decoratorOnFunctionDeclaration.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnFunctionDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "decoratorOnFunctionDeclaration.ts"
+        }
+      ],
+      "name": "decoratorOnFunctionDeclaration",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

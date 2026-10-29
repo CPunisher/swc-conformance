@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "asyncGeneratorParameterEvaluation.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es2015,es2017,es2018"
+  },
+  "path": "conformance/asyncGenerators/asyncGeneratorParameterEvaluation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2538,
+            2304
+          ],
+          "file": "asyncGeneratorParameterEvaluation.ts"
+        }
+      ],
+      "name": "asyncGeneratorParameterEvaluation(target=es2015)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es2017",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2538,
+            2304
+          ],
+          "file": "asyncGeneratorParameterEvaluation.ts"
+        }
+      ],
+      "name": "asyncGeneratorParameterEvaluation(target=es2017)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "target=es2018",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2538,
+            2304
+          ],
+          "file": "asyncGeneratorParameterEvaluation.ts"
+        }
+      ],
+      "name": "asyncGeneratorParameterEvaluation(target=es2018)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2018"
+      }
+    }
+  ]
+}

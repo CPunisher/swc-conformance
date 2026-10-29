@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "unusedLocalsAndParametersTypeAliases2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedLocalsAndParametersTypeAliases2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6196,
+            6133,
+            6196
+          ],
+          "file": "unusedLocalsAndParametersTypeAliases2.ts"
+        }
+      ],
+      "name": "unusedLocalsAndParametersTypeAliases2",
+      "options": {
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

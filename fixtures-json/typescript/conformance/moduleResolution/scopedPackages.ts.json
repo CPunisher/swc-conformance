@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/@cow/boy/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/@types/be__bop/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/@types/be__bop/e/z.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "types"
+  },
+  "path": "conformance/moduleResolution/scopedPackages.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "scopedPackages",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "types"
+      }
+    }
+  ]
+}

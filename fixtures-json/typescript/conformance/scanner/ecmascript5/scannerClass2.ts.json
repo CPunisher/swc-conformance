@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "scannerClass2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerClass2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2339
+          ],
+          "file": "scannerClass2.ts"
+        }
+      ],
+      "name": "scannerClass2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

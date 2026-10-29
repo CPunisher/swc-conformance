@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "typeArgumentInferenceApparentType2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "compiler/typeArgumentInferenceApparentType2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2322,
+            2322
+          ],
+          "file": "typeArgumentInferenceApparentType2.ts"
+        }
+      ],
+      "name": "typeArgumentInferenceApparentType2",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

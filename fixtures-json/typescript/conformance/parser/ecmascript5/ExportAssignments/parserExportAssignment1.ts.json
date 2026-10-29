@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "parserExportAssignment1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ExportAssignments/parserExportAssignment1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserExportAssignment1.ts"
+        }
+      ],
+      "name": "parserExportAssignment1",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

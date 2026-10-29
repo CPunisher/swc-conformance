@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "object-spread",
+      "generators",
+      "class-methods-private"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/gen-private-method/yield-identifier-spread-strict.js"
+}

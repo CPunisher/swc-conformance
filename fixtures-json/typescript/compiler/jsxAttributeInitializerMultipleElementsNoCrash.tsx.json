@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "jsxAttributeInitializerMultipleElementsNoCrash.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react,react-jsx",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/jsxAttributeInitializerMultipleElementsNoCrash.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react",
+      "diagnostics": [
+        {
+          "codes": [
+            2657,
+            1003,
+            1109,
+            1109
+          ],
+          "file": "jsxAttributeInitializerMultipleElementsNoCrash.tsx"
+        }
+      ],
+      "name": "jsxAttributeInitializerMultipleElementsNoCrash(jsx=react)",
+      "options": {
+        "jsx": "react",
+        "notypesandsymbols": "true"
+      }
+    },
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [
+            2875,
+            7026,
+            2657,
+            7026,
+            1003,
+            7026,
+            1109,
+            1109
+          ],
+          "file": "jsxAttributeInitializerMultipleElementsNoCrash.tsx"
+        }
+      ],
+      "name": "jsxAttributeInitializerMultipleElementsNoCrash(jsx=react-jsx)",
+      "options": {
+        "jsx": "react-jsx",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

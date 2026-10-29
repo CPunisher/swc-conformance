@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "sourceMap-Comment1.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/sourceMap-Comment1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "sourceMap-Comment1(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "sourceMap-Comment1(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

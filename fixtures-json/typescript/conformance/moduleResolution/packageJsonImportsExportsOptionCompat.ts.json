@@ -1,0 +1,114 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "classic, node, node16, nodenext, bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "resolvepackagejsonexports": "true",
+    "resolvepackagejsonimports": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/packageJsonImportsExportsOptionCompat.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=classic",
+      "diagnostics": [],
+      "name": "packageJsonImportsExportsOptionCompat(moduleresolution=classic)",
+      "options": {
+        "filename": "index.ts",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvepackagejsonexports": "true",
+        "resolvepackagejsonimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=node",
+      "diagnostics": [],
+      "name": "packageJsonImportsExportsOptionCompat(moduleresolution=node)",
+      "options": {
+        "filename": "index.ts",
+        "moduleresolution": "node",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvepackagejsonexports": "true",
+        "resolvepackagejsonimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        }
+      ],
+      "name": "packageJsonImportsExportsOptionCompat(moduleresolution=node16)",
+      "options": {
+        "filename": "index.ts",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvepackagejsonexports": "true",
+        "resolvepackagejsonimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        }
+      ],
+      "name": "packageJsonImportsExportsOptionCompat(moduleresolution=nodenext)",
+      "options": {
+        "filename": "index.ts",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvepackagejsonexports": "true",
+        "resolvepackagejsonimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [],
+      "name": "packageJsonImportsExportsOptionCompat(moduleresolution=bundler)",
+      "options": {
+        "filename": "index.ts",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvepackagejsonexports": "true",
+        "resolvepackagejsonimports": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

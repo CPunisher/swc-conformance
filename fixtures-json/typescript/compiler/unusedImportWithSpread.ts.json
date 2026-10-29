@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "b1.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "b2.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "compiler/unusedImportWithSpread.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "unusedImportWithSpread",
+      "options": {
+        "filename": "b2.ts",
+        "target": "esnext"
+      }
+    }
+  ]
+}

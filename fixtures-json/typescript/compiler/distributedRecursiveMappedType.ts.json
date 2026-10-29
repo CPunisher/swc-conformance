@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "distributedRecursiveMappedType.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true"
+  },
+  "path": "compiler/distributedRecursiveMappedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2344,
+            2344,
+            2344,
+            2536
+          ],
+          "file": "distributedRecursiveMappedType.ts"
+        }
+      ],
+      "name": "distributedRecursiveMappedType",
+      "options": {
+        "noemit": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/importDefer/importDeferTypeConflict1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            1005,
+            2304,
+            1005,
+            2304,
+            1434,
+            2304
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importDeferTypeConflict1",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

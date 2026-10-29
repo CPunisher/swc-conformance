@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/foo/oof/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/foo/oof/ofo.js"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/packageJsonMain_isNonRecursive.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/oof/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/oof/ofo.js"
+        }
+      ],
+      "name": "packageJsonMain_isNonRecursive",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "accessorParameterAccessibilityModifier.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/accessorParameterAccessibilityModifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "accessorParameterAccessibilityModifier(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2369,
+            2369
+          ],
+          "file": "accessorParameterAccessibilityModifier.ts"
+        }
+      ],
+      "name": "accessorParameterAccessibilityModifier(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

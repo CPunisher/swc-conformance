@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "jsxChildrenExcessPropertySuppression.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "strict": "true",
+    "target": "es2022"
+  },
+  "path": "compiler/jsxChildrenExcessPropertySuppression.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "jsxChildrenExcessPropertySuppression.tsx"
+        }
+      ],
+      "name": "jsxChildrenExcessPropertySuppression",
+      "options": {
+        "jsx": "preserve",
+        "strict": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

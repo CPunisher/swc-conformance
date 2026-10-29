@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "moduleVariableArrayIndexer.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/moduleVariableArrayIndexer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18050
+          ],
+          "file": "moduleVariableArrayIndexer.ts"
+        }
+      ],
+      "name": "moduleVariableArrayIndexer",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

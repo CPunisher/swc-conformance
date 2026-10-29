@@ -1,0 +1,208 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/node_modules/dual/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/node_modules/dual/index.js"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/node_modules/dual/index.d.ts"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/node_modules/dual/index.cjs"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/node_modules/dual/index.d.cts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/main.ts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/main.mts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/main.cts"
+    }
+  ],
+  "options": {
+    "module": "esnext, preserve",
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerNodeModules1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.d.cts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.mts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.cts"
+        }
+      ],
+      "name": "bundlerNodeModules1(module=esnext)",
+      "options": {
+        "filename": "/main.cts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dual/index.d.cts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.mts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "/main.cts"
+        }
+      ],
+      "name": "bundlerNodeModules1(module=preserve)",
+      "options": {
+        "filename": "/main.cts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

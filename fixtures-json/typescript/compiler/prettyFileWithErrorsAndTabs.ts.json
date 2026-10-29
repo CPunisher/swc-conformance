@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "prettyFileWithErrorsAndTabs.ts"
+    }
+  ],
+  "options": {
+    "pretty": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/prettyFileWithErrorsAndTabs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322
+          ],
+          "file": "prettyFileWithErrorsAndTabs.ts"
+        }
+      ],
+      "name": "prettyFileWithErrorsAndTabs",
+      "options": {
+        "pretty": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

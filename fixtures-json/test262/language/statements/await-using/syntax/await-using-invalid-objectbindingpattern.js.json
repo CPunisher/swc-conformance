@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/await-using/syntax/await-using-invalid-objectbindingpattern.js"
+}

@@ -1,0 +1,29 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "test.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/noUsedBeforeDefinedErrorInAmbientContext1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noUsedBeforeDefinedErrorInAmbientContext1",
+      "options": {
+        "filename": "test.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

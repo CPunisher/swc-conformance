@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "variableDeclarationInStrictMode1.ts"
+    }
+  ],
+  "options": {
+    "skipdefaultlibcheck": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/variableDeclarationInStrictMode1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1100,
+            2300
+          ],
+          "file": "variableDeclarationInStrictMode1.ts"
+        }
+      ],
+      "name": "variableDeclarationInStrictMode1",
+      "options": {
+        "skipdefaultlibcheck": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

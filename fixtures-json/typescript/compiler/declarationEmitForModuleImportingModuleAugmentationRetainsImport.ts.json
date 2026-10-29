@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "child1.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "parent.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitForModuleImportingModuleAugmentationRetainsImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitForModuleImportingModuleAugmentationRetainsImport",
+      "options": {
+        "declaration": "true",
+        "filename": "parent.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

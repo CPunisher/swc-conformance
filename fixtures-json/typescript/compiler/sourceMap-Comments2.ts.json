@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "sourceMap-Comments2.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/sourceMap-Comments2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "sourceMap-Comments2(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "sourceMap-Comments2(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

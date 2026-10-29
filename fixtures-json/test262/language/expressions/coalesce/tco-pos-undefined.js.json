@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "tail-call-optimization",
+      "coalesce-expression"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "tcoHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/coalesce/tco-pos-undefined.js"
+}

@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "typeofThisWithImplicitThis.ts"
+    }
+  ],
+  "options": {
+    "noimplicitthis": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/typeQueries/typeofThisWithImplicitThis.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeofThisWithImplicitThis",
+      "options": {
+        "noimplicitthis": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

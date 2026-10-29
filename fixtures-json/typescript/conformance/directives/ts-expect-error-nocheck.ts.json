@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "ts-expect-error-nocheck.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/directives/ts-expect-error-nocheck.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "ts-expect-error-nocheck",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

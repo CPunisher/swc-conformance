@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/duplicateFunctionImplementationInJsFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "duplicateFunctionImplementationInJsFile",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

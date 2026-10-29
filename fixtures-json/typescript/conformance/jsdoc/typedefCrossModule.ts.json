@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "commonjs.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        15,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "mod2.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        15,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "mod3.js"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefCrossModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "commonjs.d.ts"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "mod1.js"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "mod2.js"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "mod3.js"
+        },
+        {
+          "codes": [],
+          "file": "use.js"
+        }
+      ],
+      "name": "typedefCrossModule",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

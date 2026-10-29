@@ -1,0 +1,92 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        11,
+        18,
+        19
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesCjsFormatFileAlwaysHasDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [],
+      "name": "nodeModulesCjsFormatFileAlwaysHasDefault(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nodeModulesCjsFormatFileAlwaysHasDefault(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesCjsFormatFileAlwaysHasDefault(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesCjsFormatFileAlwaysHasDefault(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

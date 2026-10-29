@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "arrow-function",
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLastIndex/not-a-constructor.js"
+}

@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "chrome-devtools-DOMExtension.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "dom, es5",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment21.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "chrome-devtools-DOMExtension.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment21",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "chrome-devtools-DOMExtension.js",
+        "lib": "dom, es5",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

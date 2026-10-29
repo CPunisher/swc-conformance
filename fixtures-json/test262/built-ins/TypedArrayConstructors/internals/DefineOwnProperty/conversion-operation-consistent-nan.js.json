@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "nans.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/DefineOwnProperty/conversion-operation-consistent-nan.js"
+}

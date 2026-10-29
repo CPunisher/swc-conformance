@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "f1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "f2.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "f3.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationGlobal3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleAugmentationGlobal3",
+      "options": {
+        "declaration": "true",
+        "filename": "f3.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

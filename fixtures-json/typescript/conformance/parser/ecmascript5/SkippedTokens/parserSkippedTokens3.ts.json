@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserSkippedTokens3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/SkippedTokens/parserSkippedTokens3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1127,
+            1127
+          ],
+          "file": "parserSkippedTokens3.ts"
+        }
+      ],
+      "name": "parserSkippedTokens3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/packages/b/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/packages/b/index.js"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/packages/b/index.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "/packages/a/package.json"
+    },
+    {
+      "lines": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "name": "/packages/a/src/re_export.ts"
+    },
+    {
+      "lines": [
+        53,
+        54,
+        55,
+        56,
+        58,
+        59
+      ],
+      "name": "/packages/a/src/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "strict": "true"
+  },
+  "path": "compiler/declarationEmitSubpathImportsReexport.ts",
+  "symlinks": {
+    "/packages/a/node_modules/package-b": "/packages/b"
+  },
+  "tsconfig": {
+    "lines": [
+      7,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "name": "/packages/a/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitSubpathImportsReexport",
+      "options": {
+        "declaration": "true",
+        "filename": "/packages/a/src/index.ts",
+        "link": "/packages/b -> /packages/a/node_modules/package-b",
+        "module": "nodenext",
+        "strict": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "privateNamesInNestedClasses-2.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesInNestedClasses-2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18014
+          ],
+          "file": "privateNamesInNestedClasses-2.ts"
+        }
+      ],
+      "name": "privateNamesInNestedClasses-2",
+      "options": {
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

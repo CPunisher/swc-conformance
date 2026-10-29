@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "thisKeyword.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/thisKeyword.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2331,
+            2683
+          ],
+          "file": "thisKeyword.ts"
+        }
+      ],
+      "name": "thisKeyword",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

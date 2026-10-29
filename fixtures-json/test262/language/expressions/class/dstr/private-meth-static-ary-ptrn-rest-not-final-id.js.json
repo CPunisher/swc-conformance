@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-static-methods-private",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/dstr/private-meth-static-ary-ptrn-rest-not-final-id.js"
+}

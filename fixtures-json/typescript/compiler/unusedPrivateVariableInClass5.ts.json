@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "unusedPrivateVariableInClass5.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedPrivateVariableInClass5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "unusedPrivateVariableInClass5.ts"
+        }
+      ],
+      "name": "unusedPrivateVariableInClass5",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

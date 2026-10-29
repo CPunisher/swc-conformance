@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "topLevelLambda4.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/topLevelLambda4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2532
+          ],
+          "file": "topLevelLambda4.ts"
+        }
+      ],
+      "name": "topLevelLambda4",
+      "options": {
+        "module": "esnext",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "node_modules/tslib/index.d.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "importhelpers": "true",
+    "module": "commonjs, system, es2015",
+    "notypesandsymbols": "true",
+    "target": "es6"
+  },
+  "path": "compiler/importHelpersWithLocalCollisions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "importHelpersWithLocalCollisions(module=commonjs)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "importHelpersWithLocalCollisions(module=system)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "module": "system",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "module=es2015",
+      "diagnostics": [],
+      "name": "importHelpersWithLocalCollisions(module=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

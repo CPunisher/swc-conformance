@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserClassDeclaration6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ClassDeclarations/parserClassDeclaration6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1174
+          ],
+          "file": "parserClassDeclaration6.ts"
+        }
+      ],
+      "name": "parserClassDeclaration6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

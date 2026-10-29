@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "privateNameMethod.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameMethod.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2554
+          ],
+          "file": "privateNameMethod.ts"
+        }
+      ],
+      "name": "privateNameMethod",
+      "options": {
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "bug25926.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromContextualThisType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006,
+            7006
+          ],
+          "file": "bug25926.js"
+        }
+      ],
+      "name": "typeFromContextualThisType",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug25926.js",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

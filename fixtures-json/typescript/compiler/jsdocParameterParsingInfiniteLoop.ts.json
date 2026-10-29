@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "example.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsdocParameterParsingInfiniteLoop.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "example.js"
+        }
+      ],
+      "name": "jsdocParameterParsingInfiniteLoop",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "example.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "staticVisibility2.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/staticVisibility2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7008,
+            2576
+          ],
+          "file": "staticVisibility2.ts"
+        }
+      ],
+      "name": "staticVisibility2",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

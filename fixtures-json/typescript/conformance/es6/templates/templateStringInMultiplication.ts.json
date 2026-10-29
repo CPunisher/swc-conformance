@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "templateStringInMultiplication.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInMultiplication.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2363
+          ],
+          "file": "templateStringInMultiplication.ts"
+        }
+      ],
+      "name": "templateStringInMultiplication",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

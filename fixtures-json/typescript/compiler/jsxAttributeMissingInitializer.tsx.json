@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "jsxAttributeMissingInitializer.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxAttributeMissingInitializer.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            1145,
+            7026
+          ],
+          "file": "jsxAttributeMissingInitializer.tsx"
+        }
+      ],
+      "name": "jsxAttributeMissingInitializer",
+      "options": {
+        "jsx": "preserve",
+        "target": "es2015"
+      }
+    }
+  ]
+}

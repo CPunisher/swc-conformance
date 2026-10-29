@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "super.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "out",
+    "target": "esnext"
+  },
+  "path": "conformance/jsdoc/extendsTagEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "super.js"
+        },
+        {
+          "codes": [
+            2304,
+            8023
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "extendsTagEmit",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "main.js",
+        "outdir": "out",
+        "target": "esnext"
+      }
+    }
+  ]
+}

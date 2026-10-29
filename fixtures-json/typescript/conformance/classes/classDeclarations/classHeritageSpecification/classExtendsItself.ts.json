@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "classExtendsItself.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classHeritageSpecification/classExtendsItself.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2506,
+            2506
+          ],
+          "file": "classExtendsItself.ts"
+        }
+      ],
+      "name": "classExtendsItself",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

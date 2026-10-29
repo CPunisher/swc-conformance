@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "destructuring-binding",
+      "default-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/dstr/meth-dflt-ary-ptrn-rest-not-final-obj.js"
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "ambientExternalModuleInsideNonAmbientExternalModule.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientExternalModuleInsideNonAmbientExternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2668,
+            2664
+          ],
+          "file": "ambientExternalModuleInsideNonAmbientExternalModule.ts"
+        }
+      ],
+      "name": "ambientExternalModuleInsideNonAmbientExternalModule",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedTypeParameters_templateTag2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6205,
+            2339,
+            6205,
+            6205,
+            2339
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "unusedTypeParameters_templateTag2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "noemit": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

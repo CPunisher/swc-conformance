@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserDoStatement1.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserDoStatement1.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1036,
+            2304
+          ],
+          "file": "parserDoStatement1.d.ts"
+        }
+      ],
+      "name": "parserDoStatement1.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

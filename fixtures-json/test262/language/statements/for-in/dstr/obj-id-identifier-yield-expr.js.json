@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/statements/for-in/dstr/obj-id-identifier-yield-expr.js"
+}

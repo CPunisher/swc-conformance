@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "/a.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/exportAsNamespaceConflict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2303,
+            2303
+          ],
+          "file": "/a.d.ts"
+        }
+      ],
+      "name": "exportAsNamespaceConflict",
+      "options": {
+        "filename": "/a.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

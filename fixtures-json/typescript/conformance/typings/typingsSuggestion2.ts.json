@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/typings/typingsSuggestion2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [
+            2591
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "typingsSuggestion2",
+      "options": {
+        "filename": "a.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

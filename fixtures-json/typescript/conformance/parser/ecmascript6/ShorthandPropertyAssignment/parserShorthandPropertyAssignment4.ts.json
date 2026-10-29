@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserShorthandPropertyAssignment4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript6/ShorthandPropertyAssignment/parserShorthandPropertyAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "parserShorthandPropertyAssignment4.ts"
+        }
+      ],
+      "name": "parserShorthandPropertyAssignment4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

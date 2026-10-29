@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "file3.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "file4.ts"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "file5.ts"
+    },
+    {
+      "lines": [
+        29,
+        30
+      ],
+      "name": "file6.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "system",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/systemModuleAmbientDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "systemModuleAmbientDeclarations",
+      "options": {
+        "filename": "file6.ts",
+        "isolatedmodules": "true",
+        "module": "system",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

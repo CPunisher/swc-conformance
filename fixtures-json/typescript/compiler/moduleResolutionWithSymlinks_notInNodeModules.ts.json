@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/shared/abc.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/src/app.ts"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithSymlinks_notInNodeModules.ts",
+  "symlinks": {
+    "/src/shared/abc.ts": "/shared/abc.ts",
+    "/src/shared2/abc.ts": "/shared/abc.ts"
+  },
+  "tsconfig": {
+    "lines": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "name": "/src/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithSymlinks_notInNodeModules",
+      "options": {
+        "filename": "/src/tsconfig.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "symlink": "/src/shared/abc.ts,/src/shared2/abc.ts",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

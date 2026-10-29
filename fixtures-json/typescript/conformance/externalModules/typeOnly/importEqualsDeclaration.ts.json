@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/c.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importEqualsDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1361
+          ],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "importEqualsDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "/c.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

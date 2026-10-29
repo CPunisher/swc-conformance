@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "class-methods-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/gen-private-method/yield-as-label-identifier-escaped.js"
+}

@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "src/a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "src/b.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "package.json"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/packageJsonImportsWildcardNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      13,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "packageJsonImportsWildcardNoCrash",
+      "options": {
+        "filename": "tsconfig.json",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

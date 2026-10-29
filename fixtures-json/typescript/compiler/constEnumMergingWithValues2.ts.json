@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "m1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/constEnumMergingWithValues2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "constEnumMergingWithValues2",
+      "options": {
+        "filename": "m1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

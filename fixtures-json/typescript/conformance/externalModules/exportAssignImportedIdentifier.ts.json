@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "foo1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "foo2.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "foo3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/exportAssignImportedIdentifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportAssignImportedIdentifier",
+      "options": {
+        "filename": "foo3.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

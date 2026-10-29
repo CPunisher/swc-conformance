@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "declFileExportImportChain2_a.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "declFileExportImportChain2_b.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "declFileExportImportChain2_c.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "declFileExportImportChain2_d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileExportImportChain2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "declFileExportImportChain2_d.ts"
+        },
+        {
+          "codes": [],
+          "file": "declFileExportImportChain2_a.ts"
+        },
+        {
+          "codes": [],
+          "file": "declFileExportImportChain2_b.ts"
+        },
+        {
+          "codes": [],
+          "file": "declFileExportImportChain2_c.ts"
+        }
+      ],
+      "name": "declFileExportImportChain2",
+      "options": {
+        "declaration": "true",
+        "filename": "declFileExportImportChain2_d.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

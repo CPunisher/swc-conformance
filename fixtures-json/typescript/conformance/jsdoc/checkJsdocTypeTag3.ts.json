@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocTypeTag3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "checkJsdocTypeTag3",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

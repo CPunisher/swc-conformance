@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "topLevelAwaitErrors.5.ts"
+    }
+  ],
+  "options": {
+    "module": "es2022,esnext",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/externalModules/topLevelAwaitErrors.5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            1262
+          ],
+          "file": "topLevelAwaitErrors.5.ts"
+        }
+      ],
+      "name": "topLevelAwaitErrors.5(module=es2022)",
+      "options": {
+        "module": "es2022",
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1262
+          ],
+          "file": "topLevelAwaitErrors.5.ts"
+        }
+      ],
+      "name": "topLevelAwaitErrors.5(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

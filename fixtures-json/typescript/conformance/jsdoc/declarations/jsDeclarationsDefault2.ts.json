@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "index1.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "./out",
+    "target": "es5"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsDefault2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationsDefault2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index1.js",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    }
+  ]
+}

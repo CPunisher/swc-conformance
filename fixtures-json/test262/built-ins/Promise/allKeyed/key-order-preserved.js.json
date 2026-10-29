@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allKeyed/key-order-preserved.js"
+}

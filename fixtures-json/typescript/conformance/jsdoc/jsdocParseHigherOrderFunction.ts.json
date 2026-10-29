@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "paren.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocParseHigherOrderFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            7006,
+            7006
+          ],
+          "file": "paren.js"
+        }
+      ],
+      "name": "jsdocParseHigherOrderFunction",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "paren.js",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

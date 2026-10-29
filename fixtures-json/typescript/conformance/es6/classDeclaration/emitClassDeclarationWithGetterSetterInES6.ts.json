@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "emitClassDeclarationWithGetterSetterInES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/classDeclaration/emitClassDeclarationWithGetterSetterInES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "emitClassDeclarationWithGetterSetterInES6.ts"
+        }
+      ],
+      "name": "emitClassDeclarationWithGetterSetterInES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

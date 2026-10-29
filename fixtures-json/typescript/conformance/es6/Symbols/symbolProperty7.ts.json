@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "symbolProperty7.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolProperty7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1166,
+            1166,
+            2564
+          ],
+          "file": "symbolProperty7.ts"
+        }
+      ],
+      "name": "symbolProperty7",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

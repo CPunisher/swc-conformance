@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/fields-string-name-propname-constructor.js"
+}

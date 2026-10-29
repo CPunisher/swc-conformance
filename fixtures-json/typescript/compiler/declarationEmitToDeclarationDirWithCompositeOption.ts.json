@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/foo/test.ts"
+    }
+  ],
+  "options": {
+    "composite": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitToDeclarationDirWithCompositeOption.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "name": "/foo/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitToDeclarationDirWithCompositeOption",
+      "options": {
+        "composite": "true",
+        "filename": "/foo/test.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

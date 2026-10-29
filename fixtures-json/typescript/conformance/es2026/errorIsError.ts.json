@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "errorIsError.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2025,es2026.error",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/es2026/errorIsError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "errorIsError",
+      "options": {
+        "lib": "es2025,es2026.error",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

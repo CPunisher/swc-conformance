@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "unusedSingleParameterInMethodDeclaration.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedSingleParameterInMethodDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133,
+            6133
+          ],
+          "file": "unusedSingleParameterInMethodDeclaration.ts"
+        }
+      ],
+      "name": "unusedSingleParameterInMethodDeclaration",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "dynamicImportInDefaultExportExpression.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "module": "commonjs",
+    "skiplibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/dynamicImportInDefaultExportExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "dynamicImportInDefaultExportExpression.ts"
+        }
+      ],
+      "name": "dynamicImportInDefaultExportExpression",
+      "options": {
+        "lib": "es6",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

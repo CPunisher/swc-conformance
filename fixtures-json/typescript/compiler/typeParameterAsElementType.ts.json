@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "typeParameterAsElementType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeParameterAsElementType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "typeParameterAsElementType.ts"
+        }
+      ],
+      "name": "typeParameterAsElementType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

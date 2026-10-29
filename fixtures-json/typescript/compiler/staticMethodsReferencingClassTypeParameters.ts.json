@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "staticMethodsReferencingClassTypeParameters.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/staticMethodsReferencingClassTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2302
+          ],
+          "file": "staticMethodsReferencingClassTypeParameters.ts"
+        }
+      ],
+      "name": "staticMethodsReferencingClassTypeParameters",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

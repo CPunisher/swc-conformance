@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "internalImportInstantiatedModuleMergedWithClassNotReferencingInstanceNoConflict.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/internalImportInstantiatedModuleMergedWithClassNotReferencingInstanceNoConflict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "internalImportInstantiatedModuleMergedWithClassNotReferencingInstanceNoConflict.ts"
+        }
+      ],
+      "name": "internalImportInstantiatedModuleMergedWithClassNotReferencingInstanceNoConflict",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

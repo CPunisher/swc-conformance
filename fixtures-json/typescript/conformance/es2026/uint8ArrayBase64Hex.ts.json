@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "uint8ArrayBase64Hex.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2025,es2026.typedarrays",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/es2026/uint8ArrayBase64Hex.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "uint8ArrayBase64Hex",
+      "options": {
+        "lib": "es2025,es2026.typedarrays",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

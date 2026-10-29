@@ -1,0 +1,111 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "types.d.mts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "isFoo.mjs"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "missingExpression.mjs"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "name": "inferredArrow.mjs"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "nodenext",
+    "noemit": "true",
+    "nounusedlocals": "true"
+  },
+  "path": "compiler/jsdocTypeTagFunctionTypePredicate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.d.mts"
+        },
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "isFoo.mjs"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "missingExpression.mjs"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "inferredArrow.mjs"
+        }
+      ],
+      "name": "jsdocTypeTagFunctionTypePredicate",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "inferredArrow.mjs",
+        "module": "nodenext",
+        "noemit": "true",
+        "nounusedlocals": "true"
+      }
+    }
+  ]
+}

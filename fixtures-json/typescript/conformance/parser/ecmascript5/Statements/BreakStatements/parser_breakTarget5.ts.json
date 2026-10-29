@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "parser_breakTarget5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/BreakStatements/parser_breakTarget5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1107
+          ],
+          "file": "parser_breakTarget5.ts"
+        }
+      ],
+      "name": "parser_breakTarget5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

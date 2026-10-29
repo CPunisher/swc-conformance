@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "functionWithNoBestCommonType1.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/functionWithNoBestCommonType1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "functionWithNoBestCommonType1",
+      "options": {
+        "allowunreachablecode": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

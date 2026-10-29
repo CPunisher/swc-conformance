@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasAssignments_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "aliasAssignments_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasAssignments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "aliasAssignments_1.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasAssignments_moduleA.ts"
+        }
+      ],
+      "name": "aliasAssignments",
+      "options": {
+        "filename": "aliasAssignments_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

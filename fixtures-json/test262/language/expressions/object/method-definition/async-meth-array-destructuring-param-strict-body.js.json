@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "rest-parameters",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/async-meth-array-destructuring-param-strict-body.js"
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "tail-call-optimization"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [
+      "tcoHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/call/tco-non-eval-function-dynamic.js"
+}

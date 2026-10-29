@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "isolatedmodules": "true",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/spread/arraySpreadImportHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "arraySpreadImportHelpers(target=es5)",
+      "options": {
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "isolatedmodules": "true",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "arraySpreadImportHelpers(target=es2015)",
+      "options": {
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "isolatedmodules": "true",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

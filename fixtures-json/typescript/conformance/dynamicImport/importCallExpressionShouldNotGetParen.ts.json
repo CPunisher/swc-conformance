@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "importCallExpressionShouldNotGetParen.ts"
+    }
+  ],
+  "options": {
+    "module": "es2020",
+    "noimplicitany": "true",
+    "target": "es6"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionShouldNotGetParen.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionShouldNotGetParen",
+      "options": {
+        "module": "es2020",
+        "noimplicitany": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

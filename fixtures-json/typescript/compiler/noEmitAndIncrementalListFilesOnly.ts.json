@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "listfilesonly": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noEmitAndIncrementalListFilesOnly.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noEmitAndIncrementalListFilesOnly",
+      "options": {
+        "filename": "/tsconfig.json",
+        "listfilesonly": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

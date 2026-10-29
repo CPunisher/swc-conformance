@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol.iterator",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/from/BigInt/iter-access-error.js"
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/expression.lisp"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperAliasDiagnostic.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "contentMapperAliasDiagnostic",
+      "options": {
+        "filename": "/expression.lisp",
+        "noemit": "true",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

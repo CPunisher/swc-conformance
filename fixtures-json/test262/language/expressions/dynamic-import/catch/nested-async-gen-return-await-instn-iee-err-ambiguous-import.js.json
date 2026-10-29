@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/catch/nested-async-gen-return-await-instn-iee-err-ambiguous-import.js"
+}

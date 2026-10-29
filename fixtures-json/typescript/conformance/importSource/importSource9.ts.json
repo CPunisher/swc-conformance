@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        6,
+        19,
+        20,
+        21
+      ],
+      "name": "e.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "esnext",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource9",
+      "options": {
+        "declaration": "true",
+        "filename": "e.ts",
+        "lib": "esnext",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

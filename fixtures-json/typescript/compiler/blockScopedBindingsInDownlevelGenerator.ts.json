@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "blockScopedBindingsInDownlevelGenerator.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "lib": "es2015",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/blockScopedBindingsInDownlevelGenerator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "blockScopedBindingsInDownlevelGenerator(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es2015",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "blockScopedBindingsInDownlevelGenerator.ts"
+        }
+      ],
+      "name": "blockScopedBindingsInDownlevelGenerator(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

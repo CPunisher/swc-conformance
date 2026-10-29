@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "node_modules/inner/other.d.ts"
+    },
+    {
+      "lines": [
+        12
+      ],
+      "name": "node_modules/inner/private.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        14,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es2020",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/node/legacyNodeModulesExportsSpecifierGenerationConditions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2883
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/private.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "legacyNodeModulesExportsSpecifierGenerationConditions",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "lib": "es2020",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "exportStarFromEmptyModule_module1.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "exportStarFromEmptyModule_module2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "exportStarFromEmptyModule_module3.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "exportStarFromEmptyModule_module4.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/exportStarFromEmptyModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportStarFromEmptyModule(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "exportStarFromEmptyModule_module4.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "exportStarFromEmptyModule_module1.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportStarFromEmptyModule_module2.ts"
+        },
+        {
+          "codes": [
+            2306
+          ],
+          "file": "exportStarFromEmptyModule_module3.ts"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "exportStarFromEmptyModule_module4.ts"
+        }
+      ],
+      "name": "exportStarFromEmptyModule(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "exportStarFromEmptyModule_module4.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

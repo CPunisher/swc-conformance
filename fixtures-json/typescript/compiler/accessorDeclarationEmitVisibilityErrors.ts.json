@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "accessorDeclarationEmitVisibilityErrors.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "compiler/accessorDeclarationEmitVisibilityErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "accessorDeclarationEmitVisibilityErrors.ts"
+        }
+      ],
+      "name": "accessorDeclarationEmitVisibilityErrors",
+      "options": {
+        "declaration": "true",
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

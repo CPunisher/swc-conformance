@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "module.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "classPoint.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/internalModules/DeclarationMerging/AmbientModuleAndNonAmbientClassWithSameNameAndCommonRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "AmbientModuleAndNonAmbientClassWithSameNameAndCommonRoot",
+      "options": {
+        "filename": "test.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

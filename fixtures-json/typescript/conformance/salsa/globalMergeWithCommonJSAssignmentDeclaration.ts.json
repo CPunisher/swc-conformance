@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "bug27099.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/globalMergeWithCommonJSAssignmentDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "bug27099.js"
+        }
+      ],
+      "name": "globalMergeWithCommonJSAssignmentDeclaration",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug27099.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

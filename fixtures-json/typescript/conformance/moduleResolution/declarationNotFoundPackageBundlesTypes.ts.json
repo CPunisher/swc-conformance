@@ -1,0 +1,92 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "node_modules/foo/other.js"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/declarationNotFoundPackageBundlesTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7016,
+            7016
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/foo/index.js"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/foo/other.js"
+        }
+      ],
+      "name": "declarationNotFoundPackageBundlesTypes",
+      "options": {
+        "filename": "index.ts",
+        "module": "commonjs",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

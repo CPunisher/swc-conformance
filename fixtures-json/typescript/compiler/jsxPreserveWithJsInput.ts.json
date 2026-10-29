@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "b.jsx"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "c.js"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "e.tsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "jsx": "preserve",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxPreserveWithJsInput.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsxPreserveWithJsInput",
+      "options": {
+        "allowjs": "true",
+        "filename": "e.tsx",
+        "jsx": "preserve",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

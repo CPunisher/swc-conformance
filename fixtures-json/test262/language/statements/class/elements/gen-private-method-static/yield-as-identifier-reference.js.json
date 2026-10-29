@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "class-static-methods-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/gen-private-method-static/yield-as-identifier-reference.js"
+}

@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "interfaceExtendsClassWithPrivate2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/interfaceExtendsClassWithPrivate2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2415,
+            2415,
+            2420,
+            2420,
+            2416,
+            2416,
+            2416,
+            2416
+          ],
+          "file": "interfaceExtendsClassWithPrivate2.ts"
+        }
+      ],
+      "name": "interfaceExtendsClassWithPrivate2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

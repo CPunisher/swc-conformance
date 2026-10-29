@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "jsx": "react",
+    "module": "ESNext",
+    "skiplibcheck": "true",
+    "strict": "true",
+    "target": "ES2017"
+  },
+  "path": "compiler/jsxFragmentWrongType.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "jsxFragmentWrongType",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "a.tsx",
+        "jsx": "react",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    }
+  ]
+}

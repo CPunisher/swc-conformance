@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Symbol",
+      "Symbol.iterator",
+      "arrow-function",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/Symbol.iterator/not-a-constructor.js"
+}

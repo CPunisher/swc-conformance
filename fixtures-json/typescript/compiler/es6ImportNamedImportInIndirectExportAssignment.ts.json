@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "es6ImportNamedImportInIndirectExportAssignment_0.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "es6ImportNamedImportInIndirectExportAssignment_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/es6ImportNamedImportInIndirectExportAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "es6ImportNamedImportInIndirectExportAssignment",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportNamedImportInIndirectExportAssignment_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

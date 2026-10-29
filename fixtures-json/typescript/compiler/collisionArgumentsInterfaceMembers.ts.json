@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "collisionArgumentsInterfaceMembers.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/collisionArgumentsInterfaceMembers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1100,
+            1100,
+            1100,
+            1100,
+            1100,
+            1100,
+            1100,
+            1100,
+            1100
+          ],
+          "file": "collisionArgumentsInterfaceMembers.ts"
+        }
+      ],
+      "name": "collisionArgumentsInterfaceMembers(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "collisionArgumentsInterfaceMembers(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "cloduleStaticMembers.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/cloduleStaticMembers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2341,
+            2304,
+            2304
+          ],
+          "file": "cloduleStaticMembers.ts"
+        }
+      ],
+      "name": "cloduleStaticMembers",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

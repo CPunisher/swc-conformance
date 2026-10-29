@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/src/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationNonNullAssertion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            8013
+          ],
+          "file": "/src/a.js"
+        }
+      ],
+      "name": "jsFileCompilationNonNullAssertion",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/a.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

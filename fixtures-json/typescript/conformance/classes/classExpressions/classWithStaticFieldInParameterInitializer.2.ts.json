@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "classWithStaticFieldInParameterInitializer.2.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext,es2015,es5",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/classes/classExpressions/classWithStaticFieldInParameterInitializer.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2373,
+            2373
+          ],
+          "file": "classWithStaticFieldInParameterInitializer.2.ts"
+        }
+      ],
+      "name": "classWithStaticFieldInParameterInitializer.2(target=esnext)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2373,
+            2373
+          ],
+          "file": "classWithStaticFieldInParameterInitializer.2.ts"
+        }
+      ],
+      "name": "classWithStaticFieldInParameterInitializer.2(target=es2015)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterInitializer.2(target=es5)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es5",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

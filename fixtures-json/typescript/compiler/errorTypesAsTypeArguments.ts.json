@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "errorTypesAsTypeArguments.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/errorTypesAsTypeArguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "errorTypesAsTypeArguments.ts"
+        }
+      ],
+      "name": "errorTypesAsTypeArguments",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

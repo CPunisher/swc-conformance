@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserConditionalExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parserConditionalExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            7017,
+            2304,
+            2304,
+            2304,
+            2304,
+            2304,
+            2304,
+            7017
+          ],
+          "file": "parserConditionalExpression1.ts"
+        }
+      ],
+      "name": "parserConditionalExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

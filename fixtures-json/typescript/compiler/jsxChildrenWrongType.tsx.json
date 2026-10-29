@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "other.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "exactoptionalpropertytypes": "true",
+    "jsx": "react",
+    "module": "ESNext",
+    "skiplibcheck": "true",
+    "strict": "true",
+    "target": "ES2017"
+  },
+  "path": "compiler/jsxChildrenWrongType.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769,
+            2769,
+            2769,
+            2769
+          ],
+          "file": "other.tsx"
+        }
+      ],
+      "name": "jsxChildrenWrongType",
+      "options": {
+        "esmoduleinterop": "true",
+        "exactoptionalpropertytypes": "true",
+        "filename": "other.tsx",
+        "jsx": "react",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "fileJs.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "fileTs.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/parser/ecmascript5/ArrowFunctionExpressions/parserArrowFunctionExpression16.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            8010
+          ],
+          "file": "fileJs.js"
+        },
+        {
+          "codes": [],
+          "file": "fileTs.ts"
+        }
+      ],
+      "name": "parserArrowFunctionExpression16",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "fileTs.ts",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

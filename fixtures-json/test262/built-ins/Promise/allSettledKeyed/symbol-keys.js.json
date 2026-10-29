@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary",
+      "Symbol"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettledKeyed/symbol-keys.js"
+}

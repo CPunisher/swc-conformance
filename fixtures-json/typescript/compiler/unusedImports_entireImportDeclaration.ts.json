@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedImports_entireImportDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            6192,
+            6192,
+            6133,
+            6133,
+            6133,
+            6133
+          ],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "unusedImports_entireImportDeclaration",
+      "options": {
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

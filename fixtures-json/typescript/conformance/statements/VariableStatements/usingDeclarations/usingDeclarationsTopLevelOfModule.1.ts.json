@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "usingDeclarationsTopLevelOfModule.1.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext,dom",
+    "module": "commonjs,system,esnext",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsTopLevelOfModule.1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "usingDeclarationsTopLevelOfModule.1(module=commonjs)",
+      "options": {
+        "lib": "esnext,dom",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "usingDeclarationsTopLevelOfModule.1(module=system)",
+      "options": {
+        "lib": "esnext,dom",
+        "module": "system",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "usingDeclarationsTopLevelOfModule.1(module=esnext)",
+      "options": {
+        "lib": "esnext,dom",
+        "module": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

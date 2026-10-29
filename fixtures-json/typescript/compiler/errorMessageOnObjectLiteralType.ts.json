@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "errorMessageOnObjectLiteralType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/errorMessageOnObjectLiteralType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2551
+          ],
+          "file": "errorMessageOnObjectLiteralType.ts"
+        }
+      ],
+      "name": "errorMessageOnObjectLiteralType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

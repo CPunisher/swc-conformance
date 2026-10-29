@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await",
+      "dynamic-import",
+      "promise-with-resolvers"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/unobservable-global-async-evaluation-count-reset.js"
+}

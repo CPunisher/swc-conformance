@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "node_modules/tslib/modules/index.d.ts"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importTag21.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importTag21",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.js",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

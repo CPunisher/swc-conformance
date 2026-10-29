@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/emitIncompleteDoStatement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "emitIncompleteDoStatement",
+      "options": {
+        "filename": "a.ts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "test",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/foo/node_modules/alpha/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        17,
+        18
+      ],
+      "name": "/node_modules/bar/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/bar/node_modules/alpha/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/src/root.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "test",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/src"
+  },
+  "path": "conformance/references/library-reference-4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-4",
+      "options": {
+        "currentdirectory": "test",
+        "filename": "/src/root.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/src"
+      }
+    }
+  ]
+}

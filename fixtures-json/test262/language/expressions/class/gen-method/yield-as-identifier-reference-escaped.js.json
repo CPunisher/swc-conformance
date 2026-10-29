@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "generators"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/gen-method/yield-as-identifier-reference-escaped.js"
+}

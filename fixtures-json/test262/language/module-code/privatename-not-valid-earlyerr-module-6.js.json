@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/privatename-not-valid-earlyerr-module-6.js"
+}

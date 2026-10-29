@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "a.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationWithDeclarationEmitPathSameAsInput.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        }
+      ],
+      "name": "jsFileCompilationWithDeclarationEmitPathSameAsInput",
+      "options": {
+        "declaration": "true",
+        "filename": "a.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

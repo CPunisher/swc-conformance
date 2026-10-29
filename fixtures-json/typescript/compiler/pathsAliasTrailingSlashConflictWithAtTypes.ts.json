@@ -1,0 +1,95 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "node_modules/preact/compat/package.json"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28
+      ],
+      "name": "node_modules/preact/compat/index.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28
+      ],
+      "name": "node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "app.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathsAliasTrailingSlashConflictWithAtTypes.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathsAliasTrailingSlashConflictWithAtTypes",
+      "options": {
+        "filename": "app.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

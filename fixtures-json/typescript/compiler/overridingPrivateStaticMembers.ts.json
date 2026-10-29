@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "overridingPrivateStaticMembers.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/overridingPrivateStaticMembers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2417,
+            2417
+          ],
+          "file": "overridingPrivateStaticMembers.ts"
+        }
+      ],
+      "name": "overridingPrivateStaticMembers",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

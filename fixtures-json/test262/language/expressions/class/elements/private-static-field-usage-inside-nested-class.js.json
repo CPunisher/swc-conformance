@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-fields-private",
+      "class-static-fields-public",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/private-static-field-usage-inside-nested-class.js"
+}

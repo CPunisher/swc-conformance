@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "module.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "usage.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsdocImportTypeResolution.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocImportTypeResolution",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "usage.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

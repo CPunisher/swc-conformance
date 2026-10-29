@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "main2.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "other.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "importhelpers": "true",
+    "module": "commonjs",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/importHelpersNoEmitHelpersExportDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "importHelpersNoEmitHelpersExportDefault(target=es5)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "importHelpersNoEmitHelpersExportDefault(target=es2015)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

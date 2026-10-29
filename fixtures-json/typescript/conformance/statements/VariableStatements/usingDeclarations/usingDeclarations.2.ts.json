@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "usingDeclarations.2.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "target": "esnext,es2022,es2017,es2015,es5"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarations.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "usingDeclarations.2(target=esnext)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "usingDeclarations.2(target=es2022)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2017",
+      "diagnostics": [],
+      "name": "usingDeclarations.2(target=es2017)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "usingDeclarations.2(target=es2015)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "usingDeclarations.2(target=es5)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "WeakSet",
+      "symbols-as-weakmap-keys"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakSet/prototype/has/returns-true-when-symbol-value-present.js"
+}

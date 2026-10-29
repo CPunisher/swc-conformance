@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "awaitUsingDeclarationsInForOf.5.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es5,esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/awaitUsingDeclarationsInForOf.5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "awaitUsingDeclarationsInForOf.5(target=es5)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1123,
+            1123
+          ],
+          "file": "awaitUsingDeclarationsInForOf.5.ts"
+        }
+      ],
+      "name": "awaitUsingDeclarationsInForOf.5(target=esnext)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

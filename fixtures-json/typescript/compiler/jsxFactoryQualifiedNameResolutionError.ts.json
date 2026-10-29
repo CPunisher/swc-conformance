@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "test.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "jsxfactory": "MyElement.createElement",
+    "module": "commonjs",
+    "sourcemap": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/jsxFactoryQualifiedNameResolutionError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2552
+          ],
+          "file": "test.tsx"
+        }
+      ],
+      "name": "jsxFactoryQualifiedNameResolutionError",
+      "options": {
+        "filename": "test.tsx",
+        "jsx": "react",
+        "jsxfactory": "MyElement.createElement",
+        "module": "commonjs",
+        "sourcemap": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

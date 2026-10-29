@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality",
+      "Reflect",
+      "Proxy",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/HasProperty/abrupt-from-ordinary-has-parent-hasproperty.js"
+}

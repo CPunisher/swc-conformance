@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLast/predicate-call-this-strict.js"
+}

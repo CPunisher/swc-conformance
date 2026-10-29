@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Float16Array",
+      "Float32Array",
+      "Float64Array"
+    ],
+    "flags": [],
+    "includes": [
+      "sm/non262-TypedArray-shell.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/sm/TypedArray/sort-negative-nan.js"
+}

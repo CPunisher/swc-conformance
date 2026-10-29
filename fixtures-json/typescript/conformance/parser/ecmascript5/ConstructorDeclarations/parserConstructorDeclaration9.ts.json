@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserConstructorDeclaration9.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ConstructorDeclarations/parserConstructorDeclaration9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1092
+          ],
+          "file": "parserConstructorDeclaration9.ts"
+        }
+      ],
+      "name": "parserConstructorDeclaration9",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

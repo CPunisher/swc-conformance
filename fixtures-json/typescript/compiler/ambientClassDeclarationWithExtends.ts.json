@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "ambientClassDeclarationExtends_singleFile.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "ambientClassDeclarationExtends_file1.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "ambientClassDeclarationExtends_file2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/ambientClassDeclarationWithExtends.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "ambientClassDeclarationWithExtends",
+      "options": {
+        "filename": "ambientClassDeclarationExtends_file2.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

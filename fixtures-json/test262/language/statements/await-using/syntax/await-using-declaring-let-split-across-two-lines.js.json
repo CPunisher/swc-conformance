@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "noStrict",
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/statements/await-using/syntax/await-using-declaring-let-split-across-two-lines.js"
+}

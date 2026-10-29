@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "noExcessiveStackDepthError.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noExcessiveStackDepthError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2403
+          ],
+          "file": "noExcessiveStackDepthError.ts"
+        }
+      ],
+      "name": "noExcessiveStackDepthError",
+      "options": {
+        "declaration": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

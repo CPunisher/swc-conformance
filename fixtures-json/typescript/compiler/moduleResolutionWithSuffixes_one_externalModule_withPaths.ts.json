@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/node_modules/some-library/lib/index.ios.js"
+    },
+    {
+      "lines": [
+        27
+      ],
+      "name": "/node_modules/some-library/lib/index.ios.d.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        31,
+        32
+      ],
+      "name": "/node_modules/some-library/lib/index.js"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "/node_modules/some-library/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "name": "/test.ts"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolutionWithSuffixes_one_externalModule_withPaths.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithSuffixes_one_externalModule_withPaths",
+      "options": {
+        "filename": "/test.ts",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

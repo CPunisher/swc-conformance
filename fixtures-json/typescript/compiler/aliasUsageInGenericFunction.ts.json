@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasUsageInGenericFunction_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "aliasUsageInGenericFunction_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "aliasUsageInGenericFunction_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasUsageInGenericFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352
+          ],
+          "file": "aliasUsageInGenericFunction_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsageInGenericFunction_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "aliasUsageInGenericFunction_moduleA.ts"
+        }
+      ],
+      "name": "aliasUsageInGenericFunction",
+      "options": {
+        "filename": "aliasUsageInGenericFunction_main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

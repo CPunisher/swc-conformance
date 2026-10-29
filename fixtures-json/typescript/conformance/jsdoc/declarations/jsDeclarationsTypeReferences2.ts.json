@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "something.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsTypeReferences2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsTypeReferences2(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "jsDeclarationsTypeReferences2(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

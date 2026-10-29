@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "errorOnInitializerInInterfaceProperty.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/errorOnInitializerInInterfaceProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1246
+          ],
+          "file": "errorOnInitializerInInterfaceProperty.ts"
+        }
+      ],
+      "name": "errorOnInitializerInInterfaceProperty",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "avoidListingPropertiesForTypesWithOnlyCallOrConstructSignatures.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/avoidListingPropertiesForTypesWithOnlyCallOrConstructSignatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "avoidListingPropertiesForTypesWithOnlyCallOrConstructSignatures.ts"
+        }
+      ],
+      "name": "avoidListingPropertiesForTypesWithOnlyCallOrConstructSignatures",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

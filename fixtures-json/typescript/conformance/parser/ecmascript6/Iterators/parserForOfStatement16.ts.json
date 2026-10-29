@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserForOfStatement16.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/parser/ecmascript6/Iterators/parserForOfStatement16.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserForOfStatement16.ts"
+        }
+      ],
+      "name": "parserForOfStatement16",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "parserMemberVariableDeclaration4.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/MemberVariableDeclarations/parserMemberVariableDeclaration4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1031
+          ],
+          "file": "parserMemberVariableDeclaration4.ts"
+        }
+      ],
+      "name": "parserMemberVariableDeclaration4",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

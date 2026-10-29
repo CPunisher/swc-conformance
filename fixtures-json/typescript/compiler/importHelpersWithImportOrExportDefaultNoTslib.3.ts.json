@@ -1,0 +1,156 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true,false",
+    "importhelpers": "true",
+    "module": "commonjs,system,es2015,es2020",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2017"
+  },
+  "path": "compiler/importHelpersWithImportOrExportDefaultNoTslib.3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "esmoduleinterop=true,module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2354
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=true,module=commonjs)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=system",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=true,module=system)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "system",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=es2015",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=true,module=es2015)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=es2020",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=true,module=es2020)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "es2020",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=commonjs",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=false,module=commonjs)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=system",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=false,module=system)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "system",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=es2015",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=false,module=es2015)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=es2020",
+      "diagnostics": [],
+      "name": "importHelpersWithImportOrExportDefaultNoTslib.3(esmoduleinterop=false,module=es2020)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "es2020",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

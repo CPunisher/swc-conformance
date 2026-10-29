@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2020"
+  },
+  "path": "compiler/declarationEmitPartialReuseComputedProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitPartialReuseComputedProperty",
+      "options": {
+        "declaration": "true",
+        "filename": "b.ts",
+        "strict": "true",
+        "target": "es2020"
+      }
+    }
+  ]
+}

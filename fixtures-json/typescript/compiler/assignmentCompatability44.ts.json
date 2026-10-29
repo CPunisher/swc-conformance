@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "assignmentCompatability44.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/assignmentCompatability44.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "assignmentCompatability44.ts"
+        }
+      ],
+      "name": "assignmentCompatability44",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

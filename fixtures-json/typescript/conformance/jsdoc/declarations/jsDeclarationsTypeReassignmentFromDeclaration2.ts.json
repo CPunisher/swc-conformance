@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "some-mod.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "lib": "es6",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsTypeReassignmentFromDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4023
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "some-mod.d.ts"
+        }
+      ],
+      "name": "jsDeclarationsTypeReassignmentFromDeclaration2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "lib": "es6",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "parserAccessors8.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Accessors/parserAccessors8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parserAccessors8(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1049
+          ],
+          "file": "parserAccessors8.ts"
+        }
+      ],
+      "name": "parserAccessors8(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

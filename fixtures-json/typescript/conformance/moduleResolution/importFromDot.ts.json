@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "a/index.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "a/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/importFromDot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "a/index.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "a/b.ts"
+        }
+      ],
+      "name": "importFromDot",
+      "options": {
+        "filename": "a/b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

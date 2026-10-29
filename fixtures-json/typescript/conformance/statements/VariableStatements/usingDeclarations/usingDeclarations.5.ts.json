@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "usingDeclarations.5.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarations.5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1492,
+            2488
+          ],
+          "file": "usingDeclarations.5.ts"
+        }
+      ],
+      "name": "usingDeclarations.5",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

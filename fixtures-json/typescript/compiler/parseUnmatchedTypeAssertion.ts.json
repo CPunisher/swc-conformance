@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parseUnmatchedTypeAssertion.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parseUnmatchedTypeAssertion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            1141,
+            2304,
+            1109,
+            1005
+          ],
+          "file": "parseUnmatchedTypeAssertion.ts"
+        }
+      ],
+      "name": "parseUnmatchedTypeAssertion",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

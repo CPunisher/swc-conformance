@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "decoratorOnClassMethod6.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/decorators/class/method/decoratorOnClassMethod6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1329
+          ],
+          "file": "decoratorOnClassMethod6.ts"
+        }
+      ],
+      "name": "decoratorOnClassMethod6",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

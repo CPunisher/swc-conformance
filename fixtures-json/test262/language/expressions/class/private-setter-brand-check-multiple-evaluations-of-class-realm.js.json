@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-methods-private",
+      "cross-realm"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/class/private-setter-brand-check-multiple-evaluations-of-class-realm.js"
+}

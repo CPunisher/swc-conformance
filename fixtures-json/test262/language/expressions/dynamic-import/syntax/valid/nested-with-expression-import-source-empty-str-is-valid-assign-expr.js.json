@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "source-phase-imports-module-source",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/valid/nested-with-expression-import-source-empty-str-is-valid-assign-expr.js"
+}

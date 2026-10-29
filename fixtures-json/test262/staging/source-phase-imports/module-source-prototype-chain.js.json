@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "source-phase-imports-module-source"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/source-phase-imports/module-source-prototype-chain.js"
+}

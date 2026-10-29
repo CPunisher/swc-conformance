@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "newLineFlagWithLF.ts"
+    }
+  ],
+  "options": {
+    "newline": "LF",
+    "target": "es2015"
+  },
+  "path": "compiler/newLineFlagWithLF.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "newLineFlagWithLF",
+      "options": {
+        "newline": "LF",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "privateNameJsPrototype.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameJsBadDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "privateNameJsBadDeclaration(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "privateNameJsPrototype.js",
+        "noemit": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            18016,
+            18016,
+            18016,
+            18016,
+            18016,
+            18016,
+            2339
+          ],
+          "file": "privateNameJsPrototype.js"
+        }
+      ],
+      "name": "privateNameJsBadDeclaration(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "privateNameJsPrototype.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

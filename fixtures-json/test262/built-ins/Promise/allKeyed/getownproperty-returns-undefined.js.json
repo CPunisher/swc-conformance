@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary",
+      "Proxy",
+      "Reflect"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allKeyed/getownproperty-returns-undefined.js"
+}

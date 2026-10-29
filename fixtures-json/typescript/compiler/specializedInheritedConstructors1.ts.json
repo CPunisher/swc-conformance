@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "specializedInheritedConstructors1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/specializedInheritedConstructors1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "specializedInheritedConstructors1.ts"
+        }
+      ],
+      "name": "specializedInheritedConstructors1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

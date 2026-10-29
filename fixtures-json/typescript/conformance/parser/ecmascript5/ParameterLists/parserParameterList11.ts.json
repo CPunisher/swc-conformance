@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserParameterList11.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ParameterLists/parserParameterList11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2370,
+            7019,
+            1047
+          ],
+          "file": "parserParameterList11.ts"
+        }
+      ],
+      "name": "parserParameterList11",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserReturnStatement1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/ReturnStatements/parserReturnStatement1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1108
+          ],
+          "file": "parserReturnStatement1.ts"
+        }
+      ],
+      "name": "parserReturnStatement1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

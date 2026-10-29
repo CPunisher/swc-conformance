@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "missingCloseBraceInObjectLiteral.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingCloseBraceInObjectLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "missingCloseBraceInObjectLiteral.ts"
+        }
+      ],
+      "name": "missingCloseBraceInObjectLiteral",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

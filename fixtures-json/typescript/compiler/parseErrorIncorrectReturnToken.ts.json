@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "parseErrorIncorrectReturnToken.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/parseErrorIncorrectReturnToken.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005,
+            2693,
+            1005,
+            1434,
+            2693,
+            2304,
+            1128
+          ],
+          "file": "parseErrorIncorrectReturnToken.ts"
+        }
+      ],
+      "name": "parseErrorIncorrectReturnToken",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

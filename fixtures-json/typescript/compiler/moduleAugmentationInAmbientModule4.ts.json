@@ -1,0 +1,92 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "O.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "O2.d.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true;",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationInAmbientModule4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "O.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "O2.d.ts"
+        }
+      ],
+      "name": "moduleAugmentationInAmbientModule4",
+      "options": {
+        "declaration": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

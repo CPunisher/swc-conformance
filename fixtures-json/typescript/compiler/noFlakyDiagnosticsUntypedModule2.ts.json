@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "/untyped.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "capturesuggestions": "true",
+    "declaration": "true",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true"
+  },
+  "path": "compiler/noFlakyDiagnosticsUntypedModule2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noFlakyDiagnosticsUntypedModule2",
+      "options": {
+        "capturesuggestions": "true",
+        "declaration": "true",
+        "filename": "/index.ts",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "super",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/global-code/super-call-arrow.js"
+}

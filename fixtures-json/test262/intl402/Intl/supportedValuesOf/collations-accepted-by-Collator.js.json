@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/collations-accepted-by-Collator.js"
+}

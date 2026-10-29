@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "genericMergedDeclarationUsingTypeParameter2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericMergedDeclarationUsingTypeParameter2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "genericMergedDeclarationUsingTypeParameter2.ts"
+        }
+      ],
+      "name": "genericMergedDeclarationUsingTypeParameter2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

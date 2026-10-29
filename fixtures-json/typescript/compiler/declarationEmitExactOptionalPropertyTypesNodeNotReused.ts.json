@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "declarationEmitExactOptionalPropertyTypesNodeNotReused.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "exactoptionalpropertytypes": "true,false",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitExactOptionalPropertyTypesNodeNotReused.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "exactoptionalpropertytypes=true",
+      "diagnostics": [],
+      "name": "declarationEmitExactOptionalPropertyTypesNodeNotReused(exactoptionalpropertytypes=true)",
+      "options": {
+        "declaration": "true",
+        "exactoptionalpropertytypes": "true",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "exactoptionalpropertytypes=false",
+      "diagnostics": [],
+      "name": "declarationEmitExactOptionalPropertyTypesNodeNotReused(exactoptionalpropertytypes=false)",
+      "options": {
+        "declaration": "true",
+        "exactoptionalpropertytypes": "false",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

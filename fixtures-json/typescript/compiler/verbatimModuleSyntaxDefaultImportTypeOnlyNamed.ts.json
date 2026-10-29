@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "compiler/verbatimModuleSyntaxDefaultImportTypeOnlyNamed.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "verbatimModuleSyntaxDefaultImportTypeOnlyNamed",
+      "options": {
+        "filename": "/b.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

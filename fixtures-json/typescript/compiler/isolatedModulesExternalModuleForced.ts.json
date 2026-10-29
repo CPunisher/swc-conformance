@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "moduledetection": "force",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesExternalModuleForced.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesExternalModuleForced",
+      "options": {
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "moduledetection": "force",
+        "target": "es6"
+      }
+    }
+  ]
+}

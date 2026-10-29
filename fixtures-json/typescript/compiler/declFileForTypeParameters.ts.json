@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "declFileForTypeParameters.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileForTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "declFileForTypeParameters.ts"
+        }
+      ],
+      "name": "declFileForTypeParameters",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

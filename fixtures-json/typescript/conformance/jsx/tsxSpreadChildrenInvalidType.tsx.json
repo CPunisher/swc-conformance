@@ -1,0 +1,108 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "tsxSpreadChildrenInvalidType.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react,react-jsx",
+    "target": "es2015,es5"
+  },
+  "path": "conformance/jsx/tsxSpreadChildrenInvalidType.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2609
+          ],
+          "file": "tsxSpreadChildrenInvalidType.tsx"
+        }
+      ],
+      "name": "tsxSpreadChildrenInvalidType(jsx=react,target=es2015)",
+      "options": {
+        "jsx": "react",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,target=es5",
+      "diagnostics": [],
+      "name": "tsxSpreadChildrenInvalidType(jsx=react,target=es5)",
+      "options": {
+        "jsx": "react",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026,
+            7026,
+            2609,
+            7026,
+            7026,
+            7026
+          ],
+          "file": "tsxSpreadChildrenInvalidType.tsx"
+        }
+      ],
+      "name": "tsxSpreadChildrenInvalidType(jsx=react-jsx,target=es2015)",
+      "options": {
+        "jsx": "react-jsx",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,target=es5",
+      "diagnostics": [],
+      "name": "tsxSpreadChildrenInvalidType(jsx=react-jsx,target=es5)",
+      "options": {
+        "jsx": "react-jsx",
+        "target": "es5"
+      }
+    }
+  ]
+}

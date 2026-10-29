@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "sigantureIsSubTypeIfTheyAreIdentical.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/sigantureIsSubTypeIfTheyAreIdentical.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "sigantureIsSubTypeIfTheyAreIdentical.ts"
+        }
+      ],
+      "name": "sigantureIsSubTypeIfTheyAreIdentical",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

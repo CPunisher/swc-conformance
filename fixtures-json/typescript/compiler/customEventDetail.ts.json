@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "customEventDetail.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/customEventDetail.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "customEventDetail.ts"
+        }
+      ],
+      "name": "customEventDetail",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "b.json"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "none",
+    "moduleresolution": "bundler",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/requireOfJsonFileWithModuleNodeResolutionEmitNone.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": []
+}

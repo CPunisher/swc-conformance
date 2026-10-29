@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "objectTypeLiteralSyntax2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/objectTypeLiteral/objectTypeLiteralSyntax2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "objectTypeLiteralSyntax2.ts"
+        }
+      ],
+      "name": "objectTypeLiteralSyntax2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

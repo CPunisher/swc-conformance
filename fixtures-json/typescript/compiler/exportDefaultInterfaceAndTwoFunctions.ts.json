@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "exportDefaultInterfaceAndTwoFunctions.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDefaultInterfaceAndTwoFunctions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2323,
+            2323,
+            2393,
+            2323,
+            2393
+          ],
+          "file": "exportDefaultInterfaceAndTwoFunctions.ts"
+        }
+      ],
+      "name": "exportDefaultInterfaceAndTwoFunctions",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

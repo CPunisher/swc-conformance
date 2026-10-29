@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "/untyped.mjs"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/index.mts"
+    }
+  ],
+  "options": {
+    "capturesuggestions": "true",
+    "declaration": "true",
+    "module": "nodenext",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true"
+  },
+  "path": "compiler/noFlakyDiagnosticsUntypedModule3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noFlakyDiagnosticsUntypedModule3",
+      "options": {
+        "capturesuggestions": "true",
+        "declaration": "true",
+        "filename": "/index.mts",
+        "module": "nodenext",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true"
+      }
+    }
+  ]
+}

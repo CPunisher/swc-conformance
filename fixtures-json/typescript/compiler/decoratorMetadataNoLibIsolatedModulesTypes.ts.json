@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "decoratorMetadataNoLibIsolatedModulesTypes.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "isolatedmodules": "true",
+    "nolib": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/decoratorMetadataNoLibIsolatedModulesTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2304,
+            2583
+          ],
+          "file": "decoratorMetadataNoLibIsolatedModulesTypes.ts"
+        }
+      ],
+      "name": "decoratorMetadataNoLibIsolatedModulesTypes",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "isolatedmodules": "true",
+        "nolib": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

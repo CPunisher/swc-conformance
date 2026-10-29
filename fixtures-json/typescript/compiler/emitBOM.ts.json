@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "emitBOM.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitbom": "true",
+    "sourcemap": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/emitBOM.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "emitBOM",
+      "options": {
+        "declaration": "true",
+        "emitbom": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

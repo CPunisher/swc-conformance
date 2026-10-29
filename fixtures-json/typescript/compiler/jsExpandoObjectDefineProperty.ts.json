@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsExpandoObjectDefineProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "index.js"
+        }
+      ],
+      "name": "jsExpandoObjectDefineProperty",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "declarationEmitDistributiveConditionalWithInfer.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es2020",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDistributiveConditionalWithInfer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitDistributiveConditionalWithInfer",
+      "options": {
+        "declaration": "true",
+        "lib": "es2020",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

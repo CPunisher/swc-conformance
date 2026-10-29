@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-duplicate-named-groups",
+      "regexp-match-indices"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/String/prototype/match/duplicate-named-indices-groups-properties.js"
+}

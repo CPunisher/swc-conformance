@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "10_lib.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/commonjsSafeImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commonjsSafeImport(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "commonjsSafeImport(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

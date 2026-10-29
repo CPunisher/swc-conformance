@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "overloadOnConstantsInvalidOverload1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/overloadOnConstantsInvalidOverload1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2394,
+            2322,
+            2345
+          ],
+          "file": "overloadOnConstantsInvalidOverload1.ts"
+        }
+      ],
+      "name": "overloadOnConstantsInvalidOverload1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

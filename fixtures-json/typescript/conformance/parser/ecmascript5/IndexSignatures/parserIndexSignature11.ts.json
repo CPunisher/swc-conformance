@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "parserIndexSignature11.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/IndexSignatures/parserIndexSignature11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1021,
+            1096
+          ],
+          "file": "parserIndexSignature11.ts"
+        }
+      ],
+      "name": "parserIndexSignature11",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        28,
+        29
+      ],
+      "name": "/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "/node_modules/tslib/index.d.ts"
+    },
+    {
+      "lines": [
+        39,
+        40
+      ],
+      "name": "/Card.astro"
+    },
+    {
+      "lines": [
+        42,
+        43,
+        44
+      ],
+      "name": "/main.ts"
+    },
+    {
+      "lines": [
+        46,
+        47,
+        48
+      ],
+      "name": "/require.js"
+    },
+    {
+      "lines": [
+        50,
+        51
+      ],
+      "name": "/globals.d.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve, commonjs",
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperOutputExtensionsImportHelpersCompatible.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "contentMapperOutputExtensionsImportHelpersCompatible(module=preserve)",
+      "options": {
+        "filename": "/globals.d.ts",
+        "module": "preserve",
+        "runexternalcode": "true"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "contentMapperOutputExtensionsImportHelpersCompatible(module=commonjs)",
+      "options": {
+        "filename": "/globals.d.ts",
+        "module": "commonjs",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

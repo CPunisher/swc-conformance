@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "missingDomElement_UsingDomLib.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,dom",
+    "target": "es2015"
+  },
+  "path": "compiler/missingDomElement_UsingDomLib.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "missingDomElement_UsingDomLib.ts"
+        }
+      ],
+      "name": "missingDomElement_UsingDomLib",
+      "options": {
+        "lib": "es5,dom",
+        "target": "es2015"
+      }
+    }
+  ]
+}

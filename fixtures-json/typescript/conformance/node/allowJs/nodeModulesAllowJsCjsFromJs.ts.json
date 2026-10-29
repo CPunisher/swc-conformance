@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "foo.cjs"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "bar.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "node16,node18,node20,nodenext",
+    "noemit": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsCjsFromJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsCjsFromJs(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "filename": "bar.ts",
+        "module": "node16",
+        "noemit": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsCjsFromJs(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "filename": "bar.ts",
+        "module": "node18",
+        "noemit": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsCjsFromJs(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "filename": "bar.ts",
+        "module": "node20",
+        "noemit": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsCjsFromJs(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "filename": "bar.ts",
+        "module": "nodenext",
+        "noemit": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

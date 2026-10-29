@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitExpandoPropertyPrivateName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            4032
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "declarationEmitExpandoPropertyPrivateName",
+      "options": {
+        "declaration": "true",
+        "filename": "b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

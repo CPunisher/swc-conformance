@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.iterator",
+      "Symbol.asyncIterator",
+      "async-iteration",
+      "class-static-methods-private"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/async-gen-private-method-static/yield-star-getiter-async-get-abrupt.js"
+}

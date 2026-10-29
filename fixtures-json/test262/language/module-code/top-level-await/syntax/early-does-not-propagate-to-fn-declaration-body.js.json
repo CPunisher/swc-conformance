@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/syntax/early-does-not-propagate-to-fn-declaration-body.js"
+}

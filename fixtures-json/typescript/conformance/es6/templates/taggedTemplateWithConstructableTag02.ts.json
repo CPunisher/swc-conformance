@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "taggedTemplateWithConstructableTag02.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/taggedTemplateWithConstructableTag02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349
+          ],
+          "file": "taggedTemplateWithConstructableTag02.ts"
+        }
+      ],
+      "name": "taggedTemplateWithConstructableTag02",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

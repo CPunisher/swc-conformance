@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "dtsEquivalent.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocTypeDefAtStartOfFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocTypeDefAtStartOfFile",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

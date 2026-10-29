@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "/src/subpath.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "/src/indirect.ts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37
+      ],
+      "name": "/src/main.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/subpathImportDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "subpathImportDeclarationEmit",
+      "options": {
+        "filename": "/src/main.ts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserComputedPropertyName41.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/parser/ecmascript6/ComputedPropertyNames/parserComputedPropertyName41.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2464
+          ],
+          "file": "parserComputedPropertyName41.ts"
+        }
+      ],
+      "name": "parserComputedPropertyName41",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/a/b/c/lib.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/a/b/c/d/e/app.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/cachedModuleResolution7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/a/b/c/lib.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/a/b/c/d/e/app.ts"
+        }
+      ],
+      "name": "cachedModuleResolution7",
+      "options": {
+        "filename": "/a/b/c/d/e/app.ts",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

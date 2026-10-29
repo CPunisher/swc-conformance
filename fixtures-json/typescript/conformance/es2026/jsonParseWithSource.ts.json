@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "jsonParseWithSource.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2025,es2026.json",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/es2026/jsonParseWithSource.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsonParseWithSource",
+      "options": {
+        "lib": "es2025,es2026.json",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

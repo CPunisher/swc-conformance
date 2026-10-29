@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "types.ts"
+    },
+    {
+      "lines": [
+        12
+      ],
+      "name": "values.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportNamespace12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1362,
+            2339
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [],
+          "file": "values.ts"
+        }
+      ],
+      "name": "exportNamespace12",
+      "options": {
+        "filename": "values.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

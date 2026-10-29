@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-fields-private",
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/multiple-stacked-definitions-rs-static-privatename-identifier-initializer.js"
+}

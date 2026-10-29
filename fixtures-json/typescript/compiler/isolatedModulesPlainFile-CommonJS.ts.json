@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "isolatedModulesPlainFile-CommonJS.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/isolatedModulesPlainFile-CommonJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "isolatedModulesPlainFile-CommonJS(target=es5)",
+      "options": {
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "isolatedModulesPlainFile-CommonJS(target=es2015)",
+      "options": {
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

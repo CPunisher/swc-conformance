@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "sourceMapValidationClass.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/sourceMapValidationClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "sourceMapValidationClass(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "sourceMapValidationClass.ts"
+        }
+      ],
+      "name": "sourceMapValidationClass(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

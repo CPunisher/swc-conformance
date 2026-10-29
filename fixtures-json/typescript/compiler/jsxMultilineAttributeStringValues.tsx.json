@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "jsxMultilineAttributeStringValues.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxMultilineAttributeStringValues.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            7026,
+            7026,
+            7026
+          ],
+          "file": "jsxMultilineAttributeStringValues.tsx"
+        }
+      ],
+      "name": "jsxMultilineAttributeStringValues",
+      "options": {
+        "jsx": "preserve",
+        "target": "es2015"
+      }
+    }
+  ]
+}

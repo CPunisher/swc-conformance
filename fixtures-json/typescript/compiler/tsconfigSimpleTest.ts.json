@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "foo.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/tsconfigSimpleTest.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "foo.ts"
+        }
+      ],
+      "name": "tsconfigSimpleTest",
+      "options": {
+        "filename": "foo.ts"
+      }
+    }
+  ]
+}

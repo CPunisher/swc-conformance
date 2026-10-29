@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "ES5For-of12.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/for-ofStatements/ES5For-of12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES5For-of12(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2364
+          ],
+          "file": "ES5For-of12.ts"
+        }
+      ],
+      "name": "ES5For-of12(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

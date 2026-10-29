@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "templateStringInObjectLiteral.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInObjectLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349,
+            1136,
+            1005,
+            1134,
+            1128
+          ],
+          "file": "templateStringInObjectLiteral.ts"
+        }
+      ],
+      "name": "templateStringInObjectLiteral",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "classAbstractSingleLineDecl.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classAbstractKeyword/classAbstractSingleLineDecl.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2511
+          ],
+          "file": "classAbstractSingleLineDecl.ts"
+        }
+      ],
+      "name": "classAbstractSingleLineDecl",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

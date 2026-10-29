@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "classExtendsInterface_not.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classExtendsInterface_not.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "classExtendsInterface_not.ts"
+        }
+      ],
+      "name": "classExtendsInterface_not",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

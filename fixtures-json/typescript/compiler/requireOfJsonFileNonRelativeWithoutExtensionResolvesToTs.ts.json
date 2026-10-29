@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/src/projects/file1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/src/node_modules/f.json"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/src/node_modules/f.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileNonRelativeWithoutExtensionResolvesToTs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileNonRelativeWithoutExtensionResolvesToTs",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/node_modules/f.ts",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

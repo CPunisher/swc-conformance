@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserForInStatement7.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserForInStatement7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1091,
+            2304
+          ],
+          "file": "parserForInStatement7.ts"
+        }
+      ],
+      "name": "parserForInStatement7",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

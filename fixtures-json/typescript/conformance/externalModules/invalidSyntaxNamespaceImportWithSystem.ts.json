@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/invalidSyntaxNamespaceImportWithSystem.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "invalidSyntaxNamespaceImportWithSystem",
+      "options": {
+        "filename": "1.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

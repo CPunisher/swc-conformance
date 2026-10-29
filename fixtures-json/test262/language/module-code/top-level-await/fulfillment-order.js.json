@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await",
+      "promise-with-resolvers"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/fulfillment-order.js"
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/@types/runtime/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/defaultTypesExcludeAmbientPackages.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/runtime/index.d.ts"
+        }
+      ],
+      "name": "defaultTypesExcludeAmbientPackages",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/main.ts",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

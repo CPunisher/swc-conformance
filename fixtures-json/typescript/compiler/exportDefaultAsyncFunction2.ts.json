@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "asyncawait.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        7,
+        15,
+        16
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        7,
+        9,
+        20,
+        21
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        7,
+        9,
+        25,
+        26,
+        27
+      ],
+      "name": "e.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/exportDefaultAsyncFunction2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1262
+          ],
+          "file": "asyncawait.ts"
+        },
+        {
+          "codes": [
+            1262
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            1262
+          ],
+          "file": "c.ts"
+        },
+        {
+          "codes": [
+            1262
+          ],
+          "file": "d.ts"
+        },
+        {
+          "codes": [
+            1262
+          ],
+          "file": "e.ts"
+        }
+      ],
+      "name": "exportDefaultAsyncFunction2",
+      "options": {
+        "filename": "e.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

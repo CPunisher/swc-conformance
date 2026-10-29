@@ -1,0 +1,111 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "nodenext",
+    "strict": "true, false"
+  },
+  "path": "compiler/superCallInJSWithWrongBaseTypeArgumentCount2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2314,
+            8026,
+            2314,
+            8026
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "superCallInJSWithWrongBaseTypeArgumentCount2(strict=true)",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "b.js",
+        "module": "nodenext",
+        "strict": "true"
+      }
+    },
+    {
+      "config": "strict=false",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.js"
+        }
+      ],
+      "name": "superCallInJSWithWrongBaseTypeArgumentCount2(strict=false)",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "b.js",
+        "module": "nodenext",
+        "strict": "false"
+      }
+    }
+  ]
+}

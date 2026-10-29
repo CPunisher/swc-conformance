@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "isolatedmodules": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "coalesce-expression"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/coalesce/cannot-chain-head-with-logical-or.js"
+}

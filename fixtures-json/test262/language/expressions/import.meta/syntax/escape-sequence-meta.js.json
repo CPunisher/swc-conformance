@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import.meta"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/import.meta/syntax/escape-sequence-meta.js"
+}

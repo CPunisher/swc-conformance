@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-async-gen-await-import-defer-no-new-call-expression-prop-access.js"
+}

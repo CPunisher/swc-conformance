@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationDuplicateVariableErrorReported.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            2403
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "jsFileCompilationDuplicateVariableErrorReported",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "a.ts",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

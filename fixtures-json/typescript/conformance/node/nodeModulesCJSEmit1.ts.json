@@ -1,0 +1,173 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/1.cjs"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/2.cjs"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/3.cjs"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/4.cjs"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/5.cjs"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "module": "node18,node20,nodenext",
+    "notypesandsymbols": "true",
+    "outdir": "dist",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesCJSEmit1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/1.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/2.cjs"
+        },
+        {
+          "codes": [
+            2882,
+            2304
+          ],
+          "file": "/3.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/4.cjs"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "/5.cjs"
+        }
+      ],
+      "name": "nodeModulesCJSEmit1(module=node18)",
+      "options": {
+        "checkjs": "true",
+        "filename": "/5.cjs",
+        "module": "node18",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/1.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/2.cjs"
+        },
+        {
+          "codes": [
+            2882,
+            2304
+          ],
+          "file": "/3.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/4.cjs"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "/5.cjs"
+        }
+      ],
+      "name": "nodeModulesCJSEmit1(module=node20)",
+      "options": {
+        "checkjs": "true",
+        "filename": "/5.cjs",
+        "module": "node20",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/1.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/2.cjs"
+        },
+        {
+          "codes": [
+            2882,
+            2304
+          ],
+          "file": "/3.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/4.cjs"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "/5.cjs"
+        }
+      ],
+      "name": "nodeModulesCJSEmit1(module=nodenext)",
+      "options": {
+        "checkjs": "true",
+        "filename": "/5.cjs",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2022"
+      }
+    }
+  ]
+}

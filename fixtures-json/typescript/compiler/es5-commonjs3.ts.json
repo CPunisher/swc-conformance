@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "es5-commonjs3.ts"
+    }
+  ],
+  "options": {
+    "declaration": "false",
+    "module": "commonjs",
+    "sourcemap": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es5-commonjs3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5-commonjs3(target=es5)",
+      "options": {
+        "declaration": "false",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1216
+          ],
+          "file": "es5-commonjs3.ts"
+        }
+      ],
+      "name": "es5-commonjs3(target=es2015)",
+      "options": {
+        "declaration": "false",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

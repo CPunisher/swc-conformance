@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationFileOverwriteError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        }
+      ],
+      "name": "declarationFileOverwriteError",
+      "options": {
+        "declaration": "true",
+        "filename": "a.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

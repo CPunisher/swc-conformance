@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "./out"
+  },
+  "path": "compiler/exportAssignmentMerging6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            2591
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "exportAssignmentMerging6",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "b.js",
+        "module": "commonjs",
+        "outdir": "./out"
+      }
+    }
+  ]
+}

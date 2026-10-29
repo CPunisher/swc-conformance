@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/types.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "lib": "esnext",
+    "module": "commonjs",
+    "outdir": "dist",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/expandoFunctionSymbolPropertyJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "expandoFunctionSymbolPropertyJs",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "/a.js",
+        "lib": "esnext",
+        "module": "commonjs",
+        "outdir": "dist",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

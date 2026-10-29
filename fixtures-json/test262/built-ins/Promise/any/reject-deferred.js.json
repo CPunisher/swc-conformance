@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "AggregateError",
+      "Promise.any",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/reject-deferred.js"
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/commonJsUnusedLocals.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "commonJsUnusedLocals",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

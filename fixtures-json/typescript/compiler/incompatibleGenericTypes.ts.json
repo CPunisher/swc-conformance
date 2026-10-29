@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "incompatibleGenericTypes.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/incompatibleGenericTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2454
+          ],
+          "file": "incompatibleGenericTypes.ts"
+        }
+      ],
+      "name": "incompatibleGenericTypes",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

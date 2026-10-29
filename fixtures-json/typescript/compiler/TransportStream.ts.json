@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "TransportStream.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/TransportStream.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1490,
+            1434,
+            2304,
+            1127,
+            1128
+          ],
+          "file": "TransportStream.ts"
+        }
+      ],
+      "name": "TransportStream",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

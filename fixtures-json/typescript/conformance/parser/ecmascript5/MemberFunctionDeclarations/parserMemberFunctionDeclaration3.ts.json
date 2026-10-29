@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserMemberFunctionDeclaration3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/MemberFunctionDeclarations/parserMemberFunctionDeclaration3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1029
+          ],
+          "file": "parserMemberFunctionDeclaration3.ts"
+        }
+      ],
+      "name": "parserMemberFunctionDeclaration3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

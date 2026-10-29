@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "asiPreventsParsingAsNamespace02.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/internalModules/moduleDeclarations/asiPreventsParsingAsNamespace02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "asiPreventsParsingAsNamespace02.ts"
+        }
+      ],
+      "name": "asiPreventsParsingAsNamespace02",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

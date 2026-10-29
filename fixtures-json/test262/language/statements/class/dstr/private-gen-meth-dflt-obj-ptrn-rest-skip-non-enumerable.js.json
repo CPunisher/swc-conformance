@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "class",
+      "class-methods-private",
+      "generators",
+      "destructuring-binding",
+      "default-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/private-gen-meth-dflt-obj-ptrn-rest-skip-non-enumerable.js"
+}

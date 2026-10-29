@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "circularTypeArgumentsLocalAndOuterNoCrash1.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/circularTypeArgumentsLocalAndOuterNoCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4109
+          ],
+          "file": "circularTypeArgumentsLocalAndOuterNoCrash1.ts"
+        }
+      ],
+      "name": "circularTypeArgumentsLocalAndOuterNoCrash1",
+      "options": {
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "filename.cts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "filename.mts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "isolatedmodules": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "target": "esnext"
+  },
+  "path": "compiler/moduleDetectionIsolatedModulesCjsFileScope.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleDetectionIsolatedModulesCjsFileScope",
+      "options": {
+        "declaration": "true",
+        "filename": "filename.mts",
+        "isolatedmodules": "true",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext"
+      }
+    }
+  ]
+}

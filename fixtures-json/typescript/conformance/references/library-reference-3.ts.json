@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/src/node_modules/jquery/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "/src/consumer.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/src",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/references/library-reference-3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-3",
+      "options": {
+        "currentdirectory": "/src",
+        "filename": "/src/consumer.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

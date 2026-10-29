@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "checkInheritedProperty_promoted.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/checkInheritedProperty_promoted.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2729
+          ],
+          "file": "checkInheritedProperty_promoted.ts"
+        }
+      ],
+      "name": "checkInheritedProperty_promoted",
+      "options": {
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

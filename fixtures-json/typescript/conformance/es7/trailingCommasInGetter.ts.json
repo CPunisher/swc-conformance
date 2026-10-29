@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "trailingCommasInGetter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es7/trailingCommasInGetter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1138
+          ],
+          "file": "trailingCommasInGetter.ts"
+        }
+      ],
+      "name": "trailingCommasInGetter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

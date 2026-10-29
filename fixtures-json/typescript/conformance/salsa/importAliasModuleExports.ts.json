@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "esmoduleinterop": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/importAliasModuleExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "mod1.js"
+        },
+        {
+          "codes": [
+            2339,
+            2339,
+            2339,
+            2339,
+            2339,
+            2339
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "importAliasModuleExports",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "esmoduleinterop": "true",
+        "filename": "main.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

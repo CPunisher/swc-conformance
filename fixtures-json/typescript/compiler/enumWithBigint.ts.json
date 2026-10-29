@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "enumWithBigint.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/enumWithBigint.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2452
+          ],
+          "file": "enumWithBigint.ts"
+        }
+      ],
+      "name": "enumWithBigint",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

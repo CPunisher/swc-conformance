@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "typeParameterAssignability.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/typeRelationships/assignmentCompatibility/typeParameterAssignability.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "typeParameterAssignability.ts"
+        }
+      ],
+      "name": "typeParameterAssignability",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

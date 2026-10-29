@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "npm-install.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment22.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2683,
+            7006,
+            7006,
+            7009
+          ],
+          "file": "npm-install.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment22",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "npm-install.js",
+        "noemit": "true",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

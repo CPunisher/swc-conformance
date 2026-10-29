@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/for-await-resolution-and-error-agen-yield.js"
+}

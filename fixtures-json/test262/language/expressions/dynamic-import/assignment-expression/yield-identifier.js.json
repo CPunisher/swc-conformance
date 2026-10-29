@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import"
+    ],
+    "flags": [
+      "async",
+      "noStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/assignment-expression/yield-identifier.js"
+}

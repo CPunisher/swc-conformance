@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "parserExportAssignment9.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ExportAssignments/parserExportAssignment9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1319,
+            2552,
+            1319,
+            2552
+          ],
+          "file": "parserExportAssignment9.ts"
+        }
+      ],
+      "name": "parserExportAssignment9",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

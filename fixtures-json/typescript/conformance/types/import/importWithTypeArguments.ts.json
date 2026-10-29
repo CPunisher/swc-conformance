@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "importWithTypeArguments.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/import/importWithTypeArguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1326,
+            2304,
+            1326
+          ],
+          "file": "importWithTypeArguments.ts"
+        }
+      ],
+      "name": "importWithTypeArguments",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

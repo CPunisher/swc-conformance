@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "asyncDeclare_es6.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/async/es6/asyncDeclare_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1040
+          ],
+          "file": "asyncDeclare_es6.ts"
+        }
+      ],
+      "name": "asyncDeclare_es6",
+      "options": {
+        "noemithelpers": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

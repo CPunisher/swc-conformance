@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "mod2.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/moduleExportsElementAccessAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "mod2.js"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "mod1.js"
+        }
+      ],
+      "name": "moduleExportsElementAccessAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "mod2.js",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

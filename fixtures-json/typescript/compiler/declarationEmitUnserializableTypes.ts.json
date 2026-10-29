@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "local.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "growing.ts"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "annotatedLocal.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true"
+  },
+  "path": "compiler/declarationEmitUnserializableTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5088,
+            5088,
+            5088,
+            5088
+          ],
+          "file": "local.ts"
+        },
+        {
+          "codes": [
+            7056
+          ],
+          "file": "growing.ts"
+        },
+        {
+          "codes": [],
+          "file": "annotatedLocal.ts"
+        }
+      ],
+      "name": "declarationEmitUnserializableTypes",
+      "options": {
+        "declaration": "true",
+        "filename": "annotatedLocal.ts",
+        "strict": "true"
+      }
+    }
+  ]
+}

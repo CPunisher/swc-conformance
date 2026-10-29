@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions",
+      "class-static-methods-private"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/async-private-method-static/returns-async-function-returns-newtarget.js"
+}

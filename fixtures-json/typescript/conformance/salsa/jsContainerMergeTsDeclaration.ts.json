@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/jsContainerMergeTsDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2403
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "jsContainerMergeTsDeclaration",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

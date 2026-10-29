@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Symbol",
+      "Symbol.split",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/Symbol.split/not-a-constructor.js"
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "stringLiteralsWithSwitchStatements02.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/literal/stringLiteralsWithSwitchStatements02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367,
+            2367
+          ],
+          "file": "stringLiteralsWithSwitchStatements02.ts"
+        }
+      ],
+      "name": "stringLiteralsWithSwitchStatements02",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "mytest.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/arrowExpressionBodyJSDoc.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "mytest.js"
+        }
+      ],
+      "name": "arrowExpressionBodyJSDoc",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "mytest.js",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

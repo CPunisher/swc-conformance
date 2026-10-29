@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/units.js"
+}

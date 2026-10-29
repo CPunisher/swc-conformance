@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "useSharedArrayBuffer2.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2017/useSharedArrayBuffer2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "useSharedArrayBuffer2(target=es5)",
+      "options": {
+        "lib": "es5",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2583
+          ],
+          "file": "useSharedArrayBuffer2.ts"
+        }
+      ],
+      "name": "useSharedArrayBuffer2(target=es2015)",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

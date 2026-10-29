@@ -1,0 +1,231 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7
+      ],
+      "name": "/node_modules/.store/c-root/node_modules/c-root/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/.store/c-root/node_modules/c-root/dist/Thing.d.ts"
+    },
+    {
+      "lines": [
+        13
+      ],
+      "name": "/node_modules/.store/c-subpath/node_modules/c-subpath/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/.store/c-subpath/node_modules/c-subpath/dist/Thing.d.ts"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "/node_modules/.store/c-pattern/node_modules/c-pattern/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/.store/c-pattern/node_modules/c-pattern/dist/Thing.d.ts"
+    },
+    {
+      "lines": [
+        25
+      ],
+      "name": "/packages/s/package.json"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "/packages/s/index.d.ts"
+    },
+    {
+      "lines": [
+        35
+      ],
+      "name": "/packages/a/package.json"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39
+      ],
+      "name": "/packages/a/index.ts"
+    },
+    {
+      "lines": [
+        41,
+        42,
+        43,
+        48
+      ],
+      "name": "/packages/s/reachable.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "nodenext, preserve",
+    "notypesandsymbols": "true",
+    "strict": "true"
+  },
+  "path": "compiler/declarationEmitUnreachablePackageExports.ts",
+  "symlinks": {
+    "/packages/a/node_modules/s": "/packages/s",
+    "/packages/s/node_modules/c-pattern": "/node_modules/.store/c-pattern/node_modules/c-pattern",
+    "/packages/s/node_modules/c-root": "/node_modules/.store/c-root/node_modules/c-root",
+    "/packages/s/node_modules/c-subpath": "/node_modules/.store/c-subpath/node_modules/c-subpath"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-root/node_modules/c-root/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-root/node_modules/c-root/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-subpath/node_modules/c-subpath/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-subpath/node_modules/c-subpath/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-pattern/node_modules/c-pattern/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-pattern/node_modules/c-pattern/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/package.json"
+        },
+        {
+          "codes": [
+            2883,
+            2883,
+            2883
+          ],
+          "file": "/packages/a/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/reachable.ts"
+        }
+      ],
+      "name": "declarationEmitUnreachablePackageExports(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/packages/s/reachable.ts",
+        "link": "/packages/s -> /packages/a/node_modules/s",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "strict": "true"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-root/node_modules/c-root/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-root/node_modules/c-root/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-subpath/node_modules/c-subpath/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-subpath/node_modules/c-subpath/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-pattern/node_modules/c-pattern/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/.store/c-pattern/node_modules/c-pattern/dist/Thing.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/package.json"
+        },
+        {
+          "codes": [
+            2883,
+            2883,
+            2883
+          ],
+          "file": "/packages/a/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/s/reachable.ts"
+        }
+      ],
+      "name": "declarationEmitUnreachablePackageExports(module=preserve)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/packages/s/reachable.ts",
+        "link": "/packages/s -> /packages/a/node_modules/s",
+        "module": "preserve",
+        "notypesandsymbols": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

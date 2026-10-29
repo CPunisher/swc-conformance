@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "foo_0.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "foo_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/topLevelAmbientModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "topLevelAmbientModule",
+      "options": {
+        "filename": "foo_1.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

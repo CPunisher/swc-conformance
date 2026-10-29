@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/node_modules/a/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/node_modules/a/node_modules/foo/Foo.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/a/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/node_modules/foo/Foo.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        5,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicatePackage_subModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "duplicatePackage_subModule",
+      "options": {
+        "filename": "/index.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

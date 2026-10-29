@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "sourceMapValidationVarInDownLevelGenerator.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "lib": "es2015",
+    "noemithelpers": "true",
+    "sourcemap": "true",
+    "target": "es5,es2015"
+  },
+  "path": "compiler/sourceMapValidationVarInDownLevelGenerator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "sourceMapValidationVarInDownLevelGenerator(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es2015",
+        "noemithelpers": "true",
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "sourceMapValidationVarInDownLevelGenerator.ts"
+        }
+      ],
+      "name": "sourceMapValidationVarInDownLevelGenerator(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "lib": "es2015",
+        "noemithelpers": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

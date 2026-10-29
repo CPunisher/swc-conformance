@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserForOfStatement5.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/parser/ecmascript6/Iterators/parserForOfStatement5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2483,
+            2304
+          ],
+          "file": "parserForOfStatement5.ts"
+        }
+      ],
+      "name": "parserForOfStatement5",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports"
+    ],
+    "flags": [
+      "generated",
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/assignmenttargettype/parenthesized-importcall-source.js"
+}

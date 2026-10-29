@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/async-gen-method-static/await-as-label-identifier.js"
+}

@@ -1,0 +1,159 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.cts"
+    },
+    {
+      "lines": [
+        15,
+        21
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        5,
+        24
+      ],
+      "name": "node_modules/inner/index.d.mts"
+    },
+    {
+      "lines": [
+        15,
+        27
+      ],
+      "name": "node_modules/inner/index.d.cts"
+    },
+    {
+      "lines": [
+        29
+      ],
+      "name": "node_modules/inner/old-types.d.ts"
+    },
+    {
+      "lines": [
+        31
+      ],
+      "name": "node_modules/inner/new-types.d.ts"
+    },
+    {
+      "lines": [
+        33
+      ],
+      "name": "node_modules/inner/future-types.d.ts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        35,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesTypesVersionPackageExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [],
+      "name": "nodeModulesTypesVersionPackageExports(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nodeModulesTypesVersionPackageExports(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesTypesVersionPackageExports(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesTypesVersionPackageExports(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

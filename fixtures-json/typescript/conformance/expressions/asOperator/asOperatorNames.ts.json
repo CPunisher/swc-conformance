@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "asOperatorNames.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/asOperator/asOperatorNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352
+          ],
+          "file": "asOperatorNames.ts"
+        }
+      ],
+      "name": "asOperatorNames",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

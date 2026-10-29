@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "objectLitArrayDeclNoNew.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/objectLitArrayDeclNoNew.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1011,
+            1128
+          ],
+          "file": "objectLitArrayDeclNoNew.ts"
+        }
+      ],
+      "name": "objectLitArrayDeclNoNew",
+      "options": {
+        "lib": "es5",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

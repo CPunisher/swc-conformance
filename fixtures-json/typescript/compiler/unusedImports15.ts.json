@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "foo.tsx"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "node_modules/@types/react/index.d.ts"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "reactnamespace": "Element",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedImports15.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "unusedImports15",
+      "options": {
+        "filename": "node_modules/@types/react/index.d.ts",
+        "jsx": "preserve",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "reactnamespace": "Element",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

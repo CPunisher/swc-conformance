@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/app/lib/bar.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "/app/src/index.ts"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "moduleresolution": "bundler",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/commonSourceDirectory_dts.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "name": "/app/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5011,
+            5011
+          ],
+          "file": "/app/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/app/lib/bar.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/app/src/index.ts"
+        }
+      ],
+      "name": "commonSourceDirectory_dts",
+      "options": {
+        "filename": "/app/tsconfig.json",
+        "fullemitpaths": "true",
+        "moduleresolution": "bundler",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

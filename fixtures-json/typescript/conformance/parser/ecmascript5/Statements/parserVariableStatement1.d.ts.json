@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserVariableStatement1.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserVariableStatement1.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1046,
+            1039
+          ],
+          "file": "parserVariableStatement1.d.ts"
+        }
+      ],
+      "name": "parserVariableStatement1.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

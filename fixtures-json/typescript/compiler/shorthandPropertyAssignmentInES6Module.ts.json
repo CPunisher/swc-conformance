@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "existingModule.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES6"
+  },
+  "path": "compiler/shorthandPropertyAssignmentInES6Module.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "existingModule.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "shorthandPropertyAssignmentInES6Module",
+      "options": {
+        "filename": "test.ts",
+        "module": "commonjs",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        3,
+        9,
+        10,
+        11
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/errorWithSameNameType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            2367,
+            2741
+          ],
+          "file": "c.ts"
+        }
+      ],
+      "name": "errorWithSameNameType",
+      "options": {
+        "filename": "c.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "c.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationEmitTrippleSlashReference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationEmitTrippleSlashReference",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "c.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

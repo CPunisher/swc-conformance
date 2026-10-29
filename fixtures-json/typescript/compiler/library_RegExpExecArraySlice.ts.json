@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "library_RegExpExecArraySlice.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/library_RegExpExecArraySlice.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454,
+            2454
+          ],
+          "file": "library_RegExpExecArraySlice.ts"
+        }
+      ],
+      "name": "library_RegExpExecArraySlice",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

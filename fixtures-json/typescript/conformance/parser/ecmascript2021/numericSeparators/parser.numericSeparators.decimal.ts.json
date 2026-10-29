@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "parser.numericSeparators.decimal.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2020, es2021"
+  },
+  "path": "conformance/parser/ecmascript2021/numericSeparators/parser.numericSeparators.decimal.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parser.numericSeparators.decimal(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [],
+      "name": "parser.numericSeparators.decimal(target=es2020)",
+      "options": {
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "target=es2021",
+      "diagnostics": [],
+      "name": "parser.numericSeparators.decimal(target=es2021)",
+      "options": {
+        "target": "es2021"
+      }
+    }
+  ]
+}

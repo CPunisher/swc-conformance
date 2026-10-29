@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "something.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "esnext"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionInExportEqualsUMD.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionInExportEqualsUMD",
+      "options": {
+        "filename": "index.ts",
+        "module": "umd",
+        "target": "esnext"
+      }
+    }
+  ]
+}

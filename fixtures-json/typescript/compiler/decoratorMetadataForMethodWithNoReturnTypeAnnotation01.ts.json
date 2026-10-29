@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "decoratorMetadataForMethodWithNoReturnTypeAnnotation01.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "noemithelpers": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/decoratorMetadataForMethodWithNoReturnTypeAnnotation01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorMetadataForMethodWithNoReturnTypeAnnotation01(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "noemithelpers": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "decoratorMetadataForMethodWithNoReturnTypeAnnotation01(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "noemithelpers": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

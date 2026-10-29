@@ -1,0 +1,91 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "node_modules/source-map-support/register.js"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "noemit": "true",
+    "noimplicitany": "true,false",
+    "nouncheckedsideeffectimports": "true,false",
+    "target": "es2015"
+  },
+  "path": "compiler/sideEffectImports2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "noimplicitany=true,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "sideEffectImports2(noimplicitany=true,nouncheckedsideeffectimports=true)",
+      "options": {
+        "filename": "node_modules/source-map-support/register.js",
+        "module": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "noimplicitany=true,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports2(noimplicitany=true,nouncheckedsideeffectimports=false)",
+      "options": {
+        "filename": "node_modules/source-map-support/register.js",
+        "module": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "noimplicitany=false,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "sideEffectImports2(noimplicitany=false,nouncheckedsideeffectimports=true)",
+      "options": {
+        "filename": "node_modules/source-map-support/register.js",
+        "module": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "false",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "noimplicitany=false,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports2(noimplicitany=false,nouncheckedsideeffectimports=false)",
+      "options": {
+        "filename": "node_modules/source-map-support/register.js",
+        "module": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "false",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

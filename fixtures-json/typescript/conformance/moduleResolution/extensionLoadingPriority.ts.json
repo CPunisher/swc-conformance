@@ -1,0 +1,168 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/project/a.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/project/a.js.js"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/project/dir/index.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/project/dir.js"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/project/b.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "moduleresolution": "classic,node16,nodenext,bundler",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/extensionLoadingPriority.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=classic",
+      "diagnostics": [],
+      "name": "extensionLoadingPriority(moduleresolution=classic)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/b.ts",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/a.js.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/dir/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/dir.js"
+        },
+        {
+          "codes": [
+            2835
+          ],
+          "file": "/project/b.ts"
+        }
+      ],
+      "name": "extensionLoadingPriority(moduleresolution=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/b.ts",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/a.js.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/dir/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/dir.js"
+        },
+        {
+          "codes": [
+            2835
+          ],
+          "file": "/project/b.ts"
+        }
+      ],
+      "name": "extensionLoadingPriority(moduleresolution=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/b.ts",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [],
+      "name": "extensionLoadingPriority(moduleresolution=bundler)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/b.ts",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

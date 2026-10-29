@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "templateStringInFunctionParameterTypeES6.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/templates/templateStringInFunctionParameterTypeES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            7006,
+            1003,
+            7010
+          ],
+          "file": "templateStringInFunctionParameterTypeES6.ts"
+        }
+      ],
+      "name": "templateStringInFunctionParameterTypeES6",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

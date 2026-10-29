@@ -1,0 +1,235 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "global.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        10,
+        16,
+        17
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "file3.ts"
+    },
+    {
+      "lines": [
+        10,
+        26,
+        27
+      ],
+      "name": "file4.ts"
+    },
+    {
+      "lines": [
+        10,
+        31,
+        32
+      ],
+      "name": "file5.ts"
+    },
+    {
+      "lines": [
+        20,
+        36,
+        37
+      ],
+      "name": "file6.ts"
+    },
+    {
+      "lines": [
+        20,
+        41,
+        42
+      ],
+      "name": "file7.ts"
+    },
+    {
+      "lines": [
+        10,
+        46,
+        47
+      ],
+      "name": "file8.ts"
+    },
+    {
+      "lines": [
+        10,
+        51,
+        52
+      ],
+      "name": "file9.ts"
+    },
+    {
+      "lines": [
+        10,
+        56,
+        57
+      ],
+      "name": "file10.ts"
+    },
+    {
+      "lines": [
+        10,
+        61,
+        62
+      ],
+      "name": "file11.ts"
+    },
+    {
+      "lines": [
+        10,
+        66,
+        67
+      ],
+      "name": "file12.ts"
+    },
+    {
+      "lines": [
+        20,
+        71,
+        72
+      ],
+      "name": "file13.ts"
+    },
+    {
+      "lines": [
+        20,
+        76,
+        77
+      ],
+      "name": "file14.ts"
+    },
+    {
+      "lines": [
+        20,
+        81,
+        82
+      ],
+      "name": "file15.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-exportModifier.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "global.ts"
+        },
+        {
+          "codes": [],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [
+            1206
+          ],
+          "file": "file3.ts"
+        },
+        {
+          "codes": [],
+          "file": "file4.ts"
+        },
+        {
+          "codes": [],
+          "file": "file5.ts"
+        },
+        {
+          "codes": [
+            8038
+          ],
+          "file": "file6.ts"
+        },
+        {
+          "codes": [
+            8038
+          ],
+          "file": "file7.ts"
+        },
+        {
+          "codes": [],
+          "file": "file8.ts"
+        },
+        {
+          "codes": [],
+          "file": "file9.ts"
+        },
+        {
+          "codes": [],
+          "file": "file10.ts"
+        },
+        {
+          "codes": [],
+          "file": "file11.ts"
+        },
+        {
+          "codes": [],
+          "file": "file12.ts"
+        },
+        {
+          "codes": [
+            1434,
+            2304
+          ],
+          "file": "file13.ts"
+        },
+        {
+          "codes": [
+            1128,
+            1434,
+            2304
+          ],
+          "file": "file14.ts"
+        },
+        {
+          "codes": [
+            2304,
+            1005
+          ],
+          "file": "file15.ts"
+        }
+      ],
+      "name": "esDecorators-classDeclaration-exportModifier.2",
+      "options": {
+        "filename": "file15.ts",
+        "module": "esnext",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

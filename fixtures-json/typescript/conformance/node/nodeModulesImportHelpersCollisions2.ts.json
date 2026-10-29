@@ -1,0 +1,204 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        13,
+        20,
+        21
+      ],
+      "name": "subfolder/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "types.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "importhelpers": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesImportHelpersCollisions2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions2(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions2(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions2(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions2(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

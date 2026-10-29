@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "wideningTuples3.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/types/tuple/wideningTuples3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7005,
+            2322,
+            2322
+          ],
+          "file": "wideningTuples3.ts"
+        }
+      ],
+      "name": "wideningTuples3",
+      "options": {
+        "noimplicitany": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

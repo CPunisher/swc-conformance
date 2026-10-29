@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/switch/syntax/redeclaration/const-name-redeclaration-attempt-with-async-function.js"
+}

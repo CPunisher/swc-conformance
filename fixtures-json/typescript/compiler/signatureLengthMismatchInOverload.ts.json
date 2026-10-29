@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "signatureLengthMismatchInOverload.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/signatureLengthMismatchInOverload.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769,
+            2769
+          ],
+          "file": "signatureLengthMismatchInOverload.ts"
+        }
+      ],
+      "name": "signatureLengthMismatchInOverload",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

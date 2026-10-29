@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "enumGenericTypeClash.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/enumGenericTypeClash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2567,
+            2567
+          ],
+          "file": "enumGenericTypeClash.ts"
+        }
+      ],
+      "name": "enumGenericTypeClash",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

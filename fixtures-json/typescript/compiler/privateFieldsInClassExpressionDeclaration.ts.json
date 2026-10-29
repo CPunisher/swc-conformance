@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "privateFieldsInClassExpressionDeclaration.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "ES2015"
+  },
+  "path": "compiler/privateFieldsInClassExpressionDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4094,
+            4094,
+            4094,
+            4094
+          ],
+          "file": "privateFieldsInClassExpressionDeclaration.ts"
+        }
+      ],
+      "name": "privateFieldsInClassExpressionDeclaration",
+      "options": {
+        "declaration": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

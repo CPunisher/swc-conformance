@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "bug.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsdocThisTagWithThisParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006
+          ],
+          "file": "bug.js"
+        }
+      ],
+      "name": "jsdocThisTagWithThisParameter",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

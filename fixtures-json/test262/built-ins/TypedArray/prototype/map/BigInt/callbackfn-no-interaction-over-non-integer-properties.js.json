@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/map/BigInt/callbackfn-no-interaction-over-non-integer-properties.js"
+}

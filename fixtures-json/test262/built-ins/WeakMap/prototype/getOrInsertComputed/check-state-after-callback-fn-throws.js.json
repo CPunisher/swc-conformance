@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "upsert",
+      "WeakMap",
+      "Symbol",
+      "symbols-as-weakmap-keys"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakMap/prototype/getOrInsertComputed/check-state-after-callback-fn-throws.js"
+}

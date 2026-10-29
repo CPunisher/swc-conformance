@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserErrorRecovery_ArgumentList6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ArgumentLists/parserErrorRecovery_ArgumentList6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1135,
+            1005
+          ],
+          "file": "parserErrorRecovery_ArgumentList6.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ArgumentList6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

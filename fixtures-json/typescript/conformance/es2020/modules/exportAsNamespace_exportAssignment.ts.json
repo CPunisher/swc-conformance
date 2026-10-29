@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2020/modules/exportAsNamespace_exportAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2498
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "exportAsNamespace_exportAssignment",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

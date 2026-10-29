@@ -1,0 +1,173 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "index.cts"
+    },
+    {
+      "lines": [
+        4,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "other.ts"
+    },
+    {
+      "lines": [
+        4,
+        20,
+        21
+      ],
+      "name": "other2.ts"
+    },
+    {
+      "lines": [
+        4,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "other.mts"
+    },
+    {
+      "lines": [
+        4,
+        20,
+        21
+      ],
+      "name": "other2.mts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "other.cts"
+    },
+    {
+      "lines": [
+        33,
+        40,
+        41
+      ],
+      "name": "other2.cts"
+    },
+    {
+      "lines": [
+        10,
+        44
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        47
+      ],
+      "name": "node_modules/inner/index.d.mts"
+    },
+    {
+      "lines": [
+        10,
+        50
+      ],
+      "name": "node_modules/inner/index.d.cts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        52,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesDeclarationEmitDynamicImportWithPackageExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nodeModulesDeclarationEmitDynamicImportWithPackageExports(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesDeclarationEmitDynamicImportWithPackageExports(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesDeclarationEmitDynamicImportWithPackageExports(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

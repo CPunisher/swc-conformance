@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.matchAll",
+      "Symbol.species"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "compareIterator.js",
+      "regExpUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/Symbol.matchAll/species-constructor.js"
+}

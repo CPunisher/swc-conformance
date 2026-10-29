@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "promise-try"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/try/return-value.js"
+}

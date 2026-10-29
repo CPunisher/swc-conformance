@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "YieldExpression8_es6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/yieldExpressions/YieldExpression8_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2304
+          ],
+          "file": "YieldExpression8_es6.ts"
+        }
+      ],
+      "name": "YieldExpression8_es6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

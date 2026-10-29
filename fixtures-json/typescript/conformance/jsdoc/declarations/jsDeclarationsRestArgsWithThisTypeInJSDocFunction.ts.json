@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "bug38550.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsRestArgsWithThisTypeInJSDocFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsRestArgsWithThisTypeInJSDocFunction(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "bug38550.js",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "bug38550.js"
+        }
+      ],
+      "name": "jsDeclarationsRestArgsWithThisTypeInJSDocFunction(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "bug38550.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

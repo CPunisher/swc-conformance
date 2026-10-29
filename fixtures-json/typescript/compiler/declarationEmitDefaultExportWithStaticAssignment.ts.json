@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index1.ts"
+    },
+    {
+      "lines": [
+        8,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "index2.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "index3.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "index4.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDefaultExportWithStaticAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitDefaultExportWithStaticAssignment",
+      "options": {
+        "declaration": "true",
+        "filename": "index4.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

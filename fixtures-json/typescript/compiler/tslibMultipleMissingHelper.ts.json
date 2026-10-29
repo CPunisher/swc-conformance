@@ -1,0 +1,160 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/package1/index.ts"
+    },
+    {
+      "lines": [
+        12,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/package1/other.ts"
+    },
+    {
+      "lines": [
+        2,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/package1/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "/package1/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "/package1/node_modules/tslib/tslib.js"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        15
+      ],
+      "name": "/package2/index.ts"
+    },
+    {
+      "lines": [
+        2,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/package2/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "/package2/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        34
+      ],
+      "name": "/package2/node_modules/tslib/tslib.js"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/tslibMultipleMissingHelper.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/package1/index.ts"
+        },
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "/package1/other.ts"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/package2/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/tslib.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/tslib.js"
+        },
+        {
+          "codes": [],
+          "file": "/package2/node_modules/tslib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/package2/node_modules/tslib/tslib.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package2/node_modules/tslib/tslib.js"
+        }
+      ],
+      "name": "tslibMultipleMissingHelper",
+      "options": {
+        "filename": "/package2/node_modules/tslib/tslib.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

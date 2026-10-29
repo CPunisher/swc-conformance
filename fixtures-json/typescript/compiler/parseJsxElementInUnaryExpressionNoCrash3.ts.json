@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/parseJsxElementInUnaryExpressionNoCrash3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17008,
+            1003,
+            1005,
+            1005
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "parseJsxElementInUnaryExpressionNoCrash3",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

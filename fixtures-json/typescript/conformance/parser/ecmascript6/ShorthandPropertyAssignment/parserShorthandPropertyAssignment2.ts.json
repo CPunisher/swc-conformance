@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserShorthandPropertyAssignment2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript6/ShorthandPropertyAssignment/parserShorthandPropertyAssignment2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "parserShorthandPropertyAssignment2.ts"
+        }
+      ],
+      "name": "parserShorthandPropertyAssignment2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

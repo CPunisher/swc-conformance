@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/a.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/b.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/x.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/narrowedImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "narrowedImports",
+      "options": {
+        "filename": "/x.ts",
+        "module": "commonjs",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

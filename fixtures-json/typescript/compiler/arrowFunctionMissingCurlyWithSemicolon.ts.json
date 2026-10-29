@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "arrowFunctionMissingCurlyWithSemicolon.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/arrowFunctionMissingCurlyWithSemicolon.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "arrowFunctionMissingCurlyWithSemicolon.ts"
+        }
+      ],
+      "name": "arrowFunctionMissingCurlyWithSemicolon",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

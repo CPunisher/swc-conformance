@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "bar.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/nounusedTypeParameterConstraint.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nounusedTypeParameterConstraint",
+      "options": {
+        "filename": "test.ts",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

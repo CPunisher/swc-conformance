@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7
+      ],
+      "name": "types.d.ts"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "utils/username.ts"
+    },
+    {
+      "lines": [
+        11
+      ],
+      "name": "utils/index.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "hello.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "importhelpers": "true",
+    "module": "commonjs",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "es2017"
+  },
+  "path": "compiler/esModuleInteropImportTSLibHasImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esModuleInteropImportTSLibHasImport",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "es2017"
+      }
+    }
+  ]
+}

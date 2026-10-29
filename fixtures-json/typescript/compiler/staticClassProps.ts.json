@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "staticClassProps.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/staticClassProps.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1128,
+            1128
+          ],
+          "file": "staticClassProps.ts"
+        }
+      ],
+      "name": "staticClassProps",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

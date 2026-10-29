@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "t.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocTypeTag4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "t.d.ts"
+        },
+        {
+          "codes": [
+            2344,
+            2344
+          ],
+          "file": "test.js"
+        }
+      ],
+      "name": "checkJsdocTypeTag4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

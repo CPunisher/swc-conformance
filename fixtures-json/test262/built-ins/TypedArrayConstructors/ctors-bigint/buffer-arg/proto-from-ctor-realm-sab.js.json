@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "cross-realm",
+      "SharedArrayBuffer",
+      "Reflect",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/proto-from-ctor-realm-sab.js"
+}

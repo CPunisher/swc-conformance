@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "bug39167.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/defaultPropertyAssignedClassWithPrototype.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022
+          ],
+          "file": "bug39167.js"
+        }
+      ],
+      "name": "defaultPropertyAssignedClassWithPrototype",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug39167.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "letIdentifierInElementAccess01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/elementAccess/letIdentifierInElementAccess01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            1212
+          ],
+          "file": "letIdentifierInElementAccess01.ts"
+        }
+      ],
+      "name": "letIdentifierInElementAccess01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

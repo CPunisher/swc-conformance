@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "publicMemberImplementedAsPrivateInDerivedClass.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/publicMemberImplementedAsPrivateInDerivedClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2420,
+            2420,
+            2564
+          ],
+          "file": "publicMemberImplementedAsPrivateInDerivedClass.ts"
+        }
+      ],
+      "name": "publicMemberImplementedAsPrivateInDerivedClass",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

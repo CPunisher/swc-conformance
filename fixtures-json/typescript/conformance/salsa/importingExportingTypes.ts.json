@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/importingExportingTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@types/node/index.d.ts"
+        },
+        {
+          "codes": [
+            18042,
+            18042,
+            18043,
+            18043,
+            18043
+          ],
+          "file": "/index.js"
+        }
+      ],
+      "name": "importingExportingTypes",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/index.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

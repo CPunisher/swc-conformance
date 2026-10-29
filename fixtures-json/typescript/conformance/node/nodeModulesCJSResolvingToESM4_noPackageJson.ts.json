@@ -1,0 +1,101 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/module.mts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/tsExtension.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/jsExtension.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/ctsExtension.cts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/tsxExtension.tsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "jsx": "preserve",
+    "module": "node16",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesCJSResolvingToESM4_noPackageJson.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/module.mts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/tsExtension.ts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/jsExtension.js"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "/ctsExtension.cts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/tsxExtension.tsx"
+        }
+      ],
+      "name": "nodeModulesCJSResolvingToESM4_noPackageJson",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/tsxExtension.tsx",
+        "jsx": "preserve",
+        "module": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

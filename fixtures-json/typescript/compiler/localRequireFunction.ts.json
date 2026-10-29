@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "app.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "./out/",
+    "target": "es2015"
+  },
+  "path": "compiler/localRequireFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "localRequireFunction",
+      "options": {
+        "allowjs": "true",
+        "filename": "app.js",
+        "module": "commonjs",
+        "outdir": "./out/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

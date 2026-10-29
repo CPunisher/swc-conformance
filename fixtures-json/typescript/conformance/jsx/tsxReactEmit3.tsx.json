@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "test.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxReactEmit3.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7005,
+            7005,
+            7005
+          ],
+          "file": "test.tsx"
+        }
+      ],
+      "name": "tsxReactEmit3",
+      "options": {
+        "filename": "test.tsx",
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

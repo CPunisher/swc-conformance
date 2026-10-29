@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "augmentedTypesClass4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/augmentedTypesClass4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "augmentedTypesClass4.ts"
+        }
+      ],
+      "name": "augmentedTypesClass4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

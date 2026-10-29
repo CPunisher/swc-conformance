@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "invalidBinaryIntegerLiteralAndOctalIntegerLiteral.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/binaryAndOctalIntegerLiteral/invalidBinaryIntegerLiteralAndOctalIntegerLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1177,
+            1177,
+            1178,
+            1178
+          ],
+          "file": "invalidBinaryIntegerLiteralAndOctalIntegerLiteral.ts"
+        }
+      ],
+      "name": "invalidBinaryIntegerLiteralAndOctalIntegerLiteral",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

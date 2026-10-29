@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "labeledStatementDeclarationListInLoopNoCrash4.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/labeledStatements/labeledStatementDeclarationListInLoopNoCrash4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "labeledStatementDeclarationListInLoopNoCrash4(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            1005,
+            2304,
+            1005,
+            1135,
+            1134,
+            2592,
+            1005,
+            2304,
+            1005,
+            1005,
+            1344,
+            1005,
+            1005,
+            1160
+          ],
+          "file": "labeledStatementDeclarationListInLoopNoCrash4.ts"
+        }
+      ],
+      "name": "labeledStatementDeclarationListInLoopNoCrash4(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

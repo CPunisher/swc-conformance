@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "protectedClassPropertyAccessibleWithinSubclass.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/classes/members/accessibility/protectedClassPropertyAccessibleWithinSubclass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "protectedClassPropertyAccessibleWithinSubclass(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "protectedClassPropertyAccessibleWithinSubclass.ts"
+        }
+      ],
+      "name": "protectedClassPropertyAccessibleWithinSubclass(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

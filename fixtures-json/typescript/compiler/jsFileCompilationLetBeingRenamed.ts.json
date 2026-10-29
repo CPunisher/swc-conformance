@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationLetBeingRenamed.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationLetBeingRenamed",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

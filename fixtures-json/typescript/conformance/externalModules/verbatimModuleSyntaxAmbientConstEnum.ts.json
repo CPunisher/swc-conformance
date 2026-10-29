@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/pkg/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/verbatimModuleSyntaxAmbientConstEnum.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [
+            2748,
+            2748
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            2748
+          ],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "verbatimModuleSyntaxAmbientConstEnum",
+      "options": {
+        "filename": "/b.ts",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

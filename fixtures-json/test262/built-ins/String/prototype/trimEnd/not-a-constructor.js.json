@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "string-trimming",
+      "String.prototype.trimEnd",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/String/prototype/trimEnd/not-a-constructor.js"
+}

@@ -1,0 +1,256 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "example.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "moduleLookingFile01.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "scriptLookingFile01.ts"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "assignmentTargets.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,dom",
+    "module": "esnext,commonjs,system,es2020",
+    "target": "esnext,es5"
+  },
+  "path": "conformance/es2019/importMeta/importMeta.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext,target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "example.ts"
+        },
+        {
+          "codes": [
+            17012,
+            17012
+          ],
+          "file": "moduleLookingFile01.ts"
+        },
+        {
+          "codes": [
+            17012,
+            17012
+          ],
+          "file": "scriptLookingFile01.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2339,
+            2364
+          ],
+          "file": "assignmentTargets.ts"
+        }
+      ],
+      "name": "importMeta(module=esnext,target=esnext)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext,target=es5",
+      "diagnostics": [],
+      "name": "importMeta(module=esnext,target=es5)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "esnext",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=commonjs,target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1343,
+            1343,
+            2339
+          ],
+          "file": "example.ts"
+        },
+        {
+          "codes": [
+            1343,
+            1343,
+            17012,
+            1343,
+            17012
+          ],
+          "file": "moduleLookingFile01.ts"
+        },
+        {
+          "codes": [
+            1343,
+            1343,
+            17012,
+            1343,
+            17012
+          ],
+          "file": "scriptLookingFile01.ts"
+        },
+        {
+          "codes": [
+            1343,
+            2339,
+            1343,
+            2339,
+            1343,
+            1343,
+            2364,
+            1343
+          ],
+          "file": "assignmentTargets.ts"
+        }
+      ],
+      "name": "importMeta(module=commonjs,target=esnext)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "commonjs",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=commonjs,target=es5",
+      "diagnostics": [],
+      "name": "importMeta(module=commonjs,target=es5)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=system,target=esnext",
+      "diagnostics": [],
+      "name": "importMeta(module=system,target=esnext)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "system",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=system,target=es5",
+      "diagnostics": [],
+      "name": "importMeta(module=system,target=es5)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "system",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=es2020,target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "example.ts"
+        },
+        {
+          "codes": [
+            17012,
+            17012
+          ],
+          "file": "moduleLookingFile01.ts"
+        },
+        {
+          "codes": [
+            17012,
+            17012
+          ],
+          "file": "scriptLookingFile01.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2339,
+            2364
+          ],
+          "file": "assignmentTargets.ts"
+        }
+      ],
+      "name": "importMeta(module=es2020,target=esnext)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "es2020",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=es2020,target=es5",
+      "diagnostics": [],
+      "name": "importMeta(module=es2020,target=es5)",
+      "options": {
+        "filename": "assignmentTargets.ts",
+        "lib": "es5,dom",
+        "module": "es2020",
+        "target": "es5"
+      }
+    }
+  ]
+}

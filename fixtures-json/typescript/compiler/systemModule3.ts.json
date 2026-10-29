@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "file3.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "file4.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "target": "es2015"
+  },
+  "path": "compiler/systemModule3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "systemModule3",
+      "options": {
+        "filename": "file4.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

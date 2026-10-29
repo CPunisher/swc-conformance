@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "privateNameJsBadAssignment.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameJsBadAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            18016,
+            18016,
+            2339,
+            2339
+          ],
+          "file": "privateNameJsBadAssignment.js"
+        }
+      ],
+      "name": "privateNameJsBadAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "privateNameJsBadAssignment.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

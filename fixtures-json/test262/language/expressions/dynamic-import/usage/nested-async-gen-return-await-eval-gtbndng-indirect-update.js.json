@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "fnGlobalObject.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/usage/nested-async-gen-return-await-eval-gtbndng-indirect-update.js"
+}

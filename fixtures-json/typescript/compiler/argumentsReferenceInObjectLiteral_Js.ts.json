@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "alwaysstrict": "true, false",
+    "checkjs": "true",
+    "ignoredeprecations": "6.0",
+    "outdir": "./out",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/argumentsReferenceInObjectLiteral_Js.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            18004,
+            1100
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "argumentsReferenceInObjectLiteral_Js(alwaysstrict=true)",
+      "options": {
+        "allowjs": "true",
+        "alwaysstrict": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "ignoredeprecations": "6.0",
+        "outdir": "./out",
+        "strict": "false",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "argumentsReferenceInObjectLiteral_Js(alwaysstrict=false)",
+      "options": {
+        "allowjs": "true",
+        "alwaysstrict": "false",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "ignoredeprecations": "6.0",
+        "outdir": "./out",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "export-star-as-namespace-from-module",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/dynamic-import/namespace/await-ns-get-nested-namespace-dflt-indirect.js"
+}

@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/src/b.js"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/src/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolution_relativeImportJsFile_noImplicitAny.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7016
+          ],
+          "file": "/src/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/src/b.js"
+        }
+      ],
+      "name": "moduleResolution_relativeImportJsFile_noImplicitAny",
+      "options": {
+        "filename": "/src/a.ts",
+        "module": "commonjs",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

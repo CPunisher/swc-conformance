@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "folder/foo.ts"
+    },
+    {
+      "lines": [
+        5
+      ],
+      "name": "folder/bar.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleMemberMissingErrorIsRelative.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "folder/foo.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "folder/bar.ts"
+        }
+      ],
+      "name": "moduleMemberMissingErrorIsRelative",
+      "options": {
+        "filename": "folder/bar.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/src/buzz.mts"
+    }
+  ],
+  "options": {
+    "module": "node16",
+    "moduleresolution": "node16",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/moduleResolutionWithoutExtension5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2834
+          ],
+          "file": "/src/buzz.mts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension5",
+      "options": {
+        "filename": "/src/buzz.mts",
+        "module": "node16",
+        "moduleresolution": "node16",
+        "target": "es2022"
+      }
+    }
+  ]
+}

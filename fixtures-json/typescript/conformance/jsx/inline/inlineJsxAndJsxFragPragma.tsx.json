@@ -1,0 +1,191 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "renderer.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "preacty.tsx"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "snabbdomy.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        36,
+        37
+      ],
+      "name": "preacty-only-fragment.tsx"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        36,
+        37
+      ],
+      "name": "snabbdomy-only-fragment.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        49,
+        50,
+        51
+      ],
+      "name": "preacty-only-fragment-no-jsx.tsx"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        55,
+        56,
+        57
+      ],
+      "name": "snabbdomy-only-fragment-no-jsx.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        64,
+        65
+      ],
+      "name": "preacty-no-fragment.tsx"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        64,
+        65
+      ],
+      "name": "snabbdomy-no-fragment.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        20,
+        76,
+        77,
+        78,
+        79
+      ],
+      "name": "preacty-only-component.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/inline/inlineJsxAndJsxFragPragma.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "renderer.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "preacty.tsx"
+        },
+        {
+          "codes": [],
+          "file": "snabbdomy.tsx"
+        },
+        {
+          "codes": [],
+          "file": "preacty-only-fragment.tsx"
+        },
+        {
+          "codes": [],
+          "file": "snabbdomy-only-fragment.tsx"
+        },
+        {
+          "codes": [
+            2874
+          ],
+          "file": "preacty-only-fragment-no-jsx.tsx"
+        },
+        {
+          "codes": [
+            2874
+          ],
+          "file": "snabbdomy-only-fragment-no-jsx.tsx"
+        },
+        {
+          "codes": [
+            6133
+          ],
+          "file": "preacty-no-fragment.tsx"
+        },
+        {
+          "codes": [],
+          "file": "snabbdomy-no-fragment.tsx"
+        },
+        {
+          "codes": [],
+          "file": "preacty-only-component.tsx"
+        }
+      ],
+      "name": "inlineJsxAndJsxFragPragma",
+      "options": {
+        "filename": "preacty-only-component.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

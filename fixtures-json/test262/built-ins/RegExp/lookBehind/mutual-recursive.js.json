@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-lookbehind"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/lookBehind/mutual-recursive.js"
+}

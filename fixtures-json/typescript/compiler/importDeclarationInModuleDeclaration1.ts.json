@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "importDeclarationInModuleDeclaration1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/importDeclarationInModuleDeclaration1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1147
+          ],
+          "file": "importDeclarationInModuleDeclaration1.ts"
+        }
+      ],
+      "name": "importDeclarationInModuleDeclaration1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "nonPrimitiveAccessProperty.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/nonPrimitive/nonPrimitiveAccessProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "nonPrimitiveAccessProperty.ts"
+        }
+      ],
+      "name": "nonPrimitiveAccessProperty",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

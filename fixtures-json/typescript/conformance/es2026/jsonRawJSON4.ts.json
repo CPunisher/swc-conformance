@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "raw.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "es2025,es2026.json",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/es2026/jsonRawJSON4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2540,
+            2693
+          ],
+          "file": "raw.js"
+        }
+      ],
+      "name": "jsonRawJSON4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "raw.js",
+        "lib": "es2025,es2026.json",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

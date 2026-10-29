@@ -1,0 +1,211 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "/node_modules/a/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/a/node_modules/x/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/a/node_modules/x/package.json"
+    },
+    {
+      "lines": [
+        4,
+        17,
+        18
+      ],
+      "name": "/node_modules/b/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/node_modules/b/node_modules/x/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/b/node_modules/x/package.json"
+    },
+    {
+      "lines": [
+        4,
+        27,
+        28
+      ],
+      "name": "/node_modules/c/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/c/node_modules/x/index.d.ts"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "/node_modules/c/node_modules/x/package.json"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "/src/a.ts"
+    }
+  ],
+  "options": {
+    "deduplicatepackages": "true,false",
+    "noimplicitreferences": "true"
+  },
+  "path": "compiler/deduplicatePackages.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "deduplicatepackages=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "/src/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/node_modules/x/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/node_modules/x/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/node_modules/x/package.json"
+        }
+      ],
+      "name": "deduplicatePackages(deduplicatepackages=true)",
+      "options": {
+        "deduplicatepackages": "true",
+        "filename": "/src/a.ts",
+        "noimplicitreferences": "true"
+      }
+    },
+    {
+      "config": "deduplicatepackages=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "/src/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/node_modules/x/package.json"
+        },
+        {
+          "codes": [
+            2306
+          ],
+          "file": "/node_modules/b/index.d.ts"
+        },
+        {
+          "codes": [
+            1434,
+            2304,
+            1434,
+            2304,
+            2304
+          ],
+          "file": "/node_modules/b/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/node_modules/x/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/c/node_modules/x/package.json"
+        }
+      ],
+      "name": "deduplicatePackages(deduplicatepackages=false)",
+      "options": {
+        "deduplicatepackages": "false",
+        "filename": "/src/a.ts",
+        "noimplicitreferences": "true"
+      }
+    }
+  ]
+}

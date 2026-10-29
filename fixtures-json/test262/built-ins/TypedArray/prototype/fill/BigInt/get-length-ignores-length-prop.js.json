@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/fill/BigInt/get-length-ignores-length-prop.js"
+}

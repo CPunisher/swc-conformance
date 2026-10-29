@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromJSInitializer2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeFromJSInitializer2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

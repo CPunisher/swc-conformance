@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "file.tsx"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        18
+      ],
+      "name": "node_modules/@types/react/jsx-runtime.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        21
+      ],
+      "name": "node_modules/@types/react/jsx-dev-runtime.d.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx",
+    "module": "nodenext",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/reactJsxReactResolvedNodeNext.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reactJsxReactResolvedNodeNext",
+      "options": {
+        "filename": "node_modules/@types/react/jsx-dev-runtime.d.ts",
+        "jsx": "react-jsx",
+        "module": "nodenext",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

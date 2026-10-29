@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "emitArrowFunctionThisCapturing.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionThisCapturing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emitArrowFunctionThisCapturing(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "emitArrowFunctionThisCapturing.ts"
+        }
+      ],
+      "name": "emitArrowFunctionThisCapturing(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

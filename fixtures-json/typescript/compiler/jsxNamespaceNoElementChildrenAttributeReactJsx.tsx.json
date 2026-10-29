@@ -1,0 +1,74 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/jsx.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/test.tsx"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "/jsx/jsx-runtime.ts"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "/jsx/jsx-dev-runtime.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "jsximportsource": "/jsx",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxNamespaceNoElementChildrenAttributeReactJsx.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "jsxNamespaceNoElementChildrenAttributeReactJsx(jsx=react-jsx)",
+      "options": {
+        "filename": "/jsx/jsx-dev-runtime.ts",
+        "jsx": "react-jsx",
+        "jsximportsource": "/jsx",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [],
+      "name": "jsxNamespaceNoElementChildrenAttributeReactJsx(jsx=react-jsxdev)",
+      "options": {
+        "filename": "/jsx/jsx-dev-runtime.ts",
+        "jsx": "react-jsxdev",
+        "jsximportsource": "/jsx",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

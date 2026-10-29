@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "source.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsExportSpecifierNonlocal.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportSpecifierNonlocal(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportSpecifierNonlocal(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

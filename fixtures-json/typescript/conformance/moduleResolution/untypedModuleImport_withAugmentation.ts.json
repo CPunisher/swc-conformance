@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport_withAugmentation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2665
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.js"
+        }
+      ],
+      "name": "untypedModuleImport_withAugmentation",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "usage.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "Something.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "prelude.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/exportTypeMergedWithExportStarAsNamespace.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportTypeMergedWithExportStarAsNamespace",
+      "options": {
+        "filename": "prelude.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

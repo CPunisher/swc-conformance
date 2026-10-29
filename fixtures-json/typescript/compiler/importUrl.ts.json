@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "traceresolution": "true"
+  },
+  "path": "compiler/importUrl.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2882
+          ],
+          "file": "/src/index.ts"
+        }
+      ],
+      "name": "importUrl",
+      "options": {
+        "filename": "/src/index.ts",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

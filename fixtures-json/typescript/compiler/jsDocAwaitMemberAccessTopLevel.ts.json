@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "repro.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2022"
+  },
+  "path": "compiler/jsDocAwaitMemberAccessTopLevel.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDocAwaitMemberAccessTopLevel",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "repro.js",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

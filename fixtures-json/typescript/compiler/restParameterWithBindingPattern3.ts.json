@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "restParameterWithBindingPattern3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/restParameterWithBindingPattern3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            1186,
+            2493,
+            2493,
+            2322,
+            2322,
+            2566
+          ],
+          "file": "restParameterWithBindingPattern3.ts"
+        }
+      ],
+      "name": "restParameterWithBindingPattern3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

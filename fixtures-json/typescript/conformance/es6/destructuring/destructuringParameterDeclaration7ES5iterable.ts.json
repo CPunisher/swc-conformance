@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "destructuringParameterDeclaration7ES5iterable.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/destructuring/destructuringParameterDeclaration7ES5iterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringParameterDeclaration7ES5iterable(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "destructuringParameterDeclaration7ES5iterable.ts"
+        }
+      ],
+      "name": "destructuringParameterDeclaration7ES5iterable(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

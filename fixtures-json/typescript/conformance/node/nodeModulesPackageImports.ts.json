@@ -1,0 +1,156 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.cts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022",
+    "traceresolution": "true"
+  },
+  "path": "conformance/node/nodeModulesPackageImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesPackageImports(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node16",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesPackageImports(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node18",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesPackageImports(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "node20",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesPackageImports(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "package.json",
+        "module": "nodenext",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

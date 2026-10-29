@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "nullishCoalescingOperator4.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/nullishCoalescingOperator/nullishCoalescingOperator4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18049,
+            18049
+          ],
+          "file": "nullishCoalescingOperator4.ts"
+        }
+      ],
+      "name": "nullishCoalescingOperator4",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

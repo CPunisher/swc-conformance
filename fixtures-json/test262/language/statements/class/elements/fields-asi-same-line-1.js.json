@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/fields-asi-same-line-1.js"
+}

@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a/b/c/app.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a/b/c/lib1.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "/a/b/c/lib2.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "commonjs",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/cacheResolutions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "cacheResolutions",
+      "options": {
+        "filename": "/a/b/c/lib2.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

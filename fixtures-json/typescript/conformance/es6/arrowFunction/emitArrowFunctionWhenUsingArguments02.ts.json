@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments02.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionWhenUsingArguments02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emitArrowFunctionWhenUsingArguments02(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "emitArrowFunctionWhenUsingArguments02.ts"
+        }
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments02(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

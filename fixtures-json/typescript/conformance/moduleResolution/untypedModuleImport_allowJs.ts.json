@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "currentdirectory": "/",
+    "maxnodemodulejsdepth": "1",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport_allowJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.js"
+        }
+      ],
+      "name": "untypedModuleImport_allowJs",
+      "options": {
+        "allowjs": "true",
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "maxnodemodulejsdepth": "1",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

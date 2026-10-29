@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "elaboratedErrorsOnNullableTargets01.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/elaboratedErrorsOnNullableTargets01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "elaboratedErrorsOnNullableTargets01.ts"
+        }
+      ],
+      "name": "elaboratedErrorsOnNullableTargets01",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

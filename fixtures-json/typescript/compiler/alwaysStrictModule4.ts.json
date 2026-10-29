@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "alwaysStrictModule4.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/alwaysStrictModule4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "alwaysStrictModule4",
+      "options": {
+        "alwaysstrict": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

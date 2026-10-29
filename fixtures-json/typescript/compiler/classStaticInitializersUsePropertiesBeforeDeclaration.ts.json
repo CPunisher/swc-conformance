@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "classStaticInitializersUsePropertiesBeforeDeclaration.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classStaticInitializersUsePropertiesBeforeDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2450,
+            2729,
+            2448,
+            2729,
+            2729
+          ],
+          "file": "classStaticInitializersUsePropertiesBeforeDeclaration.ts"
+        }
+      ],
+      "name": "classStaticInitializersUsePropertiesBeforeDeclaration",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

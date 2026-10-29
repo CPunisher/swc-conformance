@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "es6ImportWithoutFromClause_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "es6ImportWithoutFromClause_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportWithoutFromClause.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportWithoutFromClause_0.ts"
+        },
+        {
+          "codes": [
+            2882
+          ],
+          "file": "es6ImportWithoutFromClause_1.ts"
+        }
+      ],
+      "name": "es6ImportWithoutFromClause",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportWithoutFromClause_1.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "r/node_modules/foo/node_modules/nested/index.d.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "r/node_modules/foo/other/index.d.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "r/node_modules/foo/other.d.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "r/node_modules/foo/subpkg/package.json"
+    },
+    {
+      "lines": [
+        12
+      ],
+      "name": "r/node_modules/foo/subpkg/main.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "r/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "node_modules/root/index.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "r/entry.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitCommonJsModuleReferencedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/node_modules/nested/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/other/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/subpkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/subpkg/main.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "r/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/root/index.d.ts"
+        },
+        {
+          "codes": [
+            2883
+          ],
+          "file": "r/entry.ts"
+        }
+      ],
+      "name": "declarationEmitCommonJsModuleReferencedType",
+      "options": {
+        "declaration": "true",
+        "filename": "r/entry.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

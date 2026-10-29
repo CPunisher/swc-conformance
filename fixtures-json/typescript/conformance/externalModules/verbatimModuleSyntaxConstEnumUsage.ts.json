@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "bar.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/verbatimModuleSyntaxConstEnumUsage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "verbatimModuleSyntaxConstEnumUsage",
+      "options": {
+        "filename": "bar.ts",
+        "module": "esnext",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

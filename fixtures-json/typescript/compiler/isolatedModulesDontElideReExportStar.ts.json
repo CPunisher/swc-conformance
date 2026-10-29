@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesDontElideReExportStar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesDontElideReExportStar",
+      "options": {
+        "filename": "/b.ts",
+        "isolatedmodules": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "enum.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedModulesImportConstEnumTypeOnly.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesImportConstEnumTypeOnly",
+      "options": {
+        "filename": "index.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

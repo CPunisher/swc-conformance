@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserVariableDeclaration8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/VariableDeclarations/parserVariableDeclaration8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1123
+          ],
+          "file": "parserVariableDeclaration8.ts"
+        }
+      ],
+      "name": "parserVariableDeclaration8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

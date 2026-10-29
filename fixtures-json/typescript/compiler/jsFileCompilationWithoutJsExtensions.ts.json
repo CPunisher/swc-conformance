@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationWithoutJsExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationWithoutJsExtensions",
+      "options": {
+        "filename": "a.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

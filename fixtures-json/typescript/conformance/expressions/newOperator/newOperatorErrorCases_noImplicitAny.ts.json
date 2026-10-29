@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "newOperatorErrorCases_noImplicitAny.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/newOperator/newOperatorErrorCases_noImplicitAny.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7009,
+            7009,
+            7009
+          ],
+          "file": "newOperatorErrorCases_noImplicitAny.ts"
+        }
+      ],
+      "name": "newOperatorErrorCases_noImplicitAny",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

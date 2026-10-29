@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "foo.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowumdglobalaccess": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/umd9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "umd9",
+      "options": {
+        "allowumdglobalaccess": "true",
+        "filename": "a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

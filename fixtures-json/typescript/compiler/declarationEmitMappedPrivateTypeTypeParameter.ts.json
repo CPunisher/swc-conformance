@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/Helpers.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/FromFactor.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitMappedPrivateTypeTypeParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/Helpers.ts"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/FromFactor.ts"
+        }
+      ],
+      "name": "declarationEmitMappedPrivateTypeTypeParameter",
+      "options": {
+        "declaration": "true",
+        "filename": "/FromFactor.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "bug.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true"
+  },
+  "path": "compiler/numericExportNameDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "numericExportNameDeclaration",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "bug.js"
+      }
+    }
+  ]
+}

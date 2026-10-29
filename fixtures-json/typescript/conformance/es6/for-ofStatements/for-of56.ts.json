@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "for-of56.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of56.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1212
+          ],
+          "file": "for-of56.ts"
+        }
+      ],
+      "name": "for-of56(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "ES6"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "for-of56(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

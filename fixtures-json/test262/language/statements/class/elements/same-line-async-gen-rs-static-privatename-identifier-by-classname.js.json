@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-fields-private",
+      "class",
+      "class-fields-public",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/same-line-async-gen-rs-static-privatename-identifier-by-classname.js"
+}

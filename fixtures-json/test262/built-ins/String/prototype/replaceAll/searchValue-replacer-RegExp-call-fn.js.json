@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "String.prototype.replaceAll",
+      "Symbol.replace",
+      "class"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/String/prototype/replaceAll/searchValue-replacer-RegExp-call-fn.js"
+}

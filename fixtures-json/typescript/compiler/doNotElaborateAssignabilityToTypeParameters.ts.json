@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "doNotElaborateAssignabilityToTypeParameters.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/doNotElaborateAssignabilityToTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "doNotElaborateAssignabilityToTypeParameters(target=es5)",
+      "options": {
+        "lib": "es2015",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "doNotElaborateAssignabilityToTypeParameters.ts"
+        }
+      ],
+      "name": "doNotElaborateAssignabilityToTypeParameters(target=es2015)",
+      "options": {
+        "lib": "es2015",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

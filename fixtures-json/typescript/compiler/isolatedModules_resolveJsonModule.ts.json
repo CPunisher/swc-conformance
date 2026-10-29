@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/j.json"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "resolvejsonmodule": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedModules_resolveJsonModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModules_resolveJsonModule",
+      "options": {
+        "filename": "/j.json",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

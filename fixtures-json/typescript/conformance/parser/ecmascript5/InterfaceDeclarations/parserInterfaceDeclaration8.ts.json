@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserInterfaceDeclaration8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/InterfaceDeclarations/parserInterfaceDeclaration8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2427
+          ],
+          "file": "parserInterfaceDeclaration8.ts"
+        }
+      ],
+      "name": "parserInterfaceDeclaration8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

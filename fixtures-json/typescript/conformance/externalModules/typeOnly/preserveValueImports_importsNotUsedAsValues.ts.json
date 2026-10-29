@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/mod.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/reexport.ts"
+    }
+  ],
+  "options": {
+    "importsnotusedasvalues": "preserve",
+    "module": "esnext",
+    "preservevalueimports": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/preserveValueImports_importsNotUsedAsValues.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": []
+}

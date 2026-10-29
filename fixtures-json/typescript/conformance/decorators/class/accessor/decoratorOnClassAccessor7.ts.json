@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "decoratorOnClassAccessor7.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/decorators/class/accessor/decoratorOnClassAccessor7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorOnClassAccessor7(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1207,
+            1207
+          ],
+          "file": "decoratorOnClassAccessor7.ts"
+        }
+      ],
+      "name": "decoratorOnClassAccessor7(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

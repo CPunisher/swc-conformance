@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "classImplementsClass2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classImplementsClass2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2720,
+            2720,
+            2741
+          ],
+          "file": "classImplementsClass2.ts"
+        }
+      ],
+      "name": "classImplementsClass2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

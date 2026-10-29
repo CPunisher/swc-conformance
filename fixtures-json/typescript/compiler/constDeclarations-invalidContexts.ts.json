@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "constDeclarations-invalidContexts.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "compiler/constDeclarations-invalidContexts.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1156,
+            1156,
+            1156,
+            1156,
+            1101,
+            2410,
+            1156,
+            1156,
+            1344,
+            1156,
+            1344,
+            1156
+          ],
+          "file": "constDeclarations-invalidContexts.ts"
+        }
+      ],
+      "name": "constDeclarations-invalidContexts(alwaysstrict=true)",
+      "options": {
+        "allowunreachablecode": "true",
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "ES6"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "constDeclarations-invalidContexts(alwaysstrict=false)",
+      "options": {
+        "allowunreachablecode": "true",
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "main.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "ch.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/requireOfESWithPropertyAccess.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "main.js"
+        },
+        {
+          "codes": [],
+          "file": "ch.js"
+        }
+      ],
+      "name": "requireOfESWithPropertyAccess",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "ch.js",
+        "module": "commonjs",
+        "outdir": "out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

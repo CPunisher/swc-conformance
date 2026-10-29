@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "YieldStarExpression2_es6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/yieldExpressions/YieldStarExpression2_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1109
+          ],
+          "file": "YieldStarExpression2_es6.ts"
+        }
+      ],
+      "name": "YieldStarExpression2_es6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "decoratorOnClassConstructor1.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/decorators/class/constructor/decoratorOnClassConstructor1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorOnClassConstructor1(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "decoratorOnClassConstructor1.ts"
+        }
+      ],
+      "name": "decoratorOnClassConstructor1(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

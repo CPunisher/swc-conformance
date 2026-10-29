@@ -1,0 +1,120 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/main.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/combined.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/dependency.ts"
+    },
+    {
+      "lines": [
+        2,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "/node_modules/tslib/tslib.js"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/tslibImportDefaultHelperCommonJS.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/combined.ts"
+        },
+        {
+          "codes": [],
+          "file": "/dependency.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/tslib.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/tslib.js"
+        }
+      ],
+      "name": "tslibImportDefaultHelperCommonJS",
+      "options": {
+        "filename": "/node_modules/tslib/tslib.js",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "jsx": "react",
+    "module": "ESNext",
+    "skiplibcheck": "true",
+    "strict": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/jsxChildrenArrayWrongType.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsxChildrenArrayWrongType(target=es5)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769,
+            2769,
+            2769,
+            2769
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "jsxChildrenArrayWrongType(target=es2015)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

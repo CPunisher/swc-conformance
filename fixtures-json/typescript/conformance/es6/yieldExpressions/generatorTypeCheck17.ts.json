@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "generatorTypeCheck17.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/yieldExpressions/generatorTypeCheck17.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2564,
+            2322
+          ],
+          "file": "generatorTypeCheck17.ts"
+        }
+      ],
+      "name": "generatorTypeCheck17",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

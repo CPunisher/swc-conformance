@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "enumWithPrimitiveName.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/enumWithPrimitiveName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2431,
+            2431,
+            2431
+          ],
+          "file": "enumWithPrimitiveName.ts"
+        }
+      ],
+      "name": "enumWithPrimitiveName",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

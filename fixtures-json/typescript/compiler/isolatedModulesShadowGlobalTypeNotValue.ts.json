@@ -1,0 +1,210 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "./types.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "./node.d.ts"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "./bad.ts"
+    },
+    {
+      "lines": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "name": "./good.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "false, true",
+    "module": "commonjs",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "verbatimmodulesyntax": "false, true"
+  },
+  "path": "compiler/isolatedModulesShadowGlobalTypeNotValue.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolatedmodules=false,verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "isolatedModulesShadowGlobalTypeNotValue(isolatedmodules=false,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "./good.ts",
+        "isolatedmodules": "false",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "isolatedmodules=false,verbatimmodulesyntax=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [],
+          "file": "node.d.ts"
+        },
+        {
+          "codes": [
+            1295,
+            1484,
+            1295,
+            1484
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [
+            1295
+          ],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesShadowGlobalTypeNotValue(isolatedmodules=false,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "./good.ts",
+        "isolatedmodules": "false",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "isolatedmodules=true,verbatimmodulesyntax=false",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [],
+          "file": "node.d.ts"
+        },
+        {
+          "codes": [
+            2866,
+            2866
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesShadowGlobalTypeNotValue(isolatedmodules=true,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "./good.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "isolatedmodules=true,verbatimmodulesyntax=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [],
+          "file": "node.d.ts"
+        },
+        {
+          "codes": [
+            1295,
+            1484,
+            2866,
+            1295,
+            1484,
+            2866
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [
+            1295
+          ],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesShadowGlobalTypeNotValue(isolatedmodules=true,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "./good.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

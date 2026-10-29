@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "functionLikeInParameterInitializer.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "compiler/functionLikeInParameterInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "functionLikeInParameterInitializer(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "functionLikeInParameterInitializer.ts"
+        }
+      ],
+      "name": "functionLikeInParameterInitializer(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

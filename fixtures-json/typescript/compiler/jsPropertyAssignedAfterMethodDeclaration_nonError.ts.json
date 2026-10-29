@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitthis": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsPropertyAssignedAfterMethodDeclaration_nonError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsPropertyAssignedAfterMethodDeclaration_nonError",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "noemit": "true",
+        "noimplicitthis": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "file.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "./out",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsMissingTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsMissingTypeParameters(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "file.js",
+        "outdir": "./out",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1099
+          ],
+          "file": "file.js"
+        }
+      ],
+      "name": "jsDeclarationsMissingTypeParameters(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "file.js",
+        "outdir": "./out",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

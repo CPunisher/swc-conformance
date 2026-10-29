@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/filter/result-full-callbackfn-returns-true.js"
+}

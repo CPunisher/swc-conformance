@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class-fields-private",
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/multiple-stacked-definitions-rs-private-setter-alt.js"
+}

@@ -1,0 +1,95 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "./foo.ts"
+    },
+    {
+      "lines": [
+        27
+      ],
+      "name": "./bar.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true,false",
+    "notypesandsymbols": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/computedEnumMemberSyntacticallyString2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolatedmodules=true",
+      "diagnostics": [
+        {
+          "codes": [
+            18033,
+            18033,
+            18055,
+            18055
+          ],
+          "file": "foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "bar.ts"
+        }
+      ],
+      "name": "computedEnumMemberSyntacticallyString2(isolatedmodules=true)",
+      "options": {
+        "filename": "./bar.ts",
+        "isolatedmodules": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "isolatedmodules=false",
+      "diagnostics": [
+        {
+          "codes": [
+            18033,
+            18033
+          ],
+          "file": "foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "bar.ts"
+        }
+      ],
+      "name": "computedEnumMemberSyntacticallyString2(isolatedmodules=false)",
+      "options": {
+        "filename": "./bar.ts",
+        "isolatedmodules": "false",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

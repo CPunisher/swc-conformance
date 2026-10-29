@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "notmodule.cts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "es2015",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/ctsFileInEsnextHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2354
+          ],
+          "file": "notmodule.cts"
+        }
+      ],
+      "name": "ctsFileInEsnextHelpers",
+      "options": {
+        "filename": "notmodule.cts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

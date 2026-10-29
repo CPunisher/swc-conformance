@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Symbol",
+      "Symbol.replace",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/Symbol.replace/not-a-constructor.js"
+}

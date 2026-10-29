@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "classExtendsMultipleBaseClasses.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classExtendsMultipleBaseClasses.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1174
+          ],
+          "file": "classExtendsMultipleBaseClasses.ts"
+        }
+      ],
+      "name": "classExtendsMultipleBaseClasses",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

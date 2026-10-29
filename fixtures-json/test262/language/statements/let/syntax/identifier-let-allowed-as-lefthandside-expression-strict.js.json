@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/let/syntax/identifier-let-allowed-as-lefthandside-expression-strict.js"
+}

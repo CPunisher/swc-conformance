@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedLocalsStartingWithUnderscore.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133,
+            6133
+          ],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "unusedLocalsStartingWithUnderscore",
+      "options": {
+        "filename": "/a.ts",
+        "nounusedlocals": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

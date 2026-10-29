@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "funduleSplitAcrossFiles_function.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "funduleSplitAcrossFiles_module.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/funduleSplitAcrossFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "funduleSplitAcrossFiles_function.ts"
+        },
+        {
+          "codes": [
+            2433
+          ],
+          "file": "funduleSplitAcrossFiles_module.ts"
+        }
+      ],
+      "name": "funduleSplitAcrossFiles",
+      "options": {
+        "filename": "funduleSplitAcrossFiles_module.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "default-parameters",
+      "async-functions"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-function/nameless-dflt-params-rest.js"
+}

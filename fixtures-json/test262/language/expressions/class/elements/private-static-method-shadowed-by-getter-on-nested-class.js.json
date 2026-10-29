@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-methods-private",
+      "class-static-fields-public",
+      "class-methods-private",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/private-static-method-shadowed-by-getter-on-nested-class.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "let"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/eval-code/direct/var-env-global-lex-non-strict.js"
+}

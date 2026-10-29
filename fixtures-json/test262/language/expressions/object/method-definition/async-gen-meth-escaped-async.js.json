@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/async-gen-meth-escaped-async.js"
+}

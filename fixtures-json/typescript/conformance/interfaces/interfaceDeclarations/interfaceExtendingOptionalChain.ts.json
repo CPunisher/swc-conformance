@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "interfaceExtendingOptionalChain.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/interfaces/interfaceDeclarations/interfaceExtendingOptionalChain.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2499
+          ],
+          "file": "interfaceExtendingOptionalChain.ts"
+        }
+      ],
+      "name": "interfaceExtendingOptionalChain",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

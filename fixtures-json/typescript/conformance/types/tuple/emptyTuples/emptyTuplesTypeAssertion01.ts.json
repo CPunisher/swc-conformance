@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "emptyTuplesTypeAssertion01.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/tuple/emptyTuples/emptyTuplesTypeAssertion01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2493
+          ],
+          "file": "emptyTuplesTypeAssertion01.ts"
+        }
+      ],
+      "name": "emptyTuplesTypeAssertion01",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

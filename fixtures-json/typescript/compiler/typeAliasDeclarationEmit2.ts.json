@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "typeAliasDeclarationEmit2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/typeAliasDeclarationEmit2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "typeAliasDeclarationEmit2(target=es5)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "typeAliasDeclarationEmit2(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

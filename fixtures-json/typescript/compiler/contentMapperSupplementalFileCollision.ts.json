@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/component.astro"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/component.astro.0.ts"
+    }
+  ],
+  "options": {
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperSupplementalFileCollision.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "contentMapperSupplementalFileCollision",
+      "options": {
+        "filename": "/component.astro.0.ts",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

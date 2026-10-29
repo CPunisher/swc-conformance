@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "optionalChainingInParameterInitializer.2.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext,es2015,es5"
+  },
+  "path": "conformance/expressions/optionalChaining/optionalChainingInParameterInitializer.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "optionalChainingInParameterInitializer.2(target=esnext)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2373,
+            2373
+          ],
+          "file": "optionalChainingInParameterInitializer.2.ts"
+        }
+      ],
+      "name": "optionalChainingInParameterInitializer.2(target=es2015)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "optionalChainingInParameterInitializer.2(target=es5)",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    }
+  ]
+}

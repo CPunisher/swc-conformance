@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/nested-comp-name-init-err-contains-arguments.js"
+}

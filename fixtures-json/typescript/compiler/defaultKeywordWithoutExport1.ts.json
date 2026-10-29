@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "defaultKeywordWithoutExport1.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/defaultKeywordWithoutExport1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1029
+          ],
+          "file": "defaultKeywordWithoutExport1.ts"
+        }
+      ],
+      "name": "defaultKeywordWithoutExport1",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

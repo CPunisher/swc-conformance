@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/resolved-observable-then-calls-PromiseResolve.js"
+}

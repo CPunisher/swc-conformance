@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "declarationEmitInvalidReference.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "noresolve": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitInvalidReference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitInvalidReference",
+      "options": {
+        "declaration": "true",
+        "noresolve": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

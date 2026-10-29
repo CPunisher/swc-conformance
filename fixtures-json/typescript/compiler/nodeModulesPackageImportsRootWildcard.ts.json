@@ -1,0 +1,94 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        13
+      ],
+      "name": "src/foo.ts"
+    },
+    {
+      "lines": [
+        15
+      ],
+      "name": "src/features/bar.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "src/nested/deep/baz.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "index.cts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "traceresolution": "true"
+  },
+  "path": "compiler/nodeModulesPackageImportsRootWildcard.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nodeModulesPackageImportsRootWildcard",
+      "options": {
+        "declaration": "true",
+        "filename": "index.cts",
+        "module": "nodenext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

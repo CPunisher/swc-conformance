@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsFiles2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "checkJsFiles2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

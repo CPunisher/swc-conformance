@@ -1,0 +1,101 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "regularExpressionES2025Syntax.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2017,es2022,es2025"
+  },
+  "path": "compiler/regularExpressionES2025Syntax.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2017",
+      "diagnostics": [
+        {
+          "codes": [
+            18062,
+            18062,
+            18062,
+            1503,
+            1503,
+            1503,
+            1503,
+            1503,
+            1503,
+            1503,
+            1503,
+            1515
+          ],
+          "file": "regularExpressionES2025Syntax.ts"
+        }
+      ],
+      "name": "regularExpressionES2025Syntax(target=es2017)",
+      "options": {
+        "noemit": "true",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            18062,
+            18062,
+            18062,
+            18063,
+            18063,
+            1515
+          ],
+          "file": "regularExpressionES2025Syntax.ts"
+        }
+      ],
+      "name": "regularExpressionES2025Syntax(target=es2022)",
+      "options": {
+        "noemit": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2025",
+      "diagnostics": [
+        {
+          "codes": [
+            1515
+          ],
+          "file": "regularExpressionES2025Syntax.ts"
+        }
+      ],
+      "name": "regularExpressionES2025Syntax(target=es2025)",
+      "options": {
+        "noemit": "true",
+        "target": "es2025"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "thisPropertyAssignmentComputed.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/thisPropertyAssignmentComputed.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7053,
+            7053
+          ],
+          "file": "thisPropertyAssignmentComputed.js"
+        }
+      ],
+      "name": "thisPropertyAssignmentComputed",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "thisPropertyAssignmentComputed.js",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

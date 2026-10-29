@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "interfaceWithPrivateMember.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/namedTypes/interfaceWithPrivateMember.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1070,
+            1070,
+            1070
+          ],
+          "file": "interfaceWithPrivateMember.ts"
+        }
+      ],
+      "name": "interfaceWithPrivateMember",
+      "options": {
+        "allowunusedlabels": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

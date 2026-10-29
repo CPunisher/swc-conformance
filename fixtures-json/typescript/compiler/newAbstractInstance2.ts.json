@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/newAbstractInstance2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            2511
+          ],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "newAbstractInstance2",
+      "options": {
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics",
+      "SharedArrayBuffer"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/sm/Atomics/cross-compartment.js"
+}

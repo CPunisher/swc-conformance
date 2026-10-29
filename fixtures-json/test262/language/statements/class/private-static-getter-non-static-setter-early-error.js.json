@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-methods-private",
+      "class-methods-private"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/private-static-getter-non-static-setter-early-error.js"
+}

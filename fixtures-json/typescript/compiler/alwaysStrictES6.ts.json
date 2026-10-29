@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "alwaysStrictES6.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true",
+    "target": "ES6"
+  },
+  "path": "compiler/alwaysStrictES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1100
+          ],
+          "file": "alwaysStrictES6.ts"
+        }
+      ],
+      "name": "alwaysStrictES6",
+      "options": {
+        "alwaysstrict": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

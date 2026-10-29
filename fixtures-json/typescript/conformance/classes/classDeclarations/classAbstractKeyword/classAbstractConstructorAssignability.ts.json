@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "classAbstractConstructorAssignability.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classAbstractKeyword/classAbstractConstructorAssignability.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2511
+          ],
+          "file": "classAbstractConstructorAssignability.ts"
+        }
+      ],
+      "name": "classAbstractConstructorAssignability",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

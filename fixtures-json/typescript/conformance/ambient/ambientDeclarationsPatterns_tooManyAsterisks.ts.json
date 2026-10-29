@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "ambientDeclarationsPatterns_tooManyAsterisks.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientDeclarationsPatterns_tooManyAsterisks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5061
+          ],
+          "file": "ambientDeclarationsPatterns_tooManyAsterisks.ts"
+        }
+      ],
+      "name": "ambientDeclarationsPatterns_tooManyAsterisks",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

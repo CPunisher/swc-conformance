@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "templateStringInNewOperatorES6.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/templates/templateStringInNewOperatorES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351
+          ],
+          "file": "templateStringInNewOperatorES6.ts"
+        }
+      ],
+      "name": "templateStringInNewOperatorES6",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

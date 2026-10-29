@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "invalidReferenceSyntax1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/invalidReferenceSyntax1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1084
+          ],
+          "file": "invalidReferenceSyntax1.ts"
+        }
+      ],
+      "name": "invalidReferenceSyntax1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

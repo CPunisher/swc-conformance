@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "emptyThenWarning.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/emptyThenWarning.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1313,
+            1313
+          ],
+          "file": "emptyThenWarning.ts"
+        }
+      ],
+      "name": "emptyThenWarning",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

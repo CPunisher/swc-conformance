@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "e.ts"
+    },
+    {
+      "lines": [
+        28,
+        29
+      ],
+      "name": "f.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1005,
+            1005,
+            1005,
+            18114,
+            1326,
+            1325
+          ],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "c.ts"
+        },
+        {
+          "codes": [
+            1109,
+            2339
+          ],
+          "file": "d.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "e.ts"
+        },
+        {
+          "codes": [
+            18061
+          ],
+          "file": "f.ts"
+        }
+      ],
+      "name": "importSource5",
+      "options": {
+        "filename": "f.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

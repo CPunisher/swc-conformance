@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "node_modules/untyped/index.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "bug40140.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/namespaceAssignmentToRequireAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7016
+          ],
+          "file": "bug40140.js"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/untyped/index.js"
+        }
+      ],
+      "name": "namespaceAssignmentToRequireAlias",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "bug40140.js",
+        "outdir": "out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

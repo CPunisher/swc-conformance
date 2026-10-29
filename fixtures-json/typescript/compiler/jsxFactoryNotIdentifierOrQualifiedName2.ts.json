@@ -1,0 +1,104 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "Element.ts"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "name": "test.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "jsxfactory": "id1 id2",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/jsxFactoryNotIdentifierOrQualifiedName2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5067
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "Element.ts"
+        },
+        {
+          "codes": [
+            2874,
+            2874
+          ],
+          "file": "test.tsx"
+        }
+      ],
+      "name": "jsxFactoryNotIdentifierOrQualifiedName2",
+      "options": {
+        "filename": "test.tsx",
+        "jsx": "react",
+        "jsxfactory": "id1 id2",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

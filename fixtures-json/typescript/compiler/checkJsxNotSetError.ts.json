@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/foo.jsx"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/bar.jsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsxNotSetError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17004
+          ],
+          "file": "/foo.jsx"
+        },
+        {
+          "codes": [
+            6142,
+            17004
+          ],
+          "file": "/bar.jsx"
+        }
+      ],
+      "name": "checkJsxNotSetError",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/bar.jsx",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

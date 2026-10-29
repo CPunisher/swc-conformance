@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async",
+      "onlyStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/async-generator/named-strict-error-reassign-fn-name-in-body-in-arrow.js"
+}

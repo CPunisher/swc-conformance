@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "esDecorators-classDeclaration-fields-staticPrivate.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext, es2022, es2015"
+  },
+  "path": "conformance/esDecorators/classDeclaration/fields/esDecorators-classDeclaration-fields-staticPrivate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-fields-staticPrivate(target=esnext)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-fields-staticPrivate(target=es2022)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-fields-staticPrivate(target=es2015)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

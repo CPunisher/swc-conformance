@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "/src/foo.ts"
+    },
+    {
+      "lines": [
+        4
+      ],
+      "name": "/src/bar.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/simpleTestMultiFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "/src/foo.ts"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "/src/bar.ts"
+        }
+      ],
+      "name": "simpleTestMultiFile",
+      "options": {
+        "filename": "/src/bar.ts"
+      }
+    }
+  ]
+}

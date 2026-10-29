@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/statements/await-using/redeclaration-error-from-within-strict-mode-function-await-using.js"
+}

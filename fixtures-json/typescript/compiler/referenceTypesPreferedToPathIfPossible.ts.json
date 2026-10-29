@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/.src/node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "types": "*"
+  },
+  "path": "compiler/referenceTypesPreferedToPathIfPossible.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "referenceTypesPreferedToPathIfPossible",
+      "options": {
+        "declaration": "true",
+        "filename": "usage.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "types": "*"
+      }
+    }
+  ]
+}

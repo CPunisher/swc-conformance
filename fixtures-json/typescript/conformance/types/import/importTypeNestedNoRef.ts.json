@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "chainer.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "noimplicitreferences": "true",
+    "target": "es6"
+  },
+  "path": "conformance/types/import/importTypeNestedNoRef.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1141
+          ],
+          "file": "chainer.ts"
+        },
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.d.ts"
+        }
+      ],
+      "name": "importTypeNestedNoRef",
+      "options": {
+        "declaration": "true",
+        "filename": "chainer.ts",
+        "noimplicitreferences": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

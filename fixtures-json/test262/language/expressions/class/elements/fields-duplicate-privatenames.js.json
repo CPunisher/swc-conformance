@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/fields-duplicate-privatenames.js"
+}

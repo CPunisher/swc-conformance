@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled",
+      "Symbol.iterator"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/iter-arg-is-number-reject.js"
+}

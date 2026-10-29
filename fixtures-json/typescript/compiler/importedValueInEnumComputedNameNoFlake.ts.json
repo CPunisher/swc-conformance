@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "key.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "compiler/importedValueInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "key.ts"
+        },
+        {
+          "codes": [
+            1164
+          ],
+          "file": "main.ts"
+        }
+      ],
+      "name": "importedValueInEnumComputedNameNoFlake",
+      "options": {
+        "filename": "main.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

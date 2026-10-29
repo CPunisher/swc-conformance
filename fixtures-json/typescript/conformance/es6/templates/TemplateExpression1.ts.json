@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "TemplateExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/TemplateExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1005
+          ],
+          "file": "TemplateExpression1.ts"
+        }
+      ],
+      "name": "TemplateExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

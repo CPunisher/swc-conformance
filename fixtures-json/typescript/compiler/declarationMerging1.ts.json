@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationMerging1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationMerging1",
+      "options": {
+        "filename": "file2.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

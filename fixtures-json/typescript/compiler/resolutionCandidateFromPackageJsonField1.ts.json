@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "@angular/core/package.json"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "@angular/core/index.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "@angular/core/testing/test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/resolutionCandidateFromPackageJsonField1.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "resolutionCandidateFromPackageJsonField1",
+      "options": {
+        "filename": "@angular/core/testing/test.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

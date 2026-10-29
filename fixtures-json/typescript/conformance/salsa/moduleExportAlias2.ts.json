@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "node.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "semver.js"
+    },
+    {
+      "lines": [
+        10,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAlias2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "node.d.ts"
+        },
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "semver.js"
+        }
+      ],
+      "name": "moduleExportAlias2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

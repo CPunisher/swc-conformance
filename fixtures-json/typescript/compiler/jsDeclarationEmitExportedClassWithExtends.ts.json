@@ -1,0 +1,135 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "node_modules/lit/package.json"
+    },
+    {
+      "lines": [
+        18
+      ],
+      "name": "node_modules/lit/development/index.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "node_modules/lit-element/package.json"
+    },
+    {
+      "lines": [
+        34
+      ],
+      "name": "node_modules/lit-element/development/index.d.ts"
+    },
+    {
+      "lines": [
+        36
+      ],
+      "name": "node_modules/lit-element/development//lit-element.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        10,
+        40,
+        41
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        43,
+        44,
+        45
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "esnext",
+    "moduleresolution": "nodenext",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsDeclarationEmitExportedClassWithExtends.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "node_modules/lit/package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/lit/development/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/lit-element/package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/lit-element/development/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/lit-element/development/lit-element.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        }
+      ],
+      "name": "jsDeclarationEmitExportedClassWithExtends",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "module": "esnext",
+        "moduleresolution": "nodenext",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

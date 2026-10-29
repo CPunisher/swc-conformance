@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "computedPropertyNames52.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/computedProperties/computedPropertyNames52.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "computedPropertyNames52(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "filename": "computedPropertyNames52.js",
+        "outdir": "out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "computedPropertyNames52(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "filename": "computedPropertyNames52.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

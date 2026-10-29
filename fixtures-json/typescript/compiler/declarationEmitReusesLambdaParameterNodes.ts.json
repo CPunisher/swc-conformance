@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "node_modules/react-select/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitReusesLambdaParameterNodes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitReusesLambdaParameterNodes",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "nodenext",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

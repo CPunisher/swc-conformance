@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocAugments_notAClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocAugments_notAClass",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/b.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

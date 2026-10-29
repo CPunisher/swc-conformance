@@ -1,0 +1,106 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "f1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "f2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "f3.ts"
+    },
+    {
+      "lines": [
+        14,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "f4.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationImportsAndExports2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "f1.ts"
+        },
+        {
+          "codes": [],
+          "file": "f2.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2667,
+            2307,
+            2666,
+            2307
+          ],
+          "file": "f3.ts"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "f4.ts"
+        }
+      ],
+      "name": "moduleAugmentationImportsAndExports2",
+      "options": {
+        "declaration": "true",
+        "filename": "f4.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

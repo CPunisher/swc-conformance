@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "es2015",
+    "target": "es2015"
+  },
+  "path": "compiler/importNonExportedMember7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1203
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2595
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importNonExportedMember7",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

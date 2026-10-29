@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/deferred-namespace-object/exotic-object-behavior.js"
+}

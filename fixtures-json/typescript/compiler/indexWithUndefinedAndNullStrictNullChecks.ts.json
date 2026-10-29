@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "indexWithUndefinedAndNullStrictNullChecks.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/indexWithUndefinedAndNullStrictNullChecks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2538,
+            2454,
+            2538,
+            2454,
+            2538,
+            2454,
+            2538
+          ],
+          "file": "indexWithUndefinedAndNullStrictNullChecks.ts"
+        }
+      ],
+      "name": "indexWithUndefinedAndNullStrictNullChecks",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

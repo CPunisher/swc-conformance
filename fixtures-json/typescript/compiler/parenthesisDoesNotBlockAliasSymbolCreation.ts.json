@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "parenthesisDoesNotBlockAliasSymbolCreation.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/parenthesisDoesNotBlockAliasSymbolCreation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352,
+            2352,
+            2352,
+            2352,
+            2352,
+            2352,
+            2352,
+            2352
+          ],
+          "file": "parenthesisDoesNotBlockAliasSymbolCreation.ts"
+        }
+      ],
+      "name": "parenthesisDoesNotBlockAliasSymbolCreation",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

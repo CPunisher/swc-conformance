@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "exportSpecifierReferencingOuterDeclaration1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/exportSpecifierReferencingOuterDeclaration1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2661
+          ],
+          "file": "exportSpecifierReferencingOuterDeclaration1.ts"
+        }
+      ],
+      "name": "exportSpecifierReferencingOuterDeclaration1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "esDecorators-classDeclaration-parameterProperties.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext, es2022, es2015, es5",
+    "usedefineforclassfields": "*"
+  },
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-parameterProperties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext,usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=esnext,usedefineforclassfields=true)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=esnext,usedefineforclassfields=false",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=esnext,usedefineforclassfields=false)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022,usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es2022,usedefineforclassfields=true)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022,usedefineforclassfields=false",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es2022,usedefineforclassfields=false)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2015,usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es2015,usedefineforclassfields=true)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2015,usedefineforclassfields=false",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es2015,usedefineforclassfields=false)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es5,usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es5,usedefineforclassfields=true)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es5,usedefineforclassfields=false",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-parameterProperties(target=es5,usedefineforclassfields=false)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

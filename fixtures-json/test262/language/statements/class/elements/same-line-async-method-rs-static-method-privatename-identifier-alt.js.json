@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-methods-private",
+      "class",
+      "class-fields-public",
+      "async-functions"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/same-line-async-method-rs-static-method-privatename-identifier-alt.js"
+}

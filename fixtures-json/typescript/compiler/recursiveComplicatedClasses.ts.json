@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "recursiveComplicatedClasses.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveComplicatedClasses.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2300,
+            2564,
+            2345,
+            2345,
+            2454,
+            2507
+          ],
+          "file": "recursiveComplicatedClasses.ts"
+        }
+      ],
+      "name": "recursiveComplicatedClasses",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "moduleExportAliasDuplicateAlias.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportDuplicateAlias3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18048,
+            2339,
+            2339
+          ],
+          "file": "test.js"
+        },
+        {
+          "codes": [],
+          "file": "moduleExportAliasDuplicateAlias.js"
+        }
+      ],
+      "name": "moduleExportDuplicateAlias3",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "test.js",
+        "outdir": "out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "emptyFile-souremap.ts"
+    }
+  ],
+  "options": {
+    "declaration": "false",
+    "module": "commonjs",
+    "sourcemap": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/emptyFile-souremap.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emptyFile-souremap(target=es5)",
+      "options": {
+        "declaration": "false",
+        "module": "commonjs",
+        "sourcemap": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emptyFile-souremap(target=es2015)",
+      "options": {
+        "declaration": "false",
+        "module": "commonjs",
+        "sourcemap": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

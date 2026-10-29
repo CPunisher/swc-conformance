@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/prefix-decrement/11.4.5-2-2gs.js"
+}

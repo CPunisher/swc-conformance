@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "server.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "client.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportEqualsDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1202
+          ],
+          "file": "client.ts"
+        },
+        {
+          "codes": [
+            1203
+          ],
+          "file": "server.ts"
+        }
+      ],
+      "name": "es6ImportEqualsDeclaration",
+      "options": {
+        "filename": "client.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

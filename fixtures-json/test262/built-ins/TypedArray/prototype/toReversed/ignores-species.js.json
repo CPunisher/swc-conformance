@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "TypedArray",
+      "change-array-by-copy"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/toReversed/ignores-species.js"
+}

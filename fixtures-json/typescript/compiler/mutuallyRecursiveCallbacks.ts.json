@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "mutuallyRecursiveCallbacks.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/mutuallyRecursiveCallbacks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "mutuallyRecursiveCallbacks.ts"
+        }
+      ],
+      "name": "mutuallyRecursiveCallbacks",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

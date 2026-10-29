@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/defs.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocImplements_interface.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/defs.d.ts"
+        },
+        {
+          "codes": [
+            2416,
+            2416,
+            2416,
+            2420,
+            2420
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "jsdocImplements_interface",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/a.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "letAsIdentifierInStrictMode.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/letAsIdentifierInStrictMode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2300,
+            1212,
+            2300
+          ],
+          "file": "letAsIdentifierInStrictMode.ts"
+        }
+      ],
+      "name": "letAsIdentifierInStrictMode",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

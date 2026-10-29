@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "unqualifiedCallToClassStatic1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/unqualifiedCallToClassStatic1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2662
+          ],
+          "file": "unqualifiedCallToClassStatic1.ts"
+        }
+      ],
+      "name": "unqualifiedCallToClassStatic1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "dom.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "custom.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "dom,es6",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationsForFileShadowingGlobalNoError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationsForFileShadowingGlobalNoError",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "lib": "dom,es6",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

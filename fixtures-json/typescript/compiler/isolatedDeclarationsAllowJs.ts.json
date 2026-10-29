@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "file2.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "isolateddeclarations": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedDeclarationsAllowJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5053,
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            9010
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            9010
+          ],
+          "file": "file2.js"
+        }
+      ],
+      "name": "isolatedDeclarationsAllowJs",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "file2.js",
+        "isolateddeclarations": "true",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

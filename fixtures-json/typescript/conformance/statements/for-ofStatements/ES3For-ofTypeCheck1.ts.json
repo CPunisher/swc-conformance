@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "ES3For-ofTypeCheck1.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/statements/for-ofStatements/ES3For-ofTypeCheck1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES3For-ofTypeCheck1(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "ES3For-ofTypeCheck1(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

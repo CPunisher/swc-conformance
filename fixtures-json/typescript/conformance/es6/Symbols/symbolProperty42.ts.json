@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "symbolProperty42.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolProperty42.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2388,
+            2387
+          ],
+          "file": "symbolProperty42.ts"
+        }
+      ],
+      "name": "symbolProperty42",
+      "options": {
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

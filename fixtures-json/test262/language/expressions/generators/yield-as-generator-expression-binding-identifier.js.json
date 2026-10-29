@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "generators"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/generators/yield-as-generator-expression-binding-identifier.js"
+}

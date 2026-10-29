@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "es6ImportParseErrors.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportParseErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1128
+          ],
+          "file": "es6ImportParseErrors.ts"
+        }
+      ],
+      "name": "es6ImportParseErrors",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

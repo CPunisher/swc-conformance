@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "WeakMap",
+      "arrow-function",
+      "upsert"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakMap/prototype/getOrInsertComputed/not-a-constructor.js"
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        5,
+        10,
+        11
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "esnext",
+    "module": "commonjs",
+    "target": "esnext"
+  },
+  "path": "conformance/declarationEmit/libReferenceDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "libReferenceDeclarationEmit",
+      "options": {
+        "declaration": "true",
+        "filename": "file2.ts",
+        "lib": "esnext",
+        "module": "commonjs",
+        "target": "esnext"
+      }
+    }
+  ]
+}

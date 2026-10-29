@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/a/types/jquery/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/a/b/consumer.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/references/library-reference-13.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "/a/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-13",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a/b/consumer.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

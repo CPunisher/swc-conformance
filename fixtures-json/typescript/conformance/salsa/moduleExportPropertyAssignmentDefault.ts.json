@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "axios.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportPropertyAssignmentDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "axios.js"
+        }
+      ],
+      "name": "moduleExportPropertyAssignmentDefault",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "axios.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

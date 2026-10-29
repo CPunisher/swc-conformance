@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "es6ImportNamedImportParsingError_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "es6ImportNamedImportParsingError_1.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportNamedImportParsingError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportNamedImportParsingError_0.ts"
+        },
+        {
+          "codes": [
+            1003,
+            1141,
+            1109,
+            1434,
+            2304,
+            1192,
+            1005,
+            1128,
+            1128,
+            1434,
+            2304,
+            1005,
+            1141,
+            1005
+          ],
+          "file": "es6ImportNamedImportParsingError_1.ts"
+        }
+      ],
+      "name": "es6ImportNamedImportParsingError",
+      "options": {
+        "filename": "es6ImportNamedImportParsingError_1.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

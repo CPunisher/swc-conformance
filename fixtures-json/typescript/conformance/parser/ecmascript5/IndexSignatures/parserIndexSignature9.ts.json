@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserIndexSignature9.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/IndexSignatures/parserIndexSignature9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1096
+          ],
+          "file": "parserIndexSignature9.ts"
+        }
+      ],
+      "name": "parserIndexSignature9",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

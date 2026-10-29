@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "skipdefaultlibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitInferredTypeAlias3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2872
+          ],
+          "file": "1.ts"
+        }
+      ],
+      "name": "declarationEmitInferredTypeAlias3",
+      "options": {
+        "declaration": "true",
+        "filename": "1.ts",
+        "skipdefaultlibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

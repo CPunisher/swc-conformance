@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "exponentiation"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/exponentiation/exp-operator-syntax-error-plus-unary-expression-base.js"
+}

@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "bug24934.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/conflictingCommonJSES2015Exports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2591
+          ],
+          "file": "bug24934.js"
+        },
+        {
+          "codes": [],
+          "file": "use.js"
+        }
+      ],
+      "name": "conflictingCommonJSES2015Exports",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

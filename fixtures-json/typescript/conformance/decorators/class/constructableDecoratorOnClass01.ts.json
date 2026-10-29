@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "constructableDecoratorOnClass01.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/class/constructableDecoratorOnClass01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1238,
+            1238,
+            1238
+          ],
+          "file": "constructableDecoratorOnClass01.ts"
+        }
+      ],
+      "name": "constructableDecoratorOnClass01",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

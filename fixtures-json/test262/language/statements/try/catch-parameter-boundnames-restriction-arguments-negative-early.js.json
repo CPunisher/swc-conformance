@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/try/catch-parameter-boundnames-restriction-arguments-negative-early.js"
+}

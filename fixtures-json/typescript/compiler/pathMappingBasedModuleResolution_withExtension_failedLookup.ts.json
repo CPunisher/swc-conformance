@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution_withExtension_failedLookup.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution_withExtension_failedLookup",
+      "options": {
+        "filename": "/tsconfig.json",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

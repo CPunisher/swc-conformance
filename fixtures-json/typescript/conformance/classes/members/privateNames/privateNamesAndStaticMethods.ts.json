@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "privateNamesAndStaticMethods.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext, es2022",
+    "strict": "true",
+    "target": "esnext, es2022",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesAndStaticMethods.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "privateNamesAndStaticMethods(target=esnext)",
+      "options": {
+        "lib": "esnext, es2022",
+        "strict": "true",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "privateNamesAndStaticMethods(target=es2022)",
+      "options": {
+        "lib": "esnext, es2022",
+        "strict": "true",
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [
+      "async",
+      "module"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/errors/resolution-error/import-defer-of-missing-module-fails.js"
+}

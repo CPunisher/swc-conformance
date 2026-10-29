@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserExpressionStatement1.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserExpressionStatement1.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1036,
+            2304
+          ],
+          "file": "parserExpressionStatement1.d.ts"
+        }
+      ],
+      "name": "parserExpressionStatement1.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

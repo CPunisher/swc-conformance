@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "es6ImportWithoutFromClauseNonInstantiatedModule_0.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "es6ImportWithoutFromClauseNonInstantiatedModule_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportWithoutFromClauseNonInstantiatedModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportWithoutFromClauseNonInstantiatedModule_0.ts"
+        },
+        {
+          "codes": [
+            2882
+          ],
+          "file": "es6ImportWithoutFromClauseNonInstantiatedModule_1.ts"
+        }
+      ],
+      "name": "es6ImportWithoutFromClauseNonInstantiatedModule",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportWithoutFromClauseNonInstantiatedModule_1.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

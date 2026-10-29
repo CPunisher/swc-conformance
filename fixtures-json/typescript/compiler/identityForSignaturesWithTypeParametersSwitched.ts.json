@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "identityForSignaturesWithTypeParametersSwitched.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/identityForSignaturesWithTypeParametersSwitched.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2403
+          ],
+          "file": "identityForSignaturesWithTypeParametersSwitched.ts"
+        }
+      ],
+      "name": "identityForSignaturesWithTypeParametersSwitched",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

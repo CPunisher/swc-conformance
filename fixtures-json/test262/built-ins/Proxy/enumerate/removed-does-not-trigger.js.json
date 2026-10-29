@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Symbol",
+      "Symbol.iterator"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/enumerate/removed-does-not-trigger.js"
+}

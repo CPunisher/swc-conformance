@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "capturedShorthandPropertyAssignmentNoCheck.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "compiler/capturedShorthandPropertyAssignmentNoCheck.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "capturedShorthandPropertyAssignmentNoCheck(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "capturedShorthandPropertyAssignmentNoCheck(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "A.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "B.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleSymbolMerging.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "B.ts"
+        },
+        {
+          "codes": [],
+          "file": "A.ts"
+        }
+      ],
+      "name": "moduleSymbolMerging",
+      "options": {
+        "declaration": "true",
+        "filename": "B.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

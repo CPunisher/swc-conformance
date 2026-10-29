@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/types.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importDeferJsdoc.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/types.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1141,
+            2503
+          ],
+          "file": "/foo.js"
+        }
+      ],
+      "name": "importDeferJsdoc",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/foo.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

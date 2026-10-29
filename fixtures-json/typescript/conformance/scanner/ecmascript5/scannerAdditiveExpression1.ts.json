@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "scannerAdditiveExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerAdditiveExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "scannerAdditiveExpression1.ts"
+        }
+      ],
+      "name": "scannerAdditiveExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

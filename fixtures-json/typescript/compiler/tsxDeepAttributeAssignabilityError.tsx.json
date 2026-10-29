@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "my-component.tsx"
+    },
+    {
+      "lines": [
+        6,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "file1.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "skiplibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/tsxDeepAttributeAssignabilityError.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "my-component.tsx"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "file1.tsx"
+        }
+      ],
+      "name": "tsxDeepAttributeAssignabilityError",
+      "options": {
+        "filename": "file1.tsx",
+        "jsx": "react",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

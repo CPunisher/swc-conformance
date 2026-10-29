@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "jsxJsxsCjsTransformNestedSelfClosingChild.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxs/jsxJsxsCjsTransformNestedSelfClosingChild.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "jsxJsxsCjsTransformNestedSelfClosingChild(jsx=react-jsx)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [],
+      "name": "jsxJsxsCjsTransformNestedSelfClosingChild(jsx=react-jsxdev)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

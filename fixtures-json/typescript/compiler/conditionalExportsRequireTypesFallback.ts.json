@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/node_modules/provider/package.json"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "/node_modules/provider/index.cjs"
+    },
+    {
+      "lines": [
+        18
+      ],
+      "name": "/node_modules/provider/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/index.cts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/conditionalExportsRequireTypesFallback.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "conditionalExportsRequireTypesFallback",
+      "options": {
+        "filename": "/index.cts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

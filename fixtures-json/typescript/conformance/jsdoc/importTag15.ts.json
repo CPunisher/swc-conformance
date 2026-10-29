@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "1.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "esnext,es2015",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importTag15.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "importTag15(module=esnext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "1.js",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2015",
+      "diagnostics": [],
+      "name": "importTag15(module=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "1.js",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

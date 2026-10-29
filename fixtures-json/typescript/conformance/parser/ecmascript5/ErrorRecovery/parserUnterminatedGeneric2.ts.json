@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "parserUnterminatedGeneric2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserUnterminatedGeneric2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1435,
+            2304,
+            1005,
+            2304,
+            2304,
+            1005,
+            2693,
+            2304,
+            1005,
+            2693,
+            1005,
+            2693,
+            2552,
+            2552,
+            1005
+          ],
+          "file": "parserUnterminatedGeneric2.ts"
+        }
+      ],
+      "name": "parserUnterminatedGeneric2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

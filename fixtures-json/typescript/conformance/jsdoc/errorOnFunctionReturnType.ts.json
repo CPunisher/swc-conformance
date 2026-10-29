@@ -1,0 +1,108 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "name": "foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/errorOnFunctionReturnType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "errorOnFunctionReturnType(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "foo.js",
+        "noemit": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2355,
+            2322,
+            2355,
+            2322,
+            2322,
+            2534,
+            2322,
+            2534,
+            2322,
+            2322
+          ],
+          "file": "foo.js"
+        }
+      ],
+      "name": "errorOnFunctionReturnType(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "foo.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

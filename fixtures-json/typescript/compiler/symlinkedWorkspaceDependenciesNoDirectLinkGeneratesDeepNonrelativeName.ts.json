@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "workspace/packageA/foo.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "workspace/packageA/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "workspace/packageA/package.json"
+    },
+    {
+      "lines": [
+        11,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "workspace/packageB/package.json"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "workspace/packageB/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        21,
+        22,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "workspace/packageC/package.json"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40
+      ],
+      "name": "workspace/packageC/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "target": "es2015"
+  },
+  "path": "compiler/symlinkedWorkspaceDependenciesNoDirectLinkGeneratesDeepNonrelativeName.ts",
+  "symlinks": {
+    "workspace/packageB/node_modules/package-a": "workspace/packageA",
+    "workspace/packageC/node_modules/package-a": "workspace/packageA",
+    "workspace/packageC/node_modules/package-b": "workspace/packageB"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "symlinkedWorkspaceDependenciesNoDirectLinkGeneratesDeepNonrelativeName",
+      "options": {
+        "declaration": "true",
+        "filename": "workspace/packageC/index.ts",
+        "link": "workspace/packageB -> workspace/packageC/node_modules/package-b",
+        "module": "nodenext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

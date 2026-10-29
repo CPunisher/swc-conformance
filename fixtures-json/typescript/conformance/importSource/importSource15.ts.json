@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs, nodenext",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource15.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            18113,
+            18113
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "importSource15(module=commonjs)",
+      "options": {
+        "allowjs": "true",
+        "filename": "b.js",
+        "module": "commonjs",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            18115
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "importSource15(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "filename": "b.js",
+        "module": "nodenext",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

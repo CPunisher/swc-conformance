@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "bug.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsdocCallbackParamQualifiedName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "bug.js"
+        }
+      ],
+      "name": "jsdocCallbackParamQualifiedName",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserErrorRecovery_ExtendsOrImplementsClause4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ExtendsOrImplementsClauses/parserErrorRecovery_ExtendsOrImplementsClause4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1097
+          ],
+          "file": "parserErrorRecovery_ExtendsOrImplementsClause4.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ExtendsOrImplementsClause4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

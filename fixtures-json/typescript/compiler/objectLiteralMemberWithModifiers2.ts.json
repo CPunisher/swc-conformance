@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "objectLiteralMemberWithModifiers2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLiteralMemberWithModifiers2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1042,
+            2378
+          ],
+          "file": "objectLiteralMemberWithModifiers2.ts"
+        }
+      ],
+      "name": "objectLiteralMemberWithModifiers2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "nullishCoalescingOperatorInAsyncGenerator.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext,es2015,es5"
+  },
+  "path": "conformance/expressions/nullishCoalescingOperator/nullishCoalescingOperatorInAsyncGenerator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "nullishCoalescingOperatorInAsyncGenerator(target=esnext)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "nullishCoalescingOperatorInAsyncGenerator(target=es2015)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "nullishCoalescingOperatorInAsyncGenerator(target=es5)",
+      "options": {
+        "lib": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    }
+  ]
+}

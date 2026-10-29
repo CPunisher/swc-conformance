@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "duplicateLabel1.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateLabel1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1114
+          ],
+          "file": "duplicateLabel1.ts"
+        }
+      ],
+      "name": "duplicateLabel1",
+      "options": {
+        "allowunusedlabels": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

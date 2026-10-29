@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "templateStringInModuleNameES6.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/templates/templateStringInModuleNameES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2591,
+            1443,
+            2304,
+            2591,
+            1443
+          ],
+          "file": "templateStringInModuleNameES6.ts"
+        }
+      ],
+      "name": "templateStringInModuleNameES6",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

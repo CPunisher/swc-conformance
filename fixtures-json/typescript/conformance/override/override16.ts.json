@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "override16.ts"
+    }
+  ],
+  "options": {
+    "noimplicitoverride": "true",
+    "target": "esnext,es2015"
+  },
+  "path": "conformance/override/override16.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "override16(target=esnext)",
+      "options": {
+        "noimplicitoverride": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "override16(target=es2015)",
+      "options": {
+        "noimplicitoverride": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

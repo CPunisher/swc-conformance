@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "a.jsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationTypeArgumentSyntaxOfCall.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            2657,
+            1003,
+            1382,
+            17002,
+            1003,
+            17008,
+            1382,
+            2657,
+            1005
+          ],
+          "file": "a.jsx"
+        }
+      ],
+      "name": "jsFileCompilationTypeArgumentSyntaxOfCall",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.jsx",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

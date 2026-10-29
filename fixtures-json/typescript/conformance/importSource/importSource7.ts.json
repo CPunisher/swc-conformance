@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "a.d.wasm.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "lib": "esnext",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource7",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "b.ts",
+        "lib": "esnext",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

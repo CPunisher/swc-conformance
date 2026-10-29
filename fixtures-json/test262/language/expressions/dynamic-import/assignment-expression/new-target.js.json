@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "new.target"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/assignment-expression/new-target.js"
+}

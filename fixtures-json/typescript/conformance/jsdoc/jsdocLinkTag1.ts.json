@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocLinkTag1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocLinkTag1",
+      "options": {
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

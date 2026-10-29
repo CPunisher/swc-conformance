@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "SharedArrayBuffer",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/ctors/buffer-arg/excessive-offset-throws-sab.js"
+}

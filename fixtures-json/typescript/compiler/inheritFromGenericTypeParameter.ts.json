@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "inheritFromGenericTypeParameter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/inheritFromGenericTypeParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2312
+          ],
+          "file": "inheritFromGenericTypeParameter.ts"
+        }
+      ],
+      "name": "inheritFromGenericTypeParameter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

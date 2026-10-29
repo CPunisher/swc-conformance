@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "modularizeLibrary_ErrorFromUsingWellknownSymbolWithOutES6WellknownSymbolLib.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.core",
+    "target": "es2015"
+  },
+  "path": "compiler/modularizeLibrary_ErrorFromUsingWellknownSymbolWithOutES6WellknownSymbolLib.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2585
+          ],
+          "file": "modularizeLibrary_ErrorFromUsingWellknownSymbolWithOutES6WellknownSymbolLib.ts"
+        }
+      ],
+      "name": "modularizeLibrary_ErrorFromUsingWellknownSymbolWithOutES6WellknownSymbolLib",
+      "options": {
+        "lib": "es5,es2015.core",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "noImplicitAnyForwardReferencedInterface.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noImplicitAnyForwardReferencedInterface.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7013
+          ],
+          "file": "noImplicitAnyForwardReferencedInterface.ts"
+        }
+      ],
+      "name": "noImplicitAnyForwardReferencedInterface",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

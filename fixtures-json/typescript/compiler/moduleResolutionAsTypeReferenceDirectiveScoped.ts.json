@@ -1,0 +1,133 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/a/types/dummy/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/a/types/@scoped/typescache/index.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/a/types/mangled__typescache/index.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/a/node_modules/@scoped/nodemodulescache/index.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/a/node_modules/mangled__nodemodulescache/index.d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/a/node_modules/@types/@scoped/attypescache/index.d.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "/a/node_modules/@types/mangled__attypescache/index.d.ts"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/a/types,/a/node_modules,/a/node_modules/@types",
+    "types": "dummy"
+  },
+  "path": "compiler/moduleResolutionAsTypeReferenceDirectiveScoped.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/types/dummy/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/types/@scoped/typescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/types/mangled__typescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/node_modules/@scoped/nodemodulescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/node_modules/mangled__nodemodulescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/node_modules/@types/@scoped/attypescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/node_modules/@types/mangled__attypescache/index.d.ts"
+        }
+      ],
+      "name": "moduleResolutionAsTypeReferenceDirectiveScoped",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/a/types,/a/node_modules,/a/node_modules/@types",
+        "types": "dummy"
+      }
+    }
+  ]
+}

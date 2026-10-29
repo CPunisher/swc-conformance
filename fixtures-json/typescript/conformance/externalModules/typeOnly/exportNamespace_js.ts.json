@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "c.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportNamespace_js.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            8006
+          ],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            1362
+          ],
+          "file": "c.js"
+        }
+      ],
+      "name": "exportNamespace_js",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "c.js",
+        "module": "commonjs",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

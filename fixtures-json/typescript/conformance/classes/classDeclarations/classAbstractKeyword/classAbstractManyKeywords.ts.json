@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "classAbstractManyKeywords.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classAbstractKeyword/classAbstractManyKeywords.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005
+          ],
+          "file": "classAbstractManyKeywords.ts"
+        }
+      ],
+      "name": "classAbstractManyKeywords",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

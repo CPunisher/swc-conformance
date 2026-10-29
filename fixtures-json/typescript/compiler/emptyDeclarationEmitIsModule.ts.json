@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "module.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/emptyDeclarationEmitIsModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "emptyDeclarationEmitIsModule",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

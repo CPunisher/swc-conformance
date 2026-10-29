@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/src/index.ts"
+    },
+    {
+      "lines": [
+        5,
+        9,
+        10
+      ],
+      "name": "/tests/index.ts"
+    },
+    {
+      "lines": [
+        12
+      ],
+      "name": "/tests/node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [],
+      "name": "/tests/node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        12
+      ],
+      "name": "/node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "/src/bug25410.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicatePackage_globalMerge.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/bug25410.ts"
+        },
+        {
+          "codes": [
+            2306
+          ],
+          "file": "/src/index.ts"
+        },
+        {
+          "codes": [
+            2306
+          ],
+          "file": "/tests/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tests/node_modules/@types/react/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/tests/node_modules/@types/react/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/react/package.json"
+        },
+        {
+          "codes": [
+            2669
+          ],
+          "file": "/node_modules/@types/react/index.d.ts"
+        }
+      ],
+      "name": "duplicatePackage_globalMerge",
+      "options": {
+        "filename": "/src/bug25410.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

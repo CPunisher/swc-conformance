@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "privateNameAmbientNoImplicitAny.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "ESNext"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameAmbientNoImplicitAny.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7008
+          ],
+          "file": "privateNameAmbientNoImplicitAny.ts"
+        }
+      ],
+      "name": "privateNameAmbientNoImplicitAny",
+      "options": {
+        "noimplicitany": "true",
+        "target": "ESNext"
+      }
+    }
+  ]
+}

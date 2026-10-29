@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/commentOnAmbientfunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commentOnAmbientfunction",
+      "options": {
+        "filename": "b.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

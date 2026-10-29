@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/isolatedModulesImportExportElision.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "isolatedModulesImportExportElision(target=es5)",
+      "options": {
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2591,
+            2591,
+            2591,
+            2591
+          ],
+          "file": "file1.ts"
+        }
+      ],
+      "name": "isolatedModulesImportExportElision(target=es2015)",
+      "options": {
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

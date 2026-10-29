@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/other.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationmap": "true"
+  },
+  "path": "compiler/declarationEmitNoCrashOnCrossFileNode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitNoCrashOnCrossFileNode",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "true",
+        "filename": "/other.ts"
+      }
+    }
+  ]
+}

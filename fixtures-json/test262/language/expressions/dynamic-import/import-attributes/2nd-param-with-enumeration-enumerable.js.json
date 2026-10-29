@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes",
+      "json-modules",
+      "Symbol",
+      "Proxy"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-with-enumeration-enumerable.js"
+}

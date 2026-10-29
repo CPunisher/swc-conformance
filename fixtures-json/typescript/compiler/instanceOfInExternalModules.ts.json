@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "instanceOfInExternalModules_require.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "instanceOfInExternalModules_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/instanceOfInExternalModules.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "instanceOfInExternalModules_1.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "instanceOfInExternalModules_require.ts"
+        }
+      ],
+      "name": "instanceOfInExternalModules",
+      "options": {
+        "filename": "instanceOfInExternalModules_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "declarationEmitDestructuringWithOptionalBindingParameters.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDestructuringWithOptionalBindingParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2463,
+            2463
+          ],
+          "file": "declarationEmitDestructuringWithOptionalBindingParameters.ts"
+        }
+      ],
+      "name": "declarationEmitDestructuringWithOptionalBindingParameters",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

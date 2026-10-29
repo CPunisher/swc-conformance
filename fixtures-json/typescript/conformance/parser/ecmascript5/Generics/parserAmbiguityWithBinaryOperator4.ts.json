@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parserAmbiguityWithBinaryOperator4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserAmbiguityWithBinaryOperator4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2722,
+            2749,
+            2749,
+            18048
+          ],
+          "file": "parserAmbiguityWithBinaryOperator4.ts"
+        }
+      ],
+      "name": "parserAmbiguityWithBinaryOperator4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

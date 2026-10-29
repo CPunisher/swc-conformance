@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "moduleA/a.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "node_modules/b.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "node_modules/c.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationExternalPackageError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationExternalPackageError",
+      "options": {
+        "allowjs": "true",
+        "filename": "node_modules/c.js",
+        "module": "commonjs",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

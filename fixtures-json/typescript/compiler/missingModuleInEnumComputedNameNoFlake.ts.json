@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "missingModuleInEnumComputedNameNoFlake.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "compiler/missingModuleInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1164,
+            2307,
+            2339
+          ],
+          "file": "missingModuleInEnumComputedNameNoFlake.ts"
+        }
+      ],
+      "name": "missingModuleInEnumComputedNameNoFlake",
+      "options": {
+        "declaration": "true",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

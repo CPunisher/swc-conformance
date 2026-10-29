@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "invalidReturnStatements.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/statements/returnStatements/invalidReturnStatements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2355,
+            2355,
+            2355,
+            2355,
+            2564,
+            2564,
+            2739,
+            2741
+          ],
+          "file": "invalidReturnStatements.ts"
+        }
+      ],
+      "name": "invalidReturnStatements",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

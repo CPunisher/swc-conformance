@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "import.meta"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/import.meta/syntax/goal-script.js"
+}

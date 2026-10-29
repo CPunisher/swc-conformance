@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserES5ForOfStatement13.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserES5ForOfStatement13.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parserES5ForOfStatement13(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserES5ForOfStatement13.ts"
+        }
+      ],
+      "name": "parserES5ForOfStatement13(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

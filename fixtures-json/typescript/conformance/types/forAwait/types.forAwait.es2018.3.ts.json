@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "types.forAwait.es2018.3.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "noemit": "true",
+    "target": "es2018"
+  },
+  "path": "conformance/types/forAwait/types.forAwait.es2018.3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2495,
+            2495,
+            2495,
+            2495
+          ],
+          "file": "types.forAwait.es2018.3.ts"
+        }
+      ],
+      "name": "types.forAwait.es2018.3",
+      "options": {
+        "lib": "es5",
+        "noemit": "true",
+        "target": "es2018"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "c.js"
+    },
+    {
+      "lines": [
+        6,
+        41
+      ],
+      "name": "d.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/jsFileCompilationBindStrictModeErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1117,
+            1212,
+            1102,
+            2703,
+            1100,
+            1100,
+            1101,
+            2410
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            1210,
+            1213
+          ],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            1214,
+            1215
+          ],
+          "file": "c.js"
+        },
+        {
+          "codes": [
+            1489
+          ],
+          "file": "d.js"
+        }
+      ],
+      "name": "jsFileCompilationBindStrictModeErrors",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "d.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

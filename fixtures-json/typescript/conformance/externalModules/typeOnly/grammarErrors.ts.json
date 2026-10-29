@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "/c.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/grammarErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055,
+            5056
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            1363
+          ],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            8006,
+            8006
+          ],
+          "file": "/a.js"
+        },
+        {
+          "codes": [
+            1392
+          ],
+          "file": "/c.ts"
+        }
+      ],
+      "name": "grammarErrors",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/c.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

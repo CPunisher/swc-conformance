@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parserErrorRecovery_Block2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/Blocks/parserErrorRecovery_Block2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1127
+          ],
+          "file": "parserErrorRecovery_Block2.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_Block2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

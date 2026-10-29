@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "reservedWords3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/reservedWords3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            1390,
+            2567,
+            1003,
+            7010,
+            1390,
+            1005,
+            7010,
+            1390,
+            2567,
+            7010,
+            1003,
+            7010,
+            1390,
+            1005,
+            7010,
+            1390,
+            1005
+          ],
+          "file": "reservedWords3.ts"
+        }
+      ],
+      "name": "reservedWords3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

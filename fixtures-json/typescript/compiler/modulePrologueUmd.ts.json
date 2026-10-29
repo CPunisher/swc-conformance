@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "modulePrologueUmd.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "es2015"
+  },
+  "path": "compiler/modulePrologueUmd.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePrologueUmd",
+      "options": {
+        "module": "umd",
+        "target": "es2015"
+      }
+    }
+  ]
+}

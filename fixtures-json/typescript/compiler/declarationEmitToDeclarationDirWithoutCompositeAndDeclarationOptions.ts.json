@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/foo/test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitToDeclarationDirWithoutCompositeAndDeclarationOptions.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "name": "/foo/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5069
+          ],
+          "file": "/foo/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo/test.ts"
+        }
+      ],
+      "name": "declarationEmitToDeclarationDirWithoutCompositeAndDeclarationOptions",
+      "options": {
+        "filename": "/foo/test.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLast/BigInt/detached-buffer.js"
+}

@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "file3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/augmentExportEquals1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2503
+          ],
+          "file": "file3.ts"
+        },
+        {
+          "codes": [],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2671
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "augmentExportEquals1",
+      "options": {
+        "filename": "file3.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "reactNamespaceMissingDeclaration.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "reactnamespace": "myReactLib",
+    "target": "es2015"
+  },
+  "path": "compiler/reactNamespaceMissingDeclaration.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874
+          ],
+          "file": "reactNamespaceMissingDeclaration.tsx"
+        }
+      ],
+      "name": "reactNamespaceMissingDeclaration",
+      "options": {
+        "jsx": "react",
+        "reactnamespace": "myReactLib",
+        "target": "es2015"
+      }
+    }
+  ]
+}

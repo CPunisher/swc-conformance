@@ -361,6 +361,17 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1c66915cc5391097de7a2b0b972e8505aa33c0df401fd3a6811dbdb32881ba48"
 
 [[package]]
+name = "fixture-json"
+version = "0.1.0"
+dependencies = [
+ "regex",
+ "saphyr",
+ "serde_json",
+ "tsrs_testrunner",
+ "walkdir",
+]
+
+[[package]]
 name = "foldhash"
 version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1104,8 +1115,7 @@ name = "swc-conformance"
 version = "0.1.0"
 dependencies = [
  "clap",
- "regex",
- "saphyr",
+ "serde",
  "serde_json",
  "swc_experimental_allocator",
  "swc_experimental_ecma_ast",

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol.species",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/slice/BigInt/set-values-from-different-ctor-type.js"
+}

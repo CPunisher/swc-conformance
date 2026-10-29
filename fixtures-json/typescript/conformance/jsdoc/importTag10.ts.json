@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importTag10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "/foo.js"
+        }
+      ],
+      "name": "importTag10",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/foo.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

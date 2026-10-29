@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/NumberFormat/prototype/format/format-function-builtin.js"
+}

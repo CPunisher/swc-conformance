@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/parserUnparsedTokenCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "parserUnparsedTokenCrash1",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "regularExpressionQuantifierBounds1.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/regularExpressionQuantifierBounds1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1506,
+            1506
+          ],
+          "file": "regularExpressionQuantifierBounds1.ts"
+        }
+      ],
+      "name": "regularExpressionQuantifierBounds1",
+      "options": {
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

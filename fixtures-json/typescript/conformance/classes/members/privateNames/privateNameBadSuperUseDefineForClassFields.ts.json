@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "privateNameBadSuperUseDefineForClassFields.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "esnext, es2022",
+    "usedefineforclassfields": "true"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameBadSuperUseDefineForClassFields.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            17009
+          ],
+          "file": "privateNameBadSuperUseDefineForClassFields.ts"
+        }
+      ],
+      "name": "privateNameBadSuperUseDefineForClassFields(target=esnext)",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            17009
+          ],
+          "file": "privateNameBadSuperUseDefineForClassFields.ts"
+        }
+      ],
+      "name": "privateNameBadSuperUseDefineForClassFields(target=es2022)",
+      "options": {
+        "strict": "false",
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

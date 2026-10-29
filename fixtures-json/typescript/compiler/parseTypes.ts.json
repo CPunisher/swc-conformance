@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "parseTypes.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parseTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352,
+            2352,
+            2352,
+            2352,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "parseTypes.ts"
+        }
+      ],
+      "name": "parseTypes",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "regularExpressionGroupNameSuggestions.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/regularExpressionGroupNameSuggestions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1503,
+            1532
+          ],
+          "file": "regularExpressionGroupNameSuggestions.ts"
+        }
+      ],
+      "name": "regularExpressionGroupNameSuggestions",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

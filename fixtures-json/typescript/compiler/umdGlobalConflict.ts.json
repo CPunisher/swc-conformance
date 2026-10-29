@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "v1/index.d.ts"
+    },
+    {
+      "lines": [
+        3,
+        8,
+        9
+      ],
+      "name": "v2/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "consumer.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "global.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/umdGlobalConflict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "umdGlobalConflict",
+      "options": {
+        "filename": "global.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

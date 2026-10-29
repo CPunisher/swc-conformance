@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "2.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "esnext"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionInUMD2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionInUMD2",
+      "options": {
+        "filename": "2.ts",
+        "module": "umd",
+        "target": "esnext"
+      }
+    }
+  ]
+}

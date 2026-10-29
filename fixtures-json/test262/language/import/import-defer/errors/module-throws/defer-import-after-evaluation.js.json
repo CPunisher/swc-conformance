@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/errors/module-throws/defer-import-after-evaluation.js"
+}

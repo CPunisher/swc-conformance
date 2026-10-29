@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "rest-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-arrow-function/object-destructuring-param-strict-body.js"
+}

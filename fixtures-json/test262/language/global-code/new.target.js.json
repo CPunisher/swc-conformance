@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "new.target"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/global-code/new.target.js"
+}

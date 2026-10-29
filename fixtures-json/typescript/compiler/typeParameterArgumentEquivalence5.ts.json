@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "typeParameterArgumentEquivalence5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeParameterArgumentEquivalence5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "typeParameterArgumentEquivalence5.ts"
+        }
+      ],
+      "name": "typeParameterArgumentEquivalence5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

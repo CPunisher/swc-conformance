@@ -1,0 +1,131 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "global.js"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "file1.js"
+    },
+    {
+      "lines": [
+        11,
+        17,
+        18
+      ],
+      "name": "file2.js"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "file3.js"
+    },
+    {
+      "lines": [
+        11,
+        27,
+        28
+      ],
+      "name": "file4.js"
+    },
+    {
+      "lines": [
+        11,
+        32,
+        33
+      ],
+      "name": "file5.js"
+    },
+    {
+      "lines": [
+        21,
+        37,
+        38
+      ],
+      "name": "file6.js"
+    },
+    {
+      "lines": [
+        21,
+        42,
+        43
+      ],
+      "name": "file7.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "esnext",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-exportModifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "global.js"
+        },
+        {
+          "codes": [],
+          "file": "file1.js"
+        },
+        {
+          "codes": [],
+          "file": "file2.js"
+        },
+        {
+          "codes": [
+            1206
+          ],
+          "file": "file3.js"
+        },
+        {
+          "codes": [],
+          "file": "file4.js"
+        },
+        {
+          "codes": [],
+          "file": "file5.js"
+        },
+        {
+          "codes": [
+            8038
+          ],
+          "file": "file6.js"
+        },
+        {
+          "codes": [
+            8038
+          ],
+          "file": "file7.js"
+        }
+      ],
+      "name": "esDecorators-classDeclaration-exportModifier",
+      "options": {
+        "allowjs": "true",
+        "filename": "file7.js",
+        "module": "esnext",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

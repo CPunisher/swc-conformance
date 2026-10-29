@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "interfaceImplementation2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/interfaceImplementation2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2420,
+            2420,
+            2564,
+            2564
+          ],
+          "file": "interfaceImplementation2.ts"
+        }
+      ],
+      "name": "interfaceImplementation2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

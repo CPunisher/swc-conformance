@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "es2020",
+    "target": "es2020"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionIncorrect1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "1.ts"
+        }
+      ],
+      "name": "importCallExpressionIncorrect1",
+      "options": {
+        "filename": "1.ts",
+        "module": "es2020",
+        "target": "es2020"
+      }
+    }
+  ]
+}

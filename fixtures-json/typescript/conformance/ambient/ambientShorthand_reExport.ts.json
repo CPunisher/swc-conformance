@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "declarations.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "reExportX.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "reExportAll.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "reExportUser.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientShorthand_reExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "ambientShorthand_reExport",
+      "options": {
+        "filename": "reExportUser.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

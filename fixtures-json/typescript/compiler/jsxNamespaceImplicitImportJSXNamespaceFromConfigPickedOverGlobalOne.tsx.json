@@ -1,0 +1,122 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/node_modules/react/index.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/node_modules/@emotion/react/jsx-runtime/index.d.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "name": "/node_modules/@emotion/react/jsx-runtime/jsx-namespace.d.ts"
+    },
+    {
+      "lines": [
+        66,
+        67
+      ],
+      "name": "/index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve,react-jsx",
+    "jsximportsource": "@emotion/react",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxNamespaceImplicitImportJSXNamespaceFromConfigPickedOverGlobalOne.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [],
+      "name": "jsxNamespaceImplicitImportJSXNamespaceFromConfigPickedOverGlobalOne(jsx=preserve)",
+      "options": {
+        "filename": "/index.tsx",
+        "jsx": "preserve",
+        "jsximportsource": "@emotion/react",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "jsxNamespaceImplicitImportJSXNamespaceFromConfigPickedOverGlobalOne(jsx=react-jsx)",
+      "options": {
+        "filename": "/index.tsx",
+        "jsx": "react-jsx",
+        "jsximportsource": "@emotion/react",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

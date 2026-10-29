@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "node_modules/ext/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "node_modules/ext/index.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "node_modules/ext/ts3.1/index.d.ts"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/typesVersions.ambientModules.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      38
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typesVersions.ambientModules",
+      "options": {
+        "filename": "tsconfig.json",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

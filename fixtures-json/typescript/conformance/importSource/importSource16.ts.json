@@ -1,0 +1,115 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "index.mts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext, nodenext, preserve",
+    "nouncheckedsideeffectimports": "false, true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource16.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "importSource16(module=esnext,nouncheckedsideeffectimports=false)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "esnext",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "importSource16(module=esnext,nouncheckedsideeffectimports=true)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "esnext",
+        "nouncheckedsideeffectimports": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=nodenext,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "importSource16(module=nodenext,nouncheckedsideeffectimports=false)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "nodenext",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=nodenext,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "importSource16(module=nodenext,nouncheckedsideeffectimports=true)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "nodenext",
+        "nouncheckedsideeffectimports": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=preserve,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "importSource16(module=preserve,nouncheckedsideeffectimports=false)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "preserve",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=preserve,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "importSource16(module=preserve,nouncheckedsideeffectimports=true)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "preserve",
+        "nouncheckedsideeffectimports": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

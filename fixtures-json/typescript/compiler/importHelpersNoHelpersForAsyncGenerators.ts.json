@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "importhelpers": "true",
+    "lib": "esnext",
+    "module": "commonjs",
+    "moduleresolution": "classic",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/importHelpersNoHelpersForAsyncGenerators.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "importHelpersNoHelpersForAsyncGenerators(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "lib": "esnext",
+        "module": "commonjs",
+        "moduleresolution": "classic",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "importHelpersNoHelpersForAsyncGenerators(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "lib": "esnext",
+        "module": "commonjs",
+        "moduleresolution": "classic",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve, react",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxAttributeInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [
+        {
+          "codes": [
+            1145
+          ],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "jsxAttributeInitializer(jsx=preserve)",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "preserve",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react",
+      "diagnostics": [
+        {
+          "codes": [
+            1145
+          ],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "jsxAttributeInitializer(jsx=react)",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "react",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

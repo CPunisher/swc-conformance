@@ -1,0 +1,29 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "exportEqualsUmd.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "es2015"
+  },
+  "path": "compiler/exportEqualsUmd.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportEqualsUmd",
+      "options": {
+        "module": "umd",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/blockScopedClassDeclarationAcrossFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "blockScopedClassDeclarationAcrossFiles",
+      "options": {
+        "filename": "b.ts",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

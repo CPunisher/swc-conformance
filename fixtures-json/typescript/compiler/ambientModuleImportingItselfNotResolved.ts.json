@@ -1,0 +1,85 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/declarations.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noimplicitreferences": "true",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "compiler/ambientModuleImportingItselfNotResolved.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/declarations.d.ts"
+        }
+      ],
+      "name": "ambientModuleImportingItselfNotResolved",
+      "options": {
+        "filename": "/a.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noimplicitreferences": "true",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

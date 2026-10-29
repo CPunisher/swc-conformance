@@ -1,0 +1,203 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        4,
+        9
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        12,
+        13
+      ],
+      "name": "node_modules/inner/other.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        15,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesExportsSpecifierGenerationConditions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSpecifierGenerationConditions(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSpecifierGenerationConditions(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSpecifierGenerationConditions(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSpecifierGenerationConditions(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

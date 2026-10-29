@@ -1,0 +1,141 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/typeReference.ts"
+    },
+    {
+      "lines": [
+        6,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/classReference.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19
+      ],
+      "name": "/interface.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/call.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/new.ts"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "/callAny.ts"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "/super.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedInvalidTypeArguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2315
+          ],
+          "file": "/typeReference.ts"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "/classReference.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/interface.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/call.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/new.ts"
+        },
+        {
+          "codes": [
+            2347,
+            2347,
+            2304
+          ],
+          "file": "/callAny.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2304
+          ],
+          "file": "/super.ts"
+        }
+      ],
+      "name": "unusedInvalidTypeArguments",
+      "options": {
+        "filename": "/super.ts",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

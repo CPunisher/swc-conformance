@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "ex.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "ex2.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "38379.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/requireAssertsFromTypescript.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireAssertsFromTypescript",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "38379.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

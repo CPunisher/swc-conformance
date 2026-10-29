@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated",
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/invalid-private-names-member-expression-bad-reference.js"
+}

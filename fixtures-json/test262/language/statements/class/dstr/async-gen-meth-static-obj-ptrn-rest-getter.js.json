@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/async-gen-meth-static-obj-ptrn-rest-getter.js"
+}

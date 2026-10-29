@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "t3.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "t4.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/modules/exportsAndImportsWithContextualKeywordNames02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportsAndImportsWithContextualKeywordNames02(target=es5)",
+      "options": {
+        "filename": "t4.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "exportsAndImportsWithContextualKeywordNames02(target=es2015)",
+      "options": {
+        "filename": "t4.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

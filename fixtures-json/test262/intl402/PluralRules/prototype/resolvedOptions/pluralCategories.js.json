@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/PluralRules/prototype/resolvedOptions/pluralCategories.js"
+}

@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/root/import/foo.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/root/client/bar.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/root/src/a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution_rootImport_aliasWithRoot_multipleAliases.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "name": "/root/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution_rootImport_aliasWithRoot_multipleAliases",
+      "options": {
+        "allowjs": "true",
+        "filename": "/root/tsconfig.json",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

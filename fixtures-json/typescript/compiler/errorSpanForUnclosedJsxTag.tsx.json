@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "errorSpanForUnclosedJsxTag.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "compiler/errorSpanForUnclosedJsxTag.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17008,
+            17008,
+            1005
+          ],
+          "file": "errorSpanForUnclosedJsxTag.tsx"
+        }
+      ],
+      "name": "errorSpanForUnclosedJsxTag",
+      "options": {
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

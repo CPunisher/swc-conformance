@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/pkg/definitely-not-index.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "node10",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/node10AlternateResult_noResolution.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "node10AlternateResult_noResolution",
+      "options": {
+        "filename": "/index.ts",
+        "moduleresolution": "node10",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

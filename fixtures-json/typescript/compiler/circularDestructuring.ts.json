@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "circularDestructuring.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/circularDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2339,
+            2339,
+            7022,
+            2448
+          ],
+          "file": "circularDestructuring.ts"
+        }
+      ],
+      "name": "circularDestructuring",
+      "options": {
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        5,
+        21,
+        22
+      ],
+      "name": "/foo.ios.json"
+    },
+    {
+      "lines": [
+        5,
+        25,
+        26,
+        27
+      ],
+      "name": "/foo.json"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolutionWithSuffixes_one_jsonModule.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithSuffixes_one_jsonModule",
+      "options": {
+        "filename": "/foo.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

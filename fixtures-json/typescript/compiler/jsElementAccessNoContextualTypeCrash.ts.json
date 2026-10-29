@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "jsElementAccessNoContextualTypeCrash.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsElementAccessNoContextualTypeCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsElementAccessNoContextualTypeCrash",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "jsElementAccessNoContextualTypeCrash.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

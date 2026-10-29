@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserClassDeclaration2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ClassDeclarations/parserClassDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1175
+          ],
+          "file": "parserClassDeclaration2.ts"
+        }
+      ],
+      "name": "parserClassDeclaration2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

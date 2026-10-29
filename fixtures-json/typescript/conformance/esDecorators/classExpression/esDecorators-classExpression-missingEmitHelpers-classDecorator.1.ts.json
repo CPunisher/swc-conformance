@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "commonjs",
+    "moduleresolution": "classic",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/esDecorators/classExpression/esDecorators-classExpression-missingEmitHelpers-classDecorator.1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esDecorators-classExpression-missingEmitHelpers-classDecorator.1",
+      "options": {
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "moduleresolution": "classic",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

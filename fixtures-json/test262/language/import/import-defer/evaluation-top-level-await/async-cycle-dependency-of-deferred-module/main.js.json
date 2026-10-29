@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "top-level-await",
+      "dynamic-import",
+      "promise-with-resolvers"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/evaluation-top-level-await/async-cycle-dependency-of-deferred-module/main.js"
+}

@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/defs.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocImplements_signatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/defs.d.ts"
+        },
+        {
+          "codes": [
+            2420,
+            2420
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "jsdocImplements_signatures",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/a.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

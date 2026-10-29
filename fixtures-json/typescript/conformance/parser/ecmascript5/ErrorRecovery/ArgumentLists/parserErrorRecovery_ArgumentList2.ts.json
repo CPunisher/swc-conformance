@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserErrorRecovery_ArgumentList2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ArgumentLists/parserErrorRecovery_ArgumentList2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1005
+          ],
+          "file": "parserErrorRecovery_ArgumentList2.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ArgumentList2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

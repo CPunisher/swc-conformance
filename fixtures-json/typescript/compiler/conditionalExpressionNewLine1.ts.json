@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "conditionalExpressionNewLine1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/conditionalExpressionNewLine1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304
+          ],
+          "file": "conditionalExpressionNewLine1.ts"
+        }
+      ],
+      "name": "conditionalExpressionNewLine1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        14
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "/foo/index.ios.ts"
+    },
+    {
+      "lines": [
+        18
+      ],
+      "name": "/foo/index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolutionWithSuffixes_one_dirModuleWithIndex.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithSuffixes_one_dirModuleWithIndex",
+      "options": {
+        "filename": "/foo/index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

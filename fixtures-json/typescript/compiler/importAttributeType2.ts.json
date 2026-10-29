@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/bun-sqlite.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeType2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/bun-sqlite.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "importAttributeType2",
+      "options": {
+        "filename": "/index.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

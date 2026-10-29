@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "noemitonerror": "true",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesNoEmitOnError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "file1.ts"
+        }
+      ],
+      "name": "isolatedModulesNoEmitOnError",
+      "options": {
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "noemitonerror": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

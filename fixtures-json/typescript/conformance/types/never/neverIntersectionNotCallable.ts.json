@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "neverIntersectionNotCallable.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/never/neverIntersectionNotCallable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349
+          ],
+          "file": "neverIntersectionNotCallable.ts"
+        }
+      ],
+      "name": "neverIntersectionNotCallable",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "vs/foo_0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "foo_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/topLevelFileModuleMissing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "foo_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "vs/foo_0.ts"
+        }
+      ],
+      "name": "topLevelFileModuleMissing",
+      "options": {
+        "filename": "foo_1.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "derivedClassConstructorWithExplicitReturns01.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/derivedClassConstructorWithExplicitReturns01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "derivedClassConstructorWithExplicitReturns01(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2409
+          ],
+          "file": "derivedClassConstructorWithExplicitReturns01.ts"
+        }
+      ],
+      "name": "derivedClassConstructorWithExplicitReturns01(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

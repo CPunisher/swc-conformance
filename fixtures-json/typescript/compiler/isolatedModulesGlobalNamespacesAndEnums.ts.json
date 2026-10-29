@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "script-namespaces.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "module-namespaces.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "enum1.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "enum2.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedModulesGlobalNamespacesAndEnums.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1280
+          ],
+          "file": "script-namespaces.ts"
+        },
+        {
+          "codes": [],
+          "file": "module-namespaces.ts"
+        },
+        {
+          "codes": [],
+          "file": "enum1.ts"
+        },
+        {
+          "codes": [
+            18055,
+            1281,
+            1281
+          ],
+          "file": "enum2.ts"
+        }
+      ],
+      "name": "isolatedModulesGlobalNamespacesAndEnums",
+      "options": {
+        "filename": "enum2.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

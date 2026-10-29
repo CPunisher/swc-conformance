@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/from/from-typedarray-into-itself-mapper-detaches-result.js"
+}

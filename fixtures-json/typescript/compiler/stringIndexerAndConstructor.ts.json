@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "stringIndexerAndConstructor.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/stringIndexerAndConstructor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2411,
+            2411
+          ],
+          "file": "stringIndexerAndConstructor.ts"
+        }
+      ],
+      "name": "stringIndexerAndConstructor",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

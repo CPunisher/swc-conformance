@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "templateStringInFunctionParameterType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInFunctionParameterType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            7006,
+            1003,
+            7010
+          ],
+          "file": "templateStringInFunctionParameterType.ts"
+        }
+      ],
+      "name": "templateStringInFunctionParameterType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

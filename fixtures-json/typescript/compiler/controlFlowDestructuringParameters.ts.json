@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "controlFlowDestructuringParameters.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/controlFlowDestructuringParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "controlFlowDestructuringParameters",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

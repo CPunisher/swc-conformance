@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "nans.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/Set/conversion-operation-consistent-nan.js"
+}

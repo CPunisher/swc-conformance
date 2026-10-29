@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocVariadicType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            7006,
+            7006,
+            7019
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        }
+      ],
+      "name": "jsdocVariadicType",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

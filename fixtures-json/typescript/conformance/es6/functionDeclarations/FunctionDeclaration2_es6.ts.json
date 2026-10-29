@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "FunctionDeclaration2_es6.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/es6/functionDeclarations/FunctionDeclaration2_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1212
+          ],
+          "file": "FunctionDeclaration2_es6.ts"
+        }
+      ],
+      "name": "FunctionDeclaration2_es6(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "FunctionDeclaration2_es6(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

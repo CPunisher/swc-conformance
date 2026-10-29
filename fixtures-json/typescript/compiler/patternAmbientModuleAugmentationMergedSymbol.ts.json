@@ -1,0 +1,110 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/a.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        12,
+        13,
+        14
+      ],
+      "name": "/b.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/c.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/augmentation.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/patternAmbientModuleAugmentationMergedSymbol.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/augmentation.ts"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "patternAmbientModuleAugmentationMergedSymbol",
+      "options": {
+        "filename": "/index.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

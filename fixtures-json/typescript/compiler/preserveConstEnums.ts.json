@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "preserveConstEnums.ts"
+    }
+  ],
+  "options": {
+    "preserveconstenums": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/preserveConstEnums.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "preserveConstEnums",
+      "options": {
+        "preserveconstenums": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

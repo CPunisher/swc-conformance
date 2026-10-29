@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "ambientModuleDeclarationWithReservedIdentifierInDottedPath2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientModuleDeclarationWithReservedIdentifierInDottedPath2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2819,
+            1005
+          ],
+          "file": "ambientModuleDeclarationWithReservedIdentifierInDottedPath2.ts"
+        }
+      ],
+      "name": "ambientModuleDeclarationWithReservedIdentifierInDottedPath2",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

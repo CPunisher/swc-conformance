@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "declarationEmitDestructuringObjectLiteralPattern1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDestructuringObjectLiteralPattern1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353,
+            2353,
+            2353,
+            2353
+          ],
+          "file": "declarationEmitDestructuringObjectLiteralPattern1.ts"
+        }
+      ],
+      "name": "declarationEmitDestructuringObjectLiteralPattern1",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

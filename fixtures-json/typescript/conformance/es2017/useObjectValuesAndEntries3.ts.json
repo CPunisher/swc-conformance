@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "useObjectValuesAndEntries3.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es2017/useObjectValuesAndEntries3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2550,
+            2550
+          ],
+          "file": "useObjectValuesAndEntries3.ts"
+        }
+      ],
+      "name": "useObjectValuesAndEntries3",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

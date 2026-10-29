@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "exportImportMultipleFiles_math.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "exportImportMultipleFiles_library.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "exportImportMultipleFiles_userCode.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/exportImportMultipleFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "exportImportMultipleFiles_userCode.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportImportMultipleFiles_math.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "exportImportMultipleFiles_library.ts"
+        }
+      ],
+      "name": "exportImportMultipleFiles",
+      "options": {
+        "filename": "exportImportMultipleFiles_userCode.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

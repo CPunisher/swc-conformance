@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserClassDeclaration3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ClassDeclarations/parserClassDeclaration3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1173,
+            2304
+          ],
+          "file": "parserClassDeclaration3.ts"
+        }
+      ],
+      "name": "parserClassDeclaration3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

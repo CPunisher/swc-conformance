@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "tail-call-optimization"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/Proxy/revocable/tco-fn-realm.js"
+}

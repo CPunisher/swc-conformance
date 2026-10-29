@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserTernaryAndCommaOperators1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegressionTests/parserTernaryAndCommaOperators1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2695,
+            2304,
+            2304
+          ],
+          "file": "parserTernaryAndCommaOperators1.ts"
+        }
+      ],
+      "name": "parserTernaryAndCommaOperators1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

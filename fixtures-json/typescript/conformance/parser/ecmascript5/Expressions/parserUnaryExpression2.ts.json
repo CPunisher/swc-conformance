@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserUnaryExpression2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parserUnaryExpression2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2356,
+            7006
+          ],
+          "file": "parserUnaryExpression2.ts"
+        }
+      ],
+      "name": "parserUnaryExpression2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

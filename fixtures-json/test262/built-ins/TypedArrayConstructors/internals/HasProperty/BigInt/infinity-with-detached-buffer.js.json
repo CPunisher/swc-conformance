@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality",
+      "BigInt",
+      "TypedArray"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [
+      "testTypedArray.js",
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/HasProperty/BigInt/infinity-with-detached-buffer.js"
+}

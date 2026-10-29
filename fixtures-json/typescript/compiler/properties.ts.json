@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "properties.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "sourcemap": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/properties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "properties(target=es5)",
+      "options": {
+        "declaration": "true",
+        "sourcemap": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "properties(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "sourcemap": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

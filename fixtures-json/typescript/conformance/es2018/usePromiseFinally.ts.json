@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "usePromiseFinally.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,es2018",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2018/usePromiseFinally.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "usePromiseFinally(target=es5)",
+      "options": {
+        "lib": "es6,es2018",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "usePromiseFinally(target=es2015)",
+      "options": {
+        "lib": "es6,es2018",
+        "target": "es2015"
+      }
+    }
+  ]
+}

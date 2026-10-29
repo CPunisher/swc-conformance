@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Intl.Era-monthcode",
+      "Temporal"
+    ],
+    "flags": [],
+    "includes": [
+      "temporalHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Temporal/PlainDateTime/prototype/withCalendar/future-calendar.js"
+}

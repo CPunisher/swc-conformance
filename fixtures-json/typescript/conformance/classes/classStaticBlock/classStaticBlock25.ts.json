@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "classStaticBlock25.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationmap": "true",
+    "sourcemap": "true",
+    "target": "esnext, es2022"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock25.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "classStaticBlock25(target=esnext)",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "true",
+        "sourcemap": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "classStaticBlock25(target=es2022)",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "true",
+        "sourcemap": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

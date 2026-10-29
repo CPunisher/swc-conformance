@@ -1,0 +1,410 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react,react-jsx,react-jsxdev,preserve",
+    "module": "system,commonjs",
+    "moduledetection": "legacy,auto,force",
+    "target": "es2015"
+  },
+  "path": "compiler/commentsOnJSXExpressionsArePreserved.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react,module=system,moduledetection=legacy",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=system,moduledetection=legacy)",
+      "options": {
+        "jsx": "react",
+        "module": "system",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,module=system,moduledetection=auto",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=system,moduledetection=auto)",
+      "options": {
+        "jsx": "react",
+        "module": "system",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,module=system,moduledetection=force",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=system,moduledetection=force)",
+      "options": {
+        "jsx": "react",
+        "module": "system",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,module=commonjs,moduledetection=legacy",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=commonjs,moduledetection=legacy)",
+      "options": {
+        "jsx": "react",
+        "module": "commonjs",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,module=commonjs,moduledetection=auto",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=commonjs,moduledetection=auto)",
+      "options": {
+        "jsx": "react",
+        "module": "commonjs",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react,module=commonjs,moduledetection=force",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react,module=commonjs,moduledetection=force)",
+      "options": {
+        "jsx": "react",
+        "module": "commonjs",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=system,moduledetection=legacy",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=system,moduledetection=legacy)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "system",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=system,moduledetection=auto",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=system,moduledetection=auto)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "system",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=system,moduledetection=force",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=system,moduledetection=force)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "system",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=commonjs,moduledetection=legacy",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=commonjs,moduledetection=legacy)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=commonjs,moduledetection=auto",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=commonjs,moduledetection=auto)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx,module=commonjs,moduledetection=force",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsx,module=commonjs,moduledetection=force)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=system,moduledetection=legacy",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=system,moduledetection=legacy)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "system",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=system,moduledetection=auto",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=system,moduledetection=auto)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "system",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=system,moduledetection=force",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=system,moduledetection=force)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "system",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=commonjs,moduledetection=legacy",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=commonjs,moduledetection=legacy)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=commonjs,moduledetection=auto",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=commonjs,moduledetection=auto)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev,module=commonjs,moduledetection=force",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2875,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=react-jsxdev,module=commonjs,moduledetection=force)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=system,moduledetection=legacy",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=system,moduledetection=legacy)",
+      "options": {
+        "jsx": "preserve",
+        "module": "system",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=system,moduledetection=auto",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=system,moduledetection=auto)",
+      "options": {
+        "jsx": "preserve",
+        "module": "system",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=system,moduledetection=force",
+      "diagnostics": [],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=system,moduledetection=force)",
+      "options": {
+        "jsx": "preserve",
+        "module": "system",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=commonjs,moduledetection=legacy",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=commonjs,moduledetection=legacy)",
+      "options": {
+        "jsx": "preserve",
+        "module": "commonjs",
+        "moduledetection": "legacy",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=commonjs,moduledetection=auto",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=commonjs,moduledetection=auto)",
+      "options": {
+        "jsx": "preserve",
+        "module": "commonjs",
+        "moduledetection": "auto",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve,module=commonjs,moduledetection=force",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            7026
+          ],
+          "file": "commentsOnJSXExpressionsArePreserved.tsx"
+        }
+      ],
+      "name": "commentsOnJSXExpressionsArePreserved(jsx=preserve,module=commonjs,moduledetection=force)",
+      "options": {
+        "jsx": "preserve",
+        "module": "commonjs",
+        "moduledetection": "force",
+        "target": "es2015"
+      }
+    }
+  ]
+}

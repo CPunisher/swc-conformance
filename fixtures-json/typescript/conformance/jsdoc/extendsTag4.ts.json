@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "out",
+    "target": "esnext"
+  },
+  "path": "conformance/jsdoc/extendsTag4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "extendsTag4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "foo.js",
+        "outdir": "out",
+        "target": "esnext"
+      }
+    }
+  ]
+}

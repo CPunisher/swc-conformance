@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "Symbol.species",
+      "TypedArray",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/map/BigInt/speciesctor-get-species-custom-ctor-length-throws-resizable-arraybuffer.js"
+}

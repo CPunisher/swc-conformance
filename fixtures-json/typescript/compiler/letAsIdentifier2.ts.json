@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "letAsIdentifier2.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/letAsIdentifier2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212
+          ],
+          "file": "letAsIdentifier2.ts"
+        }
+      ],
+      "name": "letAsIdentifier2",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

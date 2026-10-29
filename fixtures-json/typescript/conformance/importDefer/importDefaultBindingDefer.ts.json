@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/importDefer/importDefaultBindingDefer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importDefaultBindingDefer",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

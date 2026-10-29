@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "taggedTemplateUntypedTagCall01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/taggedTemplateUntypedTagCall01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "taggedTemplateUntypedTagCall01.ts"
+        }
+      ],
+      "name": "taggedTemplateUntypedTagCall01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

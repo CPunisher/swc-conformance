@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "plainJSGrammarErrors2.js"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "esnext",
+    "outdir": "out/",
+    "target": "esnext"
+  },
+  "path": "conformance/salsa/plainJSGrammarErrors2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "plainJSGrammarErrors2",
+      "options": {
+        "allowjs": "true",
+        "filename": "/b.js",
+        "module": "esnext",
+        "outdir": "out/",
+        "target": "esnext"
+      }
+    }
+  ]
+}

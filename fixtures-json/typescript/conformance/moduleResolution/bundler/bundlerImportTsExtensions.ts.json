@@ -1,0 +1,484 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/a.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/b.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/b.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/b.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/c.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/c.tsx"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/d/index.ts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/project/e"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/e.ts"
+    },
+    {
+      "lines": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "/project/e.txt"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/project/e.txt.ts"
+    },
+    {
+      "lines": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "name": "/project/main.ts"
+    },
+    {
+      "lines": [
+        50,
+        73,
+        74
+      ],
+      "name": "/project/types.d.ts"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "true,false",
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "noemit": "true,false",
+    "outdir": "out",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerImportTsExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowimportingtsextensions=true,noemit=true",
+      "diagnostics": [
+        {
+          "codes": [
+            6054,
+            6054,
+            6054
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/project/d/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt.ts"
+        },
+        {
+          "codes": [
+            2846,
+            6142
+          ],
+          "file": "/project/main.ts"
+        },
+        {
+          "codes": [
+            2846
+          ],
+          "file": "/project/types.d.ts"
+        }
+      ],
+      "name": "bundlerImportTsExtensions(allowimportingtsextensions=true,noemit=true)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/types.d.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "outdir": "out",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=true,noemit=false",
+      "diagnostics": [
+        {
+          "codes": [
+            5056,
+            5056,
+            5096,
+            6054,
+            6054,
+            6054
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/project/d/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt.ts"
+        },
+        {
+          "codes": [
+            2846,
+            6142
+          ],
+          "file": "/project/main.ts"
+        },
+        {
+          "codes": [
+            2846
+          ],
+          "file": "/project/types.d.ts"
+        }
+      ],
+      "name": "bundlerImportTsExtensions(allowimportingtsextensions=true,noemit=false)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/types.d.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "false",
+        "outdir": "out",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=false,noemit=true",
+      "diagnostics": [
+        {
+          "codes": [
+            6054,
+            6054,
+            6054
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/project/d/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt.ts"
+        },
+        {
+          "codes": [
+            5097,
+            5097,
+            2846,
+            5097,
+            5097,
+            6142,
+            5097
+          ],
+          "file": "/project/main.ts"
+        },
+        {
+          "codes": [
+            2846
+          ],
+          "file": "/project/types.d.ts"
+        }
+      ],
+      "name": "bundlerImportTsExtensions(allowimportingtsextensions=false,noemit=true)",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/types.d.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "outdir": "out",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=false,noemit=false",
+      "diagnostics": [
+        {
+          "codes": [
+            5056,
+            5056,
+            6054,
+            6054,
+            6054
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.js"
+        },
+        {
+          "codes": [],
+          "file": "/project/b.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/c.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/project/d/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt"
+        },
+        {
+          "codes": [],
+          "file": "/project/e.txt.ts"
+        },
+        {
+          "codes": [
+            5097,
+            5097,
+            2846,
+            5097,
+            5097,
+            6142,
+            5097
+          ],
+          "file": "/project/main.ts"
+        },
+        {
+          "codes": [
+            2846
+          ],
+          "file": "/project/types.d.ts"
+        }
+      ],
+      "name": "bundlerImportTsExtensions(allowimportingtsextensions=false,noemit=false)",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/project/types.d.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "false",
+        "outdir": "out",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

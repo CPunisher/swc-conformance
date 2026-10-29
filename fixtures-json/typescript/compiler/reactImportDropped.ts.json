@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "react.d.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "src/components/TabBar.js"
+    },
+    {
+      "lines": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "src/modules/navigation/NavigationView.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "allowsyntheticdefaultimports": "true",
+    "jsx": "react",
+    "module": "es6",
+    "moduleresolution": "bundler",
+    "noimplicitany": "false",
+    "outdir": "build",
+    "target": "es6"
+  },
+  "path": "compiler/reactImportDropped.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reactImportDropped",
+      "options": {
+        "allowjs": "true",
+        "allowsyntheticdefaultimports": "true",
+        "filename": "src/modules/navigation/NavigationView.js",
+        "jsx": "react",
+        "module": "es6",
+        "moduleresolution": "bundler",
+        "noimplicitany": "false",
+        "outdir": "build",
+        "target": "es6"
+      }
+    }
+  ]
+}

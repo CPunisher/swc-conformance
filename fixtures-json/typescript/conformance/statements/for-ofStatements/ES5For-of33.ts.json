@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "ES5For-of33.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "sourcemap": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/for-ofStatements/ES5For-of33.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES5For-of33(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "ES5For-of33.ts"
+        }
+      ],
+      "name": "ES5For-of33(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

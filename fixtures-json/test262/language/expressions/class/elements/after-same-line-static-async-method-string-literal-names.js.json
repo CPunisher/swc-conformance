@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-public",
+      "class",
+      "async-functions"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/after-same-line-static-async-method-string-literal-names.js"
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "intlNumberFormatES5UseGrouping.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2023/intlNumberFormatES5UseGrouping.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "intlNumberFormatES5UseGrouping(target=es5)",
+      "options": {
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "intlNumberFormatES5UseGrouping.ts"
+        }
+      ],
+      "name": "intlNumberFormatES5UseGrouping(target=es2015)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

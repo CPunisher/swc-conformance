@@ -1,0 +1,25 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9
+      ],
+      "name": "verbatimModuleSyntaxCompat.ts"
+    }
+  ],
+  "options": {
+    "importsnotusedasvalues": "error",
+    "isolatedmodules": "true",
+    "module": "system",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "preservevalueimports": "true",
+    "target": "es2015",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/verbatimModuleSyntaxCompat.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": []
+}

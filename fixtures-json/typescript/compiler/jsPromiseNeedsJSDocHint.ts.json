@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsPromiseNeedsJSDocHint.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2810
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "jsPromiseNeedsJSDocHint",
+      "options": {
+        "checkjs": "true",
+        "filename": "main.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

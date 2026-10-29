@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "withStatements.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/statements/withStatements/withStatements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1101,
+            2410
+          ],
+          "file": "withStatements.ts"
+        }
+      ],
+      "name": "withStatements",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

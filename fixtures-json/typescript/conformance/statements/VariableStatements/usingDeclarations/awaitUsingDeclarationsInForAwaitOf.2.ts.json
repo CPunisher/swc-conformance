@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "awaitUsingDeclarationsInForAwaitOf.2.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/awaitUsingDeclarationsInForAwaitOf.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2448
+          ],
+          "file": "awaitUsingDeclarationsInForAwaitOf.2.ts"
+        }
+      ],
+      "name": "awaitUsingDeclarationsInForAwaitOf.2",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationReturnTypeSyntaxOfFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            8010
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationReturnTypeSyntaxOfFunction",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/nestedDestructuringOfRequire.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "main.js"
+        },
+        {
+          "codes": [],
+          "file": "mod1.js"
+        }
+      ],
+      "name": "nestedDestructuringOfRequire",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "main.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "esnext"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionInCJS1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionInCJS1",
+      "options": {
+        "filename": "1.ts",
+        "module": "commonjs",
+        "target": "esnext"
+      }
+    }
+  ]
+}

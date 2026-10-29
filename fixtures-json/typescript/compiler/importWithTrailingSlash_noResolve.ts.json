@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/importWithTrailingSlash_noResolve.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "importWithTrailingSlash_noResolve",
+      "options": {
+        "filename": "/a.ts",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

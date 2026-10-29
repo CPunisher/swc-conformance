@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/@bar/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/foo/@bar/types.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolution_packageJson_notAtPackageRoot_fakeScopedPackage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolution_packageJson_notAtPackageRoot_fakeScopedPackage",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

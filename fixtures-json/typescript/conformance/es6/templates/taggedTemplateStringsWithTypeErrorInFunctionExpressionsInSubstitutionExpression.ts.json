@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "taggedTemplateStringsWithTypeErrorInFunctionExpressionsInSubstitutionExpression.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/taggedTemplateStringsWithTypeErrorInFunctionExpressionsInSubstitutionExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "taggedTemplateStringsWithTypeErrorInFunctionExpressionsInSubstitutionExpression.ts"
+        }
+      ],
+      "name": "taggedTemplateStringsWithTypeErrorInFunctionExpressionsInSubstitutionExpression",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

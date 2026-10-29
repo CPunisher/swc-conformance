@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "file.ts"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "reexport.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "augment.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationDoesNamespaceMergeOfReexport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleAugmentationDoesNamespaceMergeOfReexport",
+      "options": {
+        "filename": "augment.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

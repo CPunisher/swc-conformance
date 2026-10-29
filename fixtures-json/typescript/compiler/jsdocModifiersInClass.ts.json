@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true,false",
+    "noemit": "true"
+  },
+  "path": "compiler/jsdocModifiersInClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "checkjs=true",
+      "diagnostics": [
+        {
+          "codes": [
+            4121
+          ],
+          "file": "test.js"
+        }
+      ],
+      "name": "jsdocModifiersInClass(checkjs=true)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.js",
+        "noemit": "true"
+      }
+    },
+    {
+      "config": "checkjs=false",
+      "diagnostics": [],
+      "name": "jsdocModifiersInClass(checkjs=false)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "test.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

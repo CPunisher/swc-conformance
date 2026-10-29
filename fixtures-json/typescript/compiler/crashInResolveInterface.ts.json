@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/crashInResolveInterface.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [
+            2454
+          ],
+          "file": "file1.ts"
+        }
+      ],
+      "name": "crashInResolveInterface",
+      "options": {
+        "filename": "file2.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

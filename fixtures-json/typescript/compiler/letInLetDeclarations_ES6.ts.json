@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "letInLetDeclarations_ES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/letInLetDeclarations_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2480,
+            1212,
+            2480
+          ],
+          "file": "letInLetDeclarations_ES6.ts"
+        }
+      ],
+      "name": "letInLetDeclarations_ES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

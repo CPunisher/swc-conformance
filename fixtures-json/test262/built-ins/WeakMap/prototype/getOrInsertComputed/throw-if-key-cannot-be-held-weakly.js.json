@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "WeakMap",
+      "upsert"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakMap/prototype/getOrInsertComputed/throw-if-key-cannot-be-held-weakly.js"
+}

@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "downlevelLetConst6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/downlevelLetConst6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2304
+          ],
+          "file": "downlevelLetConst6.ts"
+        }
+      ],
+      "name": "downlevelLetConst6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

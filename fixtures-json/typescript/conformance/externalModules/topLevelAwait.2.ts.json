@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "topLevelAwait.2.ts"
+    }
+  ],
+  "options": {
+    "module": "es2022,esnext",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/externalModules/topLevelAwait.2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=es2022",
+      "diagnostics": [],
+      "name": "topLevelAwait.2(module=es2022)",
+      "options": {
+        "module": "es2022",
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "topLevelAwait.2(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

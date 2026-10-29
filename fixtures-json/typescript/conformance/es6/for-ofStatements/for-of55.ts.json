@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "for-of55.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of55.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022,
+            2448
+          ],
+          "file": "for-of55.ts"
+        }
+      ],
+      "name": "for-of55",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

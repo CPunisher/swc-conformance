@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "stream.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "allowsyntheticdefaultimports": "true",
+    "module": "commonjs",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/syntheticDefaultCallbackContext.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "syntheticDefaultCallbackContext",
+      "options": {
+        "allowsyntheticdefaultimports": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

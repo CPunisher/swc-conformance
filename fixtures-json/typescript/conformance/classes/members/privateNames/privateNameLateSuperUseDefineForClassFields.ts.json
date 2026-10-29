@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "privateNameLateSuperUseDefineForClassFields.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "esnext, es2022",
+    "usedefineforclassfields": "true"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameLateSuperUseDefineForClassFields.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "privateNameLateSuperUseDefineForClassFields(target=esnext)",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "privateNameLateSuperUseDefineForClassFields(target=es2022)",
+      "options": {
+        "strict": "false",
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

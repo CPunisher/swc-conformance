@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/directives/ts-expect-error-nocheck-js.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "ts-expect-error-nocheck-js",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

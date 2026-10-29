@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "m1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "m2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/modules/exportsAndImportsWithUnderscores1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportsAndImportsWithUnderscores1(target=es5)",
+      "options": {
+        "filename": "m2.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "m1.ts"
+        },
+        {
+          "codes": [],
+          "file": "m2.ts"
+        }
+      ],
+      "name": "exportsAndImportsWithUnderscores1(target=es2015)",
+      "options": {
+        "filename": "m2.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

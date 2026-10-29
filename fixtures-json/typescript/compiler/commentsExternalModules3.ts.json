@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "name": "commentsExternalModules2_0.ts"
+    },
+    {
+      "lines": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "name": "commentsExternalModules_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "removecomments": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/commentsExternalModules3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commentsExternalModules3(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "commentsExternalModules_1.ts",
+        "module": "commonjs",
+        "removecomments": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "commentsExternalModules3(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "commentsExternalModules_1.ts",
+        "module": "commonjs",
+        "removecomments": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

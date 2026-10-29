@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "initializedDestructuringAssignmentTypes.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/initializedDestructuringAssignmentTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2551
+          ],
+          "file": "initializedDestructuringAssignmentTypes.ts"
+        }
+      ],
+      "name": "initializedDestructuringAssignmentTypes",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

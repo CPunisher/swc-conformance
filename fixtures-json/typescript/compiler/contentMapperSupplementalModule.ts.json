@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/component.vue"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperSupplementalModule.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mapper/package.json"
+        }
+      ],
+      "name": "contentMapperSupplementalModule",
+      "options": {
+        "declaration": "true",
+        "filename": "/component.vue",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

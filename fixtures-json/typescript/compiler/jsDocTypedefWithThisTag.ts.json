@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "bug.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsDocTypedefWithThisTag.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDocTypedefWithThisTag",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

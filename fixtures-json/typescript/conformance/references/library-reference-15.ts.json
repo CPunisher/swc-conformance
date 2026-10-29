@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/a/types/jquery/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/a/types/jquery2/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/a/b/consumer.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/a/types",
+    "types": "jquery"
+  },
+  "path": "conformance/references/library-reference-15.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/a/b/consumer.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/types/jquery/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/types/jquery2/index.d.ts"
+        }
+      ],
+      "name": "library-reference-15",
+      "options": {
+        "filename": "/a/b/consumer.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/a/types",
+        "types": "jquery"
+      }
+    }
+  ]
+}

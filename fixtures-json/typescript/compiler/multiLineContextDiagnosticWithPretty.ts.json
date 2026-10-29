@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "multiLineContextDiagnosticWithPretty.ts"
+    }
+  ],
+  "options": {
+    "pretty": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/multiLineContextDiagnosticWithPretty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353
+          ],
+          "file": "multiLineContextDiagnosticWithPretty.ts"
+        }
+      ],
+      "name": "multiLineContextDiagnosticWithPretty",
+      "options": {
+        "pretty": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

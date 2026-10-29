@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.toStringTag",
+      "DataView",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/Symbol.toStringTag/this-has-no-typedarrayname-internal.js"
+}

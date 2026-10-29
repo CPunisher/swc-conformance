@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/node_modules/@types/pkg/index.d.ts"
+    },
+    {
+      "lines": [
+        14
+      ],
+      "name": "/index.cjs"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es6"
+  },
+  "path": "compiler/cjsObjectDefinePropertyPrivateModuleDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4023
+          ],
+          "file": "/index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/pkg/index.d.ts"
+        }
+      ],
+      "name": "cjsObjectDefinePropertyPrivateModuleDeclarationEmit",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/index.cjs",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es6"
+      }
+    }
+  ]
+}

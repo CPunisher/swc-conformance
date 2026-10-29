@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "nonexistentPropertyOnUnion.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/nonexistentPropertyOnUnion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "nonexistentPropertyOnUnion.ts"
+        }
+      ],
+      "name": "nonexistentPropertyOnUnion",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

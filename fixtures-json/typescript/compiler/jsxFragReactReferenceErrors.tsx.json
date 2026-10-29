@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "jsxFragReactReferenceErrors.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "jsx": "react-native, preserve",
+    "module": "ESNext",
+    "skiplibcheck": "true",
+    "strict": "true",
+    "target": "ES2017"
+  },
+  "path": "compiler/jsxFragReactReferenceErrors.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-native",
+      "diagnostics": [],
+      "name": "jsxFragReactReferenceErrors(jsx=react-native)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "react-native",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    },
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [],
+      "name": "jsxFragReactReferenceErrors(jsx=preserve)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "preserve",
+        "module": "ESNext",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    }
+  ]
+}

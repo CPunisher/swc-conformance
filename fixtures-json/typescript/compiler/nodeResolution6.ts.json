@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "node_modules/ref.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "node_modules/a.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/nodeResolution6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nodeResolution6",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

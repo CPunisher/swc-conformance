@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes",
+      "async-functions"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-await-expr.js"
+}

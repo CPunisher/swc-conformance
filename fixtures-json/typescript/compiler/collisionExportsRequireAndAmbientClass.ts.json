@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "collisionExportsRequireAndAmbientClass_externalmodule.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "collisionExportsRequireAndAmbientClass_globalFile.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/collisionExportsRequireAndAmbientClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "collisionExportsRequireAndAmbientClass",
+      "options": {
+        "filename": "collisionExportsRequireAndAmbientClass_globalFile.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

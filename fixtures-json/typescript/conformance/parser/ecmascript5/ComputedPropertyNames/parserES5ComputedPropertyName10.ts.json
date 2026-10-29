@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserES5ComputedPropertyName10.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/parser/ecmascript5/ComputedPropertyNames/parserES5ComputedPropertyName10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parserES5ComputedPropertyName10(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserES5ComputedPropertyName10.ts"
+        }
+      ],
+      "name": "parserES5ComputedPropertyName10(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-yield-ident-invalid.js"
+}

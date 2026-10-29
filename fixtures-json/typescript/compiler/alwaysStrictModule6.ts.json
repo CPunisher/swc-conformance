@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "alwaysStrictModule6.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/alwaysStrictModule6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "alwaysStrictModule6(target=es5)",
+      "options": {
+        "alwaysstrict": "true",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "alwaysStrictModule6(target=es2015)",
+      "options": {
+        "alwaysstrict": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/foo/a.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015",
+    "typescriptversion": "5.0"
+  },
+  "path": "compiler/deprecatedCompilerOptions2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "name": "/foo/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6046,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023
+          ],
+          "file": "/foo/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo/a.ts"
+        }
+      ],
+      "name": "deprecatedCompilerOptions2",
+      "options": {
+        "filename": "/foo/a.ts",
+        "target": "es2015",
+        "typescriptversion": "5.0"
+      }
+    }
+  ]
+}

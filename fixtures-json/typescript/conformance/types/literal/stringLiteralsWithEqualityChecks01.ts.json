@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "stringLiteralsWithEqualityChecks01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/literal/stringLiteralsWithEqualityChecks01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2367,
+            2367,
+            2367,
+            2367,
+            2367,
+            2367
+          ],
+          "file": "stringLiteralsWithEqualityChecks01.ts"
+        }
+      ],
+      "name": "stringLiteralsWithEqualityChecks01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

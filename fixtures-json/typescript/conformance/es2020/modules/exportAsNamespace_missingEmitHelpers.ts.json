@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "importhelpers": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2020/modules/exportAsNamespace_missingEmitHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2354
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "exportAsNamespace_missingEmitHelpers",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "b.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

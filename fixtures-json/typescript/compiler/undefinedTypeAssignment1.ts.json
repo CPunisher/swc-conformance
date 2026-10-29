@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "undefinedTypeAssignment1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/undefinedTypeAssignment1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2457
+          ],
+          "file": "undefinedTypeAssignment1.ts"
+        }
+      ],
+      "name": "undefinedTypeAssignment1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "deleteOperator1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/deleteOperator1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1102,
+            2703,
+            1102,
+            2703,
+            2322,
+            1102,
+            2703
+          ],
+          "file": "deleteOperator1.ts"
+        }
+      ],
+      "name": "deleteOperator1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

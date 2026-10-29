@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "instantiateTypeParameter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/instantiateTypeParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1131,
+            2304,
+            1128
+          ],
+          "file": "instantiateTypeParameter.ts"
+        }
+      ],
+      "name": "instantiateTypeParameter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

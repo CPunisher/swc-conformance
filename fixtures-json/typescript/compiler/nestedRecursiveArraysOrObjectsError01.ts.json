@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "nestedRecursiveArraysOrObjectsError01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/nestedRecursiveArraysOrObjectsError01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353
+          ],
+          "file": "nestedRecursiveArraysOrObjectsError01.ts"
+        }
+      ],
+      "name": "nestedRecursiveArraysOrObjectsError01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

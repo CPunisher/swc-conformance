@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es6"
+  },
+  "path": "compiler/jsFileCompilationRestParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationRestParameter",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "outdir": "out",
+        "target": "es6"
+      }
+    }
+  ]
+}

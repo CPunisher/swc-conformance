@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/a/b/foo.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/a/b/c/d/e/app.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "/a/b/c/lib.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "classic",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/cachedModuleResolution3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "cachedModuleResolution3",
+      "options": {
+        "filename": "/a/b/c/lib.ts",
+        "moduleresolution": "classic",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

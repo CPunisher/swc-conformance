@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "route.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "defaultImport.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "namedDefaultImport.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30
+      ],
+      "name": "importEquals.ts"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34
+      ],
+      "name": "reexport.ts"
+    },
+    {
+      "lines": [
+        36,
+        37
+      ],
+      "name": "reexportImport.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "esmoduleinterop": "true",
+    "module": "commonjs, nodenext, preserve"
+  },
+  "path": "compiler/declarationEmitExportAssignmentWithTypeExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "declarationEmitExportAssignmentWithTypeExports(module=commonjs)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "esmoduleinterop": "true",
+        "filename": "reexportImport.ts",
+        "module": "commonjs"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "declarationEmitExportAssignmentWithTypeExports(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "esmoduleinterop": "true",
+        "filename": "reexportImport.ts",
+        "module": "nodenext"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "declarationEmitExportAssignmentWithTypeExports(module=preserve)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "esmoduleinterop": "true",
+        "filename": "reexportImport.ts",
+        "module": "preserve"
+      }
+    }
+  ]
+}

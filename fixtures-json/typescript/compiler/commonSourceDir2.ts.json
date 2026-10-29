@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "A:/foo/bar.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "B:/foo/baz.ts"
+    }
+  ],
+  "options": {
+    "outdir": "A:/",
+    "target": "es2015"
+  },
+  "path": "compiler/commonSourceDir2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5009
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "A:/foo/bar.ts"
+        },
+        {
+          "codes": [],
+          "file": "B:/foo/baz.ts"
+        }
+      ],
+      "name": "commonSourceDir2",
+      "options": {
+        "filename": "B:/foo/baz.ts",
+        "outdir": "A:/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

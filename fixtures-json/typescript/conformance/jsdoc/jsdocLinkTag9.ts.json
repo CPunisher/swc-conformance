@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocLinkTag9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocLinkTag9",
+      "options": {
+        "filename": "/b.ts",
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

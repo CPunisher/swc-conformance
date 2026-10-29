@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "symbolType13.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolType13.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2405,
+            2407,
+            2407
+          ],
+          "file": "symbolType13.ts"
+        }
+      ],
+      "name": "symbolType13",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

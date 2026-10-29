@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "requires.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        8,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportWithExportPropertyAssignment3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [],
+          "file": "requires.d.ts"
+        },
+        {
+          "codes": [
+            2322,
+            2309,
+            2322,
+            2339
+          ],
+          "file": "mod1.js"
+        }
+      ],
+      "name": "moduleExportWithExportPropertyAssignment3",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

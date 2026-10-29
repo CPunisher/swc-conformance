@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parser_breakNotInIterationOrSwitchStatement1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/BreakStatements/parser_breakNotInIterationOrSwitchStatement1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1105
+          ],
+          "file": "parser_breakNotInIterationOrSwitchStatement1.ts"
+        }
+      ],
+      "name": "parser_breakNotInIterationOrSwitchStatement1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

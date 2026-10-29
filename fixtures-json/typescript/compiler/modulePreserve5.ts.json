@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "data.json"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "resolvejsonmodule": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/modulePreserve5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePreserve5",
+      "options": {
+        "filename": "main.ts",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "resolvejsonmodule": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

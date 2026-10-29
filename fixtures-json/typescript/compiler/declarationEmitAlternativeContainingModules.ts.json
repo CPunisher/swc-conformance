@@ -1,0 +1,119 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "internal/deep/model.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21
+      ],
+      "name": "internal/deep/starred.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "factory.ts"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "named.ts"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "aliased.ts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "star.ts"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38
+      ],
+      "name": "assigned.ts"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "orderedFirst.ts"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "orderedSecond.ts"
+    },
+    {
+      "lines": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/declarationEmitAlternativeContainingModules.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitAlternativeContainingModules",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

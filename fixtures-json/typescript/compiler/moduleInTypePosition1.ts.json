@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "moduleInTypePosition1_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "moduleInTypePosition1_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleInTypePosition1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2709
+          ],
+          "file": "moduleInTypePosition1_1.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "moduleInTypePosition1_0.ts"
+        }
+      ],
+      "name": "moduleInTypePosition1",
+      "options": {
+        "filename": "moduleInTypePosition1_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/importer-cjs.cjs"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/importer-cts.cts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "/exporter.mts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "module": "node20",
+    "noemit": "true",
+    "target": "es2023"
+  },
+  "path": "conformance/node/esmModuleExports3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1362
+          ],
+          "file": "/importer-cjs.cjs"
+        },
+        {
+          "codes": [
+            1362,
+            1362,
+            1362,
+            2614
+          ],
+          "file": "/importer-cts.cts"
+        },
+        {
+          "codes": [],
+          "file": "/exporter.mts"
+        }
+      ],
+      "name": "esmModuleExports3",
+      "options": {
+        "checkjs": "true",
+        "filename": "/exporter.mts",
+        "module": "node20",
+        "noemit": "true",
+        "target": "es2023"
+      }
+    }
+  ]
+}

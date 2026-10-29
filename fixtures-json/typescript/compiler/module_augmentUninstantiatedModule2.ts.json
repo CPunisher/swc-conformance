@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "app.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "moduleAugmentation.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "node_modules/angular/index.d.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/module_augmentUninstantiatedModule2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "module_augmentUninstantiatedModule2",
+      "options": {
+        "filename": "node_modules/angular/index.d.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

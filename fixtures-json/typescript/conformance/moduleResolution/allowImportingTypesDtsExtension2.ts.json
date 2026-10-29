@@ -1,0 +1,83 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "nouncheckedsideeffectimports": "true,false",
+    "strict": "true",
+    "verbatimmodulesyntax": "true,false"
+  },
+  "path": "conformance/moduleResolution/allowImportingTypesDtsExtension2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "nouncheckedsideeffectimports=true,verbatimmodulesyntax=true",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension2(nouncheckedsideeffectimports=true,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "/index.ts",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "nouncheckedsideeffectimports": "true",
+        "strict": "true",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "nouncheckedsideeffectimports=true,verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension2(nouncheckedsideeffectimports=true,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "/index.ts",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "nouncheckedsideeffectimports": "true",
+        "strict": "true",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "nouncheckedsideeffectimports=false,verbatimmodulesyntax=true",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension2(nouncheckedsideeffectimports=false,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "/index.ts",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "true",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "nouncheckedsideeffectimports=false,verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension2(nouncheckedsideeffectimports=false,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "/index.ts",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "true",
+        "verbatimmodulesyntax": "false"
+      }
+    }
+  ]
+}

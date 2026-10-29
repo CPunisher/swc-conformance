@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "objectLitStructuralTypeMismatch.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLitStructuralTypeMismatch.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353
+          ],
+          "file": "objectLitStructuralTypeMismatch.ts"
+        }
+      ],
+      "name": "objectLitStructuralTypeMismatch",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "decoratorOnClassAccessor4.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/decorators/class/accessor/decoratorOnClassAccessor4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorOnClassAccessor4(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "decoratorOnClassAccessor4(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

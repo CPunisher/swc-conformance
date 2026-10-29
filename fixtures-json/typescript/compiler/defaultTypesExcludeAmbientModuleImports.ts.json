@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/runtime/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/main.mts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "nodenext",
+    "noemit": "true",
+    "noimplicitreferences": "true"
+  },
+  "path": "compiler/defaultTypesExcludeAmbientModuleImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307
+          ],
+          "file": "/main.mts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/runtime/index.d.ts"
+        }
+      ],
+      "name": "defaultTypesExcludeAmbientModuleImports",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/main.mts",
+        "module": "nodenext",
+        "noemit": "true",
+        "noimplicitreferences": "true"
+      }
+    }
+  ]
+}

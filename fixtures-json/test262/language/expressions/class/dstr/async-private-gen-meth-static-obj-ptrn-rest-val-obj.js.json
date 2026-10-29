@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "class",
+      "class-static-methods-private",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/dstr/async-private-gen-meth-static-obj-ptrn-rest-val-obj.js"
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-public",
+      "computed-property-names",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/redeclaration.js"
+}

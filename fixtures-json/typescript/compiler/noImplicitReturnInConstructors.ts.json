@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "noImplicitReturnInConstructors.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreturns": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noImplicitReturnInConstructors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noImplicitReturnInConstructors",
+      "options": {
+        "noimplicitreturns": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

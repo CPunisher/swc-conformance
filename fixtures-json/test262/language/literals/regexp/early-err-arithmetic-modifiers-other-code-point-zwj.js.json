@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-modifiers"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/literals/regexp/early-err-arithmetic-modifiers-other-code-point-zwj.js"
+}

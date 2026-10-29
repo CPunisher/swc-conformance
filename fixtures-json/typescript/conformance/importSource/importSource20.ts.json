@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "node_modules/pkg/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "index.mts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext, preserve",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource20.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "importSource20(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "nodenext",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "importSource20(module=preserve)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.mts",
+        "module": "preserve",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

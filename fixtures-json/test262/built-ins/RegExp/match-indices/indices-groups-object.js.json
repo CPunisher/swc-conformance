@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-named-groups",
+      "regexp-match-indices"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/match-indices/indices-groups-object.js"
+}

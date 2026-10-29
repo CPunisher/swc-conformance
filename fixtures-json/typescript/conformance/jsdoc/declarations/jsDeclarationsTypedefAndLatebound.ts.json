@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "LazySet.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "es2017",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsTypedefAndLatebound.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "LazySet.js"
+        }
+      ],
+      "name": "jsDeclarationsTypedefAndLatebound",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "LazySet.js",
+        "lib": "es2017",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

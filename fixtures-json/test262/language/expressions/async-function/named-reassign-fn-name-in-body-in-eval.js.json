@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [
+      "generated",
+      "async",
+      "noStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/async-function/named-reassign-fn-name-in-body-in-eval.js"
+}

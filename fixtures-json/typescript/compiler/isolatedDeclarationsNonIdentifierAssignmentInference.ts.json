@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "isolatedDeclarationsNonIdentifierAssignmentInference.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "isolateddeclarations": "true, false"
+  },
+  "path": "compiler/isolatedDeclarationsNonIdentifierAssignmentInference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolateddeclarations=true",
+      "diagnostics": [
+        {
+          "codes": [
+            9013,
+            9013,
+            9013,
+            9013
+          ],
+          "file": "isolatedDeclarationsNonIdentifierAssignmentInference.ts"
+        }
+      ],
+      "name": "isolatedDeclarationsNonIdentifierAssignmentInference(isolateddeclarations=true)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "isolateddeclarations": "true"
+      }
+    },
+    {
+      "config": "isolateddeclarations=false",
+      "diagnostics": [],
+      "name": "isolatedDeclarationsNonIdentifierAssignmentInference(isolateddeclarations=false)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "isolateddeclarations": "false"
+      }
+    }
+  ]
+}

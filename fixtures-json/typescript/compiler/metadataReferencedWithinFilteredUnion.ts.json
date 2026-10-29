@@ -1,0 +1,112 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "Class1.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "Class2.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "strictnullchecks": "true, false",
+    "strictpropertyinitialization": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/metadataReferencedWithinFilteredUnion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strictnullchecks=true,target=es5",
+      "diagnostics": [],
+      "name": "metadataReferencedWithinFilteredUnion(strictnullchecks=true,target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "Class2.ts",
+        "module": "commonjs",
+        "strictnullchecks": "true",
+        "strictpropertyinitialization": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "strictnullchecks=true,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "Class1.ts"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "Class2.ts"
+        }
+      ],
+      "name": "metadataReferencedWithinFilteredUnion(strictnullchecks=true,target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "Class2.ts",
+        "module": "commonjs",
+        "strictnullchecks": "true",
+        "strictpropertyinitialization": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strictnullchecks=false,target=es5",
+      "diagnostics": [],
+      "name": "metadataReferencedWithinFilteredUnion(strictnullchecks=false,target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "Class2.ts",
+        "module": "commonjs",
+        "strictnullchecks": "false",
+        "strictpropertyinitialization": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "strictnullchecks=false,target=es2015",
+      "diagnostics": [],
+      "name": "metadataReferencedWithinFilteredUnion(strictnullchecks=false,target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "Class2.ts",
+        "module": "commonjs",
+        "strictnullchecks": "false",
+        "strictpropertyinitialization": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "contextualTyping24.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/contextualTyping24.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322
+          ],
+          "file": "contextualTyping24.ts"
+        }
+      ],
+      "name": "contextualTyping24",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

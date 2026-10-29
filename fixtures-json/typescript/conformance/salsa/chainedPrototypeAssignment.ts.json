@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "types.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "mod.js"
+    },
+    {
+      "lines": [
+        9,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/chainedPrototypeAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7009,
+            7009
+          ],
+          "file": "use.js"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        },
+        {
+          "codes": [
+            2683,
+            2683
+          ],
+          "file": "mod.js"
+        }
+      ],
+      "name": "chainedPrototypeAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

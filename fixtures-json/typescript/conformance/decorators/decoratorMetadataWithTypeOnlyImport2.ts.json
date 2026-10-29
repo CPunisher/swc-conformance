@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "services.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/decoratorMetadataWithTypeOnlyImport2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "services.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "index.ts"
+        }
+      ],
+      "name": "decoratorMetadataWithTypeOnlyImport2",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

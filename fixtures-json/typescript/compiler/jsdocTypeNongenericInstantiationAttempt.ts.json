@@ -1,0 +1,178 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        5,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "index2.js"
+    },
+    {
+      "lines": [
+        5,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "index3.js"
+    },
+    {
+      "lines": [
+        5,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "index4.js"
+    },
+    {
+      "lines": [
+        5,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "index5.js"
+    },
+    {
+      "lines": [
+        5,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "name": "index6.js"
+    },
+    {
+      "lines": [
+        5,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "name": "index7.js"
+    },
+    {
+      "lines": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "name": "index8.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsdocTypeNongenericInstantiationAttempt.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index2.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index3.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index4.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index5.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index6.js"
+        },
+        {
+          "codes": [
+            2315
+          ],
+          "file": "index7.js"
+        },
+        {
+          "codes": [
+            2749,
+            2304
+          ],
+          "file": "index8.js"
+        }
+      ],
+      "name": "jsdocTypeNongenericInstantiationAttempt",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index8.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

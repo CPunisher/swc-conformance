@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any",
+      "arrow-function",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/invoke-resolve-get-once-no-calls.js"
+}

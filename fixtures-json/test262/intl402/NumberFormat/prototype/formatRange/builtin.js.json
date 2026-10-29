@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Intl.NumberFormat-v3"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/NumberFormat/prototype/formatRange/builtin.js"
+}

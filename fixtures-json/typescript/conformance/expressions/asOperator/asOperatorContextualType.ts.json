@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "asOperatorContextualType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/asOperator/asOperatorContextualType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352,
+            2352
+          ],
+          "file": "asOperatorContextualType.ts"
+        }
+      ],
+      "name": "asOperatorContextualType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

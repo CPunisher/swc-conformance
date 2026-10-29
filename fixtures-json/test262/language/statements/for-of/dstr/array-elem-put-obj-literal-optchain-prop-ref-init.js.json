@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "optional-chaining",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-of/dstr/array-elem-put-obj-literal-optchain-prop-ref-init.js"
+}

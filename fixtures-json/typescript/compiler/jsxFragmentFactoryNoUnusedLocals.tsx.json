@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "jsxFragmentFactoryNoUnusedLocals.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "jsxfactory": "createElement",
+    "jsxfragmentfactory": "Fragment",
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxFragmentFactoryNoUnusedLocals.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006
+          ],
+          "file": "jsxFragmentFactoryNoUnusedLocals.tsx"
+        }
+      ],
+      "name": "jsxFragmentFactoryNoUnusedLocals",
+      "options": {
+        "jsx": "react",
+        "jsxfactory": "createElement",
+        "jsxfragmentfactory": "Fragment",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

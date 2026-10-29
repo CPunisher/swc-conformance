@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/global-code/invalid-private-names-call-expression-this.js"
+}

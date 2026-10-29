@@ -1,0 +1,127 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "autoAccessor6.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es2015",
+    "usedefineforclassfields": "*"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/autoAccessor6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext,usedefineforclassfields=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=esnext,usedefineforclassfields=true)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=esnext,usedefineforclassfields=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=esnext,usedefineforclassfields=false)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022,usedefineforclassfields=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=es2022,usedefineforclassfields=true)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022,usedefineforclassfields=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=es2022,usedefineforclassfields=false)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2015,usedefineforclassfields=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=es2015,usedefineforclassfields=true)",
+      "options": {
+        "target": "es2015",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2015,usedefineforclassfields=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2610
+          ],
+          "file": "autoAccessor6.ts"
+        }
+      ],
+      "name": "autoAccessor6(target=es2015,usedefineforclassfields=false)",
+      "options": {
+        "target": "es2015",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

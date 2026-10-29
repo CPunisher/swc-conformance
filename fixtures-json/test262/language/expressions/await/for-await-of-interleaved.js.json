@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions",
+      "async-iteration",
+      "generators"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/await/for-await-of-interleaved.js"
+}

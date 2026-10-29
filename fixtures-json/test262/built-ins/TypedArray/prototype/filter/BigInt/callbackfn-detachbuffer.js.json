@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js",
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/filter/BigInt/callbackfn-detachbuffer.js"
+}

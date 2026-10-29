@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "newMissingIdentifier.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/newMissingIdentifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "newMissingIdentifier.ts"
+        }
+      ],
+      "name": "newMissingIdentifier",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

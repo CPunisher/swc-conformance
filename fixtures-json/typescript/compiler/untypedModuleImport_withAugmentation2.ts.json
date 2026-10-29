@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/augmenter/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/js/index.js"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/untypedModuleImport_withAugmentation2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            2665
+          ],
+          "file": "/node_modules/augmenter/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/js/index.js"
+        }
+      ],
+      "name": "untypedModuleImport_withAugmentation2",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

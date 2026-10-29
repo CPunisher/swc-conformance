@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "mod1.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "bug24658.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/propertyAssignmentOnImportedSymbol.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "propertyAssignmentOnImportedSymbol",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug24658.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

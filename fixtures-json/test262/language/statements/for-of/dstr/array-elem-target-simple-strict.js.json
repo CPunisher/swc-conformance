@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/for-of/dstr/array-elem-target-simple-strict.js"
+}

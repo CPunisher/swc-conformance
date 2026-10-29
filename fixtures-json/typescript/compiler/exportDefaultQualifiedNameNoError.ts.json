@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "code.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDefaultQualifiedNameNoError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDefaultQualifiedNameNoError",
+      "options": {
+        "filename": "usage.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

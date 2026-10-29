@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes"
+    ],
+    "flags": [
+      "async",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-yield-ident-valid.js"
+}

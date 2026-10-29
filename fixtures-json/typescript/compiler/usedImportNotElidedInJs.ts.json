@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noresolve": "true",
+    "notypesandsymbols": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/usedImportNotElidedInJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "usedImportNotElidedInJs",
+      "options": {
+        "allowjs": "true",
+        "filename": "test.js",
+        "noresolve": "true",
+        "notypesandsymbols": "true",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

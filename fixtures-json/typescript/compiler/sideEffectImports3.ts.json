@@ -1,0 +1,102 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "not-a-module.ts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduledetection": "legacy,auto,force",
+    "nouncheckedsideeffectimports": "true,false",
+    "target": "es2015"
+  },
+  "path": "compiler/sideEffectImports3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduledetection=legacy,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=legacy,nouncheckedsideeffectimports=true)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "legacy",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduledetection=legacy,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=legacy,nouncheckedsideeffectimports=false)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "legacy",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduledetection=auto,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=auto,nouncheckedsideeffectimports=true)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "auto",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduledetection=auto,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=auto,nouncheckedsideeffectimports=false)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "auto",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduledetection=force,nouncheckedsideeffectimports=true",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=force,nouncheckedsideeffectimports=true)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "force",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduledetection=force,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports3(moduledetection=force,nouncheckedsideeffectimports=false)",
+      "options": {
+        "filename": "not-a-module.ts",
+        "module": "nodenext",
+        "moduledetection": "force",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

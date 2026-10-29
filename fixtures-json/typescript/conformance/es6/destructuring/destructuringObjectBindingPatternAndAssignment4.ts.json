@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "destructuringObjectBindingPatternAndAssignment4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/destructuring/destructuringObjectBindingPatternAndAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2448,
+            2448
+          ],
+          "file": "destructuringObjectBindingPatternAndAssignment4.ts"
+        }
+      ],
+      "name": "destructuringObjectBindingPatternAndAssignment4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

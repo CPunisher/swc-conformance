@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLast/predicate-may-detach-buffer.js"
+}

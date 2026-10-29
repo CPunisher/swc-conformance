@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "es2020",
+    "target": "es2020"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionDeclarationEmit3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionDeclarationEmit3",
+      "options": {
+        "declaration": "true",
+        "filename": "1.ts",
+        "module": "es2020",
+        "target": "es2020"
+      }
+    }
+  ]
+}

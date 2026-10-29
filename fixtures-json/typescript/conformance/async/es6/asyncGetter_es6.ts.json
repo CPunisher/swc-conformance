@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "asyncGetter_es6.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/async/es6/asyncGetter_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1042,
+            2378
+          ],
+          "file": "asyncGetter_es6.ts"
+        }
+      ],
+      "name": "asyncGetter_es6",
+      "options": {
+        "noemithelpers": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/node_modules/pkg/import.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/pkg/require.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "/other.ts"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "/other2.ts"
+    },
+    {
+      "lines": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "/other3.ts"
+    },
+    {
+      "lines": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "name": "/other4.ts"
+    },
+    {
+      "lines": [
+        21,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "name": "/other5.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesImportAttributesTypeModeDeclarationEmitErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [
+            1453,
+            1453
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            2304,
+            2353,
+            2339,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128
+          ],
+          "file": "/other.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other2.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2538,
+            1005,
+            1128,
+            2304,
+            2559,
+            2339,
+            1340,
+            1005,
+            2538,
+            1005,
+            1340,
+            1005,
+            2538,
+            1005
+          ],
+          "file": "/other3.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2448,
+            1128,
+            1128,
+            2448,
+            2448,
+            2339,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005
+          ],
+          "file": "/other4.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other5.ts"
+        }
+      ],
+      "name": "nodeModulesImportAttributesTypeModeDeclarationEmitErrors(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "/other5.ts",
+        "module": "node16",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [
+            1453,
+            1453
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            2304,
+            2353,
+            2339,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128
+          ],
+          "file": "/other.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other2.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2538,
+            1005,
+            1128,
+            2304,
+            2559,
+            2339,
+            1340,
+            1005,
+            2538,
+            1005,
+            1340,
+            1005,
+            2538,
+            1005
+          ],
+          "file": "/other3.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2448,
+            1128,
+            1128,
+            2448,
+            2448,
+            2339,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005
+          ],
+          "file": "/other4.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other5.ts"
+        }
+      ],
+      "name": "nodeModulesImportAttributesTypeModeDeclarationEmitErrors(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "/other5.ts",
+        "module": "node18",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [
+            1453,
+            1453
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            2304,
+            2353,
+            2339,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128
+          ],
+          "file": "/other.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other2.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2538,
+            1005,
+            1128,
+            2304,
+            2559,
+            2339,
+            1340,
+            1005,
+            2538,
+            1005,
+            1340,
+            1005,
+            2538,
+            1005
+          ],
+          "file": "/other3.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2448,
+            1128,
+            1128,
+            2448,
+            2448,
+            2339,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005
+          ],
+          "file": "/other4.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other5.ts"
+        }
+      ],
+      "name": "nodeModulesImportAttributesTypeModeDeclarationEmitErrors(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "/other5.ts",
+        "module": "node20",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [
+            1453,
+            1453
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            2304,
+            2353,
+            2339,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128,
+            1340,
+            1005,
+            1005,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128
+          ],
+          "file": "/other.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other2.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2538,
+            1005,
+            1128,
+            2304,
+            2559,
+            2339,
+            1340,
+            1005,
+            2538,
+            1005,
+            1340,
+            1005,
+            2538,
+            1005
+          ],
+          "file": "/other3.ts"
+        },
+        {
+          "codes": [
+            1340,
+            1005,
+            2448,
+            1128,
+            1128,
+            2448,
+            2448,
+            2339,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005,
+            1340,
+            1005,
+            1005,
+            1134,
+            1005
+          ],
+          "file": "/other4.ts"
+        },
+        {
+          "codes": [
+            2694,
+            2694
+          ],
+          "file": "/other5.ts"
+        }
+      ],
+      "name": "nodeModulesImportAttributesTypeModeDeclarationEmitErrors(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "/other5.ts",
+        "module": "nodenext",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    }
+  ]
+}

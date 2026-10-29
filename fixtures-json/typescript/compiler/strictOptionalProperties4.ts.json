@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "exactoptionalpropertytypes": "true",
+    "noemit": "true",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/strictOptionalProperties4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "strictOptionalProperties4",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "exactoptionalpropertytypes": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

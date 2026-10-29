@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "stripMembersOptionality.ts"
+    }
+  ],
+  "options": {
+    "exactoptionalpropertytypes": "true, false",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/stripMembersOptionality.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "exactoptionalpropertytypes=true",
+      "diagnostics": [],
+      "name": "stripMembersOptionality(exactoptionalpropertytypes=true)",
+      "options": {
+        "exactoptionalpropertytypes": "true",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "exactoptionalpropertytypes=false",
+      "diagnostics": [],
+      "name": "stripMembersOptionality(exactoptionalpropertytypes=false)",
+      "options": {
+        "exactoptionalpropertytypes": "false",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "unicodeIdentifierName2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/unicodeIdentifierName2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1127,
+            1134,
+            1134,
+            1127
+          ],
+          "file": "unicodeIdentifierName2.ts"
+        }
+      ],
+      "name": "unicodeIdentifierName2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

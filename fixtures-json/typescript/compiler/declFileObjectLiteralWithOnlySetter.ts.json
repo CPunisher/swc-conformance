@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "declFileObjectLiteralWithOnlySetter.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/declFileObjectLiteralWithOnlySetter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declFileObjectLiteralWithOnlySetter(target=es5)",
+      "options": {
+        "declaration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "declFileObjectLiteralWithOnlySetter(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

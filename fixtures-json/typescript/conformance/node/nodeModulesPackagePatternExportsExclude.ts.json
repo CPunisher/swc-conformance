@@ -1,0 +1,647 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "name": "index.cts"
+    },
+    {
+      "lines": [
+        34,
+        49
+      ],
+      "name": "node_modules/inner/exclude/index.d.ts"
+    },
+    {
+      "lines": [
+        34,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "name": "node_modules/inner/exclude/test.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        60
+      ],
+      "name": "node_modules/inner/exclude/index.d.mts"
+    },
+    {
+      "lines": [
+        6,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "name": "node_modules/inner/exclude/test.d.mts"
+    },
+    {
+      "lines": [
+        34,
+        71
+      ],
+      "name": "node_modules/inner/exclude/index.d.cts"
+    },
+    {
+      "lines": [
+        34,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "name": "node_modules/inner/exclude/test.d.cts"
+    },
+    {
+      "lines": [
+        34,
+        49
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        34,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "name": "node_modules/inner/test.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        60
+      ],
+      "name": "node_modules/inner/index.d.mts"
+    },
+    {
+      "lines": [
+        6,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "name": "node_modules/inner/test.d.mts"
+    },
+    {
+      "lines": [
+        34,
+        71
+      ],
+      "name": "node_modules/inner/index.d.cts"
+    },
+    {
+      "lines": [
+        34,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "name": "node_modules/inner/test.d.cts"
+    },
+    {
+      "lines": [
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        114,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "rootdir": ".",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesPackagePatternExportsExclude.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            1479
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.cts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesPackagePatternExportsExclude(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            1479
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.cts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesPackagePatternExportsExclude(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.cts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesPackagePatternExportsExclude(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.mts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/exclude/index.d.cts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "node_modules/inner/exclude/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesPackagePatternExportsExclude(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    }
+  ]
+}

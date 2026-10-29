@@ -1,0 +1,112 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "correctUse.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "badImport.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "badImport2.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "badExport.ts"
+    },
+    {
+      "lines": [
+        21
+      ],
+      "name": "badExport2.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "compiler/bigintArbirtraryIdentifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "correctUse.ts"
+        },
+        {
+          "codes": [
+            1003,
+            1141,
+            1128,
+            1434,
+            2304
+          ],
+          "file": "badImport.ts"
+        },
+        {
+          "codes": [
+            1003,
+            1141,
+            1128,
+            1434,
+            2304
+          ],
+          "file": "badImport2.ts"
+        },
+        {
+          "codes": [
+            2304,
+            1003,
+            1128
+          ],
+          "file": "badExport.ts"
+        },
+        {
+          "codes": [
+            1003,
+            2304,
+            1128
+          ],
+          "file": "badExport2.ts"
+        }
+      ],
+      "name": "bigintArbirtraryIdentifier",
+      "options": {
+        "filename": "badExport2.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

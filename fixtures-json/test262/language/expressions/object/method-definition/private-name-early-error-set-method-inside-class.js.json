@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/private-name-early-error-set-method-inside-class.js"
+}

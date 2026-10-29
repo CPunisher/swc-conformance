@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "TypeArgumentList1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/TypeArgumentLists/TypeArgumentList1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2695,
+            2695,
+            2304,
+            2304,
+            1127,
+            2304,
+            2695,
+            2695
+          ],
+          "file": "TypeArgumentList1.ts"
+        }
+      ],
+      "name": "TypeArgumentList1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

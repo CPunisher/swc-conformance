@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/test",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/test/types/alpha/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/test/types/beta/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/test/foo.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/test",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/test/types"
+  },
+  "path": "conformance/references/library-reference-8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-8",
+      "options": {
+        "currentdirectory": "/test",
+        "filename": "/test/foo.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/test/types"
+      }
+    }
+  ]
+}

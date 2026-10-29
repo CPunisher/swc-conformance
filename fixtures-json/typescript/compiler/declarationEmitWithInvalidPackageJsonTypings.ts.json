@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "/p1/node_modules/csv-parse/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/p1/node_modules/csv-parse/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/p1/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitWithInvalidPackageJsonTypings.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/p1/node_modules/csv-parse/lib/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/p1/node_modules/csv-parse/package.json"
+        },
+        {
+          "codes": [
+            2345
+          ],
+          "file": "/p1/index.ts"
+        }
+      ],
+      "name": "declarationEmitWithInvalidPackageJsonTypings",
+      "options": {
+        "declaration": "true",
+        "filename": "/p1/index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

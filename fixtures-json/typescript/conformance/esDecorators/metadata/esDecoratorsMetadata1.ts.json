@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/foo.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es2022,es2015"
+  },
+  "path": "conformance/esDecorators/metadata/esDecoratorsMetadata1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "esDecoratorsMetadata1(target=es2022)",
+      "options": {
+        "filename": "/foo.ts",
+        "lib": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esDecoratorsMetadata1(target=es2015)",
+      "options": {
+        "filename": "/foo.ts",
+        "lib": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

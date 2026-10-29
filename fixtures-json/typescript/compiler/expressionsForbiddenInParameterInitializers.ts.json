@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "bar.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/expressionsForbiddenInParameterInitializers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2524,
+            2523
+          ],
+          "file": "bar.ts"
+        }
+      ],
+      "name": "expressionsForbiddenInParameterInitializers",
+      "options": {
+        "filename": "bar.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "exportSpecifierReferencingOuterDeclaration2_A.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "exportSpecifierReferencingOuterDeclaration2_B.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportSpecifierReferencingOuterDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "exportSpecifierReferencingOuterDeclaration2_A.ts"
+        },
+        {
+          "codes": [
+            2661
+          ],
+          "file": "exportSpecifierReferencingOuterDeclaration2_B.ts"
+        }
+      ],
+      "name": "exportSpecifierReferencingOuterDeclaration2",
+      "options": {
+        "filename": "exportSpecifierReferencingOuterDeclaration2_B.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "esmoduleinterop": "false",
+    "module": "commonjs",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/importNonExportedMember8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importNonExportedMember8",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "esmoduleinterop": "false",
+        "filename": "b.js",
+        "module": "commonjs",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

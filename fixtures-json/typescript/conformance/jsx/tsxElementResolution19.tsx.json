@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "react.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "file1.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "file2.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxElementResolution19.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "tsxElementResolution19",
+      "options": {
+        "filename": "file2.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

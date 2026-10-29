@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "ArrowFunction1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ArrowFunctions/ArrowFunction1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1110
+          ],
+          "file": "ArrowFunction1.ts"
+        }
+      ],
+      "name": "ArrowFunction1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

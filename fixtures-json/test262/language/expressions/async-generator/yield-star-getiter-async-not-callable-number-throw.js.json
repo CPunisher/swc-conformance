@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.iterator",
+      "Symbol.asyncIterator",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-generator/yield-star-getiter-async-not-callable-number-throw.js"
+}

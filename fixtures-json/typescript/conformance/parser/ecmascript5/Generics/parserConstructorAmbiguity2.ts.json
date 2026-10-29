@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserConstructorAmbiguity2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserConstructorAmbiguity2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserConstructorAmbiguity2.ts"
+        }
+      ],
+      "name": "parserConstructorAmbiguity2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

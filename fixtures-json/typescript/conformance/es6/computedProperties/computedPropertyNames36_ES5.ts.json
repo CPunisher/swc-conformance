@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "computedPropertyNames36_ES5.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/computedProperties/computedPropertyNames36_ES5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "computedPropertyNames36_ES5(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2411
+          ],
+          "file": "computedPropertyNames36_ES5.ts"
+        }
+      ],
+      "name": "computedPropertyNames36_ES5(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

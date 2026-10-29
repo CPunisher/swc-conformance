@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/circular1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2303
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            2303
+          ],
+          "file": "/b.ts"
+        }
+      ],
+      "name": "circular1",
+      "options": {
+        "filename": "/b.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

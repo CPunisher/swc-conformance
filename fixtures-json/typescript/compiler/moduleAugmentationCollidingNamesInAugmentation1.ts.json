@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "map1.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "map2.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "observable.ts"
+    },
+    {
+      "lines": [
+        6,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationCollidingNamesInAugmentation1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleAugmentationCollidingNamesInAugmentation1",
+      "options": {
+        "declaration": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

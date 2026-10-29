@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType2_moduleDef.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType2_moduleB.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType2_moduleA.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveExportAssignmentAndFindAliasedType2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "recursiveExportAssignmentAndFindAliasedType2_moduleA.ts"
+        },
+        {
+          "codes": [
+            2303,
+            2303,
+            2303,
+            2303
+          ],
+          "file": "recursiveExportAssignmentAndFindAliasedType2_moduleDef.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "recursiveExportAssignmentAndFindAliasedType2_moduleB.ts"
+        }
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType2",
+      "options": {
+        "filename": "recursiveExportAssignmentAndFindAliasedType2_moduleA.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

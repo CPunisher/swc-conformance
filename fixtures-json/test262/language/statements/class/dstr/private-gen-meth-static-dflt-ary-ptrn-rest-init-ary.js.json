@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-static-methods-private",
+      "generators",
+      "destructuring-binding",
+      "default-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/private-gen-meth-static-dflt-ary-ptrn-rest-init-ary.js"
+}

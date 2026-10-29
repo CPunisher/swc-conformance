@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "constructorArgsErrors5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/constructorArgsErrors5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1090
+          ],
+          "file": "constructorArgsErrors5.ts"
+        }
+      ],
+      "name": "constructorArgsErrors5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

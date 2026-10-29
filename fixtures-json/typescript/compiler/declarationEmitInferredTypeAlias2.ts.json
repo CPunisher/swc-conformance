@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "skipdefaultlibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitInferredTypeAlias2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2872
+          ],
+          "file": "1.ts"
+        }
+      ],
+      "name": "declarationEmitInferredTypeAlias2",
+      "options": {
+        "declaration": "true",
+        "filename": "1.ts",
+        "module": "commonjs",
+        "skipdefaultlibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

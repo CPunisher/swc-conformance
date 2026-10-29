@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "f1.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "f2.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "f3.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "nouncheckedsideeffectimports": "false",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationGlobal5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleAugmentationGlobal5",
+      "options": {
+        "declaration": "true",
+        "filename": "f3.ts",
+        "module": "commonjs",
+        "nouncheckedsideeffectimports": "false",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

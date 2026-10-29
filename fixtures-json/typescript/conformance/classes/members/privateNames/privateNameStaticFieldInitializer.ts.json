@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "privateNameStaticFieldInitializer.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015, es2022, esnext",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameStaticFieldInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "privateNameStaticFieldInitializer(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "es2015",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "privateNameStaticFieldInitializer(target=es2022)",
+      "options": {
+        "strict": "false",
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "privateNameStaticFieldInitializer(target=esnext)",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

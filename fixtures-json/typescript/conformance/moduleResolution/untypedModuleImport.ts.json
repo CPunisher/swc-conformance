@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/c.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "untypedModuleImport",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/c.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

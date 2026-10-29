@@ -1,0 +1,105 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "e.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "f.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "c.ts"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "d.ts"
+        },
+        {
+          "codes": [
+            18111
+          ],
+          "file": "e.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1141,
+            1005,
+            2304
+          ],
+          "file": "f.ts"
+        }
+      ],
+      "name": "importSource4",
+      "options": {
+        "filename": "f.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

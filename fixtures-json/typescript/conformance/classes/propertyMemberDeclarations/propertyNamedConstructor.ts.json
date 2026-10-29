@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "propertyNamedConstructor.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/propertyNamedConstructor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18006
+          ],
+          "file": "propertyNamedConstructor.ts"
+        }
+      ],
+      "name": "propertyNamedConstructor",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

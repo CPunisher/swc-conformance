@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally",
+      "Reflect.construct",
+      "class",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/rejected-observable-then-calls-argument.js"
+}

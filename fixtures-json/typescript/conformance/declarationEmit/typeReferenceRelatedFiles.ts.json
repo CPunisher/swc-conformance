@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "node_modules/@types/node/fs.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "node_modules/@types/node/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/declarationEmit/typeReferenceRelatedFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeReferenceRelatedFiles",
+      "options": {
+        "declaration": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

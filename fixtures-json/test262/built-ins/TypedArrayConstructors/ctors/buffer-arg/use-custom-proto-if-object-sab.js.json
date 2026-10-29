@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "SharedArrayBuffer",
+      "Reflect",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/ctors/buffer-arg/use-custom-proto-if-object-sab.js"
+}

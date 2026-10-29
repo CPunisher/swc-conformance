@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowsyntheticdefaultimports": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/allowSyntheticDefaultImports10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.d.ts"
+        }
+      ],
+      "name": "allowSyntheticDefaultImports10",
+      "options": {
+        "allowsyntheticdefaultimports": "true",
+        "filename": "a.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

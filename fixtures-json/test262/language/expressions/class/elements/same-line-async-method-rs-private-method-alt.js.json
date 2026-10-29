@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class-fields-private",
+      "class",
+      "class-fields-public",
+      "async-functions"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/same-line-async-method-rs-private-method-alt.js"
+}

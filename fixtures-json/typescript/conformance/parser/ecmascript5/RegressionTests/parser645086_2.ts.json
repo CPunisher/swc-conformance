@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parser645086_2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegressionTests/parser645086_2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1134
+          ],
+          "file": "parser645086_2.ts"
+        }
+      ],
+      "name": "parser645086_2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

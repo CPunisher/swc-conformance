@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "mod.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "target": "es5,es2016,es2020,esnext"
+  },
+  "path": "compiler/moduleNodeImportRequireEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "moduleNodeImportRequireEmit(target=es5)",
+      "options": {
+        "filename": "index.ts",
+        "module": "nodenext",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2016",
+      "diagnostics": [],
+      "name": "moduleNodeImportRequireEmit(target=es2016)",
+      "options": {
+        "filename": "index.ts",
+        "module": "nodenext",
+        "target": "es2016"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [],
+      "name": "moduleNodeImportRequireEmit(target=es2020)",
+      "options": {
+        "filename": "index.ts",
+        "module": "nodenext",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "moduleNodeImportRequireEmit(target=esnext)",
+      "options": {
+        "filename": "index.ts",
+        "module": "nodenext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        23
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "src/thing.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/nodeNextPackageSelfNameWithOutDirDeclDirNestedDirs.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nodeNextPackageSelfNameWithOutDirDeclDirNestedDirs",
+      "options": {
+        "filename": "src/thing.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

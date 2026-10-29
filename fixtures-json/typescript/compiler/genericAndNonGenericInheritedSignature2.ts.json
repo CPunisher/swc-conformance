@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "genericAndNonGenericInheritedSignature2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericAndNonGenericInheritedSignature2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2320,
+            2320
+          ],
+          "file": "genericAndNonGenericInheritedSignature2.ts"
+        }
+      ],
+      "name": "genericAndNonGenericInheritedSignature2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

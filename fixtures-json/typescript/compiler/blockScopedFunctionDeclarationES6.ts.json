@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "blockScopedFunctionDeclarationES6.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "compiler/blockScopedFunctionDeclarationES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "blockScopedFunctionDeclarationES6.ts"
+        }
+      ],
+      "name": "blockScopedFunctionDeclarationES6",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

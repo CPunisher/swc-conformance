@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "invalidSymbolInTypeParameter1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/invalidSymbolInTypeParameter1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "invalidSymbolInTypeParameter1.ts"
+        }
+      ],
+      "name": "invalidSymbolInTypeParameter1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

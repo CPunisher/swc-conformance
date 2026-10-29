@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "computedPropertyNames19_ES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/computedProperties/computedPropertyNames19_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2331,
+            2683
+          ],
+          "file": "computedPropertyNames19_ES6.ts"
+        }
+      ],
+      "name": "computedPropertyNames19_ES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

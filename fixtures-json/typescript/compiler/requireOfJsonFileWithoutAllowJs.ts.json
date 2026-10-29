@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "b.json"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileWithoutAllowJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileWithoutAllowJs",
+      "options": {
+        "filename": "b.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

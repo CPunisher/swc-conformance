@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "moduleImportedForTypeArgumentPosition_0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "moduleImportedForTypeArgumentPosition_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleImportedForTypeArgumentPosition.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "moduleImportedForTypeArgumentPosition_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "moduleImportedForTypeArgumentPosition_0.ts"
+        }
+      ],
+      "name": "moduleImportedForTypeArgumentPosition",
+      "options": {
+        "filename": "moduleImportedForTypeArgumentPosition_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

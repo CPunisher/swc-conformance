@@ -1,0 +1,276 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/node_modules/foo/index.mjs"
+    },
+    {
+      "lines": [
+        29,
+        30
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "/node_modules/@types/bar/package.json"
+    },
+    {
+      "lines": [
+        44,
+        45
+      ],
+      "name": "/node_modules/@types/bar/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "name": "/node_modules/bar/package.json"
+    },
+    {
+      "lines": [
+        60,
+        61
+      ],
+      "name": "/node_modules/bar/index.js"
+    },
+    {
+      "lines": [
+        63,
+        64
+      ],
+      "name": "/node_modules/bar/index.mjs"
+    },
+    {
+      "lines": [
+        66,
+        67
+      ],
+      "name": "/index.mts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler,node16",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/resolvesWithoutExportsDiagnostic1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.mjs"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/bar/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.mjs"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            7016,
+            7016
+          ],
+          "file": "/index.mts"
+        }
+      ],
+      "name": "resolvesWithoutExportsDiagnostic1(moduleresolution=bundler)",
+      "options": {
+        "filename": "/index.mts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.mjs"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/bar/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.mjs"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            7016,
+            7016
+          ],
+          "file": "/index.mts"
+        }
+      ],
+      "name": "resolvesWithoutExportsDiagnostic1(moduleresolution=node16)",
+      "options": {
+        "filename": "/index.mts",
+        "module": "preserve",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

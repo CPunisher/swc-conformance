@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-async-gen-await-typeof-import-call-source-property.js"
+}

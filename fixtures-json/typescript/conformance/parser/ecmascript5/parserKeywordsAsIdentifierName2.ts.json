@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserKeywordsAsIdentifierName2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/parserKeywordsAsIdentifierName2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1010
+          ],
+          "file": "parserKeywordsAsIdentifierName2.ts"
+        }
+      ],
+      "name": "parserKeywordsAsIdentifierName2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

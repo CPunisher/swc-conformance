@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "recursiveBaseCheck6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveBaseCheck6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2339
+          ],
+          "file": "recursiveBaseCheck6.ts"
+        }
+      ],
+      "name": "recursiveBaseCheck6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

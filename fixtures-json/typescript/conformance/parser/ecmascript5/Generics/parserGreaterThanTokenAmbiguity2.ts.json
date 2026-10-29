@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserGreaterThanTokenAmbiguity2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserGreaterThanTokenAmbiguity2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2365,
+            1109
+          ],
+          "file": "parserGreaterThanTokenAmbiguity2.ts"
+        }
+      ],
+      "name": "parserGreaterThanTokenAmbiguity2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

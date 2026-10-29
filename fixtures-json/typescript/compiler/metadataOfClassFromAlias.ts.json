@@ -1,0 +1,122 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "auxiliary.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "testA.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        25,
+        26,
+        27
+      ],
+      "name": "testB.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "strict": "true, false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/metadataOfClassFromAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true,target=es5",
+      "diagnostics": [],
+      "name": "metadataOfClassFromAlias(strict=true,target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "testB.ts",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "strict=true,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "auxiliary.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "testA.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "testB.ts"
+        }
+      ],
+      "name": "metadataOfClassFromAlias(strict=true,target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "testB.ts",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strict=false,target=es5",
+      "diagnostics": [],
+      "name": "metadataOfClassFromAlias(strict=false,target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "testB.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "strict=false,target=es2015",
+      "diagnostics": [],
+      "name": "metadataOfClassFromAlias(strict=false,target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "testB.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

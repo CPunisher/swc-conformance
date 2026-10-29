@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/async-arrow-function/early-errors-arrow-arguments-in-formal-parameters.js"
+}

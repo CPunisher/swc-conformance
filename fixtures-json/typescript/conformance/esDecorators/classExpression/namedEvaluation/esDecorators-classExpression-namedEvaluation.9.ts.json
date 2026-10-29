@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        13
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/esDecorators/classExpression/namedEvaluation/esDecorators-classExpression-namedEvaluation.9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esDecorators-classExpression-namedEvaluation.9",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

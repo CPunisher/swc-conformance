@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "objectLitTargetTypeCallSite.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLitTargetTypeCallSite.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "objectLitTargetTypeCallSite.ts"
+        }
+      ],
+      "name": "objectLitTargetTypeCallSite",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

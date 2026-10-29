@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "typeSatisfaction_contextualTyping2.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeSatisfaction/typeSatisfaction_contextualTyping2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006
+          ],
+          "file": "typeSatisfaction_contextualTyping2.ts"
+        }
+      ],
+      "name": "typeSatisfaction_contextualTyping2",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

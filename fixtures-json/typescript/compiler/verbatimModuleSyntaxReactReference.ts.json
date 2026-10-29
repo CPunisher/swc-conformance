@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "react.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "nounusedlocals": "true",
+    "strict": "false",
+    "target": "es2015",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "compiler/verbatimModuleSyntaxReactReference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "verbatimModuleSyntaxReactReference",
+      "options": {
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "nounusedlocals": "true",
+        "strict": "false",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

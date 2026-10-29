@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/deps/dep/dep.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/deps/dep/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "declaration": "true",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "typeroots": "/deps",
+    "types": "dep"
+  },
+  "path": "compiler/declarationEmitHasTypesRefOnNamespaceUse.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitHasTypesRefOnNamespaceUse",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/src/index.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "typeroots": "/deps",
+        "types": "dep"
+      }
+    }
+  ]
+}

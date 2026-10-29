@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "decoratorChecksFunctionBodies.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/decorators/class/decoratorChecksFunctionBodies.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorChecksFunctionBodies(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "decoratorChecksFunctionBodies.ts"
+        }
+      ],
+      "name": "decoratorChecksFunctionBodies(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

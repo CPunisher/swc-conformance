@@ -1,0 +1,84 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "first.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "another.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitMixinPrivateProtected.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4094,
+            4094,
+            4094,
+            4094
+          ],
+          "file": "first.ts"
+        },
+        {
+          "codes": [
+            4094,
+            4094
+          ],
+          "file": "another.ts"
+        }
+      ],
+      "name": "declarationEmitMixinPrivateProtected",
+      "options": {
+        "declaration": "true",
+        "filename": "another.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

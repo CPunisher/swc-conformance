@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "BigInt",
+      "TypedArray",
+      "arrow-function",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/join/BigInt/return-abrupt-from-this-out-of-bounds.js"
+}

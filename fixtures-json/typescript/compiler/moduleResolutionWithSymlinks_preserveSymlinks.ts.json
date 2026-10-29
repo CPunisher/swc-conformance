@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/linked/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/app/node_modules/real/index.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/app/app.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "noimplicitreferences": "true",
+    "preservesymlinks": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithSymlinks_preserveSymlinks.ts",
+  "symlinks": {
+    "/app/node_modules/linked/index.d.ts": "/linked/index.d.ts",
+    "/app/node_modules/linked2/index.d.ts": "/linked/index.d.ts"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "/app/app.ts"
+        },
+        {
+          "codes": [],
+          "file": "/linked/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/app/node_modules/real/index.d.ts"
+        }
+      ],
+      "name": "moduleResolutionWithSymlinks_preserveSymlinks",
+      "options": {
+        "filename": "/app/app.ts",
+        "moduleresolution": "bundler",
+        "noimplicitreferences": "true",
+        "preservesymlinks": "true",
+        "symlink": "/app/node_modules/linked/index.d.ts,/app/node_modules/linked2/index.d.ts",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

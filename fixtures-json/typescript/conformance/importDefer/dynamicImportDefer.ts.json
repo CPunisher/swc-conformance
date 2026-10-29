@@ -1,0 +1,136 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve,esnext,nodenext,es2020,es2015,commonjs",
+    "target": "es2020"
+  },
+  "path": "conformance/importDefer/dynamicImportDefer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "dynamicImportDefer(module=preserve)",
+      "options": {
+        "filename": "b.ts",
+        "module": "preserve",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "dynamicImportDefer(module=esnext)",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18060
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "dynamicImportDefer(module=nodenext)",
+      "options": {
+        "filename": "b.ts",
+        "module": "nodenext",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=es2020",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18060
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "dynamicImportDefer(module=es2020)",
+      "options": {
+        "filename": "b.ts",
+        "module": "es2020",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18060
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "dynamicImportDefer(module=es2015)",
+      "options": {
+        "filename": "b.ts",
+        "module": "es2015",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18060
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "dynamicImportDefer(module=commonjs)",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "target": "es2020"
+      }
+    }
+  ]
+}

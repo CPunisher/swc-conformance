@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "exportDestructuring.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/exportDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDestructuring",
+      "options": {
+        "module": "commonjs",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

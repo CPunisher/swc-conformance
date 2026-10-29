@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect",
+      "Intl.Locale",
+      "Intl.Locale-info"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Locale/prototype/getWeekInfo/output-object-keys.js"
+}

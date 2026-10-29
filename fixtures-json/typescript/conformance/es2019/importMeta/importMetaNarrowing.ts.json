@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "importMetaNarrowing.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext,system,es2020",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2019/importMeta/importMetaNarrowing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "importMetaNarrowing(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "importMetaNarrowing(module=system)",
+      "options": {
+        "module": "system",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2020",
+      "diagnostics": [],
+      "name": "importMetaNarrowing(module=es2020)",
+      "options": {
+        "module": "es2020",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

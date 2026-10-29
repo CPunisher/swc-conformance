@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeLookupInIIFE.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2503
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "typeLookupInIIFE",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

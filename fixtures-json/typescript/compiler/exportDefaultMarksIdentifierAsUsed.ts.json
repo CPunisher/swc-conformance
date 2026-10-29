@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "/dist",
+    "strict": "true",
+    "target": "es2017"
+  },
+  "path": "compiler/exportDefaultMarksIdentifierAsUsed.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDefaultMarksIdentifierAsUsed",
+      "options": {
+        "allowjs": "true",
+        "filename": "b.js",
+        "module": "commonjs",
+        "outdir": "/dist",
+        "strict": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

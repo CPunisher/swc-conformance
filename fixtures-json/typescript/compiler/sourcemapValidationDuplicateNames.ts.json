@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "sourcemapValidationDuplicateNames.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/sourcemapValidationDuplicateNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "sourcemapValidationDuplicateNames",
+      "options": {
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "include.d.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "default.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "compiler/importExportInternalComments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importExportInternalComments",
+      "options": {
+        "filename": "index.ts",
+        "target": "esnext"
+      }
+    }
+  ]
+}

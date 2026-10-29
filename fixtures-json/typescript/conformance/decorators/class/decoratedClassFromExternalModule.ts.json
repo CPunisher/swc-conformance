@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "decorated.ts"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "undecorated.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es6"
+  },
+  "path": "conformance/decorators/class/decoratedClassFromExternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "decorated.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "undecorated.ts"
+        }
+      ],
+      "name": "decoratedClassFromExternalModule",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "undecorated.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "destructuringAssignmentWithDefault2.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/destructuringAssignmentWithDefault2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "destructuringAssignmentWithDefault2.ts"
+        }
+      ],
+      "name": "destructuringAssignmentWithDefault2",
+      "options": {
+        "lib": "es2015",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

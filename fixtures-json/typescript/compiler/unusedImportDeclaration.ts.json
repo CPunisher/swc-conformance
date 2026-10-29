@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "unusedImportDeclaration_testerB.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "unusedImportDeclaration_testerA.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedImportDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "unusedImportDeclaration_testerA.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "unusedImportDeclaration_testerB.ts"
+        }
+      ],
+      "name": "unusedImportDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "unusedImportDeclaration_testerA.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

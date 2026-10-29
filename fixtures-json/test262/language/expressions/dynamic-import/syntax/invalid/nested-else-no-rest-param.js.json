@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-else-no-rest-param.js"
+}

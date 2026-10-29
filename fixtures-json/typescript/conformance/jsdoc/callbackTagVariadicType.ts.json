@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "callbackTagVariadicType.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "bin/",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/callbackTagVariadicType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2370,
+            2345
+          ],
+          "file": "callbackTagVariadicType.js"
+        }
+      ],
+      "name": "callbackTagVariadicType",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "callbackTagVariadicType.js",
+        "outdir": "bin/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

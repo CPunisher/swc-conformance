@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "abstractPropertyInitializer.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/abstractPropertyInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1267
+          ],
+          "file": "abstractPropertyInitializer.ts"
+        }
+      ],
+      "name": "abstractPropertyInitializer",
+      "options": {
+        "declaration": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

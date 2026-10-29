@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "esDecorators-arguments.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "conformance/esDecorators/esDecorators-arguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1238,
+            1238,
+            1238,
+            1238,
+            1238,
+            1238
+          ],
+          "file": "esDecorators-arguments.ts"
+        }
+      ],
+      "name": "esDecorators-arguments",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

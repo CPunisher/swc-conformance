@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "objectTypeWithRecursiveWrappedProperty2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/typeRelationships/recursiveTypes/objectTypeWithRecursiveWrappedProperty2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2564,
+            2322,
+            2322
+          ],
+          "file": "objectTypeWithRecursiveWrappedProperty2.ts"
+        }
+      ],
+      "name": "objectTypeWithRecursiveWrappedProperty2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

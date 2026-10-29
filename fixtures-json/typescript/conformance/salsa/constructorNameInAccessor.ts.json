@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "constructorNameInAccessor.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "conformance/salsa/constructorNameInAccessor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1341,
+            1341
+          ],
+          "file": "constructorNameInAccessor.ts"
+        }
+      ],
+      "name": "constructorNameInAccessor",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

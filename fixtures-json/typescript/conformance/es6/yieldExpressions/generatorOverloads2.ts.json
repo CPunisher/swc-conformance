@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "generatorOverloads2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/yieldExpressions/generatorOverloads2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1221,
+            1221,
+            1221
+          ],
+          "file": "generatorOverloads2.ts"
+        }
+      ],
+      "name": "generatorOverloads2",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "file3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/exportStarForValues9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307
+          ],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "file3.ts"
+        }
+      ],
+      "name": "exportStarForValues9",
+      "options": {
+        "filename": "file3.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

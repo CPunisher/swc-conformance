@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/dynamic-import/import-defer/sync/main.js"
+}

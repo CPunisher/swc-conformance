@@ -1,0 +1,129 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "other.d.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "other.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "esmoduleinterop": "true",
+    "isolatedmodules": "true",
+    "module": "ES2022, commonjs",
+    "moduleresolution": "node16",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/elidedJSImport2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "other.js"
+        }
+      ],
+      "name": "elidedJSImport2(module=es2022)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "esmoduleinterop": "true",
+        "filename": "other.js",
+        "isolatedmodules": "true",
+        "module": "ES2022",
+        "moduleresolution": "node16",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "other.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "other.js"
+        }
+      ],
+      "name": "elidedJSImport2(module=commonjs)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "esmoduleinterop": "true",
+        "filename": "other.js",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "moduleresolution": "node16",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

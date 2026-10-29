@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "./a.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        13,
+        14
+      ],
+      "name": "./b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeSatisfaction/typeSatisfactionWithDefaultExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2741
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        }
+      ],
+      "name": "typeSatisfactionWithDefaultExport",
+      "options": {
+        "filename": "./b.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

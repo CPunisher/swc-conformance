@@ -1,0 +1,108 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser/package.json"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser/typings/babel-parser.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "/packages/compiler-core/package.json"
+    },
+    {
+      "lines": [
+        36,
+        37
+      ],
+      "name": "/packages/compiler-core/src/index.ts"
+    },
+    {
+      "lines": [
+        4,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "/packages/compiler-sfc/package.json"
+    },
+    {
+      "lines": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "/packages/compiler-sfc/src/index.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitMonorepoBaseUrl.ts",
+  "symlinks": {
+    "/node_modules/@babel/parser": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser",
+    "/packages/compiler-core/node_modules/@babel/parser": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser",
+    "/packages/compiler-sfc/node_modules/@babel/parser": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser"
+  },
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitMonorepoBaseUrl",
+      "options": {
+        "filename": "/packages/compiler-sfc/src/index.ts",
+        "link": "/node_modules/.pnpm/@babel+parser@7.23.6/node_modules/@babel/parser -> /packages/compiler-sfc/node_modules/@babel/parser",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

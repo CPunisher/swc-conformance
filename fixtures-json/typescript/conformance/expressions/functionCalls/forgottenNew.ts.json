@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "forgottenNew.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/functionCalls/forgottenNew.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2348
+          ],
+          "file": "forgottenNew.ts"
+        }
+      ],
+      "name": "forgottenNew",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

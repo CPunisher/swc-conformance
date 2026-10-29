@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "classMemberInitializerWithLamdaScoping2_0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "classMemberInitializerWithLamdaScoping2_1.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es2015"
+  },
+  "path": "compiler/classMemberInitializerWithLamdaScoping2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "classMemberInitializerWithLamdaScoping2_0.ts"
+        },
+        {
+          "codes": [
+            2301
+          ],
+          "file": "classMemberInitializerWithLamdaScoping2_1.ts"
+        }
+      ],
+      "name": "classMemberInitializerWithLamdaScoping2",
+      "options": {
+        "filename": "classMemberInitializerWithLamdaScoping2_1.ts",
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

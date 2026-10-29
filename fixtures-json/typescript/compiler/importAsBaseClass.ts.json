@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "importAsBaseClass_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "importAsBaseClass_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importAsBaseClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2507
+          ],
+          "file": "importAsBaseClass_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "importAsBaseClass_0.ts"
+        }
+      ],
+      "name": "importAsBaseClass",
+      "options": {
+        "filename": "importAsBaseClass_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

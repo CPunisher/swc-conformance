@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19
+      ],
+      "name": "d.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnlyMerge2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [],
+          "file": "c.ts"
+        },
+        {
+          "codes": [
+            1362
+          ],
+          "file": "d.ts"
+        }
+      ],
+      "name": "typeOnlyMerge2",
+      "options": {
+        "filename": "d.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

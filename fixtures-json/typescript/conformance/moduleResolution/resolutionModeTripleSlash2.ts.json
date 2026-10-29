@@ -1,0 +1,108 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/node_modules/@types/foo/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/node_modules/@types/foo/index.d.mts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        24,
+        25,
+        26
+      ],
+      "name": "/node_modules/@types/foo/index.d.cts"
+    },
+    {
+      "lines": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "/app.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/resolutionModeTripleSlash2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/app.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo/index.d.cts"
+        }
+      ],
+      "name": "resolutionModeTripleSlash2",
+      "options": {
+        "filename": "/app.ts",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

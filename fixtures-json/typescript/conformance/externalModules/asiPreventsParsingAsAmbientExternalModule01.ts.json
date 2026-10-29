@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "asiPreventsParsingAsAmbientExternalModule01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/asiPreventsParsingAsAmbientExternalModule01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "asiPreventsParsingAsAmbientExternalModule01.ts"
+        }
+      ],
+      "name": "asiPreventsParsingAsAmbientExternalModule01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

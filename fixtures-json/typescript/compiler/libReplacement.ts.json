@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "libReplacement.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "libreplacement": "true,false",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/libReplacement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "libreplacement=true",
+      "diagnostics": [],
+      "name": "libReplacement(libreplacement=true)",
+      "options": {
+        "lib": "esnext",
+        "libreplacement": "true",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "libreplacement=false",
+      "diagnostics": [],
+      "name": "libReplacement(libreplacement=false)",
+      "options": {
+        "lib": "esnext",
+        "libreplacement": "false",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

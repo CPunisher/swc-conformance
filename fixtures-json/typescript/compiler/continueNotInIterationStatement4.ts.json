@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "continueNotInIterationStatement4.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/continueNotInIterationStatement4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1107
+          ],
+          "file": "continueNotInIterationStatement4.ts"
+        }
+      ],
+      "name": "continueNotInIterationStatement4",
+      "options": {
+        "allowunusedlabels": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

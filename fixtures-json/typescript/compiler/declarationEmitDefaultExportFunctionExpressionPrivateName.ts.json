@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "helper.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "repro.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "outdir": "dist",
+    "strict": "true"
+  },
+  "path": "compiler/declarationEmitDefaultExportFunctionExpressionPrivateName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "helper.ts"
+        },
+        {
+          "codes": [
+            4082
+          ],
+          "file": "repro.ts"
+        }
+      ],
+      "name": "declarationEmitDefaultExportFunctionExpressionPrivateName",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "repro.ts",
+        "outdir": "dist",
+        "strict": "true"
+      }
+    }
+  ]
+}

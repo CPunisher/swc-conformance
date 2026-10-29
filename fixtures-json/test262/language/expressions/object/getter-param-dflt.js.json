@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "default-parameters"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/getter-param-dflt.js"
+}

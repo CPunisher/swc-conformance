@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "declarationEmitTypeParameterNameShadowedInternally.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "skiplibcheck": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitTypeParameterNameShadowedInternally.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitTypeParameterNameShadowedInternally",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "skiplibcheck": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

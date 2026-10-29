@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7
+      ],
+      "name": "verifyDefaultLib_dom.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015,es2016,es2017,dom,scripthost",
+    "noimplicitany": "true",
+    "noimplicitthis": "true",
+    "skipdefaultlibcheck": "false",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/verifyDefaultLib_dom.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "verifyDefaultLib_dom",
+      "options": {
+        "lib": "es2015,es2016,es2017,dom,scripthost",
+        "noimplicitany": "true",
+        "noimplicitthis": "true",
+        "skipdefaultlibcheck": "false",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

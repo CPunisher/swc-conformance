@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "staticOffOfInstance1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/staticOffOfInstance1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2576
+          ],
+          "file": "staticOffOfInstance1.ts"
+        }
+      ],
+      "name": "staticOffOfInstance1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

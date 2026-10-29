@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "conflictMarkerTrivia1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/conflictMarkerTrivia1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1185,
+            1185,
+            1185
+          ],
+          "file": "conflictMarkerTrivia1.ts"
+        }
+      ],
+      "name": "conflictMarkerTrivia1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

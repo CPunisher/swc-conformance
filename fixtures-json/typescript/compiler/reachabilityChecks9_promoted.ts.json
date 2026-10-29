@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "reachabilityChecks9_promoted.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "false",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/reachabilityChecks9_promoted.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7027,
+            7027
+          ],
+          "file": "reachabilityChecks9_promoted.ts"
+        }
+      ],
+      "name": "reachabilityChecks9_promoted",
+      "options": {
+        "allowunreachablecode": "false",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

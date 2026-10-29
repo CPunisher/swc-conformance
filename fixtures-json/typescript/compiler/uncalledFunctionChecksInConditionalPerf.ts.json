@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "uncalledFunctionChecksInConditionalPerf.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/uncalledFunctionChecksInConditionalPerf.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "uncalledFunctionChecksInConditionalPerf",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

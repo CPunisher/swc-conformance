@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "privacyCheckExportAssignmentOnExportedGenericInterface1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/privacyCheckExportAssignmentOnExportedGenericInterface1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "privacyCheckExportAssignmentOnExportedGenericInterface1.ts"
+        }
+      ],
+      "name": "privacyCheckExportAssignmentOnExportedGenericInterface1",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "declarations.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "elementAccessExpressionInJS.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "./out",
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/salsa/deepElementAccessExpressionInJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "declarations.d.ts"
+        },
+        {
+          "codes": [
+            7053,
+            7053,
+            7006
+          ],
+          "file": "elementAccessExpressionInJS.js"
+        }
+      ],
+      "name": "deepElementAccessExpressionInJS",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "elementAccessExpressionInJS.js",
+        "outdir": "./out",
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

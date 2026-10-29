@@ -1,0 +1,74 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "visibilityOfCrossModuleTypeUsage_commands.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "visibilityOfCrossModuleTypeUsage_server.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "visibilityOfCrossModuleTypeUsage_fs.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/visibilityOfCrossModuleTypeUsage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "visibilityOfCrossModuleTypeUsage_fs.ts"
+        },
+        {
+          "codes": [],
+          "file": "visibilityOfCrossModuleTypeUsage_commands.ts"
+        },
+        {
+          "codes": [],
+          "file": "visibilityOfCrossModuleTypeUsage_server.ts"
+        }
+      ],
+      "name": "visibilityOfCrossModuleTypeUsage",
+      "options": {
+        "filename": "visibilityOfCrossModuleTypeUsage_fs.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

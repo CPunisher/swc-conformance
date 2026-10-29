@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "classExtendsEveryObjectType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classHeritageSpecification/classExtendsEveryObjectType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2689,
+            2507,
+            2693,
+            1005,
+            2507,
+            2507,
+            2507,
+            2507
+          ],
+          "file": "classExtendsEveryObjectType.ts"
+        }
+      ],
+      "name": "classExtendsEveryObjectType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

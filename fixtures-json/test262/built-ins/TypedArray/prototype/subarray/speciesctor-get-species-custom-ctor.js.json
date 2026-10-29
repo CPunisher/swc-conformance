@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/subarray/speciesctor-get-species-custom-ctor.js"
+}

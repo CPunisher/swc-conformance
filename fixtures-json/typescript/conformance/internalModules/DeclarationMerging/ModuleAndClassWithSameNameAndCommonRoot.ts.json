@@ -1,0 +1,83 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "module.ts"
+    },
+    {
+      "lines": [
+        2,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "classPoint.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "simple.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/internalModules/DeclarationMerging/ModuleAndClassWithSameNameAndCommonRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2433
+          ],
+          "file": "module.ts"
+        },
+        {
+          "codes": [],
+          "file": "classPoint.ts"
+        },
+        {
+          "codes": [
+            2434,
+            2449,
+            2564
+          ],
+          "file": "simple.ts"
+        }
+      ],
+      "name": "ModuleAndClassWithSameNameAndCommonRoot",
+      "options": {
+        "filename": "simple.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "scannertest1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannertest1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6053,
+            2304,
+            2304,
+            2662,
+            2304,
+            2304,
+            2304,
+            2304,
+            2304,
+            2662,
+            2662,
+            2304,
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "scannertest1.ts"
+        }
+      ],
+      "name": "scannertest1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

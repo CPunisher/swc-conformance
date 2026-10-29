@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "classWithStaticFieldInParameterBindingPattern.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext,es2015,es5"
+  },
+  "path": "conformance/classes/classExpressions/classWithStaticFieldInParameterBindingPattern.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterBindingPattern(target=esnext)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterBindingPattern(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "classWithStaticFieldInParameterBindingPattern(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "demo.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "user.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasDoesNotDuplicateSignatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "demo.d.ts"
+        },
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "user.ts"
+        }
+      ],
+      "name": "aliasDoesNotDuplicateSignatures",
+      "options": {
+        "filename": "user.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

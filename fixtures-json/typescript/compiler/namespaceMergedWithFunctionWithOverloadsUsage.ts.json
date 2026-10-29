@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "file.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/namespaceMergedWithFunctionWithOverloadsUsage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.ts"
+        }
+      ],
+      "name": "namespaceMergedWithFunctionWithOverloadsUsage",
+      "options": {
+        "filename": "index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

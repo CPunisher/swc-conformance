@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "anyMappedTypesError.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/anyMappedTypesError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7039
+          ],
+          "file": "anyMappedTypesError.ts"
+        }
+      ],
+      "name": "anyMappedTypesError",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

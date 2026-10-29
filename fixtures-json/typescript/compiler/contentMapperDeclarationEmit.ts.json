@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/component.y.z"
+    },
+    {
+      "lines": [
+        29
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "contentMapperDeclarationEmit",
+      "options": {
+        "filename": "/main.ts",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

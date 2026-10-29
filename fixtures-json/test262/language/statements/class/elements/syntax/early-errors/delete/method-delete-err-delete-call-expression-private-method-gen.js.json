@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "generators",
+      "class",
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/delete/method-delete-err-delete-call-expression-private-method-gen.js"
+}

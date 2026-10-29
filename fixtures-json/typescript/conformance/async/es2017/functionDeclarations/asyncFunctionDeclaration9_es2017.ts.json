@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "asyncFunctionDeclaration9_es2017.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "es2017"
+  },
+  "path": "conformance/async/es2017/functionDeclarations/asyncFunctionDeclaration9_es2017.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "asyncFunctionDeclaration9_es2017.ts"
+        }
+      ],
+      "name": "asyncFunctionDeclaration9_es2017",
+      "options": {
+        "noemithelpers": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

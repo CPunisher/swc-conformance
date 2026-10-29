@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "generics4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/generics4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "generics4.ts"
+        }
+      ],
+      "name": "generics4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

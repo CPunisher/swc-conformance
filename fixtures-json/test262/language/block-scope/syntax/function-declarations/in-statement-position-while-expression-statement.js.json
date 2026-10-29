@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/block-scope/syntax/function-declarations/in-statement-position-while-expression-statement.js"
+}

@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "objectSpreadIndexSignature.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/spread/objectSpreadIndexSignature.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7053,
+            7053
+          ],
+          "file": "objectSpreadIndexSignature.ts"
+        }
+      ],
+      "name": "objectSpreadIndexSignature",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "arbitraryModuleNamespaceIdentifiers_exportEmpty.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "ES2022",
+    "target": "ES2022"
+  },
+  "path": "conformance/es2022/arbitraryModuleNamespaceIdentifiers/arbitraryModuleNamespaceIdentifiers_exportEmpty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "arbitraryModuleNamespaceIdentifiers_exportEmpty.ts"
+        }
+      ],
+      "name": "arbitraryModuleNamespaceIdentifiers_exportEmpty",
+      "options": {
+        "declaration": "true",
+        "module": "ES2022",
+        "target": "ES2022"
+      }
+    }
+  ]
+}

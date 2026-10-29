@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.mts"
+    }
+  ],
+  "options": {
+    "module": "nodenext"
+  },
+  "path": "compiler/genericArrowFunctionInEsmExtensionFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7060
+          ],
+          "file": "a.mts"
+        }
+      ],
+      "name": "genericArrowFunctionInEsmExtensionFile",
+      "options": {
+        "filename": "a.mts",
+        "module": "nodenext"
+      }
+    }
+  ]
+}

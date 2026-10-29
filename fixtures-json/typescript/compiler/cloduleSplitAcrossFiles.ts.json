@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "cloduleSplitAcrossFiles_class.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "cloduleSplitAcrossFiles_module.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/cloduleSplitAcrossFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "cloduleSplitAcrossFiles_class.ts"
+        },
+        {
+          "codes": [
+            2433
+          ],
+          "file": "cloduleSplitAcrossFiles_module.ts"
+        }
+      ],
+      "name": "cloduleSplitAcrossFiles",
+      "options": {
+        "filename": "cloduleSplitAcrossFiles_module.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

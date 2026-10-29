@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/subarray/byteoffset-with-detached-buffer.js"
+}

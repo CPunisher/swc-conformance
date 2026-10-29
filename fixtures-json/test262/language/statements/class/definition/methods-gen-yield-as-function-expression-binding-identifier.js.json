@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "generators"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/definition/methods-gen-yield-as-function-expression-binding-identifier.js"
+}

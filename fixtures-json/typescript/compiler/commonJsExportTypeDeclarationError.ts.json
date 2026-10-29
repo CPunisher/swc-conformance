@@ -1,0 +1,100 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "./test.js"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "./types1.ts"
+    },
+    {
+      "lines": [
+        12,
+        17,
+        18
+      ],
+      "name": "./types2.ts"
+    },
+    {
+      "lines": [
+        12,
+        21,
+        22
+      ],
+      "name": "./types3.ts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/commonJsExportTypeDeclarationError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commonJsExportTypeDeclarationError(target=es5)",
+      "options": {
+        "checkjs": "true",
+        "esmoduleinterop": "true",
+        "filename": "./types3.ts",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "test.js"
+        },
+        {
+          "codes": [
+            1110,
+            1005
+          ],
+          "file": "types1.ts"
+        },
+        {
+          "codes": [
+            1110
+          ],
+          "file": "types2.ts"
+        },
+        {
+          "codes": [
+            2456
+          ],
+          "file": "types3.ts"
+        }
+      ],
+      "name": "commonJsExportTypeDeclarationError(target=es2015)",
+      "options": {
+        "checkjs": "true",
+        "esmoduleinterop": "true",
+        "filename": "./types3.ts",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

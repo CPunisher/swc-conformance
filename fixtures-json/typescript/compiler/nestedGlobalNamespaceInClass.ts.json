@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "nestedGlobalNamespaceInClass.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/nestedGlobalNamespaceInClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1068,
+            2669,
+            2670,
+            1005,
+            2304,
+            1128
+          ],
+          "file": "nestedGlobalNamespaceInClass.ts"
+        }
+      ],
+      "name": "nestedGlobalNamespaceInClass",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

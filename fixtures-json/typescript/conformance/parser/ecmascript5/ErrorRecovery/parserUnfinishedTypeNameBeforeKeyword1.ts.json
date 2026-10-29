@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parserUnfinishedTypeNameBeforeKeyword1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserUnfinishedTypeNameBeforeKeyword1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2833,
+            1003
+          ],
+          "file": "parserUnfinishedTypeNameBeforeKeyword1.ts"
+        }
+      ],
+      "name": "parserUnfinishedTypeNameBeforeKeyword1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

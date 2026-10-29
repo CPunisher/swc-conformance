@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "staticIndexSignature7.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/staticIndexSignature/staticIndexSignature7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2411,
+            2411
+          ],
+          "file": "staticIndexSignature7.ts"
+        }
+      ],
+      "name": "staticIndexSignature7",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

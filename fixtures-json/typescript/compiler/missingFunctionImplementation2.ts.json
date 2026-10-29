@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "missingFunctionImplementation2_a.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "missingFunctionImplementation2_b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/missingFunctionImplementation2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "missingFunctionImplementation2_a.ts"
+        },
+        {
+          "codes": [
+            2391
+          ],
+          "file": "missingFunctionImplementation2_b.ts"
+        }
+      ],
+      "name": "missingFunctionImplementation2",
+      "options": {
+        "filename": "missingFunctionImplementation2_b.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

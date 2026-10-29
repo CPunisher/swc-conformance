@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "intermediate.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "ghost.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportNamespace11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "intermediate.ts"
+        },
+        {
+          "codes": [],
+          "file": "ghost.ts"
+        }
+      ],
+      "name": "exportNamespace11",
+      "options": {
+        "filename": "ghost.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

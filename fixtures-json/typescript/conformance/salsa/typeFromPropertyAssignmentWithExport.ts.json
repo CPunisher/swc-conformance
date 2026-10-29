@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "outdir": "dist",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignmentWithExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeFromPropertyAssignmentWithExport",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "module": "commonjs",
+        "outdir": "dist",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

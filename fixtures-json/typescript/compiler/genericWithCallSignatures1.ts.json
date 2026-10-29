@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "genericWithCallSignatures_0.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "genericWithCallSignatures_1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericWithCallSignatures1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "genericWithCallSignatures_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "genericWithCallSignatures_0.ts"
+        }
+      ],
+      "name": "genericWithCallSignatures1",
+      "options": {
+        "filename": "genericWithCallSignatures_1.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

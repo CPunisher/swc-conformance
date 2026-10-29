@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "external.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "script.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "node_modules/tslib/index.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "lib": "es5,es2015.promise",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/es5-importHelpersAsyncFunctions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5-importHelpersAsyncFunctions(target=es5)",
+      "options": {
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "lib": "es5,es2015.promise",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "es5-importHelpersAsyncFunctions(target=es2015)",
+      "options": {
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "lib": "es5,es2015.promise",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

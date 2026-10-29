@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "globals.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource19.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource19",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "esnext",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

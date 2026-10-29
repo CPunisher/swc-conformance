@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "typeArgumentArityErrorSkipsTrivia.ts"
+    }
+  ],
+  "options": {
+    "strict": "true"
+  },
+  "path": "compiler/typeArgumentArityErrorSkipsTrivia.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2558,
+            2558
+          ],
+          "file": "typeArgumentArityErrorSkipsTrivia.ts"
+        }
+      ],
+      "name": "typeArgumentArityErrorSkipsTrivia",
+      "options": {
+        "strict": "true"
+      }
+    }
+  ]
+}

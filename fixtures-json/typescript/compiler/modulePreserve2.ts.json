@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/node_modules/dep/package.json"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/node_modules/dep/import.d.mts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/node_modules/dep/require.d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        24,
+        29,
+        30
+      ],
+      "name": "/main.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "module": "preserve",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "compiler/modulePreserve2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePreserve2",
+      "options": {
+        "checkjs": "true",
+        "filename": "/main.js",
+        "module": "preserve",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

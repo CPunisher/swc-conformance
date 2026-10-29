@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserMemberAccessorDeclaration11.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "conformance/parser/ecmascript5/MemberAccessorDeclarations/parserMemberAccessorDeclaration11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parserMemberAccessorDeclaration11(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1031,
+            2378
+          ],
+          "file": "parserMemberAccessorDeclaration11.ts"
+        }
+      ],
+      "name": "parserMemberAccessorDeclaration11(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

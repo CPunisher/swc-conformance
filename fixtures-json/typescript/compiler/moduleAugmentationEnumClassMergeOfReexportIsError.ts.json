@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "file.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "reexport.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "augment.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationEnumClassMergeOfReexportIsError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2567,
+            2564
+          ],
+          "file": "file.ts"
+        },
+        {
+          "codes": [],
+          "file": "reexport.ts"
+        },
+        {
+          "codes": [
+            2567
+          ],
+          "file": "augment.ts"
+        }
+      ],
+      "name": "moduleAugmentationEnumClassMergeOfReexportIsError",
+      "options": {
+        "filename": "augment.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

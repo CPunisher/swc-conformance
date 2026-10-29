@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "file3.ts"
+    }
+  ],
+  "options": {
+    "pretty": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateIdentifierRelatedSpans1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2451
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2300,
+            2451
+          ],
+          "file": "file2.ts"
+        },
+        {
+          "codes": [
+            2300,
+            2451
+          ],
+          "file": "file3.ts"
+        }
+      ],
+      "name": "duplicateIdentifierRelatedSpans1",
+      "options": {
+        "filename": "file3.ts",
+        "pretty": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

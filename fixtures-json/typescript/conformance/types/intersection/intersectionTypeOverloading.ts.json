@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "intersectionTypeOverloading.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/intersection/intersectionTypeOverloading.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "intersectionTypeOverloading.ts"
+        }
+      ],
+      "name": "intersectionTypeOverloading",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

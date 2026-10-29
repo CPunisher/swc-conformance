@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocSatisfiesTag14.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "checkJsdocSatisfiesTag14",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

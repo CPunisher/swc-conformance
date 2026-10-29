@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "modules.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "app.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxExternalModuleEmit2.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "modules.d.ts"
+        },
+        {
+          "codes": [
+            7005,
+            7005
+          ],
+          "file": "app.tsx"
+        }
+      ],
+      "name": "tsxExternalModuleEmit2",
+      "options": {
+        "filename": "app.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

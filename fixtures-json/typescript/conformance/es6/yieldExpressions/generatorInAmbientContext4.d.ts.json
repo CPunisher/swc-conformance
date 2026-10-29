@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "generatorInAmbientContext4.d.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/yieldExpressions/generatorInAmbientContext4.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1221
+          ],
+          "file": "generatorInAmbientContext4.d.ts"
+        }
+      ],
+      "name": "generatorInAmbientContext4.d",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

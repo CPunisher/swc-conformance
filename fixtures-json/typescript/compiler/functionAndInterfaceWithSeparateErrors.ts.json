@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "functionAndInterfaceWithSeparateErrors.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionAndInterfaceWithSeparateErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2394,
+            7010,
+            2411
+          ],
+          "file": "functionAndInterfaceWithSeparateErrors.ts"
+        }
+      ],
+      "name": "functionAndInterfaceWithSeparateErrors",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

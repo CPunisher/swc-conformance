@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "indexedAccessWithVariableElement.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "nouncheckedindexedaccess": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/indexedAccessWithVariableElement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "indexedAccessWithVariableElement.ts"
+        }
+      ],
+      "name": "indexedAccessWithVariableElement",
+      "options": {
+        "noemit": "true",
+        "nouncheckedindexedaccess": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

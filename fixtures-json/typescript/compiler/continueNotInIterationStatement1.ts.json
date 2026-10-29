@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "continueNotInIterationStatement1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/continueNotInIterationStatement1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1104
+          ],
+          "file": "continueNotInIterationStatement1.ts"
+        }
+      ],
+      "name": "continueNotInIterationStatement1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

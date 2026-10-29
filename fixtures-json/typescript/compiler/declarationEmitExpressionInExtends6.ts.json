@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "currentdirectory": "/",
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015",
+    "types": "node"
+  },
+  "path": "compiler/declarationEmitExpressionInExtends6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitExpressionInExtends6",
+      "options": {
+        "allowjs": "true",
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/b.ts",
+        "module": "commonjs",
+        "target": "es2015",
+        "types": "node"
+      }
+    }
+  ]
+}

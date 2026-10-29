@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "usingDeclarations.12.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es2018",
+    "usedefineforclassfields": "*"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarations.12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "usingDeclarations.12(usedefineforclassfields=true)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2018",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "usedefineforclassfields=false",
+      "diagnostics": [],
+      "name": "usingDeclarations.12(usedefineforclassfields=false)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2018",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

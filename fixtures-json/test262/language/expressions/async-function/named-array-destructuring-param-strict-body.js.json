@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "rest-parameters",
+      "async-functions"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-function/named-array-destructuring-param-strict-body.js"
+}

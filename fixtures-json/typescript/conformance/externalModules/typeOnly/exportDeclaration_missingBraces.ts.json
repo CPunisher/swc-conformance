@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "exportDeclaration_missingBraces.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportDeclaration_missingBraces.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2567,
+            2300,
+            2300,
+            1005,
+            2567,
+            1005,
+            2300,
+            1005,
+            2300,
+            1005,
+            1005
+          ],
+          "file": "exportDeclaration_missingBraces.ts"
+        }
+      ],
+      "name": "exportDeclaration_missingBraces",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

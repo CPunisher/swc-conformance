@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "ClassDeclarationWithInvalidConstOnPropertyDeclaration.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/ClassDeclarationWithInvalidConstOnPropertyDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1248
+          ],
+          "file": "ClassDeclarationWithInvalidConstOnPropertyDeclaration.ts"
+        }
+      ],
+      "name": "ClassDeclarationWithInvalidConstOnPropertyDeclaration",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

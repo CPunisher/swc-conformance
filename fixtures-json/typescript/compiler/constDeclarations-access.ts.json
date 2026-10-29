@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "compiler/constDeclarations-access.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2588
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "constDeclarations-access",
+      "options": {
+        "filename": "file2.ts",
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es6",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/computedPropertyNameWithImportedKey.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "computedPropertyNameWithImportedKey",
+      "options": {
+        "declaration": "true",
+        "filename": "/b.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "class-methods-private",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/grammar-special-meth-contains-super-private-async-gen.js"
+}

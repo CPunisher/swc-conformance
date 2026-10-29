@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-public",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/grammar-field-identifier-invalid-zwnj-error.js"
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "declarationEmitSetAccessorNoParameter.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/declarationEmitSetAccessorNoParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1049,
+            7032
+          ],
+          "file": "declarationEmitSetAccessorNoParameter.ts"
+        }
+      ],
+      "name": "declarationEmitSetAccessorNoParameter",
+      "options": {
+        "declaration": "true"
+      }
+    }
+  ]
+}

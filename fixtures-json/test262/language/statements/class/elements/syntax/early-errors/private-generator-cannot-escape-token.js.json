@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "generators",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/private-generator-cannot-escape-token.js"
+}

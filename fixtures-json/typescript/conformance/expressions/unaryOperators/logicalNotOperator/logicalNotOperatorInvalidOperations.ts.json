@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "logicalNotOperatorInvalidOperations.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/unaryOperators/logicalNotOperator/logicalNotOperatorInvalidOperations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2365,
+            1109
+          ],
+          "file": "logicalNotOperatorInvalidOperations.ts"
+        }
+      ],
+      "name": "logicalNotOperatorInvalidOperations",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

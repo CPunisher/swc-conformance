@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "await_unaryExpression_es6_2.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/async/es6/await_unaryExpression_es6_2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2703,
+            2703
+          ],
+          "file": "await_unaryExpression_es6_2.ts"
+        }
+      ],
+      "name": "await_unaryExpression_es6_2",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2503
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment5",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

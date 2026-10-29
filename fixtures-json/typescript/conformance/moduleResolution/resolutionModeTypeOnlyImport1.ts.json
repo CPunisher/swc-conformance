@@ -1,0 +1,106 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/foo/package.json"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/node_modules/@types/foo/index.d.mts"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "/node_modules/@types/foo/index.d.cts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "/app.ts"
+    },
+    {
+      "lines": [
+        47,
+        48
+      ],
+      "name": "/other.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler, classic",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/resolutionModeTypeOnlyImport1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [],
+      "name": "resolutionModeTypeOnlyImport1(moduleresolution=bundler)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/other.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=classic",
+      "diagnostics": [],
+      "name": "resolutionModeTypeOnlyImport1(moduleresolution=classic)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/other.ts",
+        "module": "esnext",
+        "moduleresolution": "classic",
+        "target": "es2015"
+      }
+    }
+  ]
+}

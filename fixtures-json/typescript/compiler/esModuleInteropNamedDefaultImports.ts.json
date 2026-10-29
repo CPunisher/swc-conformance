@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "mod.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "idx.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/esModuleInteropNamedDefaultImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esModuleInteropNamedDefaultImports",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "idx.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

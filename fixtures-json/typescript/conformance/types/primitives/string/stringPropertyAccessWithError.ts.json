@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "stringPropertyAccessWithError.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/primitives/string/stringPropertyAccessWithError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "stringPropertyAccessWithError.ts"
+        }
+      ],
+      "name": "stringPropertyAccessWithError",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

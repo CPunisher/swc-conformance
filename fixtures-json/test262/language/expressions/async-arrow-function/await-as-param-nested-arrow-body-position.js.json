@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-arrow-function/await-as-param-nested-arrow-body-position.js"
+}

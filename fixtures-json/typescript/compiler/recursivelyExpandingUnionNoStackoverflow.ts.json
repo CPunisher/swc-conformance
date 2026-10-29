@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "recursivelyExpandingUnionNoStackoverflow.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursivelyExpandingUnionNoStackoverflow.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2615
+          ],
+          "file": "recursivelyExpandingUnionNoStackoverflow.ts"
+        }
+      ],
+      "name": "recursivelyExpandingUnionNoStackoverflow",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

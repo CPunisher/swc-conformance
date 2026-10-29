@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "primitiveTypeAssignment.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/primitiveTypeAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693,
+            2693,
+            2693
+          ],
+          "file": "primitiveTypeAssignment.ts"
+        }
+      ],
+      "name": "primitiveTypeAssignment",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

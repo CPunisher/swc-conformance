@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes",
+      "globalThis"
+    ],
+    "flags": [
+      "module",
+      "raw"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "resolution",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-attributes/allow-nlt-before-with.js"
+}

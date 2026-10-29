@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "foo.d.html.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "reexporter.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitTransitiveImportOfHtmlDeclarationItem.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitTransitiveImportOfHtmlDeclarationItem",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

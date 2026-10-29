@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/modules/defaultExportInAwaitExpression01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "defaultExportInAwaitExpression01",
+      "options": {
+        "filename": "b.ts",
+        "module": "umd",
+        "target": "ES6"
+      }
+    }
+  ]
+}

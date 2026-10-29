@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "let"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/try/early-catch-lex.js"
+}

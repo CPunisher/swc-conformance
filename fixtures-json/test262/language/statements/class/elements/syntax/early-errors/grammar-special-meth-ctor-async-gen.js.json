@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/grammar-special-meth-ctor-async-gen.js"
+}

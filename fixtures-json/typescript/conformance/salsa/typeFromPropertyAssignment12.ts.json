@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "module.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "usage.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignment12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "module.js"
+        },
+        {
+          "codes": [
+            2339,
+            2339,
+            2339
+          ],
+          "file": "usage.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignment12",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "usage.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

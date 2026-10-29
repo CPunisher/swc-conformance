@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "limitDeepInstantiations.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/limitDeepInstantiations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5114,
+            2344
+          ],
+          "file": "limitDeepInstantiations.ts"
+        }
+      ],
+      "name": "limitDeepInstantiations",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

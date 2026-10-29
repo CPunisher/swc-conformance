@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "accessorWithES5.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/memberAccessorDeclarations/accessorWithES5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "accessorWithES5(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "accessorWithES5(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

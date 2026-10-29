@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/BigUint64Array/proto.js"
+}

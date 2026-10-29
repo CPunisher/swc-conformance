@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/types/typeRelationships/typeInference/noInferRedeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noInferRedeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "b.ts",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

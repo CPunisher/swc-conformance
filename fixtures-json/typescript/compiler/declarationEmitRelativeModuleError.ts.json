@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "declarationEmitRelativeModuleError.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitRelativeModuleError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2436
+          ],
+          "file": "declarationEmitRelativeModuleError.ts"
+        }
+      ],
+      "name": "declarationEmitRelativeModuleError",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

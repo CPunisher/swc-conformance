@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "ex.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "test.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocImportTypeReferenceToESModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "ex.d.ts"
+        },
+        {
+          "codes": [
+            1340
+          ],
+          "file": "test.js"
+        }
+      ],
+      "name": "jsdocImportTypeReferenceToESModule",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

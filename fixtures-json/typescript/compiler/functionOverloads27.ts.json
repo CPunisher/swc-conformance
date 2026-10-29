@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "functionOverloads27.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionOverloads27.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "functionOverloads27.ts"
+        }
+      ],
+      "name": "functionOverloads27",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

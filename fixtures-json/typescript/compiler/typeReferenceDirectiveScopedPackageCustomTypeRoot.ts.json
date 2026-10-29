@@ -1,0 +1,131 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/types/@scoped/typescache/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/types/mangled__typescache/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/@scoped/nodemodulescache/index.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/node_modules/mangled__nodemodulescache/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/node_modules/@types/@scoped/attypescache/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/node_modules/@types/mangled__attypescache/index.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/types,/node_modules,/node_modules/@types",
+    "types": "@scoped/typescache,@scoped/nodemodulescache,@scoped/attypescache,@mangled/typescache,@mangled/nodemodulescache,@mangled/attypescache"
+  },
+  "path": "compiler/typeReferenceDirectiveScopedPackageCustomTypeRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2688,
+            2688,
+            2688,
+            2688,
+            2688,
+            2688,
+            2688,
+            2688,
+            2688
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2304,
+            2552
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/@scoped/typescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/mangled__typescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@scoped/nodemodulescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mangled__nodemodulescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/@scoped/attypescache/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/mangled__attypescache/index.d.ts"
+        }
+      ],
+      "name": "typeReferenceDirectiveScopedPackageCustomTypeRoot",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/types,/node_modules,/node_modules/@types",
+        "types": "@scoped/typescache,@scoped/nodemodulescache,@scoped/attypescache,@mangled/typescache,@mangled/nodemodulescache,@mangled/attypescache"
+      }
+    }
+  ]
+}

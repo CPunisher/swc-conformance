@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "unicodeExtendedEscapesInStrings12.ts"
+    }
+  ],
+  "options": {
+    "target": "es5,es6"
+  },
+  "path": "conformance/es6/unicodeExtendedEscapes/unicodeExtendedEscapesInStrings12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "unicodeExtendedEscapesInStrings12(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es6",
+      "diagnostics": [
+        {
+          "codes": [
+            1198
+          ],
+          "file": "unicodeExtendedEscapesInStrings12.ts"
+        }
+      ],
+      "name": "unicodeExtendedEscapesInStrings12(target=es6)",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

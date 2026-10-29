@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        5
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "chainer.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "conformance/types/import/importTypeNested.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.d.ts"
+        },
+        {
+          "codes": [
+            1141
+          ],
+          "file": "chainer.ts"
+        }
+      ],
+      "name": "importTypeNested",
+      "options": {
+        "declaration": "true",
+        "filename": "chainer.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

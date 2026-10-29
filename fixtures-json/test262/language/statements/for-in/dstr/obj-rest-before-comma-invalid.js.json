@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-in/dstr/obj-rest-before-comma-invalid.js"
+}

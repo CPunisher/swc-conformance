@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserES3Accessors4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript3/Accessors/parserES3Accessors4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7032,
+            7006
+          ],
+          "file": "parserES3Accessors4.ts"
+        }
+      ],
+      "name": "parserES3Accessors4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

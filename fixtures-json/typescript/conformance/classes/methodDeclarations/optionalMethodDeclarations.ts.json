@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "optionalMethodDeclarations.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "esnext,es2016"
+  },
+  "path": "conformance/classes/methodDeclarations/optionalMethodDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "optionalMethodDeclarations(target=esnext)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2016",
+      "diagnostics": [],
+      "name": "optionalMethodDeclarations(target=es2016)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es2016"
+      }
+    }
+  ]
+}

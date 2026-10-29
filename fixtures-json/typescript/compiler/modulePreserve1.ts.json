@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "target": "esnext"
+  },
+  "path": "compiler/modulePreserve1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePreserve1",
+      "options": {
+        "filename": "/main.ts",
+        "module": "preserve",
+        "target": "esnext"
+      }
+    }
+  ]
+}

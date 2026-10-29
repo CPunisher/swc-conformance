@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "bug28014.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "importer.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/salsa/moduleExportAliasImported.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2309
+          ],
+          "file": "bug28014.js"
+        },
+        {
+          "codes": [],
+          "file": "importer.js"
+        }
+      ],
+      "name": "moduleExportAliasImported",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "importer.js",
+        "module": "esnext",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-async-gen-await-not-extensible-args.js"
+}

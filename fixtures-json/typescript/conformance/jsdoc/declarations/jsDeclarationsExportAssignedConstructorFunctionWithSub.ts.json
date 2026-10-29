@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "jsDeclarationsExportAssignedConstructorFunctionWithSub.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsExportAssignedConstructorFunctionWithSub.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportAssignedConstructorFunctionWithSub(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "jsDeclarationsExportAssignedConstructorFunctionWithSub.js",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2683,
+            2309,
+            2339,
+            2339,
+            7009,
+            2339
+          ],
+          "file": "jsDeclarationsExportAssignedConstructorFunctionWithSub.js"
+        }
+      ],
+      "name": "jsDeclarationsExportAssignedConstructorFunctionWithSub(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "jsDeclarationsExportAssignedConstructorFunctionWithSub.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

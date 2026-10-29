@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "requireOfAnEmptyFile1_a.ts"
+    },
+    {
+      "lines": [],
+      "name": "requireOfAnEmptyFile1_b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfAnEmptyFile1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2306
+          ],
+          "file": "requireOfAnEmptyFile1_a.ts"
+        },
+        {
+          "codes": [],
+          "file": "requireOfAnEmptyFile1_b.ts"
+        }
+      ],
+      "name": "requireOfAnEmptyFile1",
+      "options": {
+        "filename": "requireOfAnEmptyFile1_b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

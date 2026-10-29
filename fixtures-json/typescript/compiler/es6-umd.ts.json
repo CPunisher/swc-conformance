@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "es6-umd.ts"
+    }
+  ],
+  "options": {
+    "declaration": "false",
+    "module": "umd",
+    "sourcemap": "false",
+    "target": "ES6"
+  },
+  "path": "compiler/es6-umd.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "es6-umd",
+      "options": {
+        "declaration": "false",
+        "module": "umd",
+        "sourcemap": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

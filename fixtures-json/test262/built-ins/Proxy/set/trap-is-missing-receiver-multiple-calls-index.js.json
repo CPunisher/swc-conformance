@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Reflect"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/set/trap-is-missing-receiver-multiple-calls-index.js"
+}

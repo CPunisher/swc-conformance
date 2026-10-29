@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "moduleAugmentationGlobal8.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/moduleAugmentationGlobal8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "moduleAugmentationGlobal8(target=es5)",
+      "options": {
+        "module": "esnext",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2669
+          ],
+          "file": "moduleAugmentationGlobal8.ts"
+        }
+      ],
+      "name": "moduleAugmentationGlobal8(target=es2015)",
+      "options": {
+        "module": "esnext",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

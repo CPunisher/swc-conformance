@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async",
+      "noStrict"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/async-generator/named-no-strict-reassign-fn-name-in-body.js"
+}

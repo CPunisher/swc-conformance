@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "exponentiationOperatorWithNew.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es7/exponentiationOperator/exponentiationOperatorWithNew.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351
+          ],
+          "file": "exponentiationOperatorWithNew.ts"
+        }
+      ],
+      "name": "exponentiationOperatorWithNew",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

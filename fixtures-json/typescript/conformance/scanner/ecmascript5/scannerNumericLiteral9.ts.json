@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "scannerNumericLiteral9.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerNumericLiteral9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "scannerNumericLiteral9(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1489
+          ],
+          "file": "scannerNumericLiteral9.ts"
+        }
+      ],
+      "name": "scannerNumericLiteral9(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

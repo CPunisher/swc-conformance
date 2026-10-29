@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "objectSpreadNegativeParse.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es2015"
+  },
+  "path": "conformance/types/spread/objectSpreadNegativeParse.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1109,
+            2698,
+            1109,
+            2304,
+            2304,
+            1005,
+            1128,
+            2304,
+            1005
+          ],
+          "file": "objectSpreadNegativeParse.ts"
+        }
+      ],
+      "name": "objectSpreadNegativeParse",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "objectTypeWithOptionalProperty1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectTypeWithOptionalProperty1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1162
+          ],
+          "file": "objectTypeWithOptionalProperty1.ts"
+        }
+      ],
+      "name": "objectTypeWithOptionalProperty1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

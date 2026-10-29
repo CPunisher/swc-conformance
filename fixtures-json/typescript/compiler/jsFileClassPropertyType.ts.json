@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "foo.js"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "bar.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileClassPropertyType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "foo.js"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "bar.ts"
+        }
+      ],
+      "name": "jsFileClassPropertyType",
+      "options": {
+        "allowjs": "true",
+        "filename": "bar.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

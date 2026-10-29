@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "anyIndexedAccessArrayNoException.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/anyIndexedAccessArrayNoException.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2538
+          ],
+          "file": "anyIndexedAccessArrayNoException.ts"
+        }
+      ],
+      "name": "anyIndexedAccessArrayNoException",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

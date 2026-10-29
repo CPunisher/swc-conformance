@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "deprecatedReferenceInEnumComputedNameNoFlake.ts"
+    }
+  ],
+  "options": {
+    "capturesuggestions": "true",
+    "declaration": "true"
+  },
+  "path": "compiler/deprecatedReferenceInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1164
+          ],
+          "file": "deprecatedReferenceInEnumComputedNameNoFlake.ts"
+        }
+      ],
+      "name": "deprecatedReferenceInEnumComputedNameNoFlake",
+      "options": {
+        "capturesuggestions": "true",
+        "declaration": "true"
+      }
+    }
+  ]
+}

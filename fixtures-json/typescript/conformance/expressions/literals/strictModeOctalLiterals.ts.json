@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "strictModeOctalLiterals.ts"
+    }
+  ],
+  "options": {
+    "target": "es2018"
+  },
+  "path": "conformance/expressions/literals/strictModeOctalLiterals.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1121,
+            1121,
+            1121
+          ],
+          "file": "strictModeOctalLiterals.ts"
+        }
+      ],
+      "name": "strictModeOctalLiterals",
+      "options": {
+        "target": "es2018"
+      }
+    }
+  ]
+}

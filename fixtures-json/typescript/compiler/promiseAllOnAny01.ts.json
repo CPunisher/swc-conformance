@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "promiseAllOnAny01.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/promiseAllOnAny01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "promiseAllOnAny01",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

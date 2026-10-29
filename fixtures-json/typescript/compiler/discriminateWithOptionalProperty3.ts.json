@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "discriminateWithOptionalProperty3.ts"
+    }
+  ],
+  "options": {
+    "exactoptionalpropertytypes": "true, false",
+    "lib": "esnext",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/discriminateWithOptionalProperty3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "exactoptionalpropertytypes=true",
+      "diagnostics": [],
+      "name": "discriminateWithOptionalProperty3(exactoptionalpropertytypes=true)",
+      "options": {
+        "exactoptionalpropertytypes": "true",
+        "lib": "esnext",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "exactoptionalpropertytypes=false",
+      "diagnostics": [],
+      "name": "discriminateWithOptionalProperty3(exactoptionalpropertytypes=false)",
+      "options": {
+        "exactoptionalpropertytypes": "false",
+        "lib": "esnext",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

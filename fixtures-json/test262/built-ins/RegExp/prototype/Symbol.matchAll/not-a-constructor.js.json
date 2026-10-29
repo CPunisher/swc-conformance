@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "Symbol",
+      "Symbol.match",
+      "Symbol.matchAll",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/Symbol.matchAll/not-a-constructor.js"
+}

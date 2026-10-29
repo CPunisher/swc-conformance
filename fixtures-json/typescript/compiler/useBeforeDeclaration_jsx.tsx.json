@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "useBeforeDeclaration_jsx.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "target": "ES6"
+  },
+  "path": "compiler/useBeforeDeclaration_jsx.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2729,
+            2729,
+            7026,
+            2729,
+            7026,
+            7026,
+            2729,
+            7026,
+            7026,
+            2729,
+            7026,
+            7026,
+            7026
+          ],
+          "file": "useBeforeDeclaration_jsx.tsx"
+        }
+      ],
+      "name": "useBeforeDeclaration_jsx",
+      "options": {
+        "jsx": "preserve",
+        "target": "ES6"
+      }
+    }
+  ]
+}

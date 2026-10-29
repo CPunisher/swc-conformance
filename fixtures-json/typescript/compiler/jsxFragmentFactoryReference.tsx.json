@@ -1,0 +1,128 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "jsxFragmentFactoryReference.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "jsx": "preserve, react, react-jsx, react-jsxdev, react-native",
+    "module": "ESNext",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "skiplibcheck": "true",
+    "strict": "true",
+    "target": "ES2017"
+  },
+  "path": "compiler/jsxFragmentFactoryReference.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [],
+      "name": "jsxFragmentFactoryReference(jsx=preserve)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "preserve",
+        "module": "ESNext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    },
+    {
+      "config": "jsx=react",
+      "diagnostics": [
+        {
+          "codes": [
+            2874,
+            2879
+          ],
+          "file": "jsxFragmentFactoryReference.tsx"
+        }
+      ],
+      "name": "jsxFragmentFactoryReference(jsx=react)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "react",
+        "module": "ESNext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    },
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [
+            2875
+          ],
+          "file": "jsxFragmentFactoryReference.tsx"
+        }
+      ],
+      "name": "jsxFragmentFactoryReference(jsx=react-jsx)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "react-jsx",
+        "module": "ESNext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [
+        {
+          "codes": [
+            2875
+          ],
+          "file": "jsxFragmentFactoryReference.tsx"
+        }
+      ],
+      "name": "jsxFragmentFactoryReference(jsx=react-jsxdev)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "react-jsxdev",
+        "module": "ESNext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    },
+    {
+      "config": "jsx=react-native",
+      "diagnostics": [],
+      "name": "jsxFragmentFactoryReference(jsx=react-native)",
+      "options": {
+        "esmoduleinterop": "true",
+        "jsx": "react-native",
+        "module": "ESNext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skiplibcheck": "true",
+        "strict": "true",
+        "target": "ES2017"
+      }
+    }
+  ]
+}

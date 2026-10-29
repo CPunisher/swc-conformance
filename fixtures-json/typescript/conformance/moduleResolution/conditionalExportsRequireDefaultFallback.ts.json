@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/node_modules/provider/package.json"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/node_modules/provider/index.cjs"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/node_modules/provider/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/conditionalExportsRequireDefaultFallback.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "conditionalExportsRequireDefaultFallback",
+      "options": {
+        "filename": "/main.ts",
+        "module": "commonjs",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

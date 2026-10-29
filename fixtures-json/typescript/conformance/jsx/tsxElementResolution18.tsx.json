@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "file1.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxElementResolution18.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026
+          ],
+          "file": "file1.tsx"
+        }
+      ],
+      "name": "tsxElementResolution18",
+      "options": {
+        "filename": "file1.tsx",
+        "jsx": "preserve",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

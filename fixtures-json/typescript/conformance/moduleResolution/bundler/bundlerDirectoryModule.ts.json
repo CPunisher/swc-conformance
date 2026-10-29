@@ -1,0 +1,218 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/lib/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/lib/cjs/index.js"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/lib/cjs/index.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/app/test.ts"
+    }
+  ],
+  "options": {
+    "module": "node18,node20,nodenext",
+    "moduleresolution": "nodenext,bundler",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerDirectoryModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18,moduleresolution=nodenext",
+      "diagnostics": [],
+      "name": "bundlerDirectoryModule(module=node18,moduleresolution=nodenext)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "node18",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node18,moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [
+            5095,
+            5109
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/app/test.ts"
+        },
+        {
+          "codes": [],
+          "file": "/lib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.d.ts"
+        }
+      ],
+      "name": "bundlerDirectoryModule(module=node18,moduleresolution=bundler)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "node18",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node20,moduleresolution=nodenext",
+      "diagnostics": [],
+      "name": "bundlerDirectoryModule(module=node20,moduleresolution=nodenext)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "node20",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node20,moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [
+            5095,
+            5109
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/app/test.ts"
+        },
+        {
+          "codes": [],
+          "file": "/lib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.d.ts"
+        }
+      ],
+      "name": "bundlerDirectoryModule(module=node20,moduleresolution=bundler)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "node20",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=nodenext,moduleresolution=nodenext",
+      "diagnostics": [],
+      "name": "bundlerDirectoryModule(module=nodenext,moduleresolution=nodenext)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=nodenext,moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [
+            5095,
+            5109
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/app/test.ts"
+        },
+        {
+          "codes": [],
+          "file": "/lib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/lib/cjs/index.d.ts"
+        }
+      ],
+      "name": "bundlerDirectoryModule(module=nodenext,moduleresolution=bundler)",
+      "options": {
+        "filename": "/app/test.ts",
+        "module": "nodenext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

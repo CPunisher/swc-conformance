@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "roots.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/salsa/typeFromPropertyAssignmentOutOfOrder.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "typeFromPropertyAssignmentOutOfOrder(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "roots.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2503
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "roots.js"
+        }
+      ],
+      "name": "typeFromPropertyAssignmentOutOfOrder(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "roots.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

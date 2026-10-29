@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "varianceAnnotationsWithCircularlyReferencesError.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/typeParameters/typeParameterLists/varianceAnnotationsWithCircularlyReferencesError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2456,
+            2637,
+            2300,
+            2637,
+            1359,
+            2456,
+            2637
+          ],
+          "file": "varianceAnnotationsWithCircularlyReferencesError.ts"
+        }
+      ],
+      "name": "varianceAnnotationsWithCircularlyReferencesError",
+      "options": {
+        "declaration": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

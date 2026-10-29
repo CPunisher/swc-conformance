@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/jsdoc/jsdocLinkTag2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocLinkTag2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/b.js",
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/e.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportNamespace7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            1362,
+            1362
+          ],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/d.ts"
+        },
+        {
+          "codes": [
+            1362,
+            1362,
+            1362
+          ],
+          "file": "/e.ts"
+        }
+      ],
+      "name": "exportNamespace7",
+      "options": {
+        "filename": "/e.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

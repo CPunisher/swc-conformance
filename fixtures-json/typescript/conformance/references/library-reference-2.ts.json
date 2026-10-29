@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/test",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/types/jquery/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "/types/jquery/jquery.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "/consumer.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/test",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/types"
+  },
+  "path": "conformance/references/library-reference-2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-2",
+      "options": {
+        "currentdirectory": "/test",
+        "filename": "/consumer.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/types"
+      }
+    }
+  ]
+}

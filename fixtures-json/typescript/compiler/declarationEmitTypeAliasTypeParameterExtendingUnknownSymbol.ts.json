@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "declarationEmitTypeAliasTypeParameterExtendingUnknownSymbol.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitTypeAliasTypeParameterExtendingUnknownSymbol.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "declarationEmitTypeAliasTypeParameterExtendingUnknownSymbol.ts"
+        }
+      ],
+      "name": "declarationEmitTypeAliasTypeParameterExtendingUnknownSymbol",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

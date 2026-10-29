@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "globalThisPropertyAssignment.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2019/globalThisPropertyAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7017,
+            2339,
+            7017
+          ],
+          "file": "globalThisPropertyAssignment.js"
+        }
+      ],
+      "name": "globalThisPropertyAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "globalThisPropertyAssignment.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

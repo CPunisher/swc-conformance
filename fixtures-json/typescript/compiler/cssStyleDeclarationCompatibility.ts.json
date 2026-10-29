@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "cssStyleDeclarationCompatibility.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015, dom, dom.iterable",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/cssStyleDeclarationCompatibility.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "cssStyleDeclarationCompatibility",
+      "options": {
+        "lib": "es2015, dom, dom.iterable",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

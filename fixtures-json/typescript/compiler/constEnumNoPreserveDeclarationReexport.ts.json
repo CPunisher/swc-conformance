@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "ConstEnum.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "ImportExport.d.ts"
+    },
+    {
+      "lines": [
+        11
+      ],
+      "name": "ReExport.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "usages.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/constEnumNoPreserveDeclarationReexport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "constEnumNoPreserveDeclarationReexport",
+      "options": {
+        "filename": "usages.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

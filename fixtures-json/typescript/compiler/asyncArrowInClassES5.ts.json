@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "asyncArrowInClassES5.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015",
+    "noemithelpers": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/asyncArrowInClassES5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "asyncArrowInClassES5(target=es5)",
+      "options": {
+        "lib": "es2015",
+        "noemithelpers": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "asyncArrowInClassES5(target=es2015)",
+      "options": {
+        "lib": "es2015",
+        "noemithelpers": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "awaitUsingDeclarations.10.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/awaitUsingDeclarations.10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1156
+          ],
+          "file": "awaitUsingDeclarations.10.ts"
+        }
+      ],
+      "name": "awaitUsingDeclarations.10",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

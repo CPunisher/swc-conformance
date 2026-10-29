@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "strictModeReservedWordInImportEqualDeclaration.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/strictModeReservedWordInImportEqualDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1214,
+            2307
+          ],
+          "file": "strictModeReservedWordInImportEqualDeclaration.ts"
+        }
+      ],
+      "name": "strictModeReservedWordInImportEqualDeclaration",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

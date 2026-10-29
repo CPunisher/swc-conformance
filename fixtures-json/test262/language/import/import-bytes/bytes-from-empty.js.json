@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes",
+      "immutable-arraybuffer",
+      "import-bytes"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-bytes/bytes-from-empty.js"
+}

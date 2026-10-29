@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Reflect.construct",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/revocable/revocation-function-not-a-constructor.js"
+}

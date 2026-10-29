@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/x.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/y.d.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsExportMemberMergedWithModuleAugmentation3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2309
+          ],
+          "file": "/x.js"
+        },
+        {
+          "codes": [],
+          "file": "/y.d.ts"
+        }
+      ],
+      "name": "jsExportMemberMergedWithModuleAugmentation3",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/y.d.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "jsxJsxsCjsTransformCustomImport.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "jsximportsource": "preact",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxs/jsxJsxsCjsTransformCustomImport.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [
+            2875
+          ],
+          "file": "jsxJsxsCjsTransformCustomImport.tsx"
+        }
+      ],
+      "name": "jsxJsxsCjsTransformCustomImport(jsx=react-jsx)",
+      "options": {
+        "jsx": "react-jsx",
+        "jsximportsource": "preact",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [
+        {
+          "codes": [
+            2875
+          ],
+          "file": "jsxJsxsCjsTransformCustomImport.tsx"
+        }
+      ],
+      "name": "jsxJsxsCjsTransformCustomImport(jsx=react-jsxdev)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "jsximportsource": "preact",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

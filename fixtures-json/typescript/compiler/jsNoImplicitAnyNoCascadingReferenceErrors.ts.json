@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "somelib.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "noimplicitany": "true",
+    "outdir": "./built",
+    "target": "es2015"
+  },
+  "path": "compiler/jsNoImplicitAnyNoCascadingReferenceErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "somelib.d.ts"
+        },
+        {
+          "codes": [
+            8026
+          ],
+          "file": "index.js"
+        }
+      ],
+      "name": "jsNoImplicitAnyNoCascadingReferenceErrors",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index.js",
+        "module": "commonjs",
+        "noimplicitany": "true",
+        "outdir": "./built",
+        "target": "es2015"
+      }
+    }
+  ]
+}

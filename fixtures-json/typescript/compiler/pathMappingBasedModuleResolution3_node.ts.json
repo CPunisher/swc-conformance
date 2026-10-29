@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "c:/root/folder1/file1.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "c:/root/folder2/file2.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "c:/root/folder2/file3.ts"
+    },
+    {
+      "lines": [
+        22
+      ],
+      "name": "c:/node_modules/file4/index.d.ts"
+    }
+  ],
+  "options": {
+    "baseurl": "c:/root",
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution3_node.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution3_node",
+      "options": {
+        "baseurl": "c:/root",
+        "filename": "c:/node_modules/file4/index.d.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

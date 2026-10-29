@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "export-star-as-namespace-from-module"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [
+      "fnGlobalObject.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/eval-rqstd-once.js"
+}

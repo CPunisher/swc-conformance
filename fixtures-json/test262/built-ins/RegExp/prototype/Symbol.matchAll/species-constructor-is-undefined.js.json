@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.matchAll"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "compareIterator.js",
+      "regExpUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/Symbol.matchAll/species-constructor-is-undefined.js"
+}

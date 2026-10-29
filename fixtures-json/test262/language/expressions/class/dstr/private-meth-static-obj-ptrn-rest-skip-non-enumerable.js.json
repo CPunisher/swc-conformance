@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "class",
+      "class-static-methods-private",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/dstr/private-meth-static-obj-ptrn-rest-skip-non-enumerable.js"
+}

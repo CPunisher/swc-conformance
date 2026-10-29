@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "illegalModifiersOnClassElements.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/illegalModifiersOnClassElements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1039,
+            1031
+          ],
+          "file": "illegalModifiersOnClassElements.ts"
+        }
+      ],
+      "name": "illegalModifiersOnClassElements",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

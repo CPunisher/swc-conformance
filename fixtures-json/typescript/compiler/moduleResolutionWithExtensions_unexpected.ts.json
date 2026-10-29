@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/normalize.css/normalize.css"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/normalize.css/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "nouncheckedsideeffectimports": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithExtensions_unexpected.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithExtensions_unexpected",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

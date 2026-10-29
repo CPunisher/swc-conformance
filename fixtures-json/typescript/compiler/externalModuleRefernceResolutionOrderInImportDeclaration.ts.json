@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "externalModuleRefernceResolutionOrderInImportDeclaration_file1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "externalModuleRefernceResolutionOrderInImportDeclaration_file2.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "externalModuleRefernceResolutionOrderInImportDeclaration_file3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/externalModuleRefernceResolutionOrderInImportDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "externalModuleRefernceResolutionOrderInImportDeclaration_file3.ts"
+        },
+        {
+          "codes": [],
+          "file": "externalModuleRefernceResolutionOrderInImportDeclaration_file1.ts"
+        },
+        {
+          "codes": [],
+          "file": "externalModuleRefernceResolutionOrderInImportDeclaration_file2.ts"
+        }
+      ],
+      "name": "externalModuleRefernceResolutionOrderInImportDeclaration",
+      "options": {
+        "filename": "externalModuleRefernceResolutionOrderInImportDeclaration_file3.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

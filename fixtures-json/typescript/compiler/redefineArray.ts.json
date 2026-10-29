@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "redefineArray.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/redefineArray.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2739
+          ],
+          "file": "redefineArray.ts"
+        }
+      ],
+      "name": "redefineArray",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

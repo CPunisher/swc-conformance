@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "assignToInvalidLHS.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/assignToInvalidLHS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2364
+          ],
+          "file": "assignToInvalidLHS.ts"
+        }
+      ],
+      "name": "assignToInvalidLHS",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

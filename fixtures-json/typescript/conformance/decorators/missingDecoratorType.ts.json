@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "nolib": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/decorators/missingDecoratorType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "missingDecoratorType(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "b.ts",
+        "nolib": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        }
+      ],
+      "name": "missingDecoratorType(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "b.ts",
+        "nolib": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

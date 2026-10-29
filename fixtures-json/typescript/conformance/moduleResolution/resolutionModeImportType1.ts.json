@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/node_modules/@types/foo/package.json"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/@types/foo/index.d.mts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/node_modules/@types/foo/index.d.cts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "/app.ts"
+    },
+    {
+      "lines": [
+        32,
+        33
+      ],
+      "name": "/other.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "moduleresolution": "bundler, classic",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/resolutionModeImportType1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [],
+      "name": "resolutionModeImportType1(moduleresolution=bundler)",
+      "options": {
+        "filename": "/other.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=classic",
+      "diagnostics": [],
+      "name": "resolutionModeImportType1(moduleresolution=classic)",
+      "options": {
+        "filename": "/other.ts",
+        "module": "esnext",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

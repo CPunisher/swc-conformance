@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/thisPropertyAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7017,
+            7017,
+            7053,
+            7053,
+            7053,
+            7053,
+            2683,
+            2683,
+            2683,
+            2683,
+            7009
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "thisPropertyAssignment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "a.js",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

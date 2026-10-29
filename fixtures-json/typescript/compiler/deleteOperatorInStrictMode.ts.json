@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "deleteOperatorInStrictMode.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/deleteOperatorInStrictMode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1102,
+            2703
+          ],
+          "file": "deleteOperatorInStrictMode.ts"
+        }
+      ],
+      "name": "deleteOperatorInStrictMode",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

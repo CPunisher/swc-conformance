@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "SharedArrayBuffer",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/SharedArrayBuffer/prototype/slice/nonconstructor.js"
+}

@@ -1,0 +1,98 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "foo2.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es6",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/types/import/importTypeLocal.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "foo.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "foo2.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "importTypeLocal",
+      "options": {
+        "declaration": "true",
+        "filename": "usage.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

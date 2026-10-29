@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "node.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "ns.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "app.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "./out/",
+    "target": "es2015"
+  },
+  "path": "compiler/resolveNameWithNamspace.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "resolveNameWithNamspace",
+      "options": {
+        "allowjs": "true",
+        "filename": "app.js",
+        "module": "commonjs",
+        "outdir": "./out/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

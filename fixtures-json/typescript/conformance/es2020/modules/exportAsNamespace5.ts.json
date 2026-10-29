@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "three.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "two.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "one.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "conformance/es2020/modules/exportAsNamespace5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportAsNamespace5",
+      "options": {
+        "filename": "one.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

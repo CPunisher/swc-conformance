@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "privateNamesNoDelete.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesNoDelete.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2790,
+            18011
+          ],
+          "file": "privateNamesNoDelete.ts"
+        }
+      ],
+      "name": "privateNamesNoDelete",
+      "options": {
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

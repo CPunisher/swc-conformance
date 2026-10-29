@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "example.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/constructorTagOnObjectLiteralMethod.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            7009
+          ],
+          "file": "example.js"
+        }
+      ],
+      "name": "constructorTagOnObjectLiteralMethod",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "example.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

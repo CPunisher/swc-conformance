@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "asyncFunctionDeclaration13_es5.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "noemithelpers": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/async/es5/functionDeclarations/asyncFunctionDeclaration13_es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "asyncFunctionDeclaration13_es5(target=es5)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2552
+          ],
+          "file": "asyncFunctionDeclaration13_es5.ts"
+        }
+      ],
+      "name": "asyncFunctionDeclaration13_es5(target=es2015)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

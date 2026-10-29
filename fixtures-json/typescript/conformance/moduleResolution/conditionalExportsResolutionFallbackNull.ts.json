@@ -1,0 +1,150 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/node_modules/dep/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/node_modules/dep/dist/index.d.ts"
+    },
+    {
+      "lines": [
+        26
+      ],
+      "name": "/index.mts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "esnext",
+    "moduleresolution": "node16,nodenext,bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/conditionalExportsResolutionFallbackNull.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dep/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dep/dist/index.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.mts"
+        }
+      ],
+      "name": "conditionalExportsResolutionFallbackNull(moduleresolution=node16)",
+      "options": {
+        "allowjs": "true",
+        "filename": "/index.mts",
+        "module": "esnext",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dep/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dep/dist/index.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.mts"
+        }
+      ],
+      "name": "conditionalExportsResolutionFallbackNull(moduleresolution=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "filename": "/index.mts",
+        "module": "esnext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/dep/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/dep/dist/index.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.mts"
+        }
+      ],
+      "name": "conditionalExportsResolutionFallbackNull(moduleresolution=bundler)",
+      "options": {
+        "allowjs": "true",
+        "filename": "/index.mts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "unaryOperators1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/unaryOperators1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304
+          ],
+          "file": "unaryOperators1.ts"
+        }
+      ],
+      "name": "unaryOperators1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

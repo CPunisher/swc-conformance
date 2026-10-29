@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "exportClassNameWithObjectUMD.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/externalModules/exportClassNameWithObjectUMD.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportClassNameWithObjectUMD(target=es5)",
+      "options": {
+        "module": "umd",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "exportClassNameWithObjectUMD(target=es2015)",
+      "options": {
+        "module": "umd",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

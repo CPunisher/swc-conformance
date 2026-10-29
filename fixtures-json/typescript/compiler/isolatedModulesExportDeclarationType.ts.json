@@ -1,0 +1,98 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/type.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/test1.ts"
+    },
+    {
+      "lines": [
+        9,
+        15,
+        16,
+        17
+      ],
+      "name": "/test2.ts"
+    },
+    {
+      "lines": [
+        9,
+        20,
+        21
+      ],
+      "name": "/test3.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/test4.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedModulesExportDeclarationType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/type.ts"
+        },
+        {
+          "codes": [
+            2865
+          ],
+          "file": "/test1.ts"
+        },
+        {
+          "codes": [
+            2440,
+            1292
+          ],
+          "file": "/test2.ts"
+        },
+        {
+          "codes": [
+            1292
+          ],
+          "file": "/test3.ts"
+        },
+        {
+          "codes": [],
+          "file": "/test4.ts"
+        }
+      ],
+      "name": "isolatedModulesExportDeclarationType",
+      "options": {
+        "filename": "/test4.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

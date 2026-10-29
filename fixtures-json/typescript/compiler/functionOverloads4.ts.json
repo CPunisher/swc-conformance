@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "functionOverloads4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionOverloads4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2394
+          ],
+          "file": "functionOverloads4.ts"
+        }
+      ],
+      "name": "functionOverloads4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

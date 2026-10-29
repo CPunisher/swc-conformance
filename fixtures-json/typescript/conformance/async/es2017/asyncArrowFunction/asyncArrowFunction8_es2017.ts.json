@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "asyncArrowFunction8_es2017.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "es2017"
+  },
+  "path": "conformance/async/es2017/asyncArrowFunction/asyncArrowFunction8_es2017.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "asyncArrowFunction8_es2017.ts"
+        }
+      ],
+      "name": "asyncArrowFunction8_es2017",
+      "options": {
+        "noemithelpers": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

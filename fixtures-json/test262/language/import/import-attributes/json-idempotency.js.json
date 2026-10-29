@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes",
+      "json-modules",
+      "globalThis",
+      "dynamic-import"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-attributes/json-idempotency.js"
+}

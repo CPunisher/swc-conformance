@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "declFileTypeAnnotationStringLiteral.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/declFileTypeAnnotationStringLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declFileTypeAnnotationStringLiteral(target=es5)",
+      "options": {
+        "declaration": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "declFileTypeAnnotationStringLiteral(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

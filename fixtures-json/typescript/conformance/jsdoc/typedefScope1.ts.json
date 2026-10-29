@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "typedefScope1.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out/",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefScope1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "typedefScope1.js"
+        }
+      ],
+      "name": "typedefScope1",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "typedefScope1.js",
+        "outdir": "out/",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

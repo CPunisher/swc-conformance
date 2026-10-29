@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "instanceSubtypeCheck2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/instanceSubtypeCheck2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2416,
+            2416,
+            2564
+          ],
+          "file": "instanceSubtypeCheck2.ts"
+        }
+      ],
+      "name": "instanceSubtypeCheck2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

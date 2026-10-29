@@ -1,0 +1,153 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        26,
+        33,
+        34
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesSynchronousCallErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            1479,
+            1479,
+            1471
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            1471
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesSynchronousCallErrors(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            1479,
+            1479,
+            1471
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            1471
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesSynchronousCallErrors(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesSynchronousCallErrors(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesSynchronousCallErrors(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

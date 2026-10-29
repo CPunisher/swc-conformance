@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "octalIntegerLiteral.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/binaryAndOctalIntegerLiteral/octalIntegerLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "octalIntegerLiteral(target=es5)",
+      "options": {
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            7053,
+            7053,
+            7053,
+            7053,
+            7053,
+            7053
+          ],
+          "file": "octalIntegerLiteral.ts"
+        }
+      ],
+      "name": "octalIntegerLiteral(target=es2015)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "values-valid.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "values-bad-import.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "values-bad-export.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "values-no-as.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "values-type-as.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "type-decls-valid.ts"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "type-decls-bad-import.ts"
+    },
+    {
+      "lines": [
+        38,
+        39
+      ],
+      "name": "type-decls-bad-export.ts"
+    },
+    {
+      "lines": [
+        41,
+        42
+      ],
+      "name": "type-decls-no-as.ts"
+    },
+    {
+      "lines": [
+        44,
+        45
+      ],
+      "name": "type-decls-type-as.ts"
+    },
+    {
+      "lines": [
+        27,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "name": "type-clause-valid.ts"
+    },
+    {
+      "lines": [
+        54,
+        55
+      ],
+      "name": "type-clause-bad-import.ts"
+    },
+    {
+      "lines": [
+        57,
+        58
+      ],
+      "name": "type-clause-bad-export.ts"
+    },
+    {
+      "lines": [
+        60,
+        61
+      ],
+      "name": "type-clause-no-as.ts"
+    },
+    {
+      "lines": [
+        63,
+        64
+      ],
+      "name": "type-clause-type-as-as.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "ES2022",
+    "target": "ES2022"
+  },
+  "path": "conformance/es2022/arbitraryModuleNamespaceIdentifiers/arbitraryModuleNamespaceIdentifiers_syntax.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "values-valid.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "values-bad-import.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "values-bad-export.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "values-no-as.ts"
+        },
+        {
+          "codes": [
+            2305,
+            1003
+          ],
+          "file": "values-type-as.ts"
+        },
+        {
+          "codes": [],
+          "file": "type-decls-valid.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-decls-bad-import.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-decls-bad-export.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-decls-no-as.ts"
+        },
+        {
+          "codes": [
+            2305,
+            1003
+          ],
+          "file": "type-decls-type-as.ts"
+        },
+        {
+          "codes": [],
+          "file": "type-clause-valid.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-clause-bad-import.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-clause-bad-export.ts"
+        },
+        {
+          "codes": [
+            1003
+          ],
+          "file": "type-clause-no-as.ts"
+        },
+        {
+          "codes": [
+            2305,
+            1003
+          ],
+          "file": "type-clause-type-as-as.ts"
+        }
+      ],
+      "name": "arbitraryModuleNamespaceIdentifiers_syntax",
+      "options": {
+        "declaration": "true",
+        "filename": "type-clause-type-as-as.ts",
+        "module": "ES2022",
+        "target": "ES2022"
+      }
+    }
+  ]
+}

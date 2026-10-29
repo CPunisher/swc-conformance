@@ -1,0 +1,249 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "node.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "a-ext.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "b-ext.js"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "c-ext.js"
+    },
+    {
+      "lines": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "c.js"
+    },
+    {
+      "lines": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "d-ext.js"
+    },
+    {
+      "lines": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "d.js"
+    },
+    {
+      "lines": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "name": "e-ext.js"
+    },
+    {
+      "lines": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "name": "e.js"
+    },
+    {
+      "lines": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "name": "f.js"
+    },
+    {
+      "lines": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "name": "g.js"
+    },
+    {
+      "lines": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "name": "h.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/typeFromParamTagForFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node.d.ts"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "a-ext.js"
+        },
+        {
+          "codes": [
+            2749
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [],
+          "file": "b-ext.js"
+        },
+        {
+          "codes": [],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "c-ext.js"
+        },
+        {
+          "codes": [
+            2749
+          ],
+          "file": "c.js"
+        },
+        {
+          "codes": [
+            2683
+          ],
+          "file": "d-ext.js"
+        },
+        {
+          "codes": [
+            2749
+          ],
+          "file": "d.js"
+        },
+        {
+          "codes": [],
+          "file": "e-ext.js"
+        },
+        {
+          "codes": [],
+          "file": "e.js"
+        },
+        {
+          "codes": [
+            2683,
+            2749
+          ],
+          "file": "f.js"
+        },
+        {
+          "codes": [
+            2683,
+            2749
+          ],
+          "file": "g.js"
+        },
+        {
+          "codes": [],
+          "file": "h.js"
+        }
+      ],
+      "name": "typeFromParamTagForFunction",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "h.js",
+        "module": "commonjs",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

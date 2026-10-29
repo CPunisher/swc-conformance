@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        7,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "ts.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocParseBackquotedParamName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1016
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [],
+          "file": "ts.ts"
+        }
+      ],
+      "name": "jsdocParseBackquotedParamName",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "ts.ts",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

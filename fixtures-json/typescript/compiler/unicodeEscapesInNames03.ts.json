@@ -1,0 +1,198 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "propertyNameWithEscape1.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "propertyNameWithEscape2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "propertyNameWithEscape3.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "propertyNameWithExtendedEscape1.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "propertyNameWithExtendedEscape2.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "propertyNameWithExtendedEscape3.ts"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "shorthandPropertyNameWithEscape1.ts"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "name": "shorthandPropertyNameWithEscape2.ts"
+    },
+    {
+      "lines": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "shorthandPropertyNameWithEscape3.ts"
+    },
+    {
+      "lines": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "name": "shorthandPropertyNameWithExtendedEscape1.ts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "name": "shorthandPropertyNameWithExtendedEscape2.ts"
+    },
+    {
+      "lines": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "name": "shorthandPropertyNameWithExtendedEscape3.ts"
+    },
+    {
+      "lines": [
+        64,
+        65,
+        66
+      ],
+      "name": "typeVariableWithEscape1.ts"
+    },
+    {
+      "lines": [
+        68,
+        69,
+        70
+      ],
+      "name": "typeVariableWithEscape2.ts"
+    },
+    {
+      "lines": [
+        72,
+        73,
+        74
+      ],
+      "name": "typeVariableWithEscape3.ts"
+    },
+    {
+      "lines": [
+        76,
+        77,
+        78
+      ],
+      "name": "typeVariableWithExtendedEscape1.ts"
+    },
+    {
+      "lines": [
+        80,
+        81,
+        82
+      ],
+      "name": "typeVariableWithExtendedEscape2.ts"
+    },
+    {
+      "lines": [
+        84,
+        85,
+        86
+      ],
+      "name": "typeVariableWithExtendedEscape3.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "es5,es2015,esnext"
+  },
+  "path": "compiler/unicodeEscapesInNames03.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "unicodeEscapesInNames03(target=es5)",
+      "options": {
+        "filename": "typeVariableWithExtendedEscape3.ts",
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "unicodeEscapesInNames03(target=es2015)",
+      "options": {
+        "filename": "typeVariableWithExtendedEscape3.ts",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "unicodeEscapesInNames03(target=esnext)",
+      "options": {
+        "filename": "typeVariableWithExtendedEscape3.ts",
+        "sourcemap": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

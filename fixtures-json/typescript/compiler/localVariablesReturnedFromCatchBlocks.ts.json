@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "localVariablesReturnedFromCatchBlocks.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015",
+    "useunknownincatchvariables": "false"
+  },
+  "path": "compiler/localVariablesReturnedFromCatchBlocks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "localVariablesReturnedFromCatchBlocks",
+      "options": {
+        "target": "es2015",
+        "useunknownincatchvariables": "false"
+      }
+    }
+  ]
+}

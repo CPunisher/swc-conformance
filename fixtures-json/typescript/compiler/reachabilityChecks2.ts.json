@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "reachabilityChecks2.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "false",
+    "preserveconstenums": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/reachabilityChecks2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7027
+          ],
+          "file": "reachabilityChecks2.ts"
+        }
+      ],
+      "name": "reachabilityChecks2",
+      "options": {
+        "allowunreachablecode": "false",
+        "preserveconstenums": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

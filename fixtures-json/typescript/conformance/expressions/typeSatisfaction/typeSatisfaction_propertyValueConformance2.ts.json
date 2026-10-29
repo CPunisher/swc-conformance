@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "typeSatisfaction_propertyValueConformance2.ts"
+    }
+  ],
+  "options": {
+    "nouncheckedindexedaccess": "true, false",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeSatisfaction/typeSatisfaction_propertyValueConformance2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "nouncheckedindexedaccess=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2322
+          ],
+          "file": "typeSatisfaction_propertyValueConformance2.ts"
+        }
+      ],
+      "name": "typeSatisfaction_propertyValueConformance2(nouncheckedindexedaccess=true)",
+      "options": {
+        "nouncheckedindexedaccess": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "nouncheckedindexedaccess=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2322
+          ],
+          "file": "typeSatisfaction_propertyValueConformance2.ts"
+        }
+      ],
+      "name": "typeSatisfaction_propertyValueConformance2(nouncheckedindexedaccess=false)",
+      "options": {
+        "nouncheckedindexedaccess": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

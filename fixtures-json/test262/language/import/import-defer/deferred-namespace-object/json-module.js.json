@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "import-attributes",
+      "json-modules"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/deferred-namespace-object/json-module.js"
+}

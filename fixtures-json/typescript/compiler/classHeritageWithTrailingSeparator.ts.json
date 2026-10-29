@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "classHeritageWithTrailingSeparator.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classHeritageWithTrailingSeparator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            1009
+          ],
+          "file": "classHeritageWithTrailingSeparator.ts"
+        }
+      ],
+      "name": "classHeritageWithTrailingSeparator",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

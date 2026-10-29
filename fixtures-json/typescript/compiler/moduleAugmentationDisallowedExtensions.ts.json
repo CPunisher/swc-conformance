@@ -1,0 +1,121 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "x0.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "x.ts"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "observable.ts"
+    },
+    {
+      "lines": [
+        43,
+        44
+      ],
+      "name": "test.ts"
+    },
+    {
+      "lines": [
+        46,
+        47,
+        48
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationDisallowedExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "x0.ts"
+        },
+        {
+          "codes": [
+            2667,
+            2307,
+            2667,
+            2307,
+            2666,
+            2307,
+            2666,
+            2307,
+            2666
+          ],
+          "file": "x.ts"
+        },
+        {
+          "codes": [],
+          "file": "observable.ts"
+        },
+        {
+          "codes": [],
+          "file": "test.ts"
+        },
+        {
+          "codes": [],
+          "file": "main.ts"
+        }
+      ],
+      "name": "moduleAugmentationDisallowedExtensions",
+      "options": {
+        "filename": "main.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

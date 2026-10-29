@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "parserErrorRecovery_ClassElement1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ClassElements/parserErrorRecovery_ClassElement1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1068
+          ],
+          "file": "parserErrorRecovery_ClassElement1.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ClassElement1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

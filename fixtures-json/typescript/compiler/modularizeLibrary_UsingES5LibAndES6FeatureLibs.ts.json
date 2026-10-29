@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "modularizeLibrary_UsingES5LibAndES6FeatureLibs.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.core,es2015.symbol,es2015.proxy,es2015.generator,es2015.iterable,es2015.reflect",
+    "target": "es6"
+  },
+  "path": "compiler/modularizeLibrary_UsingES5LibAndES6FeatureLibs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modularizeLibrary_UsingES5LibAndES6FeatureLibs",
+      "options": {
+        "lib": "es5,es2015.core,es2015.symbol,es2015.proxy,es2015.generator,es2015.iterable,es2015.reflect",
+        "target": "es6"
+      }
+    }
+  ]
+}

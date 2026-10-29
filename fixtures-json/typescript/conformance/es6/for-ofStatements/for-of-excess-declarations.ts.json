@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "for-of-excess-declarations.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of-excess-declarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1188,
+            2304,
+            2538
+          ],
+          "file": "for-of-excess-declarations.ts"
+        }
+      ],
+      "name": "for-of-excess-declarations",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

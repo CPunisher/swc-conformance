@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "schema.d.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "reexporter.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/reexportDefaultIsCallable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reexportDefaultIsCallable",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "usage.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

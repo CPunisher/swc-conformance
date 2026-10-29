@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        16
+      ],
+      "name": "src/main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/pathsValidation5.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5090,
+            5090,
+            5090
+          ],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [
+            2882
+          ],
+          "file": "src/main.ts"
+        }
+      ],
+      "name": "pathsValidation5",
+      "options": {
+        "filename": "src/main.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

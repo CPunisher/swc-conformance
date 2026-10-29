@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "server.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "client.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/es6ExportClauseWithoutModuleSpecifierInEs5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es6ExportClauseWithoutModuleSpecifierInEs5(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "client.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "es6ExportClauseWithoutModuleSpecifierInEs5(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "client.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

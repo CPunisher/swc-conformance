@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserMemberAccessExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserMemberAccessExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            2304,
+            2304,
+            1477,
+            2304,
+            2304,
+            1477,
+            2304,
+            2304
+          ],
+          "file": "parserMemberAccessExpression1.ts"
+        }
+      ],
+      "name": "parserMemberAccessExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

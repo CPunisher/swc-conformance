@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "es6ExportEquals.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ExportEquals.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1203,
+            2309
+          ],
+          "file": "es6ExportEquals.ts"
+        }
+      ],
+      "name": "es6ExportEquals",
+      "options": {
+        "declaration": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

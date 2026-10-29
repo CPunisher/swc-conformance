@@ -1,0 +1,246 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        11,
+        18,
+        19
+      ],
+      "name": "subfolder/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "types.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "importhelpers": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/node/nodeModulesImportHelpersCollisions3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16,target=es5",
+      "diagnostics": [],
+      "name": "nodeModulesImportHelpersCollisions3(module=node16,target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node16",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=node16,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions3(module=node16,target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node16",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=node18,target=es5",
+      "diagnostics": [],
+      "name": "nodeModulesImportHelpersCollisions3(module=node18,target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node18",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=node18,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions3(module=node18,target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node18",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=node20,target=es5",
+      "diagnostics": [],
+      "name": "nodeModulesImportHelpersCollisions3(module=node20,target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node20",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=node20,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions3(module=node20,target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node20",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=nodenext,target=es5",
+      "diagnostics": [],
+      "name": "nodeModulesImportHelpersCollisions3(module=nodenext,target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "nodenext",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=nodenext,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesImportHelpersCollisions3(module=nodenext,target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "nodenext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/async-method-static/rest-params-trailing-comma-early-error.js"
+}

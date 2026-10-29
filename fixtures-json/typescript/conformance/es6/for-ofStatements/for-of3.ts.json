@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "for-of3.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2487
+          ],
+          "file": "for-of3.ts"
+        }
+      ],
+      "name": "for-of3",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

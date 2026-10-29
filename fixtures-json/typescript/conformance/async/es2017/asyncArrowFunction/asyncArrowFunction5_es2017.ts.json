@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "asyncArrowFunction5_es2017.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "es2017"
+  },
+  "path": "conformance/async/es2017/asyncArrowFunction/asyncArrowFunction5_es2017.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1359
+          ],
+          "file": "asyncArrowFunction5_es2017.ts"
+        }
+      ],
+      "name": "asyncArrowFunction5_es2017",
+      "options": {
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "es2017"
+      }
+    }
+  ]
+}

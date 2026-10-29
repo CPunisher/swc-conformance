@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "TypedArray",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/map/speciesctor-destination-backed-by-immutable-buffer.js"
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "errorMessageOnIntersectionsWithDiscriminants01.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/errorMessageOnIntersectionsWithDiscriminants01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "errorMessageOnIntersectionsWithDiscriminants01.ts"
+        }
+      ],
+      "name": "errorMessageOnIntersectionsWithDiscriminants01",
+      "options": {
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

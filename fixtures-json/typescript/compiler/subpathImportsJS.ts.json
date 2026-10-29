@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/src/subpath.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/subpathImportsJS.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "subpathImportsJS",
+      "options": {
+        "filename": "/src/index.ts"
+      }
+    }
+  ]
+}

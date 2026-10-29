@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "es2015"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionInUMD5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionInUMD5",
+      "options": {
+        "filename": "1.ts",
+        "module": "umd",
+        "target": "es2015"
+      }
+    }
+  ]
+}

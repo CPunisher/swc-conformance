@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "library.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "allowsyntheticdefaultimports": "true",
+    "module": "commonjs",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/typeOnlySyntheticDefaultImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeOnlySyntheticDefaultImport",
+      "options": {
+        "allowsyntheticdefaultimports": "true",
+        "filename": "main.ts",
+        "module": "commonjs",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

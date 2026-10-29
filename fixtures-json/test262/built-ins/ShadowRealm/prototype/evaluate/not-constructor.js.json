@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "ShadowRealm",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/ShadowRealm/prototype/evaluate/not-constructor.js"
+}

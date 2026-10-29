@@ -1,0 +1,30 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "commentEmitWithCommentOnLastLine.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/commentEmitWithCommentOnLastLine.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commentEmitWithCommentOnLastLine",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

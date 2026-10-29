@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "moduleClassArrayCodeGenTest.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/moduleClassArrayCodeGenTest.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2694
+          ],
+          "file": "moduleClassArrayCodeGenTest.ts"
+        }
+      ],
+      "name": "moduleClassArrayCodeGenTest",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

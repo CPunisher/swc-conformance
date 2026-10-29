@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocTypeTagParameterType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            7006,
+            2322
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsdocTypeTagParameterType",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

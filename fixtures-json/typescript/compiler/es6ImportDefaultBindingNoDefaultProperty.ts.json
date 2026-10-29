@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "es6ImportDefaultBindingNoDefaultProperty_0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "es6ImportDefaultBindingNoDefaultProperty_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/es6ImportDefaultBindingNoDefaultProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportDefaultBindingNoDefaultProperty_0.ts"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "es6ImportDefaultBindingNoDefaultProperty_1.ts"
+        }
+      ],
+      "name": "es6ImportDefaultBindingNoDefaultProperty",
+      "options": {
+        "filename": "es6ImportDefaultBindingNoDefaultProperty_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "modularizeLibrary_ErrorFromUsingES6ArrayWithOnlyES6ArrayLib.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015.core",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/modularizeLibrary_ErrorFromUsingES6ArrayWithOnlyES6ArrayLib.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "modularizeLibrary_ErrorFromUsingES6ArrayWithOnlyES6ArrayLib(target=es5)",
+      "options": {
+        "lib": "es2015.core",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2693
+          ],
+          "file": "modularizeLibrary_ErrorFromUsingES6ArrayWithOnlyES6ArrayLib.ts"
+        }
+      ],
+      "name": "modularizeLibrary_ErrorFromUsingES6ArrayWithOnlyES6ArrayLib(target=es2015)",
+      "options": {
+        "lib": "es2015.core",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "parserStrictMode12.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/parser/ecmascript5/StrictMode/parserStrictMode12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "parserStrictMode12(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1100
+          ],
+          "file": "parserStrictMode12.ts"
+        }
+      ],
+      "name": "parserStrictMode12(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

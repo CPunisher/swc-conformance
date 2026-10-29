@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/p1/node_modules/typescript-fsa/src/impl.d.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "/p1/node_modules/typescript-fsa/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/p1/node_modules/typescript-fsa/package.json"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/p2/node_modules/typescript-fsa/src/impl.d.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "/p2/node_modules/typescript-fsa/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/p2/node_modules/typescript-fsa/package.json"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/p1/index.ts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        37
+      ],
+      "name": "/p2/index.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015",
+    "usecasesensitivefilenames": "true"
+  },
+  "path": "compiler/declarationEmitForGlobalishSpecifierSymlink.ts",
+  "symlinks": {
+    "/p1/node_modules/p2": "/p2"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitForGlobalishSpecifierSymlink",
+      "options": {
+        "declaration": "true",
+        "filename": "/p2/index.d.ts",
+        "link": "/p2 -> /p1/node_modules/p2",
+        "module": "commonjs",
+        "target": "es2015",
+        "usecasesensitivefilenames": "true"
+      }
+    }
+  ]
+}

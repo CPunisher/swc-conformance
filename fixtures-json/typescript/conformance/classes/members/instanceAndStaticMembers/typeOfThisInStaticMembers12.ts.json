@@ -1,0 +1,99 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "typeOfThisInStaticMembers12.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es6, es5",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/classes/members/instanceAndStaticMembers/typeOfThisInStaticMembers12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1166,
+            2465,
+            2339,
+            1166,
+            2465,
+            2339
+          ],
+          "file": "typeOfThisInStaticMembers12.ts"
+        }
+      ],
+      "name": "typeOfThisInStaticMembers12(target=esnext)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            1166,
+            2465,
+            2339,
+            1166,
+            2465,
+            2339
+          ],
+          "file": "typeOfThisInStaticMembers12.ts"
+        }
+      ],
+      "name": "typeOfThisInStaticMembers12(target=es2022)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es6",
+      "diagnostics": [
+        {
+          "codes": [
+            1166,
+            2465,
+            2339,
+            1166,
+            2465,
+            2339
+          ],
+          "file": "typeOfThisInStaticMembers12.ts"
+        }
+      ],
+      "name": "typeOfThisInStaticMembers12(target=es6)",
+      "options": {
+        "target": "es6",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "typeOfThisInStaticMembers12(target=es5)",
+      "options": {
+        "target": "es5",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

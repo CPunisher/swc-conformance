@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noimplicitany": "true",
+    "outdir": "out",
+    "target": "esnext"
+  },
+  "path": "conformance/jsdoc/jsdocVariableDeclarationWithTypeAnnotation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocVariableDeclarationWithTypeAnnotation",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "foo.js",
+        "noimplicitany": "true",
+        "outdir": "out",
+        "target": "esnext"
+      }
+    }
+  ]
+}

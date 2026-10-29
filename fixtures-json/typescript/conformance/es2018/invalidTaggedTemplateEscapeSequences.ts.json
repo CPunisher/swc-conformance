@@ -1,0 +1,85 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "invalidTaggedTemplateEscapeSequences.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015, esnext"
+  },
+  "path": "conformance/es2018/invalidTaggedTemplateEscapeSequences.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "invalidTaggedTemplateEscapeSequences(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1125,
+            1125,
+            1125
+          ],
+          "file": "invalidTaggedTemplateEscapeSequences.ts"
+        }
+      ],
+      "name": "invalidTaggedTemplateEscapeSequences(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1125,
+            1125,
+            1125
+          ],
+          "file": "invalidTaggedTemplateEscapeSequences.ts"
+        }
+      ],
+      "name": "invalidTaggedTemplateEscapeSequences(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

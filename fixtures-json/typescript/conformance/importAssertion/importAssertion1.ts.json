@@ -1,0 +1,182 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "1.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "2.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "3.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "es2015, commonjs, esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/importAssertion/importAssertion1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2823,
+            2823,
+            2823
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [
+            2823,
+            2823
+          ],
+          "file": "2.ts"
+        },
+        {
+          "codes": [
+            1323,
+            1323,
+            1323,
+            1323,
+            1323,
+            1323,
+            1323,
+            1323,
+            1323
+          ],
+          "file": "3.ts"
+        }
+      ],
+      "name": "importAssertion1(module=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "3.ts",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2823,
+            2823,
+            2823
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [
+            2823,
+            2823
+          ],
+          "file": "2.ts"
+        },
+        {
+          "codes": [
+            1324,
+            1324,
+            1324,
+            1324,
+            1324,
+            1324,
+            1324,
+            1009
+          ],
+          "file": "3.ts"
+        }
+      ],
+      "name": "importAssertion1(module=commonjs)",
+      "options": {
+        "declaration": "true",
+        "filename": "3.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [],
+          "file": "1.ts"
+        },
+        {
+          "codes": [],
+          "file": "2.ts"
+        },
+        {
+          "codes": [],
+          "file": "3.ts"
+        }
+      ],
+      "name": "importAssertion1(module=esnext)",
+      "options": {
+        "declaration": "true",
+        "filename": "3.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

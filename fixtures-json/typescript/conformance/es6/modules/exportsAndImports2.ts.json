@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "t3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/es6/modules/exportsAndImports2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportsAndImports2",
+      "options": {
+        "filename": "t3.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

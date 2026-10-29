@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parseCommaSeparatedNewlineNumber.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parseCommaSeparatedNewlineNumber.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2695
+          ],
+          "file": "parseCommaSeparatedNewlineNumber.ts"
+        }
+      ],
+      "name": "parseCommaSeparatedNewlineNumber",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

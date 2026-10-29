@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "resolution",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-attributes/import-attribute-key-identifiername.js"
+}

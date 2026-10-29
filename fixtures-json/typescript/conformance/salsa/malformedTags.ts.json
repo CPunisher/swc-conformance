@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "myFile02.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "suppressoutputpathcheck": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/malformedTags.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "malformedTags",
+      "options": {
+        "allowjs": "true",
+        "filename": "myFile02.js",
+        "suppressoutputpathcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

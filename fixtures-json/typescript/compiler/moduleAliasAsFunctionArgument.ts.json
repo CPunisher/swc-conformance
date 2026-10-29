@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "moduleAliasAsFunctionArgument_0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "moduleAliasAsFunctionArgument_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAliasAsFunctionArgument.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "moduleAliasAsFunctionArgument_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "moduleAliasAsFunctionArgument_0.ts"
+        }
+      ],
+      "name": "moduleAliasAsFunctionArgument",
+      "options": {
+        "filename": "moduleAliasAsFunctionArgument_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

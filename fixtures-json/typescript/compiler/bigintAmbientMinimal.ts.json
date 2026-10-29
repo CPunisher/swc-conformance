@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "/ambient.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/bigintAmbientMinimal.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "bigintAmbientMinimal(target=es5)",
+      "options": {
+        "filename": "/main.ts",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/ambient.d.ts"
+        },
+        {
+          "codes": [
+            2737
+          ],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "bigintAmbientMinimal(target=es2015)",
+      "options": {
+        "filename": "/main.ts",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

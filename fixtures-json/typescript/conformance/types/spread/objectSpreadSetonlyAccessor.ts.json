@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "objectSpreadSetonlyAccessor.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/types/spread/objectSpreadSetonlyAccessor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2783
+          ],
+          "file": "objectSpreadSetonlyAccessor.ts"
+        }
+      ],
+      "name": "objectSpreadSetonlyAccessor",
+      "options": {
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

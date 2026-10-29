@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasUsageInArray_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "aliasUsageInArray_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "aliasUsageInArray_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasUsageInArray.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "aliasUsageInArray_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsageInArray_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "aliasUsageInArray_moduleA.ts"
+        }
+      ],
+      "name": "aliasUsageInArray",
+      "options": {
+        "filename": "aliasUsageInArray_main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

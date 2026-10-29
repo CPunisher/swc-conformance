@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserErrorRecovery_SourceUnit1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/SourceUnits/parserErrorRecovery_SourceUnit1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1128
+          ],
+          "file": "parserErrorRecovery_SourceUnit1.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_SourceUnit1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

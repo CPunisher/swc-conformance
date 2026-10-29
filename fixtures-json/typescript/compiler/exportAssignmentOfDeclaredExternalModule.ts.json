@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "exportAssignmentOfDeclaredExternalModule_0.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "exportAssignmentOfDeclaredExternalModule_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentOfDeclaredExternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693,
+            2693
+          ],
+          "file": "exportAssignmentOfDeclaredExternalModule_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportAssignmentOfDeclaredExternalModule_0.ts"
+        }
+      ],
+      "name": "exportAssignmentOfDeclaredExternalModule",
+      "options": {
+        "filename": "exportAssignmentOfDeclaredExternalModule_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

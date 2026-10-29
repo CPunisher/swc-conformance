@@ -1,0 +1,112 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "one.tsx"
+    },
+    {
+      "lines": [
+        4,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "two.tsx"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "three.tsx"
+    },
+    {
+      "lines": [
+        4,
+        12,
+        18,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "four.tsx"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react,react-jsx,react-jsxdev,preserve",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxRuntimePragma.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react",
+      "diagnostics": [],
+      "name": "jsxRuntimePragma(jsx=react)",
+      "options": {
+        "filename": "index.ts",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "jsxRuntimePragma(jsx=react-jsx)",
+      "options": {
+        "filename": "index.ts",
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [],
+      "name": "jsxRuntimePragma(jsx=react-jsxdev)",
+      "options": {
+        "filename": "index.ts",
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [],
+      "name": "jsxRuntimePragma(jsx=preserve)",
+      "options": {
+        "filename": "index.ts",
+        "jsx": "preserve",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

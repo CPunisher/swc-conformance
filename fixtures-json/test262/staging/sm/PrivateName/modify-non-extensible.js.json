@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private",
+      "class-fields-public",
+      "nonextensible-applies-to-private"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "staging/sm/PrivateName/modify-non-extensible.js"
+}

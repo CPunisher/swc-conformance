@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/typings/phaser/types/phaser.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "/typings/phaser/package.json"
+    },
+    {
+      "lines": [
+        18
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/typings",
+    "types": "phaser"
+  },
+  "path": "compiler/moduleResolutionAsTypeReferenceDirectiveAmbient.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionAsTypeReferenceDirectiveAmbient",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/typings",
+        "types": "phaser"
+      }
+    }
+  ]
+}

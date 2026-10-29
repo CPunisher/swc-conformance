@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/esm.mts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/not-actually-cjs.cts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/still-not-cjs.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext, preserve",
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerImportESM.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "bundlerImportESM(module=esnext)",
+      "options": {
+        "filename": "/still-not-cjs.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "bundlerImportESM(module=preserve)",
+      "options": {
+        "filename": "/still-not-cjs.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

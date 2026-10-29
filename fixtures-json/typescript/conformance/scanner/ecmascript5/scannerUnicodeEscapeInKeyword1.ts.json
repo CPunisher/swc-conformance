@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "scannerUnicodeEscapeInKeyword1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerUnicodeEscapeInKeyword1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1260
+          ],
+          "file": "scannerUnicodeEscapeInKeyword1.ts"
+        }
+      ],
+      "name": "scannerUnicodeEscapeInKeyword1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

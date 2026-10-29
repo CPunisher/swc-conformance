@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/src/projects/file1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/src/projects/node_modules/b.json"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/src/projects/node_modules/e.json"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/src/node_modules/c.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileNonRelativeWithoutExtension.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307
+          ],
+          "file": "/src/projects/file1.ts"
+        },
+        {
+          "codes": [],
+          "file": "/src/projects/node_modules/b.json"
+        },
+        {
+          "codes": [],
+          "file": "/src/projects/node_modules/e.json"
+        },
+        {
+          "codes": [],
+          "file": "/src/node_modules/c.json"
+        }
+      ],
+      "name": "requireOfJsonFileNonRelativeWithoutExtension",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/node_modules/c.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

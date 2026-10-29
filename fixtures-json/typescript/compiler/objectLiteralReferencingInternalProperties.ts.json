@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "objectLiteralReferencingInternalProperties.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLiteralReferencingInternalProperties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "objectLiteralReferencingInternalProperties.ts"
+        }
+      ],
+      "name": "objectLiteralReferencingInternalProperties",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

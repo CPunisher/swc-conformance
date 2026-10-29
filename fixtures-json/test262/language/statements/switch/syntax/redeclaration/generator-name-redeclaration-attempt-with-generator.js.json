@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "generators"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/switch/syntax/redeclaration/generator-name-redeclaration-attempt-with-generator.js"
+}

@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/nestedJSDocImportType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2306
+          ],
+          "file": "b.js"
+        }
+      ],
+      "name": "nestedJSDocImportType",
+      "options": {
+        "checkjs": "true",
+        "filename": "b.js",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

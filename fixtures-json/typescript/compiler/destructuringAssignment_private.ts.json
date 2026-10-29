@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "destructuringAssignment_private.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/destructuringAssignment_private.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2341,
+            2341,
+            2341,
+            2341
+          ],
+          "file": "destructuringAssignment_private.ts"
+        }
+      ],
+      "name": "destructuringAssignment_private",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

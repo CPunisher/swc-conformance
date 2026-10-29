@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocThisType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2339,
+            2339,
+            2339,
+            1005,
+            2683,
+            8030,
+            1005,
+            2683
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "jsdocThisType",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

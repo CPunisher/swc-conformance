@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "strictModeWordInImportDeclaration.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "compiler/strictModeWordInImportDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1214,
+            2307,
+            1214,
+            2307,
+            1214,
+            2307
+          ],
+          "file": "strictModeWordInImportDeclaration.ts"
+        }
+      ],
+      "name": "strictModeWordInImportDeclaration",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

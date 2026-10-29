@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/shared/node_modules/troublesome-lib/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/shared/node_modules/troublesome-lib/lib/Compactable.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/shared/node_modules/troublesome-lib/lib/Option.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/shared/lib/app.d.ts"
+    },
+    {
+      "lines": [
+        24
+      ],
+      "name": "/project/node_modules/anotherLib/index.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/project/node_modules/troublesome-lib/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/project/node_modules/troublesome-lib/lib/Compactable.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/project/node_modules/troublesome-lib/lib/Option.d.ts"
+    },
+    {
+      "lines": [
+        40,
+        41,
+        42
+      ],
+      "name": "/project/src/app.ts"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionPackageIdWithRelativeAndAbsolutePath.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "name": "/project/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionPackageIdWithRelativeAndAbsolutePath",
+      "options": {
+        "filename": "/project/tsconfig.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

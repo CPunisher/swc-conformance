@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/@types/see__saw/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "classic",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "types"
+  },
+  "path": "conformance/moduleResolution/scopedPackagesClassic.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "scopedPackagesClassic",
+      "options": {
+        "filename": "/a.ts",
+        "moduleresolution": "classic",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "types"
+      }
+    }
+  ]
+}

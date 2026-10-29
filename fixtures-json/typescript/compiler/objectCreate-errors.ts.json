@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "objectCreate-errors.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/objectCreate-errors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345,
+            2345,
+            2345,
+            2345,
+            2345,
+            2345,
+            2345
+          ],
+          "file": "objectCreate-errors.ts"
+        }
+      ],
+      "name": "objectCreate-errors",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

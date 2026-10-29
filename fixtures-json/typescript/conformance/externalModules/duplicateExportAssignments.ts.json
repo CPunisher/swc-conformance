@@ -1,0 +1,122 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "foo1.ts"
+    },
+    {
+      "lines": [
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "foo2.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "foo3.ts"
+    },
+    {
+      "lines": [
+        5,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "foo4.ts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "foo5.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/duplicateExportAssignments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "foo1.ts"
+        },
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "foo2.ts"
+        },
+        {
+          "codes": [
+            2564,
+            2300,
+            2300
+          ],
+          "file": "foo3.ts"
+        },
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "foo4.ts"
+        },
+        {
+          "codes": [
+            2300,
+            2300,
+            2300
+          ],
+          "file": "foo5.ts"
+        }
+      ],
+      "name": "duplicateExportAssignments",
+      "options": {
+        "filename": "foo5.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

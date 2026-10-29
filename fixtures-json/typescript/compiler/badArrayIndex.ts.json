@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "badArrayIndex.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/badArrayIndex.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693,
+            1011
+          ],
+          "file": "badArrayIndex.ts"
+        }
+      ],
+      "name": "badArrayIndex",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

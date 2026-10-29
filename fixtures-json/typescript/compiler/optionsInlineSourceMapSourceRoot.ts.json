@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "optionsInlineSourceMapSourceRoot.ts"
+    }
+  ],
+  "options": {
+    "inlinesourcemap": "true",
+    "sourceroot": "local",
+    "target": "es2015"
+  },
+  "path": "compiler/optionsInlineSourceMapSourceRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "optionsInlineSourceMapSourceRoot",
+      "options": {
+        "inlinesourcemap": "true",
+        "sourceroot": "local",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/declarationEmitPrivateMethodSignatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1128
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "declarationEmitPrivateMethodSignatures",
+      "options": {
+        "declaration": "true",
+        "filename": "a.ts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "recursiveTypeParameterConstraintReferenceLacksTypeArgs.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveTypeParameterConstraintReferenceLacksTypeArgs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2314
+          ],
+          "file": "recursiveTypeParameterConstraintReferenceLacksTypeArgs.ts"
+        }
+      ],
+      "name": "recursiveTypeParameterConstraintReferenceLacksTypeArgs",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

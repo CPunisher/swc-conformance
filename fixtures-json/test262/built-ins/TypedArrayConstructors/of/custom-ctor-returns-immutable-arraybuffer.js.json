@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.iterator",
+      "TypedArray",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/of/custom-ctor-returns-immutable-arraybuffer.js"
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "defaultKeywordWithoutExport2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/defaultKeywordWithoutExport2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1003
+          ],
+          "file": "defaultKeywordWithoutExport2.ts"
+        }
+      ],
+      "name": "defaultKeywordWithoutExport2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

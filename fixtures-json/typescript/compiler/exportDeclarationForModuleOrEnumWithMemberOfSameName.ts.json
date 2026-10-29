@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "exportDeclarationForModuleOrEnumWithMemberOfSameName.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs,system",
+    "notypesandsymbols": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/exportDeclarationForModuleOrEnumWithMemberOfSameName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "exportDeclarationForModuleOrEnumWithMemberOfSameName(module=commonjs)",
+      "options": {
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "exportDeclarationForModuleOrEnumWithMemberOfSameName(module=system)",
+      "options": {
+        "module": "system",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

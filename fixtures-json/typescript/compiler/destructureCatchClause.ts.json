@@ -1,0 +1,162 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "destructureCatchClause.ts"
+    }
+  ],
+  "options": {
+    "strict": "true, false",
+    "target": "es2015",
+    "useunknownincatchvariables": "true, false"
+  },
+  "path": "compiler/destructureCatchClause.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true,useunknownincatchvariables=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339,
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339
+          ],
+          "file": "destructureCatchClause.ts"
+        }
+      ],
+      "name": "destructureCatchClause(strict=true,useunknownincatchvariables=true)",
+      "options": {
+        "strict": "true",
+        "target": "es2015",
+        "useunknownincatchvariables": "true"
+      }
+    },
+    {
+      "config": "strict=true,useunknownincatchvariables=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339
+          ],
+          "file": "destructureCatchClause.ts"
+        }
+      ],
+      "name": "destructureCatchClause(strict=true,useunknownincatchvariables=false)",
+      "options": {
+        "strict": "true",
+        "target": "es2015",
+        "useunknownincatchvariables": "false"
+      }
+    },
+    {
+      "config": "strict=false,useunknownincatchvariables=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339,
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339
+          ],
+          "file": "destructureCatchClause.ts"
+        }
+      ],
+      "name": "destructureCatchClause(strict=false,useunknownincatchvariables=true)",
+      "options": {
+        "strict": "false",
+        "target": "es2015",
+        "useunknownincatchvariables": "true"
+      }
+    },
+    {
+      "config": "strict=false,useunknownincatchvariables=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2488,
+            2339,
+            2339,
+            2488,
+            2488,
+            2339
+          ],
+          "file": "destructureCatchClause.ts"
+        }
+      ],
+      "name": "destructureCatchClause(strict=false,useunknownincatchvariables=false)",
+      "options": {
+        "strict": "false",
+        "target": "es2015",
+        "useunknownincatchvariables": "false"
+      }
+    }
+  ]
+}

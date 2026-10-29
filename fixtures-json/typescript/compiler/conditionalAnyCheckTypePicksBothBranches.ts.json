@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "conditionalAnyCheckTypePicksBothBranches.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/conditionalAnyCheckTypePicksBothBranches.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "conditionalAnyCheckTypePicksBothBranches.ts"
+        }
+      ],
+      "name": "conditionalAnyCheckTypePicksBothBranches",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

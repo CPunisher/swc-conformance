@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "src/component.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "src/main.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "src/main2.ts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true"
+  },
+  "path": "compiler/declarationEmitAliasesOfArrowsWillingToUseTypeof.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitAliasesOfArrowsWillingToUseTypeof",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "src/main2.ts"
+      }
+    }
+  ]
+}

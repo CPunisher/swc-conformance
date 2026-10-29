@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "es6ModuleWithModuleGenTargetCommonjs.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES6"
+  },
+  "path": "compiler/es6ModuleWithModuleGenTargetCommonjs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "es6ModuleWithModuleGenTargetCommonjs",
+      "options": {
+        "module": "commonjs",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-private",
+      "class-fields-public",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/grammar-private-environment-on-class-heritage.js"
+}

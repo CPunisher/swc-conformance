@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-attributes"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/import-attributes/early-dup-attribute-key-import-nobinding.js"
+}

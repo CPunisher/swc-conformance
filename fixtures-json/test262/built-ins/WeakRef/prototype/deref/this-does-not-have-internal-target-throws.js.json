@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "WeakSet",
+      "WeakMap",
+      "WeakRef",
+      "FinalizationRegistry"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakRef/prototype/deref/this-does-not-have-internal-target-throws.js"
+}

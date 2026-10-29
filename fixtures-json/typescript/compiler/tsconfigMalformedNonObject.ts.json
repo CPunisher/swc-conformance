@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/tsconfigMalformedNonObject.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      1
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2688,
+            2688,
+            2688
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        }
+      ],
+      "name": "tsconfigMalformedNonObject",
+      "options": {
+        "filename": "index.ts"
+      }
+    }
+  ]
+}

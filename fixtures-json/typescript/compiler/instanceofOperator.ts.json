@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "instanceofOperator.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/instanceofOperator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "instanceofOperator(target=es5)",
+      "options": {
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2725,
+            2358,
+            2359,
+            2359,
+            2359,
+            2358,
+            2359,
+            2358,
+            2359
+          ],
+          "file": "instanceofOperator.ts"
+        }
+      ],
+      "name": "instanceofOperator(target=es2015)",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "inferTypesWithExtendsDependingOnTypeVariables.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/conditional/inferTypesWithExtendsDependingOnTypeVariables.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "inferTypesWithExtendsDependingOnTypeVariables",
+      "options": {
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

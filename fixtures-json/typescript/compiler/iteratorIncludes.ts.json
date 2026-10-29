@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "iteratorIncludes.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015, esnext.iterator",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/iteratorIncludes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "iteratorIncludes.ts"
+        }
+      ],
+      "name": "iteratorIncludes",
+      "options": {
+        "lib": "es2015, esnext.iterator",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

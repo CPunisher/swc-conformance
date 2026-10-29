@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "interfaceWithAccessibilityModifiers.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/interfaces/interfaceDeclarations/interfaceWithAccessibilityModifiers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1070,
+            1070,
+            1070
+          ],
+          "file": "interfaceWithAccessibilityModifiers.ts"
+        }
+      ],
+      "name": "interfaceWithAccessibilityModifiers",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "unicodeExtendedEscapesInTemplates05.ts"
+    }
+  ],
+  "options": {
+    "target": "es5,es6"
+  },
+  "path": "conformance/es6/unicodeExtendedEscapes/unicodeExtendedEscapesInTemplates05.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "unicodeExtendedEscapesInTemplates05(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es6",
+      "diagnostics": [],
+      "name": "unicodeExtendedEscapesInTemplates05(target=es6)",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

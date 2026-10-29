@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "module.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "function.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/internalModules/DeclarationMerging/AmbientModuleAndAmbientFunctionWithTheSameNameAndCommonRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "AmbientModuleAndAmbientFunctionWithTheSameNameAndCommonRoot",
+      "options": {
+        "filename": "test.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

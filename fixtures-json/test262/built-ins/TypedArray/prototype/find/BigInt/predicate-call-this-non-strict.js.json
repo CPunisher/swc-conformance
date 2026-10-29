@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "built-ins/TypedArray/prototype/find/BigInt/predicate-call-this-non-strict.js"
+}

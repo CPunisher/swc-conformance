@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "declFileAmbientExternalModuleWithSingleExportedModule_0.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "declFileAmbientExternalModuleWithSingleExportedModule_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileAmbientExternalModuleWithSingleExportedModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declFileAmbientExternalModuleWithSingleExportedModule",
+      "options": {
+        "declaration": "true",
+        "filename": "declFileAmbientExternalModuleWithSingleExportedModule_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

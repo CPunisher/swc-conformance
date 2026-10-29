@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/switch/syntax/redeclaration/async-generator-name-redeclaration-attempt-with-async-function.js"
+}

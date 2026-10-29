@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "commonjs",
+    "moduleresolution": "classic",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/esDecorators/classDeclaration/esDecorators-classDeclaration-missingEmitHelpers-staticComputedMethod.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-missingEmitHelpers-staticComputedMethod",
+      "options": {
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "moduleresolution": "classic",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

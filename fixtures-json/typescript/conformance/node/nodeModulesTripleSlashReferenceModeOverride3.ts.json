@@ -1,0 +1,205 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/node_modules/pkg/import.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        21,
+        22
+      ],
+      "name": "/node_modules/pkg/require.d.ts"
+    },
+    {
+      "lines": [
+        5,
+        25,
+        26,
+        27
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "node16,node18,node20,nodenext",
+    "noimplicitreferences": "true",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesTripleSlashReferenceModeOverride3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        }
+      ],
+      "name": "nodeModulesTripleSlashReferenceModeOverride3(module=node16)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "node16",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        }
+      ],
+      "name": "nodeModulesTripleSlashReferenceModeOverride3(module=node18)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "node18",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        }
+      ],
+      "name": "nodeModulesTripleSlashReferenceModeOverride3(module=node20)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "node20",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        }
+      ],
+      "name": "nodeModulesTripleSlashReferenceModeOverride3(module=nodenext)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "nodenext",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

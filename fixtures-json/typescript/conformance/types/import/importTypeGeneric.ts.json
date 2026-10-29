@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        3,
+        8,
+        9
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "conformance/types/import/importTypeGeneric.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "b.d.ts"
+        },
+        {
+          "codes": [
+            1141,
+            1141
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "importTypeGeneric",
+      "options": {
+        "declaration": "true",
+        "filename": "usage.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

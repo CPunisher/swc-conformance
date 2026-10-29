@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource8",
+      "options": {
+        "filename": "b.ts",
+        "lib": "esnext",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

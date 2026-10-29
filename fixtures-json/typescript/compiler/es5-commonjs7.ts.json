@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "test.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "false",
+    "module": "commonjs",
+    "sourcemap": "false",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es5-commonjs7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5-commonjs7(target=es5)",
+      "options": {
+        "declaration": "false",
+        "filename": "test.d.ts",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "es5-commonjs7(target=es2015)",
+      "options": {
+        "declaration": "false",
+        "filename": "test.d.ts",
+        "module": "commonjs",
+        "sourcemap": "false",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

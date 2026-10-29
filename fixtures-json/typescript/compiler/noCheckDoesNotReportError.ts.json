@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "noCheckDoesNotReportError.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "nocheck": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noCheckDoesNotReportError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noCheckDoesNotReportError",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "nocheck": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

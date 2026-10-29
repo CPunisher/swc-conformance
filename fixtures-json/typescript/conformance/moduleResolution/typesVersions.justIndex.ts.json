@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/a/package.json"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/a/ts3.1/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/b/user.ts"
+    }
+  ],
+  "options": {
+    "baseurl": "/",
+    "module": "commonjs",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/typesVersions.justIndex.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typesVersions.justIndex",
+      "options": {
+        "baseurl": "/",
+        "filename": "/b/user.ts",
+        "module": "commonjs",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

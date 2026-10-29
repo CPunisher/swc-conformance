@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "exportAssignmentInterface_A.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "exportAssignmentInterface_B.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentInterface.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "exportAssignmentInterface_B.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportAssignmentInterface_A.ts"
+        }
+      ],
+      "name": "exportAssignmentInterface",
+      "options": {
+        "filename": "exportAssignmentInterface_B.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

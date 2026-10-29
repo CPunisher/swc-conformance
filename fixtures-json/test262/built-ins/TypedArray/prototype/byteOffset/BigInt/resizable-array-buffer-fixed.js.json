@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "ArrayBuffer",
+      "BigInt",
+      "TypedArray",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/byteOffset/BigInt/resizable-array-buffer-fixed.js"
+}

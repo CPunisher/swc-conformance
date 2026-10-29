@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserStrictMode3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/StrictMode/parserStrictMode3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1100,
+            2630
+          ],
+          "file": "parserStrictMode3.ts"
+        }
+      ],
+      "name": "parserStrictMode3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

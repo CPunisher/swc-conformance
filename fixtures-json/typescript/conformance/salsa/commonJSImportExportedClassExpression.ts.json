@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "main.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "mod1.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/commonJSImportExportedClassExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commonJSImportExportedClassExpression",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "mod1.js",
+        "outdir": "out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "for-of32.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of32.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022
+          ],
+          "file": "for-of32.ts"
+        }
+      ],
+      "name": "for-of32",
+      "options": {
+        "noimplicitany": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

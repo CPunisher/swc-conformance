@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        0,
+        1
+      ],
+      "name": "malformedObjectDestructuringAssignmentClassFields.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/malformedObjectDestructuringAssignmentClassFields.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1136,
+            1005,
+            1127,
+            1109,
+            1005
+          ],
+          "file": "malformedObjectDestructuringAssignmentClassFields.ts"
+        }
+      ],
+      "name": "malformedObjectDestructuringAssignmentClassFields",
+      "options": {}
+    }
+  ]
+}

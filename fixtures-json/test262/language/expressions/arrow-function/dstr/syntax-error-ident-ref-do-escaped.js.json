@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "arrow-function",
+      "destructuring-assignment"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/arrow-function/dstr/syntax-error-ident-ref-do-escaped.js"
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "privateNameNotAccessibleOutsideDefiningClass.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameNotAccessibleOutsideDefiningClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18013
+          ],
+          "file": "privateNameNotAccessibleOutsideDefiningClass.ts"
+        }
+      ],
+      "name": "privateNameNotAccessibleOutsideDefiningClass",
+      "options": {
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

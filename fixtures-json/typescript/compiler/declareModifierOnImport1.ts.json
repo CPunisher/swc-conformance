@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "declareModifierOnImport1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/declareModifierOnImport1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1079,
+            2503
+          ],
+          "file": "declareModifierOnImport1.ts"
+        }
+      ],
+      "name": "declareModifierOnImport1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

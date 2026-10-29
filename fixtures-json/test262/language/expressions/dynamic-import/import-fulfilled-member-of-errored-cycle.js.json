@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await",
+      "dynamic-import"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-fulfilled-member-of-errored-cycle.js"
+}

@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "classWithPredefinedTypesAsNames.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classWithPredefinedTypesAsNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2414,
+            2414,
+            2414,
+            2414
+          ],
+          "file": "classWithPredefinedTypesAsNames.ts"
+        }
+      ],
+      "name": "classWithPredefinedTypesAsNames",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxParsingErrorImmediateSpreadInAttributeValue.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            1003
+          ],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "jsxParsingErrorImmediateSpreadInAttributeValue",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

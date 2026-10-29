@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "pi.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "system",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDefaultExportWithTempVarName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitDefaultExportWithTempVarName",
+      "options": {
+        "declaration": "true",
+        "filename": "pi.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

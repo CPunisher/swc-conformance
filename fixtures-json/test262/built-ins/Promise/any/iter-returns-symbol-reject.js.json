@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any",
+      "Symbol.iterator"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/iter-returns-symbol-reject.js"
+}

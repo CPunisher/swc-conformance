@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "decoratorCallGeneric.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/decoratorCallGeneric.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1238,
+            1238,
+            1238,
+            1238
+          ],
+          "file": "decoratorCallGeneric.ts"
+        }
+      ],
+      "name": "decoratorCallGeneric",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

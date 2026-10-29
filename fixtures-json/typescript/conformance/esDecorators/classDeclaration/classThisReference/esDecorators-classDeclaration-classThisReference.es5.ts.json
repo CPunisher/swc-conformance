@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "esDecorators-classDeclaration-classThisReference.es5.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/esDecorators/classDeclaration/classThisReference/esDecorators-classDeclaration-classThisReference.es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-classThisReference.es5(target=es5)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-classThisReference.es5(target=es2015)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

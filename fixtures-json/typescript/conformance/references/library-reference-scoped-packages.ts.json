@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/@types/beep__boop/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "types"
+  },
+  "path": "conformance/references/library-reference-scoped-packages.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "library-reference-scoped-packages",
+      "options": {
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "types"
+      }
+    }
+  ]
+}

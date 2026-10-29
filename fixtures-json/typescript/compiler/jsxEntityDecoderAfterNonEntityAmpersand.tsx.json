@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "jsxEntityDecoderAfterNonEntityAmpersand.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "esnext"
+  },
+  "path": "compiler/jsxEntityDecoderAfterNonEntityAmpersand.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874,
+            7026,
+            7026,
+            2874,
+            7026,
+            7026,
+            2874,
+            7026,
+            7026,
+            2874,
+            7026,
+            7026,
+            2874,
+            7026
+          ],
+          "file": "jsxEntityDecoderAfterNonEntityAmpersand.tsx"
+        }
+      ],
+      "name": "jsxEntityDecoderAfterNonEntityAmpersand",
+      "options": {
+        "jsx": "react",
+        "target": "esnext"
+      }
+    }
+  ]
+}

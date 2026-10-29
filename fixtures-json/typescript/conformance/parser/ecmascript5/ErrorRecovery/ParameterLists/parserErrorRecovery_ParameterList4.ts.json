@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserErrorRecovery_ParameterList4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ParameterLists/parserErrorRecovery_ParameterList4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006,
+            1127
+          ],
+          "file": "parserErrorRecovery_ParameterList4.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ParameterList4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

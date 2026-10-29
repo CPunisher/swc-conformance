@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserErrantAccessibilityModifierInModule1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserErrantAccessibilityModifierInModule1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1128,
+            2304,
+            2304
+          ],
+          "file": "parserErrantAccessibilityModifierInModule1.ts"
+        }
+      ],
+      "name": "parserErrantAccessibilityModifierInModule1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

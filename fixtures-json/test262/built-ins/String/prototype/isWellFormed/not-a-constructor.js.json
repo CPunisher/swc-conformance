@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "String.prototype.isWellFormed",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/String/prototype/isWellFormed/not-a-constructor.js"
+}

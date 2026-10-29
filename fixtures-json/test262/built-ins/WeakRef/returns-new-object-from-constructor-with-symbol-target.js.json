@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "WeakRef",
+      "symbols-as-weakmap-keys"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/WeakRef/returns-new-object-from-constructor-with-symbol-target.js"
+}

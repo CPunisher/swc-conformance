@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        38,
+        39
+      ],
+      "name": "t3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "path": "conformance/es6/modules/exportsAndImports4-es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportsAndImports4-es6",
+      "options": {
+        "filename": "t3.ts",
+        "module": "commonjs",
+        "target": "es6"
+      }
+    }
+  ]
+}

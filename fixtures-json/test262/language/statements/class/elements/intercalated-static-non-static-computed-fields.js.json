@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-fields-public",
+      "class-fields-public",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/intercalated-static-non-static-computed-fields.js"
+}

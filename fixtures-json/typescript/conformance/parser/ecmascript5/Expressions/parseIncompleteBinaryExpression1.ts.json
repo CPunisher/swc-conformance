@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parseIncompleteBinaryExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parseIncompleteBinaryExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            2304
+          ],
+          "file": "parseIncompleteBinaryExpression1.ts"
+        }
+      ],
+      "name": "parseIncompleteBinaryExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "decoratorOnClassMethod8.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/decorators/class/method/decoratorOnClassMethod8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorOnClassMethod8(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1241,
+            1241,
+            1270
+          ],
+          "file": "decoratorOnClassMethod8.ts"
+        }
+      ],
+      "name": "decoratorOnClassMethod8(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

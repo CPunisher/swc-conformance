@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "0.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "suppressoutputpathcheck": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocOptionalParamOrder.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1016
+          ],
+          "file": "0.js"
+        }
+      ],
+      "name": "checkJsdocOptionalParamOrder",
+      "options": {
+        "allowjs": "true",
+        "filename": "0.js",
+        "suppressoutputpathcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

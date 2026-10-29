@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "implementsClauseAlreadySeen.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/implementsClauseAlreadySeen.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1175
+          ],
+          "file": "implementsClauseAlreadySeen.ts"
+        }
+      ],
+      "name": "implementsClauseAlreadySeen",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

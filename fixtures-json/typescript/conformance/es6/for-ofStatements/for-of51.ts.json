@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "for-of51.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of51.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2480
+          ],
+          "file": "for-of51.ts"
+        }
+      ],
+      "name": "for-of51",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

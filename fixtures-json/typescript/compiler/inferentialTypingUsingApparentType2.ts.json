@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "inferentialTypingUsingApparentType2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/inferentialTypingUsingApparentType2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "inferentialTypingUsingApparentType2.ts"
+        }
+      ],
+      "name": "inferentialTypingUsingApparentType2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

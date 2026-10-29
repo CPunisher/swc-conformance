@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "useSharedArrayBuffer5.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,es2017.sharedmemory",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2017/useSharedArrayBuffer5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "useSharedArrayBuffer5(target=es5)",
+      "options": {
+        "lib": "es6,es2017.sharedmemory",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "useSharedArrayBuffer5(target=es2015)",
+      "options": {
+        "lib": "es6,es2017.sharedmemory",
+        "target": "es2015"
+      }
+    }
+  ]
+}

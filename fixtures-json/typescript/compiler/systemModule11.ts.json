@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "file2.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "file3.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "file4.ts"
+    },
+    {
+      "lines": [
+        41,
+        42
+      ],
+      "name": "file5.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "system",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/systemModule11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "systemModule11",
+      "options": {
+        "filename": "file5.ts",
+        "isolatedmodules": "true",
+        "module": "system",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

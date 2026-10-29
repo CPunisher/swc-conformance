@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "reverseMappedTypeLimitedConstraint.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/reverseMappedTypeLimitedConstraint.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2353,
+            2353
+          ],
+          "file": "reverseMappedTypeLimitedConstraint.ts"
+        }
+      ],
+      "name": "reverseMappedTypeLimitedConstraint",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

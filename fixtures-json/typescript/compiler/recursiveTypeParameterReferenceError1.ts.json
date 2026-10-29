@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "recursiveTypeParameterReferenceError1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveTypeParameterReferenceError1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2564,
+            2454
+          ],
+          "file": "recursiveTypeParameterReferenceError1.ts"
+        }
+      ],
+      "name": "recursiveTypeParameterReferenceError1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

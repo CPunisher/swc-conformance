@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "bug27346.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typeTagCircularReferenceOnConstructorFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2749,
+            8030
+          ],
+          "file": "bug27346.js"
+        }
+      ],
+      "name": "typeTagCircularReferenceOnConstructorFunction",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug27346.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

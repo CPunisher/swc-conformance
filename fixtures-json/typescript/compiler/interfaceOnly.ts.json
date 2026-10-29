@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "interfaceOnly.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/interfaceOnly.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "interfaceOnly",
+      "options": {
+        "declaration": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

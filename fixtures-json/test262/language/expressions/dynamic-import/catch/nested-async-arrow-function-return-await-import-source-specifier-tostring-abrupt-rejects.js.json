@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/catch/nested-async-arrow-function-return-await-import-source-specifier-tostring-abrupt-rejects.js"
+}

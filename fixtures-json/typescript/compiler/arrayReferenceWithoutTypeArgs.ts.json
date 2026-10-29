@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "arrayReferenceWithoutTypeArgs.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/arrayReferenceWithoutTypeArgs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2314
+          ],
+          "file": "arrayReferenceWithoutTypeArgs.ts"
+        }
+      ],
+      "name": "arrayReferenceWithoutTypeArgs",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "missingArgument1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingArgument1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            1135,
+            2304
+          ],
+          "file": "missingArgument1.ts"
+        }
+      ],
+      "name": "missingArgument1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

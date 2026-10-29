@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/@foo/bar/package.json"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/@foo/bar/index.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "true",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport_noImplicitAny_scoped.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7016,
+            7016
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@foo/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@foo/bar/index.js"
+        }
+      ],
+      "name": "untypedModuleImport_noImplicitAny_scoped",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitany": "true",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

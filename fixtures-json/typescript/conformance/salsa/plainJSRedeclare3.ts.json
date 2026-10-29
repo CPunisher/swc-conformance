@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "plainJSRedeclare.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "outdir": "out/",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/plainJSRedeclare3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "plainJSRedeclare3",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "plainJSRedeclare.js",
+        "outdir": "out/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

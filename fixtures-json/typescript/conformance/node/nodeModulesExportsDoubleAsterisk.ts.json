@@ -1,0 +1,125 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/node_modules/double-asterisk/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/double-asterisk/example.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/main.mts"
+    }
+  ],
+  "options": {
+    "module": "node18,node20,nodenext",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesExportsDoubleAsterisk.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/example.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsDoubleAsterisk(module=node18)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "node18",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/example.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsDoubleAsterisk(module=node20)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "node20",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/double-asterisk/example.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsDoubleAsterisk(module=nodenext)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

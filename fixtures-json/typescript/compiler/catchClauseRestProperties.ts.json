@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "catchClauseRestProperties.ts"
+    }
+  ],
+  "options": {
+    "target": "es2017"
+  },
+  "path": "compiler/catchClauseRestProperties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2700
+          ],
+          "file": "catchClauseRestProperties.ts"
+        }
+      ],
+      "name": "catchClauseRestProperties",
+      "options": {
+        "target": "es2017"
+      }
+    }
+  ]
+}

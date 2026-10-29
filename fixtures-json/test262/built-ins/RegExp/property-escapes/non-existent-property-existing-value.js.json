@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-unicode-property-escapes"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/property-escapes/non-existent-property-existing-value.js"
+}

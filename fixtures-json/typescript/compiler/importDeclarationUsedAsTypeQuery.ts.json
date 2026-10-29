@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "importDeclarationUsedAsTypeQuery_require.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "importDeclarationUsedAsTypeQuery_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importDeclarationUsedAsTypeQuery.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "importDeclarationUsedAsTypeQuery_1.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "importDeclarationUsedAsTypeQuery_require.ts"
+        }
+      ],
+      "name": "importDeclarationUsedAsTypeQuery",
+      "options": {
+        "declaration": "true",
+        "filename": "importDeclarationUsedAsTypeQuery_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

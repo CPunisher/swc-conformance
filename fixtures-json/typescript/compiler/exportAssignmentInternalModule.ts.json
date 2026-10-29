@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "exportAssignmentInternalModule_A.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "exportAssignmentInternalModule_B.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentInternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "exportAssignmentInternalModule_B.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportAssignmentInternalModule_A.ts"
+        }
+      ],
+      "name": "exportAssignmentInternalModule",
+      "options": {
+        "filename": "exportAssignmentInternalModule_B.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

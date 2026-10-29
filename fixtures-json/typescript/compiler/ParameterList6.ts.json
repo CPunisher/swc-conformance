@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "ParameterList6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/ParameterList6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2369,
+            7006
+          ],
+          "file": "ParameterList6.ts"
+        }
+      ],
+      "name": "ParameterList6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "node_modules/ext/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "node_modules/ext/index.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "node_modules/ext/other.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "node_modules/ext/ts3.1/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "node_modules/ext/ts3.1/other.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/typesVersions.multiFile.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      33
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typesVersions.multiFile",
+      "options": {
+        "filename": "tsconfig.json",
+        "module": "commonjs",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

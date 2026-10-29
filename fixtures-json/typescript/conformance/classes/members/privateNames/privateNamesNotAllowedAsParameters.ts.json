@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "privateNamesNotAllowedAsParameters.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesNotAllowedAsParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18009
+          ],
+          "file": "privateNamesNotAllowedAsParameters.ts"
+        }
+      ],
+      "name": "privateNamesNotAllowedAsParameters",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

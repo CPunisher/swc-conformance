@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "incremental": "true",
+    "target": "es2015",
+    "tsbuildinfofile": "/a.tsbuildinfo"
+  },
+  "path": "compiler/incrementalTsBuildInfoFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "incrementalTsBuildInfoFile",
+      "options": {
+        "filename": "/a.ts",
+        "incremental": "true",
+        "target": "es2015",
+        "tsbuildinfofile": "/a.tsbuildinfo"
+      }
+    }
+  ]
+}

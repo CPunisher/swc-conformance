@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "missingDomElements.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "target": "es2015"
+  },
+  "path": "compiler/missingDomElements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2812,
+            2812,
+            2812,
+            2812,
+            2339,
+            2339
+          ],
+          "file": "missingDomElements.ts"
+        }
+      ],
+      "name": "missingDomElements",
+      "options": {
+        "lib": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "typeParametersInStaticAccessors.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeParametersInStaticAccessors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2302,
+            2322,
+            2302
+          ],
+          "file": "typeParametersInStaticAccessors.ts"
+        }
+      ],
+      "name": "typeParametersInStaticAccessors",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

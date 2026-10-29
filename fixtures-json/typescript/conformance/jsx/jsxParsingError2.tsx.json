@@ -1,0 +1,115 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "file.tsx"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "Error1.tsx"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "Error2.tsx"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "Error3.tsx"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "Error4.tsx"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29
+      ],
+      "name": "Error5.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxParsingError2.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file.tsx"
+        },
+        {
+          "codes": [
+            17008
+          ],
+          "file": "Error1.tsx"
+        },
+        {
+          "codes": [
+            17002
+          ],
+          "file": "Error2.tsx"
+        },
+        {
+          "codes": [
+            17008,
+            1005
+          ],
+          "file": "Error3.tsx"
+        },
+        {
+          "codes": [
+            17008,
+            17002,
+            1005
+          ],
+          "file": "Error4.tsx"
+        },
+        {
+          "codes": [
+            17008,
+            17008,
+            1005
+          ],
+          "file": "Error5.tsx"
+        }
+      ],
+      "name": "jsxParsingError2",
+      "options": {
+        "filename": "Error5.tsx",
+        "jsx": "preserve",
+        "target": "es2015"
+      }
+    }
+  ]
+}

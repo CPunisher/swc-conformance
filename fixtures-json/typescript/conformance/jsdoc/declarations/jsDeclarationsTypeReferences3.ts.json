@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "node_modules/@types/node/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+    "target": "es5, es2015",
+    "types": "*"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsTypeReferences3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsTypeReferences3(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es5",
+        "types": "*"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/node/index.d.ts"
+        }
+      ],
+      "name": "jsDeclarationsTypeReferences3(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "outdir": "tests/cases/conformance/jsdoc/declarations/out",
+        "target": "es2015",
+        "types": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserConstructorDeclaration2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ConstructorDeclarations/parserConstructorDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1089
+          ],
+          "file": "parserConstructorDeclaration2.ts"
+        }
+      ],
+      "name": "parserConstructorDeclaration2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/exportStarForValuesInSystem.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportStarForValuesInSystem",
+      "options": {
+        "filename": "file2.ts",
+        "module": "system",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

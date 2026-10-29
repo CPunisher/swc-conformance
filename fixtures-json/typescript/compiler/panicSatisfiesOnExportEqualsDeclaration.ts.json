@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "panicSatisfiesOnExportEqualsDeclaration.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "esnext,dom,dom.iterable",
+    "module": "commonjs",
+    "noemit": "true"
+  },
+  "path": "compiler/panicSatisfiesOnExportEqualsDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "panicSatisfiesOnExportEqualsDeclaration",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "panicSatisfiesOnExportEqualsDeclaration.js",
+        "lib": "esnext,dom,dom.iterable",
+        "module": "commonjs",
+        "noemit": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "class-methods-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/async-gen-private-method/await-as-label-identifier-escaped.js"
+}

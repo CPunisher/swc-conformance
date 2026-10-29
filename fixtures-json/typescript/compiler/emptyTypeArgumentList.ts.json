@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "emptyTypeArgumentList.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/emptyTypeArgumentList.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1099,
+            1099
+          ],
+          "file": "emptyTypeArgumentList.ts"
+        }
+      ],
+      "name": "emptyTypeArgumentList",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/typings/dummy.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/phaser/types/phaser.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/phaser/package.json"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/typings",
+    "types": "phaser"
+  },
+  "path": "compiler/typeReferenceDirectiveWithFailedFromTypeRoot.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2688,
+            2688,
+            2688
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/typings/dummy.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/phaser/types/phaser.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/phaser/package.json"
+        }
+      ],
+      "name": "typeReferenceDirectiveWithFailedFromTypeRoot",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/typings",
+        "types": "phaser"
+      }
+    }
+  ]
+}

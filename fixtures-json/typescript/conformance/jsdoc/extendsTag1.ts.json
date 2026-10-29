@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "bug25101.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "esnext",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/extendsTag1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "extendsTag1",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug25101.js",
+        "lib": "esnext",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

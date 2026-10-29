@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "primitiveConstraints1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/primitiveConstraints1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2344,
+            2344
+          ],
+          "file": "primitiveConstraints1.ts"
+        }
+      ],
+      "name": "primitiveConstraints1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

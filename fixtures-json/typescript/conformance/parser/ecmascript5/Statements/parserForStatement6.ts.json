@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserForStatement6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserForStatement6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2406,
+            2304
+          ],
+          "file": "parserForStatement6.ts"
+        }
+      ],
+      "name": "parserForStatement6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

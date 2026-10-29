@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "noImplicitAnyLoopCrash.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/noImplicitAnyLoopCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "noImplicitAnyLoopCrash(target=es5)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2556,
+            2488
+          ],
+          "file": "noImplicitAnyLoopCrash.ts"
+        }
+      ],
+      "name": "noImplicitAnyLoopCrash(target=es2015)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "computedPropertiesTransformedInOtherwiseNonTSClasses.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "target": "es2015"
+  },
+  "path": "compiler/computedPropertiesTransformedInOtherwiseNonTSClasses.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "computedPropertiesTransformedInOtherwiseNonTSClasses.ts"
+        }
+      ],
+      "name": "computedPropertiesTransformedInOtherwiseNonTSClasses",
+      "options": {
+        "lib": "es6",
+        "target": "es2015"
+      }
+    }
+  ]
+}

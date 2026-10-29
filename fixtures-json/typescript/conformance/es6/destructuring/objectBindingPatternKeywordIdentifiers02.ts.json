@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "objectBindingPatternKeywordIdentifiers02.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/destructuring/objectBindingPatternKeywordIdentifiers02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1359,
+            1005
+          ],
+          "file": "objectBindingPatternKeywordIdentifiers02.ts"
+        }
+      ],
+      "name": "objectBindingPatternKeywordIdentifiers02",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

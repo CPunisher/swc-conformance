@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "FunctionDeclaration13_es6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/functionDeclarations/FunctionDeclaration13_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2304
+          ],
+          "file": "FunctionDeclaration13_es6.ts"
+        }
+      ],
+      "name": "FunctionDeclaration13_es6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

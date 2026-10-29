@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "m1.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "m2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/modules/defaultExportsCannotMerge03.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "defaultExportsCannotMerge03(target=es5)",
+      "options": {
+        "filename": "m2.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2652,
+            2652
+          ],
+          "file": "m1.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "m2.ts"
+        }
+      ],
+      "name": "defaultExportsCannotMerge03(target=es2015)",
+      "options": {
+        "filename": "m2.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

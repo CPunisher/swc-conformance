@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "constructorTagOnNestedBinaryExpression.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/constructorTagOnNestedBinaryExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "constructorTagOnNestedBinaryExpression",
+      "options": {
+        "allowjs": "true",
+        "filename": "constructorTagOnNestedBinaryExpression.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

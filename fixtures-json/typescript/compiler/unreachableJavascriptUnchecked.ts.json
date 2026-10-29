@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "unreachable.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/unreachableJavascriptUnchecked.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "unreachableJavascriptUnchecked",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "unreachable.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

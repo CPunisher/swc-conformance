@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs"
+  },
+  "path": "compiler/readonlyDefaultExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2540
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "readonlyDefaultExport",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs"
+      }
+    }
+  ]
+}

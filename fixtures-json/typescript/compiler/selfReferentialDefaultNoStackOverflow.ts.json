@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "QSpinner.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/selfReferentialDefaultNoStackOverflow.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022
+          ],
+          "file": "QSpinner.js"
+        }
+      ],
+      "name": "selfReferentialDefaultNoStackOverflow",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "QSpinner.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "addMoreOverloadsToBaseSignature.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/addMoreOverloadsToBaseSignature.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2430,
+            2430,
+            2430,
+            2430
+          ],
+          "file": "addMoreOverloadsToBaseSignature.ts"
+        }
+      ],
+      "name": "addMoreOverloadsToBaseSignature",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "assignmentToVoidZero2.js"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "importer.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "noimplicitany": "true",
+    "outdir": "auss",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/assignmentToVoidZero2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7008,
+            7008,
+            2683,
+            2683,
+            7009
+          ],
+          "file": "assignmentToVoidZero2.js"
+        },
+        {
+          "codes": [],
+          "file": "importer.js"
+        }
+      ],
+      "name": "assignmentToVoidZero2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "importer.js",
+        "module": "commonjs",
+        "noimplicitany": "true",
+        "outdir": "auss",
+        "target": "es2015"
+      }
+    }
+  ]
+}

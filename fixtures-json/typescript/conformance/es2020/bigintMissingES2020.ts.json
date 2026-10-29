@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "bigintMissingES2020.ts"
+    }
+  ],
+  "options": {
+    "lib": "dom,es2017",
+    "target": "es2020"
+  },
+  "path": "conformance/es2020/bigintMissingES2020.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "bigintMissingES2020",
+      "options": {
+        "lib": "dom,es2017",
+        "target": "es2020"
+      }
+    }
+  ]
+}

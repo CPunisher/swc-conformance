@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "numericUnderscoredSeparator.ts"
+    }
+  ],
+  "options": {
+    "target": "es5,es2015,es2016,es2017,es2018,es2019,esnext"
+  },
+  "path": "compiler/numericUnderscoredSeparator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es2016",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es2016)",
+      "options": {
+        "target": "es2016"
+      }
+    },
+    {
+      "config": "target=es2017",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es2017)",
+      "options": {
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "target=es2018",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es2018)",
+      "options": {
+        "target": "es2018"
+      }
+    },
+    {
+      "config": "target=es2019",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=es2019)",
+      "options": {
+        "target": "es2019"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "numericUnderscoredSeparator(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

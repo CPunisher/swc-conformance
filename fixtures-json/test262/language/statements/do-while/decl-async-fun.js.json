@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/do-while/decl-async-fun.js"
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "source-phase-imports-module-source",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/valid/nested-with-import-source-script-code-valid.js"
+}

@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "noImplicitAnyDestructuringVarDeclaration.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noImplicitAnyDestructuringVarDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1182,
+            7031,
+            1182,
+            7031,
+            1182,
+            1182,
+            1182,
+            1182,
+            1182,
+            7008,
+            7008
+          ],
+          "file": "noImplicitAnyDestructuringVarDeclaration.ts"
+        }
+      ],
+      "name": "noImplicitAnyDestructuringVarDeclaration",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

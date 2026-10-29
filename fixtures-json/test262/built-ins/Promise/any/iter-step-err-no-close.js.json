@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any",
+      "Symbol.iterator",
+      "computed-property-names",
+      "Symbol",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/iter-step-err-no-close.js"
+}

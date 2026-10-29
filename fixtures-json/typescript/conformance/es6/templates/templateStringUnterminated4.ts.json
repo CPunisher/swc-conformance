@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "templateStringUnterminated4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringUnterminated4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1160
+          ],
+          "file": "templateStringUnterminated4.ts"
+        }
+      ],
+      "name": "templateStringUnterminated4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

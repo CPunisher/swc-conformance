@@ -1,0 +1,90 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "tile1.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32
+      ],
+      "name": "file1.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/subclassThisTypeAssignable01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2344,
+            2744,
+            2344,
+            2416,
+            2416,
+            2416,
+            2416,
+            2416,
+            2416,
+            2416,
+            2322,
+            2322
+          ],
+          "file": "tile1.ts"
+        },
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "file1.js"
+        }
+      ],
+      "name": "subclassThisTypeAssignable01",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "file1.js",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

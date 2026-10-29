@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "x.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportsAliasLoop2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "x.js"
+        }
+      ],
+      "name": "moduleExportsAliasLoop2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "x.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "indirectSelfReferenceGeneric.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/indirectSelfReferenceGeneric.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2449,
+            2506
+          ],
+          "file": "indirectSelfReferenceGeneric.ts"
+        }
+      ],
+      "name": "indirectSelfReferenceGeneric",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

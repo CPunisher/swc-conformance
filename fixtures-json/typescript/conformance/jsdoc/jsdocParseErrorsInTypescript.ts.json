@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "jsdocParseErrorsInTypescript.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocParseErrorsInTypescript.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "jsdocParseErrorsInTypescript.ts"
+        }
+      ],
+      "name": "jsdocParseErrorsInTypescript",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

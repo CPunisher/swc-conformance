@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-private",
+      "class-fields-private-in"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/in/private-field-invalid-identifier-simple.js"
+}

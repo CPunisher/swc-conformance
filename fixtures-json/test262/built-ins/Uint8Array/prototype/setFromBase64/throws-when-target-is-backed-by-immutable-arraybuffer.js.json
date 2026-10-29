@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "uint8array-base64",
+      "immutable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Uint8Array/prototype/setFromBase64/throws-when-target-is-backed-by-immutable-arraybuffer.js"
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "unusedTypeParametersWithUnderscore.ts"
+    }
+  ],
+  "options": {
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedTypeParametersWithUnderscore.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6196,
+            6196,
+            6196,
+            6196,
+            6196,
+            6196
+          ],
+          "file": "unusedTypeParametersWithUnderscore.ts"
+        }
+      ],
+      "name": "unusedTypeParametersWithUnderscore",
+      "options": {
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

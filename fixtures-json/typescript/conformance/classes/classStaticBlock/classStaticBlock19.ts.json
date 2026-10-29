@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "classStaticBlock19.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock19.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "classStaticBlock19.ts"
+        }
+      ],
+      "name": "classStaticBlock19",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

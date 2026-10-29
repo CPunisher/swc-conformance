@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "useBeforeDeclaration_destructuring.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/useBeforeDeclaration_destructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2448,
+            2454
+          ],
+          "file": "useBeforeDeclaration_destructuring.ts"
+        }
+      ],
+      "name": "useBeforeDeclaration_destructuring",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

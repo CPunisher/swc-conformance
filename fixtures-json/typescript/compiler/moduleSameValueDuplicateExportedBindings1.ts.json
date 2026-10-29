@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        10
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleSameValueDuplicateExportedBindings1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleSameValueDuplicateExportedBindings1",
+      "options": {
+        "filename": "c.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

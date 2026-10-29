@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "t3.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "t4.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/modules/exportStar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportStar(target=es5)",
+      "options": {
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "t1.ts"
+        },
+        {
+          "codes": [],
+          "file": "t2.ts"
+        },
+        {
+          "codes": [],
+          "file": "t3.ts"
+        },
+        {
+          "codes": [
+            2308,
+            2308
+          ],
+          "file": "t4.ts"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "main.ts"
+        }
+      ],
+      "name": "exportStar(target=es2015)",
+      "options": {
+        "filename": "main.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

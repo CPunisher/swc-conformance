@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "false",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "path": "conformance/externalModules/typeOnly/allowsImportingTsExtension.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [
+            5097,
+            5097,
+            5097
+          ],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            2846,
+            2846,
+            2846
+          ],
+          "file": "c.ts"
+        }
+      ],
+      "name": "allowsImportingTsExtension",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "filename": "c.ts",
+        "module": "esnext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "for-of2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1155,
+            7005,
+            2588
+          ],
+          "file": "for-of2.ts"
+        }
+      ],
+      "name": "for-of2",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

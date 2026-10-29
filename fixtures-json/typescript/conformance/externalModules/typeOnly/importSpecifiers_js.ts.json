@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "./a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "./a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importSpecifiers_js.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            8006
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "importSpecifiers_js",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "./a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

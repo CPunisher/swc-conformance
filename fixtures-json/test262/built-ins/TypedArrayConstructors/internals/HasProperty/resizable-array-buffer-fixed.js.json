@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect",
+      "TypedArray",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/HasProperty/resizable-array-buffer-fixed.js"
+}

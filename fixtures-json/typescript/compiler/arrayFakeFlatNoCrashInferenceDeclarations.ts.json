@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "arrayFakeFlatNoCrashInferenceDeclarations.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es2020",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/arrayFakeFlatNoCrashInferenceDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5088
+          ],
+          "file": "arrayFakeFlatNoCrashInferenceDeclarations.ts"
+        }
+      ],
+      "name": "arrayFakeFlatNoCrashInferenceDeclarations",
+      "options": {
+        "declaration": "true",
+        "lib": "es2020",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

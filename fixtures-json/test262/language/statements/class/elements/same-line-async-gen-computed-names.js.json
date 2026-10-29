@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-public",
+      "computed-property-names",
+      "class",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/same-line-async-gen-computed-names.js"
+}

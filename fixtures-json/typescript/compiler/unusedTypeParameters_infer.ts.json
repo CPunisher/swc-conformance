@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "unusedTypeParameters_infer.ts"
+    }
+  ],
+  "options": {
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedTypeParameters_infer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6196
+          ],
+          "file": "unusedTypeParameters_infer.ts"
+        }
+      ],
+      "name": "unusedTypeParameters_infer",
+      "options": {
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

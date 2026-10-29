@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/copyWithin/non-negative-out-of-bounds-target-and-start.js"
+}

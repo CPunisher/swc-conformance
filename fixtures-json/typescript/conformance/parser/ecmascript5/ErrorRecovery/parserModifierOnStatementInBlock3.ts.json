@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserModifierOnStatementInBlock3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserModifierOnStatementInBlock3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1184
+          ],
+          "file": "parserModifierOnStatementInBlock3.ts"
+        }
+      ],
+      "name": "parserModifierOnStatementInBlock3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "octalLiteralInStrictModeES3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/StrictMode/octalLiteralInStrictModeES3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1121
+          ],
+          "file": "octalLiteralInStrictModeES3.ts"
+        }
+      ],
+      "name": "octalLiteralInStrictModeES3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

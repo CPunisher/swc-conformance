@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "sourceMapUnclosedBlock.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true"
+  },
+  "path": "compiler/sourceMapUnclosedBlock.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "sourceMapUnclosedBlock.ts"
+        }
+      ],
+      "name": "sourceMapUnclosedBlock",
+      "options": {
+        "sourcemap": "true"
+      }
+    }
+  ]
+}

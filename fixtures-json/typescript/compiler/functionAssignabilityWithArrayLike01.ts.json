@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "functionAssignabilityWithArrayLike01.ts"
+    }
+  ],
+  "options": {
+    "strict": "true, false",
+    "target": "es2015"
+  },
+  "path": "compiler/functionAssignabilityWithArrayLike01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "functionAssignabilityWithArrayLike01.ts"
+        }
+      ],
+      "name": "functionAssignabilityWithArrayLike01(strict=true)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strict=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "functionAssignabilityWithArrayLike01.ts"
+        }
+      ],
+      "name": "functionAssignabilityWithArrayLike01(strict=false)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

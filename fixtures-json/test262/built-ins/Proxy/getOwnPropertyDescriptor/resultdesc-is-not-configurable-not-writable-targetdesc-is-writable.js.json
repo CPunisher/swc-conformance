@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "proxy-missing-checks"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/getOwnPropertyDescriptor/resultdesc-is-not-configurable-not-writable-targetdesc-is-writable.js"
+}

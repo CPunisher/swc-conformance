@@ -1,0 +1,85 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/a.mts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ],
+      "name": "/b.cts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        22,
+        23
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        25,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        37,
+        38,
+        39
+      ],
+      "name": "/node_modules/tslib/tslib.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "preserve",
+    "target": "es2022"
+  },
+  "path": "compiler/modulePreserveImportHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePreserveImportHelpers",
+      "options": {
+        "filename": "/node_modules/tslib/tslib.d.ts",
+        "importhelpers": "true",
+        "module": "preserve",
+        "target": "es2022"
+      }
+    }
+  ]
+}

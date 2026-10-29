@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "implementClausePrecedingExtends.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/implementClausePrecedingExtends.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            1173
+          ],
+          "file": "implementClausePrecedingExtends.ts"
+        }
+      ],
+      "name": "implementClausePrecedingExtends",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

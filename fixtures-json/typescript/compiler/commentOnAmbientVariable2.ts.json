@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "commentOnAmbientVariable2_1.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "commentOnAmbientVariable2_2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/commentOnAmbientVariable2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commentOnAmbientVariable2",
+      "options": {
+        "filename": "commentOnAmbientVariable2_2.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

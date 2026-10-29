@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "task.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "path": "conformance/async/es6/asyncImportedPromise_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "task.ts"
+        },
+        {
+          "codes": [
+            1064,
+            2322,
+            2322
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "asyncImportedPromise_es6",
+      "options": {
+        "filename": "test.ts",
+        "module": "commonjs",
+        "target": "es6"
+      }
+    }
+  ]
+}

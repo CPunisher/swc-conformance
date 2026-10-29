@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "classExpressionPropertyModifiers.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/classExpressionPropertyModifiers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1039,
+            1031
+          ],
+          "file": "classExpressionPropertyModifiers.ts"
+        }
+      ],
+      "name": "classExpressionPropertyModifiers",
+      "options": {
+        "lib": "es6",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "accessorBodyInTypeContext.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/accessorBodyInTypeContext.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1183,
+            1183,
+            1183,
+            1183
+          ],
+          "file": "accessorBodyInTypeContext.ts"
+        }
+      ],
+      "name": "accessorBodyInTypeContext",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

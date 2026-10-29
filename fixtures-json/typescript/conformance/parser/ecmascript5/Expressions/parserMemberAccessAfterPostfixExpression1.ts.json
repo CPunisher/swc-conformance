@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "parserMemberAccessAfterPostfixExpression1.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parserMemberAccessAfterPostfixExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1005,
+            2552
+          ],
+          "file": "parserMemberAccessAfterPostfixExpression1.ts"
+        }
+      ],
+      "name": "parserMemberAccessAfterPostfixExpression1",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

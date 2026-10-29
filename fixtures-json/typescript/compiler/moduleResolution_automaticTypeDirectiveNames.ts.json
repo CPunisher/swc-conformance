@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/node_modules/@types/.a/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/@types/a/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "types": "*"
+  },
+  "path": "compiler/moduleResolution_automaticTypeDirectiveNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolution_automaticTypeDirectiveNames",
+      "options": {
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "types": "*"
+      }
+    }
+  ]
+}

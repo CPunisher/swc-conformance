@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "domIterableSymbolMappedValue.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext, dom",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/domIterableSymbolMappedValue.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345,
+            2345,
+            2345
+          ],
+          "file": "domIterableSymbolMappedValue.ts"
+        }
+      ],
+      "name": "domIterableSymbolMappedValue",
+      "options": {
+        "lib": "esnext, dom",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

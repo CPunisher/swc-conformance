@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "typecheckCommaExpression.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typecheckCommaExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2695,
+            2304
+          ],
+          "file": "typecheckCommaExpression.ts"
+        }
+      ],
+      "name": "typecheckCommaExpression",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

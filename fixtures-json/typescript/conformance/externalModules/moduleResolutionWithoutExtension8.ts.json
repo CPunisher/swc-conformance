@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/src/bar.cts"
+    }
+  ],
+  "options": {
+    "module": "node16",
+    "moduleresolution": "node16",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/moduleResolutionWithoutExtension8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2834
+          ],
+          "file": "/src/bar.cts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension8",
+      "options": {
+        "filename": "/src/bar.cts",
+        "module": "node16",
+        "moduleresolution": "node16",
+        "target": "es2022"
+      }
+    }
+  ]
+}

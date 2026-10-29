@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "noUnusedLocals_destructuringAssignment.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noUnusedLocals_destructuringAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "noUnusedLocals_destructuringAssignment.ts"
+        }
+      ],
+      "name": "noUnusedLocals_destructuringAssignment",
+      "options": {
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

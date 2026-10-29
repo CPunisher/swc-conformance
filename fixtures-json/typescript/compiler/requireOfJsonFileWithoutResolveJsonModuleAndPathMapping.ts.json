@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/bar/foobar.json"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "esmoduleinterop": "true",
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "resolvejsonmodule": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/requireOfJsonFileWithoutResolveJsonModuleAndPathMapping.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileWithoutResolveJsonModuleAndPathMapping",
+      "options": {
+        "allowjs": "true",
+        "esmoduleinterop": "true",
+        "filename": "/tsconfig.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "resolvejsonmodule": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

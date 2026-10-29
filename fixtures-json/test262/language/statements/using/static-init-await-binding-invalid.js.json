@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-static-block",
+      "explicit-resource-management"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/using/static-init-await-binding-invalid.js"
+}

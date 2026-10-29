@@ -1,0 +1,29 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "recursiveConditionalCrash1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveConditionalCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "recursiveConditionalCrash1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "top-level-await"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/errors/get-self-while-evaluating-async/main.js"
+}

@@ -1,0 +1,30 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "file.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "ignoredeprecations": "5.0",
+    "importsnotusedasvalues": "error",
+    "module": "commonjs",
+    "target": "es2015",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "compiler/noCrashWithVerbatimModuleSyntaxAndImportsNotUsedAsValues.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": []
+}

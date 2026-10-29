@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsDeclarationEmitExportAssignedFunctionWithExtraTypedefsMembers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationEmitExportAssignedFunctionWithExtraTypedefsMembers",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "index.js",
+        "outdir": "out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

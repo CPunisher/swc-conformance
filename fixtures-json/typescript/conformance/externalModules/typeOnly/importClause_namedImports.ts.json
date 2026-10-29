@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "/abc.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/d.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importClause_namedImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/abc.ts"
+        },
+        {
+          "codes": [
+            1361,
+            1361
+          ],
+          "file": "/d.ts"
+        }
+      ],
+      "name": "importClause_namedImports",
+      "options": {
+        "filename": "/d.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

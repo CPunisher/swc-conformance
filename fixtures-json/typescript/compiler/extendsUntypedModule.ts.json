@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/bar/index.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "nounusedlocals": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/extendsUntypedModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.js"
+        }
+      ],
+      "name": "extendsUntypedModule",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "nounusedlocals": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource17.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2339,
+            2339,
+            7036,
+            7036,
+            7036,
+            7036,
+            2559,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2880,
+            2693,
+            2315
+          ],
+          "file": "index.ts"
+        }
+      ],
+      "name": "importSource17",
+      "options": {
+        "filename": "index.ts",
+        "module": "esnext",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

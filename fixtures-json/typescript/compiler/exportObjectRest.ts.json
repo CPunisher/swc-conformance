@@ -1,0 +1,110 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "exportObjectRest.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs,system,es2015,esnext",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext,es5"
+  },
+  "path": "compiler/exportObjectRest.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs,target=esnext",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=commonjs,target=esnext)",
+      "options": {
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=commonjs,target=es5",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=commonjs,target=es5)",
+      "options": {
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=system,target=esnext",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=system,target=esnext)",
+      "options": {
+        "module": "system",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=system,target=es5",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=system,target=es5)",
+      "options": {
+        "module": "system",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=es2015,target=esnext",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=es2015,target=esnext)",
+      "options": {
+        "module": "es2015",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=es2015,target=es5",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=es2015,target=es5)",
+      "options": {
+        "module": "es2015",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "module=esnext,target=esnext",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=esnext,target=esnext)",
+      "options": {
+        "module": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext,target=es5",
+      "diagnostics": [],
+      "name": "exportObjectRest(module=esnext,target=es5)",
+      "options": {
+        "module": "esnext",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    }
+  ]
+}

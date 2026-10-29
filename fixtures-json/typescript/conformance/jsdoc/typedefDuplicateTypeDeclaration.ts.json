@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "typedefDuplicateTypeDeclaration.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefDuplicateTypeDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            8033
+          ],
+          "file": "typedefDuplicateTypeDeclaration.js"
+        }
+      ],
+      "name": "typedefDuplicateTypeDeclaration",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "typedefDuplicateTypeDeclaration.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "module": "commonjs",
+    "skiplibcheck": "true",
+    "target": "es6"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionNestedCJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionNestedCJS",
+      "options": {
+        "filename": "index.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

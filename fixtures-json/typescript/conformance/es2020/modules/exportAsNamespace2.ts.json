@@ -1,0 +1,150 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "1.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "esmoduleinterop": "true",
+    "module": "esnext, es2015, commonjs, system, umd",
+    "target": "es2015"
+  },
+  "path": "conformance/es2020/modules/exportAsNamespace2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [],
+          "file": "2.ts"
+        }
+      ],
+      "name": "exportAsNamespace2(module=esnext)",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "2.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [],
+          "file": "2.ts"
+        }
+      ],
+      "name": "exportAsNamespace2(module=es2015)",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "2.ts",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [],
+          "file": "2.ts"
+        }
+      ],
+      "name": "exportAsNamespace2(module=commonjs)",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "2.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "exportAsNamespace2(module=system)",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "2.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=umd",
+      "diagnostics": [],
+      "name": "exportAsNamespace2(module=umd)",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "2.ts",
+        "module": "umd",
+        "target": "es2015"
+      }
+    }
+  ]
+}

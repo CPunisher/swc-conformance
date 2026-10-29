@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "ReferenceError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/identifier-resolution/assign-to-global-undefined.js"
+}

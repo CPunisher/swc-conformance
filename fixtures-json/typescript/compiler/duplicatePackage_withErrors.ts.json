@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/node_modules/a/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/a/node_modules/x/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/a/node_modules/x/package.json"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/node_modules/b/index.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/node_modules/b/node_modules/x/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/b/node_modules/x/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/src/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicatePackage_withErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/index.d.ts"
+        },
+        {
+          "codes": [
+            1254
+          ],
+          "file": "/node_modules/a/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/a/node_modules/x/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/node_modules/x/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/b/node_modules/x/package.json"
+        }
+      ],
+      "name": "duplicatePackage_withErrors",
+      "options": {
+        "filename": "/src/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

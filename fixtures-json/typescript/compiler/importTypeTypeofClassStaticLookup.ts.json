@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "index.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/importTypeTypeofClassStaticLookup.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importTypeTypeofClassStaticLookup",
+      "options": {
+        "filename": "index.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl.NumberFormat-unified",
+      "Intl.NumberFormat-v3"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "temporalHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/NumberFormat/constructor-option-read-order.js"
+}

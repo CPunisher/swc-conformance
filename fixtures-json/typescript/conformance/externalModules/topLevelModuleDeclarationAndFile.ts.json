@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "vs/foo_0/index.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "foo_1.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "foo_2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/topLevelModuleDeclarationAndFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "foo_2.ts"
+        },
+        {
+          "codes": [],
+          "file": "vs/foo_0/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo_1.ts"
+        }
+      ],
+      "name": "topLevelModuleDeclarationAndFile",
+      "options": {
+        "filename": "foo_2.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

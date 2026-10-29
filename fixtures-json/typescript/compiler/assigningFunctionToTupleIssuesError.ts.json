@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "assigningFunctionToTupleIssuesError.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/assigningFunctionToTupleIssuesError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "assigningFunctionToTupleIssuesError.ts"
+        }
+      ],
+      "name": "assigningFunctionToTupleIssuesError",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

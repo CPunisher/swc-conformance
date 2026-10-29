@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unmetTypeConstraintInImportCall.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2344
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "unmetTypeConstraintInImportCall",
+      "options": {
+        "filename": "file2.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

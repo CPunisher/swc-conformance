@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "emitArrowFunctionsAsIs.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionsAsIs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emitArrowFunctionsAsIs(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emitArrowFunctionsAsIs(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

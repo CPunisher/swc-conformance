@@ -1,0 +1,576 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder/index.cts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "subfolder/index.mts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder2/index.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder2/index.cts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "subfolder2/index.mts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "subfolder2/another/index.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "subfolder2/another/index.mts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "subfolder2/another/index.cts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "index.mts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "index.cts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        52,
+        59,
+        60
+      ],
+      "name": "subfolder/package.json"
+    },
+    {
+      "lines": [
+        52,
+        56
+      ],
+      "name": "subfolder2/package.json"
+    },
+    {
+      "lines": [
+        52,
+        55,
+        56
+      ],
+      "name": "subfolder2/another/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesForbidenSyntax.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/package.json"
+        }
+      ],
+      "name": "nodeModulesForbidenSyntax(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder2/another/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/package.json"
+        }
+      ],
+      "name": "nodeModulesForbidenSyntax(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder2/another/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/package.json"
+        }
+      ],
+      "name": "nodeModulesForbidenSyntax(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder2/another/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/index.mts"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/index.ts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "subfolder2/another/index.cts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.mts"
+        },
+        {
+          "codes": [
+            7060,
+            7059,
+            7059
+          ],
+          "file": "index.cts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder2/another/package.json"
+        }
+      ],
+      "name": "nodeModulesForbidenSyntax(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "subfolder2/another/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

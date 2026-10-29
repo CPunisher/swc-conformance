@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-methods-private",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/private-meth-ary-ptrn-rest-init-id.js"
+}

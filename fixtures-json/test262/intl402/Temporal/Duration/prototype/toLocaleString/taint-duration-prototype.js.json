@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Temporal",
+      "Intl.DurationFormat"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Temporal/Duration/prototype/toLocaleString/taint-duration-prototype.js"
+}

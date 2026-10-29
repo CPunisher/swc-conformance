@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "autoAccessorExperimentalDecorators.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "esnext, es2022, es2015"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/autoAccessorExperimentalDecorators.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1206,
+            1206
+          ],
+          "file": "autoAccessorExperimentalDecorators.ts"
+        }
+      ],
+      "name": "autoAccessorExperimentalDecorators(target=esnext)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            1206,
+            1206
+          ],
+          "file": "autoAccessorExperimentalDecorators.ts"
+        }
+      ],
+      "name": "autoAccessorExperimentalDecorators(target=es2022)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1206,
+            1206
+          ],
+          "file": "autoAccessorExperimentalDecorators.ts"
+        }
+      ],
+      "name": "autoAccessorExperimentalDecorators(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

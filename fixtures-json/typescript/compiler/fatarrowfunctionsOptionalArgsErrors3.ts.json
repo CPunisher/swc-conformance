@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "fatarrowfunctionsOptionalArgsErrors3.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/fatarrowfunctionsOptionalArgsErrors3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1003
+          ],
+          "file": "fatarrowfunctionsOptionalArgsErrors3.ts"
+        }
+      ],
+      "name": "fatarrowfunctionsOptionalArgsErrors3",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

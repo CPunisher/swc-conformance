@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "optionalChainWithInstantiationExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2019,es2020"
+  },
+  "path": "compiler/optionalChainWithInstantiationExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2019",
+      "diagnostics": [
+        {
+          "codes": [
+            2532,
+            1477
+          ],
+          "file": "optionalChainWithInstantiationExpression1.ts"
+        }
+      ],
+      "name": "optionalChainWithInstantiationExpression1(target=es2019)",
+      "options": {
+        "target": "es2019"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [
+        {
+          "codes": [
+            2532,
+            1477
+          ],
+          "file": "optionalChainWithInstantiationExpression1.ts"
+        }
+      ],
+      "name": "optionalChainWithInstantiationExpression1(target=es2020)",
+      "options": {
+        "target": "es2020"
+      }
+    }
+  ]
+}

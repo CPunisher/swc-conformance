@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "module": "system",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionES5System.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "importCallExpressionES5System(target=es5)",
+      "options": {
+        "filename": "1.ts",
+        "lib": "es6",
+        "module": "system",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "importCallExpressionES5System(target=es2015)",
+      "options": {
+        "filename": "1.ts",
+        "lib": "es6",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

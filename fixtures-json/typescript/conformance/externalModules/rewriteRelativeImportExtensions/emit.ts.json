@@ -1,0 +1,214 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "globals.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "js.js"
+    },
+    {
+      "lines": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "name": "no.ts"
+    },
+    {
+      "lines": [
+        61,
+        62
+      ],
+      "name": "lol.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "jsx": "react,preserve",
+    "module": "preserve",
+    "notypesandsymbols": "true",
+    "outdir": "dist",
+    "rewriterelativeimportextensions": "true",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/rewriteRelativeImportExtensions/emit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "globals.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2882,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "js.js"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2591
+          ],
+          "file": "no.ts"
+        },
+        {
+          "codes": [],
+          "file": "lol.ts"
+        }
+      ],
+      "name": "emit(jsx=react)",
+      "options": {
+        "allowjs": "true",
+        "filename": "lol.ts",
+        "jsx": "react",
+        "module": "preserve",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "rewriterelativeimportextensions": "true",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "jsx=preserve",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "globals.d.ts"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2882,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "js.js"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2591
+          ],
+          "file": "no.ts"
+        },
+        {
+          "codes": [],
+          "file": "lol.ts"
+        }
+      ],
+      "name": "emit(jsx=preserve)",
+      "options": {
+        "allowjs": "true",
+        "filename": "lol.ts",
+        "jsx": "preserve",
+        "module": "preserve",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "rewriterelativeimportextensions": "true",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

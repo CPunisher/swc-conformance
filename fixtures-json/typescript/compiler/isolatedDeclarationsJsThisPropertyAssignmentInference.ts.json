@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "isolateddeclarations": "true"
+  },
+  "path": "compiler/isolatedDeclarationsJsThisPropertyAssignmentInference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5053
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            9013
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "isolatedDeclarationsJsThisPropertyAssignmentInference",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "a.js",
+        "isolateddeclarations": "true"
+      }
+    }
+  ]
+}

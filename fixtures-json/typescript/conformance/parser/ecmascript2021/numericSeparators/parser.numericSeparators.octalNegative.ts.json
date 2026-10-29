@@ -1,0 +1,105 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "1.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "2.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "3.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "4.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "5.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript2021/numericSeparators/parser.numericSeparators.octalNegative.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6188
+          ],
+          "file": "1.ts"
+        },
+        {
+          "codes": [
+            6188
+          ],
+          "file": "2.ts"
+        },
+        {
+          "codes": [
+            6188,
+            1351,
+            2304
+          ],
+          "file": "3.ts"
+        },
+        {
+          "codes": [
+            6189
+          ],
+          "file": "4.ts"
+        },
+        {
+          "codes": [
+            6189
+          ],
+          "file": "5.ts"
+        },
+        {
+          "codes": [
+            6188,
+            6188,
+            6188
+          ],
+          "file": "6.ts"
+        }
+      ],
+      "name": "parser.numericSeparators.octalNegative",
+      "options": {
+        "filename": "6.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

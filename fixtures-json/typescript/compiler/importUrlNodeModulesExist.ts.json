@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "traceresolution": "true"
+  },
+  "path": "compiler/importUrlNodeModulesExist.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [
+            2882
+          ],
+          "file": "/src/index.ts"
+        }
+      ],
+      "name": "importUrlNodeModulesExist",
+      "options": {
+        "filename": "/src/index.ts",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

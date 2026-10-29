@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Intl.DateTimeFormat-dayPeriod",
+      "Intl.DateTimeFormat-fractionalSecondDigits",
+      "Intl.DateTimeFormat-datetimestyle"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "temporalHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/DateTimeFormat/constructor-options-order.js"
+}

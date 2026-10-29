@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "parserStrictMode8.ts"
+    }
+  ],
+  "options": {
+    "skipdefaultlibcheck": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/StrictMode/parserStrictMode8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1100
+          ],
+          "file": "parserStrictMode8.ts"
+        }
+      ],
+      "name": "parserStrictMode8",
+      "options": {
+        "skipdefaultlibcheck": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "O1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "O2.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "O3.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "O4.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "O5.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "O6.ts"
+    },
+    {
+      "lines": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "O7.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/emitter/es5/asyncGenerators/emitter.asyncGenerators.objectLiteralMethods.es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emitter.asyncGenerators.objectLiteralMethods.es5(target=es5)",
+      "options": {
+        "filename": "O7.ts",
+        "lib": "esnext",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emitter.asyncGenerators.objectLiteralMethods.es5(target=es2015)",
+      "options": {
+        "filename": "O7.ts",
+        "lib": "esnext",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

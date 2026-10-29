@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/foo.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/esDecorators/metadata/esDecoratorsMetadata5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esDecoratorsMetadata5",
+      "options": {
+        "filename": "/foo.ts",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

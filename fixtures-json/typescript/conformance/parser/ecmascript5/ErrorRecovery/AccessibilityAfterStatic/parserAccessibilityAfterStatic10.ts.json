@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserAccessibilityAfterStatic10.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/AccessibilityAfterStatic/parserAccessibilityAfterStatic10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1029
+          ],
+          "file": "parserAccessibilityAfterStatic10.ts"
+        }
+      ],
+      "name": "parserAccessibilityAfterStatic10",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "fs.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "mjts.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/esModuleInteropWithExportStar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "esModuleInteropWithExportStar(target=es5)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "mjts.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esModuleInteropWithExportStar(target=es2015)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "mjts.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

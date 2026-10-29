@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "override14.ts"
+    }
+  ],
+  "options": {
+    "noimplicitoverride": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/override/override14.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "override14",
+      "options": {
+        "noimplicitoverride": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

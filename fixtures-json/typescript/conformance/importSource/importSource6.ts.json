@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18113,
+            18113
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importSource6",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "target": "esnext"
+      }
+    }
+  ]
+}

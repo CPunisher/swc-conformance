@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "newAbstractInstance.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/newAbstractInstance.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351
+          ],
+          "file": "newAbstractInstance.ts"
+        }
+      ],
+      "name": "newAbstractInstance",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "tupleElementTypes1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/tuple/tupleElementTypes1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "tupleElementTypes1.ts"
+        }
+      ],
+      "name": "tupleElementTypes1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/ts.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/tsx.tsx"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/dts.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        32,
+        33
+      ],
+      "name": "/c.ts"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "true",
+    "jsx": "preserve",
+    "moduleresolution": "classic,node16,nodenext,bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/allowImportingTsExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=classic",
+      "diagnostics": [],
+      "name": "allowImportingTsExtensions(moduleresolution=classic)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/c.ts",
+        "jsx": "preserve",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tsx.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/dts.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/c.ts"
+        }
+      ],
+      "name": "allowImportingTsExtensions(moduleresolution=node16)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/c.ts",
+        "jsx": "preserve",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tsx.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/dts.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/c.ts"
+        }
+      ],
+      "name": "allowImportingTsExtensions(moduleresolution=nodenext)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/c.ts",
+        "jsx": "preserve",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tsx.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/dts.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/c.ts"
+        }
+      ],
+      "name": "allowImportingTsExtensions(moduleresolution=bundler)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/c.ts",
+        "jsx": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

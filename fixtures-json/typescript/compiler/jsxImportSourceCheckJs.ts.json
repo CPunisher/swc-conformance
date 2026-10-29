@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/node_modules/preact/jsx-runtime/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "jsx": "react-jsx",
+    "jsximportsource": "preact",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/jsxImportSourceCheckJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsxImportSourceCheckJs",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/index.js",
+        "jsx": "react-jsx",
+        "jsximportsource": "preact",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

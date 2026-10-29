@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "emitMemberAccessExpression_file1.ts"
+    },
+    {
+      "lines": [
+        2,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "emitMemberAccessExpression_file2.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "emitMemberAccessExpression_file3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/emitMemberAccessExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "emitMemberAccessExpression",
+      "options": {
+        "filename": "emitMemberAccessExpression_file3.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

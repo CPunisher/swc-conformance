@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "duplicatePropertiesInStrictMode.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/duplicatePropertiesInStrictMode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1117
+          ],
+          "file": "duplicatePropertiesInStrictMode.ts"
+        }
+      ],
+      "name": "duplicatePropertiesInStrictMode",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

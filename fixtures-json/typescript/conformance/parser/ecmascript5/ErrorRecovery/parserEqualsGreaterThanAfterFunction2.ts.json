@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserEqualsGreaterThanAfterFunction2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserEqualsGreaterThanAfterFunction2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            1003,
+            7006,
+            1005,
+            7006,
+            1005,
+            1005
+          ],
+          "file": "parserEqualsGreaterThanAfterFunction2.ts"
+        }
+      ],
+      "name": "parserEqualsGreaterThanAfterFunction2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

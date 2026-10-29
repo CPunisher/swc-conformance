@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "Symbol.iterator",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/from/mapfn-is-not-callable.js"
+}

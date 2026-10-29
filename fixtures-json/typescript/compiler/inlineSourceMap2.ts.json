@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "inlineSourceMap2.ts"
+    }
+  ],
+  "options": {
+    "inlinesourcemap": "true",
+    "maproot": "file:///folder",
+    "outdir": "out",
+    "sourcemap": "true",
+    "sourceroot": "file:///folder",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/inlineSourceMap2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "inlineSourceMap2(target=es5)",
+      "options": {
+        "inlinesourcemap": "true",
+        "maproot": "file:///folder",
+        "outdir": "out",
+        "sourcemap": "true",
+        "sourceroot": "file:///folder",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5053,
+            5053
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "inlineSourceMap2.ts"
+        }
+      ],
+      "name": "inlineSourceMap2(target=es2015)",
+      "options": {
+        "inlinesourcemap": "true",
+        "maproot": "file:///folder",
+        "outdir": "out",
+        "sourcemap": "true",
+        "sourceroot": "file:///folder",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

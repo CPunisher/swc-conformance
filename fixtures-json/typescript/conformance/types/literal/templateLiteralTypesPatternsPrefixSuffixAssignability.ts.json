@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "templateLiteralTypesPatternsPrefixSuffixAssignability.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/literal/templateLiteralTypesPatternsPrefixSuffixAssignability.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "templateLiteralTypesPatternsPrefixSuffixAssignability.ts"
+        }
+      ],
+      "name": "templateLiteralTypesPatternsPrefixSuffixAssignability",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

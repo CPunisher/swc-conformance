@@ -1,0 +1,145 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "types.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "bad.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "good.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "false, true",
+    "module": "commonjs",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "verbatimmodulesyntax": "false, true"
+  },
+  "path": "compiler/isolatedModulesSketchyAliasLocalMerge.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolatedmodules=false,verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "isolatedModulesSketchyAliasLocalMerge(isolatedmodules=false,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "good.ts",
+        "isolatedmodules": "false",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "isolatedmodules=false,verbatimmodulesyntax=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [
+            1295,
+            1484
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesSketchyAliasLocalMerge(isolatedmodules=false,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "good.ts",
+        "isolatedmodules": "false",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "isolatedmodules=true,verbatimmodulesyntax=false",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [
+            2865
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesSketchyAliasLocalMerge(isolatedmodules=true,verbatimmodulesyntax=false)",
+      "options": {
+        "filename": "good.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "isolatedmodules=true,verbatimmodulesyntax=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [
+            1295,
+            1484,
+            2865
+          ],
+          "file": "bad.ts"
+        },
+        {
+          "codes": [],
+          "file": "good.ts"
+        }
+      ],
+      "name": "isolatedModulesSketchyAliasLocalMerge(isolatedmodules=true,verbatimmodulesyntax=true)",
+      "options": {
+        "filename": "good.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

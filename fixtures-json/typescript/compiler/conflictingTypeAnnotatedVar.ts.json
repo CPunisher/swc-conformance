@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "conflictingTypeAnnotatedVar.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/conflictingTypeAnnotatedVar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300,
+            2393,
+            2355,
+            2300,
+            2393,
+            2355
+          ],
+          "file": "conflictingTypeAnnotatedVar.ts"
+        }
+      ],
+      "name": "conflictingTypeAnnotatedVar",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

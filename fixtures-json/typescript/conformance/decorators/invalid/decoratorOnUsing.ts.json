@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "decoratorOnUsing.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnUsing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1134
+          ],
+          "file": "decoratorOnUsing.ts"
+        }
+      ],
+      "name": "decoratorOnUsing",
+      "options": {
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments03_ES6.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionWhenUsingArguments03_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1100
+          ],
+          "file": "emitArrowFunctionWhenUsingArguments03_ES6.ts"
+        }
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments03_ES6(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es6"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "emitArrowFunctionWhenUsingArguments03_ES6(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

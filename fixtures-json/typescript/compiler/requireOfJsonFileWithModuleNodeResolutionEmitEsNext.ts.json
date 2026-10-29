@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "b.json"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileWithModuleNodeResolutionEmitEsNext.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileWithModuleNodeResolutionEmitEsNext",
+      "options": {
+        "filename": "b.json",
+        "fullemitpaths": "true",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

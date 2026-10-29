@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "t3.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "t4.ts"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "t5.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/unclosedExportClause01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "t1.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "t2.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "t3.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "t4.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "t5.ts"
+        }
+      ],
+      "name": "unclosedExportClause01",
+      "options": {
+        "filename": "t5.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

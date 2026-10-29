@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "test.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "op.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "po.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/uniqueSymbolPropertyDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "uniqueSymbolPropertyDeclarationEmit",
+      "options": {
+        "declaration": "true",
+        "esmoduleinterop": "true",
+        "filename": "po.d.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

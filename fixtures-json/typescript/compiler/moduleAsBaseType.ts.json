@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "moduleAsBaseType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAsBaseType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2708,
+            2709,
+            2709
+          ],
+          "file": "moduleAsBaseType.ts"
+        }
+      ],
+      "name": "moduleAsBaseType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

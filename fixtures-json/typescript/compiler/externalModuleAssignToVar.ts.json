@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "externalModuleAssignToVar_ext.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "externalModuleAssignToVar_core_require.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "externalModuleAssignToVar_core_require2.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "externalModuleAssignToVar_core.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/externalModuleAssignToVar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307,
+            2307
+          ],
+          "file": "externalModuleAssignToVar_core.ts"
+        },
+        {
+          "codes": [],
+          "file": "externalModuleAssignToVar_ext.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "externalModuleAssignToVar_core_require.ts"
+        },
+        {
+          "codes": [],
+          "file": "externalModuleAssignToVar_core_require2.ts"
+        }
+      ],
+      "name": "externalModuleAssignToVar",
+      "options": {
+        "filename": "externalModuleAssignToVar_core.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

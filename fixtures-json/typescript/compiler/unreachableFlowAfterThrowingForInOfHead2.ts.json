@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "unreachableFlowAfterThrowingForInOfHead2.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true, false",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unreachableFlowAfterThrowingForInOfHead2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowunreachablecode=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2407
+          ],
+          "file": "unreachableFlowAfterThrowingForInOfHead2.ts"
+        }
+      ],
+      "name": "unreachableFlowAfterThrowingForInOfHead2(allowunreachablecode=true)",
+      "options": {
+        "allowunreachablecode": "true",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowunreachablecode=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2407,
+            7027
+          ],
+          "file": "unreachableFlowAfterThrowingForInOfHead2.ts"
+        }
+      ],
+      "name": "unreachableFlowAfterThrowingForInOfHead2(allowunreachablecode=false)",
+      "options": {
+        "allowunreachablecode": "false",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

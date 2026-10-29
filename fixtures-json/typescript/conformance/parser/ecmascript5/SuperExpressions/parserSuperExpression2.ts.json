@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserSuperExpression2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/SuperExpressions/parserSuperExpression2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2337,
+            2754
+          ],
+          "file": "parserSuperExpression2.ts"
+        }
+      ],
+      "name": "parserSuperExpression2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

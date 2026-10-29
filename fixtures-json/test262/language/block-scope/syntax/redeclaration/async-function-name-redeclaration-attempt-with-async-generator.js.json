@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "async-functions"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/block-scope/syntax/redeclaration/async-function-name-redeclaration-attempt-with-async-generator.js"
+}

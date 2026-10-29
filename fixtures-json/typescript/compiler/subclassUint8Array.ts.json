@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "subclassUint8Array.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/subclassUint8Array.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "subclassUint8Array",
+      "options": {
+        "lib": "esnext",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

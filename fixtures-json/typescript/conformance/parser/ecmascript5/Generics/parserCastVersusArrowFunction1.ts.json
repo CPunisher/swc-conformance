@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "parserCastVersusArrowFunction1.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserCastVersusArrowFunction1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2403,
+            2403,
+            2403,
+            2304,
+            2304,
+            2304,
+            2304,
+            2695,
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "parserCastVersusArrowFunction1.ts"
+        }
+      ],
+      "name": "parserCastVersusArrowFunction1",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

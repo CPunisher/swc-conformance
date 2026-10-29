@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "ignoredeprecations": "6.0",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/importTypeAssertionDeprecationIgnored.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [
+            2880,
+            2880,
+            2880,
+            2880
+          ],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "importTypeAssertionDeprecationIgnored",
+      "options": {
+        "filename": "/main.ts",
+        "ignoredeprecations": "6.0",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

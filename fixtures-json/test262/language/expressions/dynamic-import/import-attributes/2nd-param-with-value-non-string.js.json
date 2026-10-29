@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes",
+      "Symbol",
+      "BigInt"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-with-value-non-string.js"
+}

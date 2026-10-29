@@ -1,0 +1,102 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "foo.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "foo2.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "indirection.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "indirection2.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "consumer.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "nouncheckedsideeffectimports": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/ambientExportDefaultErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "consumer.ts"
+        },
+        {
+          "codes": [
+            2714
+          ],
+          "file": "foo.d.ts"
+        },
+        {
+          "codes": [
+            2714
+          ],
+          "file": "foo2.d.ts"
+        },
+        {
+          "codes": [
+            2714
+          ],
+          "file": "indirection.d.ts"
+        },
+        {
+          "codes": [
+            2714
+          ],
+          "file": "indirection2.d.ts"
+        }
+      ],
+      "name": "ambientExportDefaultErrors",
+      "options": {
+        "filename": "consumer.ts",
+        "module": "commonjs",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

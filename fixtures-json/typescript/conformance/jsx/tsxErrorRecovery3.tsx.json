@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "file1.tsx"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "file2.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxErrorRecovery3.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            2874,
+            7026,
+            2657,
+            7026,
+            2874,
+            7026
+          ],
+          "file": "file1.tsx"
+        },
+        {
+          "codes": [
+            7026,
+            2657,
+            2874,
+            7026,
+            7026,
+            2874,
+            7026
+          ],
+          "file": "file2.tsx"
+        }
+      ],
+      "name": "tsxErrorRecovery3",
+      "options": {
+        "filename": "file2.tsx",
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

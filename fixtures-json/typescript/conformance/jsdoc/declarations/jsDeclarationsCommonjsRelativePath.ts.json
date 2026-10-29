@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "thing.js"
+    },
+    {
+      "lines": [
+        6,
+        12,
+        13,
+        14
+      ],
+      "name": "reexport.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsCommonjsRelativePath.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationsCommonjsRelativePath",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "reexport.js",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

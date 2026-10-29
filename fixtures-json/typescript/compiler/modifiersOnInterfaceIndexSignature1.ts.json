@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "modifiersOnInterfaceIndexSignature1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/modifiersOnInterfaceIndexSignature1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1071
+          ],
+          "file": "modifiersOnInterfaceIndexSignature1.ts"
+        }
+      ],
+      "name": "modifiersOnInterfaceIndexSignature1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

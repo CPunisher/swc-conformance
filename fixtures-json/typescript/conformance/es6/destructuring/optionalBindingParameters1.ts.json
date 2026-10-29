@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "optionalBindingParameters1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/destructuring/optionalBindingParameters1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2463,
+            2322,
+            2322
+          ],
+          "file": "optionalBindingParameters1.ts"
+        }
+      ],
+      "name": "optionalBindingParameters1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

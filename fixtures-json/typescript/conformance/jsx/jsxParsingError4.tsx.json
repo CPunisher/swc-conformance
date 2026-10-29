@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "strict": "true, false",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxParsingError4.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true",
+      "diagnostics": [],
+      "name": "jsxParsingError4(strict=true)",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "react",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strict=false",
+      "diagnostics": [],
+      "name": "jsxParsingError4(strict=false)",
+      "options": {
+        "filename": "a.tsx",
+        "jsx": "react",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

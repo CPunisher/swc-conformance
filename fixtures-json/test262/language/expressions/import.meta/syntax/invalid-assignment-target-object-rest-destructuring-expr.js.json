@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "import.meta",
+      "destructuring-assignment",
+      "object-rest"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/import.meta/syntax/invalid-assignment-target-object-rest-destructuring-expr.js"
+}

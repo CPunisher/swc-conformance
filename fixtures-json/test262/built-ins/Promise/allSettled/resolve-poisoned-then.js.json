@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/resolve-poisoned-then.js"
+}

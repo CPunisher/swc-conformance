@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/namespaceMergedWithImportAliasNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2708
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2440,
+            2694
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "namespaceMergedWithImportAliasNoCrash",
+      "options": {
+        "filename": "file2.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "file.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxFragmentErrors.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            17015,
+            17014,
+            1005
+          ],
+          "file": "file.tsx"
+        }
+      ],
+      "name": "tsxFragmentErrors",
+      "options": {
+        "filename": "file.tsx",
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

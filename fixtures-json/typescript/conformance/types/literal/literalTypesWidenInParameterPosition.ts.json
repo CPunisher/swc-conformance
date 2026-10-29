@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "literalTypesWidenInParameterPosition.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/literal/literalTypesWidenInParameterPosition.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "literalTypesWidenInParameterPosition.ts"
+        }
+      ],
+      "name": "literalTypesWidenInParameterPosition",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

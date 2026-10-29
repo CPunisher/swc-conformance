@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "restElementWithAssignmentPattern2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/destructuring/restElementWithAssignmentPattern2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2339
+          ],
+          "file": "restElementWithAssignmentPattern2.ts"
+        }
+      ],
+      "name": "restElementWithAssignmentPattern2",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

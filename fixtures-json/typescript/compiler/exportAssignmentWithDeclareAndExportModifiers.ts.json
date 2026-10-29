@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "exportAssignmentWithDeclareAndExportModifiers.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentWithDeclareAndExportModifiers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1120
+          ],
+          "file": "exportAssignmentWithDeclareAndExportModifiers.ts"
+        }
+      ],
+      "name": "exportAssignmentWithDeclareAndExportModifiers",
+      "options": {
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

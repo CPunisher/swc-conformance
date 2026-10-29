@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "__proto__"
+    ],
+    "flags": [],
+    "includes": [
+      "proxyTrapsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/set/call-parameters-prototype-dunder-proto.js"
+}

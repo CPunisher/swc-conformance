@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "typeParametersInStaticProperties.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeParametersInStaticProperties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2302
+          ],
+          "file": "typeParametersInStaticProperties.ts"
+        }
+      ],
+      "name": "typeParametersInStaticProperties",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

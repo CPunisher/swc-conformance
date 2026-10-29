@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/src/empty/.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/src/dot/..ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/src/parent/...ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/src/decl/.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/src/main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "outdir": "/dist",
+    "rootdir": "/src",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/fileNamesWithEmptyAndDotStems.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "fileNamesWithEmptyAndDotStems",
+      "options": {
+        "declaration": "true",
+        "filename": "/src/main.ts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "outdir": "/dist",
+        "rootdir": "/src",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

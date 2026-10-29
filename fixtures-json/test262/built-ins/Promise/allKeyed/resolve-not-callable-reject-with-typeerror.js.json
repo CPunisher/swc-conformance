@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allKeyed/resolve-not-callable-reject-with-typeerror.js"
+}

@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "false",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsFiles6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5052,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.js"
+        }
+      ],
+      "name": "checkJsFiles6",
+      "options": {
+        "allowjs": "false",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

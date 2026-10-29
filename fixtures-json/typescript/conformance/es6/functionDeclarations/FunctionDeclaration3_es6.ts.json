@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "FunctionDeclaration3_es6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/functionDeclarations/FunctionDeclaration3_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            7022,
+            1212,
+            2372
+          ],
+          "file": "FunctionDeclaration3_es6.ts"
+        }
+      ],
+      "name": "FunctionDeclaration3_es6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

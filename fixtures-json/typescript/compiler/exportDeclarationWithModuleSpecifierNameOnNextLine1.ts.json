@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "t1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "t2.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "t3.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "t4.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "t5.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDeclarationWithModuleSpecifierNameOnNextLine1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDeclarationWithModuleSpecifierNameOnNextLine1",
+      "options": {
+        "filename": "t5.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "variable.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/globalThisDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4025
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "variable.ts"
+        }
+      ],
+      "name": "globalThisDeclarationEmit",
+      "options": {
+        "declaration": "true",
+        "filename": "variable.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

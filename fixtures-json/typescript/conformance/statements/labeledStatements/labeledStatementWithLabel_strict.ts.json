@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "labeledStatementWithLabel_strict.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/statements/labeledStatements/labeledStatementWithLabel_strict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1344,
+            1235,
+            1344,
+            1235,
+            1344
+          ],
+          "file": "labeledStatementWithLabel_strict.ts"
+        }
+      ],
+      "name": "labeledStatementWithLabel_strict",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

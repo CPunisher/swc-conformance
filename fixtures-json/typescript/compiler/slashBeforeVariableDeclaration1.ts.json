@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "slashBeforeVariableDeclaration1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/slashBeforeVariableDeclaration1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1127,
+            7005
+          ],
+          "file": "slashBeforeVariableDeclaration1.ts"
+        }
+      ],
+      "name": "slashBeforeVariableDeclaration1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

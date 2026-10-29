@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await",
+      "dynamic-import"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/await-dynamic-import-resolution.js"
+}

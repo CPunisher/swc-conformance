@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "String.prototype.matchAll"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "compareIterator.js",
+      "regExpUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/String/prototype/matchAll/regexp-is-undefined.js"
+}

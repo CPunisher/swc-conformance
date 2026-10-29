@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "hello.ts"
+    }
+  ],
+  "options": {
+    "emitdeclarationonly": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileEmitDeclarationOnlyError1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5069
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "hello.ts"
+        }
+      ],
+      "name": "declFileEmitDeclarationOnlyError1",
+      "options": {
+        "emitdeclarationonly": "true",
+        "filename": "hello.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "promise-try",
+      "class"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/try/ctx-ctor-for-error.js"
+}

@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "dep.cjs"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "main.cjs"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "esm.cjs"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "compiler/modulePreserveRequireDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "dep.cjs"
+        },
+        {
+          "codes": [],
+          "file": "main.cjs"
+        },
+        {
+          "codes": [
+            1293
+          ],
+          "file": "esm.cjs"
+        }
+      ],
+      "name": "modulePreserveRequireDestructuring",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "esm.cjs",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

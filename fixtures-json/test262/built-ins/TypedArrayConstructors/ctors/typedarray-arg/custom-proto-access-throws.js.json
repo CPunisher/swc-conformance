@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/ctors/typedarray-arg/custom-proto-access-throws.js"
+}

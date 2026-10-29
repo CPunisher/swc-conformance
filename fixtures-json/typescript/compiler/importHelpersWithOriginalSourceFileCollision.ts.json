@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "node_modules/tslib/index.d.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "importhelpers": "true",
+    "module": "es2015",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/importHelpersWithOriginalSourceFileCollision.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importHelpersWithOriginalSourceFileCollision",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

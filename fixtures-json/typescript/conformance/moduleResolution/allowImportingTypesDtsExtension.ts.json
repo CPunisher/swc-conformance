@@ -1,0 +1,178 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "true,false",
+    "moduleresolution": "classic,node16,nodenext",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/allowImportingTypesDtsExtension.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowimportingtsextensions=true,moduleresolution=classic",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=true,moduleresolution=classic)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/a.ts",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=true,moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=true,moduleresolution=node16)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/a.ts",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=true,moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=true,moduleresolution=nodenext)",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "filename": "/a.ts",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=false,moduleresolution=classic",
+      "diagnostics": [],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=false,moduleresolution=classic)",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "filename": "/a.ts",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=false,moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=false,moduleresolution=node16)",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "filename": "/a.ts",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "allowimportingtsextensions=false,moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "allowImportingTypesDtsExtension(allowimportingtsextensions=false,moduleresolution=nodenext)",
+      "options": {
+        "allowimportingtsextensions": "false",
+        "filename": "/a.ts",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

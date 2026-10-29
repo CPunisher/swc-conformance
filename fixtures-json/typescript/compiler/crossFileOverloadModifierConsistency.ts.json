@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "node_modules/library/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "node_modules/non-ambient/index.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "augmentations.d.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/crossFileOverloadModifierConsistency.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "crossFileOverloadModifierConsistency",
+      "options": {
+        "filename": "augmentations.d.ts",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "default-parameters"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/arrow-function/param-dflt-yield-id-strict.js"
+}

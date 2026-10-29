@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "modularizeLibrary_Worker.asynciterable.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2018,webworker,webworker.asynciterable",
+    "skiplibcheck": "true",
+    "target": "es2018"
+  },
+  "path": "compiler/modularizeLibrary_Worker.asynciterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modularizeLibrary_Worker.asynciterable",
+      "options": {
+        "lib": "es2018,webworker,webworker.asynciterable",
+        "skiplibcheck": "true",
+        "target": "es2018"
+      }
+    }
+  ]
+}

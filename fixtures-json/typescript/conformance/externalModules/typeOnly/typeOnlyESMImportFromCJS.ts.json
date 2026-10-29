@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "module.mts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "common.cts"
+    }
+  ],
+  "options": {
+    "module": "node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/typeOnly/typeOnlyESMImportFromCJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "module.mts"
+        },
+        {
+          "codes": [
+            1541,
+            1542
+          ],
+          "file": "common.cts"
+        }
+      ],
+      "name": "typeOnlyESMImportFromCJS(module=node18)",
+      "options": {
+        "filename": "common.cts",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "typeOnlyESMImportFromCJS(module=node20)",
+      "options": {
+        "filename": "common.cts",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "typeOnlyESMImportFromCJS(module=nodenext)",
+      "options": {
+        "filename": "common.cts",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

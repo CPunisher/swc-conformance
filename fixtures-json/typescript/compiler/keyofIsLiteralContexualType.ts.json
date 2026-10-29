@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "keyofIsLiteralContexualType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/keyofIsLiteralContexualType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2339
+          ],
+          "file": "keyofIsLiteralContexualType.ts"
+        }
+      ],
+      "name": "keyofIsLiteralContexualType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

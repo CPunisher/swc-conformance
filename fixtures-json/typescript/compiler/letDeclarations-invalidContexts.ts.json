@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "letDeclarations-invalidContexts.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "target": "ES6"
+  },
+  "path": "compiler/letDeclarations-invalidContexts.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1156,
+            1156,
+            1156,
+            1156,
+            1101,
+            2410,
+            1156,
+            1156,
+            1344,
+            1156,
+            1344,
+            1156
+          ],
+          "file": "letDeclarations-invalidContexts.ts"
+        }
+      ],
+      "name": "letDeclarations-invalidContexts",
+      "options": {
+        "allowunreachablecode": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

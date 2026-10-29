@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "staticInstanceResolution3_0.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "staticInstanceResolution3_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/staticInstanceResolution3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "staticInstanceResolution3_1.ts"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "staticInstanceResolution3_0.ts"
+        }
+      ],
+      "name": "staticInstanceResolution3",
+      "options": {
+        "filename": "staticInstanceResolution3_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

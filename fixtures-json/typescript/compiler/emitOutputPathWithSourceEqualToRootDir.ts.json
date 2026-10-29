@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/a",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/a/k.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/a",
+    "outdir": "/a/out",
+    "rootdir": "/a/k.ts"
+  },
+  "path": "compiler/emitOutputPathWithSourceEqualToRootDir.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "emitOutputPathWithSourceEqualToRootDir",
+      "options": {
+        "currentdirectory": "/a",
+        "filename": "/a/k.ts",
+        "outdir": "/a/out",
+        "rootdir": "/a/k.ts"
+      }
+    }
+  ]
+}

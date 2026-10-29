@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "bar.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "target": "es2015"
+  },
+  "path": "compiler/systemModuleWithSuperClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "systemModuleWithSuperClass",
+      "options": {
+        "filename": "bar.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

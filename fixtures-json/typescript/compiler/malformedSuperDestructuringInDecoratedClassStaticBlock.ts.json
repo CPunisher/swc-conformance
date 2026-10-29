@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "malformedSuperDestructuringInDecoratedClassStaticBlock.ts"
+    }
+  ],
+  "options": {
+    "target": "es2022"
+  },
+  "path": "compiler/malformedSuperDestructuringInDecoratedClassStaticBlock.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            1005,
+            2364,
+            2493
+          ],
+          "file": "malformedSuperDestructuringInDecoratedClassStaticBlock.ts"
+        }
+      ],
+      "name": "malformedSuperDestructuringInDecoratedClassStaticBlock",
+      "options": {
+        "target": "es2022"
+      }
+    }
+  ]
+}

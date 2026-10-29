@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parser512325.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegressionTests/parser512325.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2695,
+            2304,
+            2695,
+            2304,
+            1005,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "parser512325.ts"
+        }
+      ],
+      "name": "parser512325",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

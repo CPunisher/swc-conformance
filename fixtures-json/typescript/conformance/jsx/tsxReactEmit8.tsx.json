@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "tsxReactEmit8.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "target": "esnext"
+  },
+  "path": "conformance/jsx/tsxReactEmit8.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "tsxReactEmit8(jsx=react-jsx)",
+      "options": {
+        "jsx": "react-jsx",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [],
+      "name": "tsxReactEmit8(jsx=react-jsxdev)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "esDecorators-decoratorExpression.3.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "*",
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/esDecorators/esDecorators-decoratorExpression.3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "experimentaldecorators=true",
+      "diagnostics": [
+        {
+          "codes": [
+            1146,
+            2352,
+            1146,
+            2352
+          ],
+          "file": "esDecorators-decoratorExpression.3.ts"
+        }
+      ],
+      "name": "esDecorators-decoratorExpression.3(experimentaldecorators=true)",
+      "options": {
+        "experimentaldecorators": "true",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "experimentaldecorators=false",
+      "diagnostics": [
+        {
+          "codes": [
+            1146,
+            2352,
+            1146,
+            2352
+          ],
+          "file": "esDecorators-decoratorExpression.3.ts"
+        }
+      ],
+      "name": "esDecorators-decoratorExpression.3(experimentaldecorators=false)",
+      "options": {
+        "experimentaldecorators": "false",
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

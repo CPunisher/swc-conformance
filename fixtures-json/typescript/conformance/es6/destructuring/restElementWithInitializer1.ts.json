@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "restElementWithInitializer1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/destructuring/restElementWithInitializer1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1186
+          ],
+          "file": "restElementWithInitializer1.ts"
+        }
+      ],
+      "name": "restElementWithInitializer1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

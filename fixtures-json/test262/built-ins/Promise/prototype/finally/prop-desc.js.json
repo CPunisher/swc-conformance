@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/prop-desc.js"
+}

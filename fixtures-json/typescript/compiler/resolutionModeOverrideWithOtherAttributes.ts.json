@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/node_modules/pkg/index.d.mts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/node_modules/pkg/index.d.cts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/app.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/resolutionModeOverrideWithOtherAttributes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "resolutionModeOverrideWithOtherAttributes",
+      "options": {
+        "filename": "/app.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

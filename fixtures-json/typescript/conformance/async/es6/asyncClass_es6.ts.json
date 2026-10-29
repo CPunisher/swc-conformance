@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "asyncClass_es6.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/async/es6/asyncClass_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1042
+          ],
+          "file": "asyncClass_es6.ts"
+        }
+      ],
+      "name": "asyncClass_es6",
+      "options": {
+        "noemithelpers": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

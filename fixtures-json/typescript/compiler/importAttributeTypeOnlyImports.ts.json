@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "/reexports.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "/jsdoc.js"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeTypeOnlyImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1557
+          ],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/reexports.ts"
+        },
+        {
+          "codes": [],
+          "file": "/jsdoc.js"
+        },
+        {
+          "codes": [],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "importAttributeTypeOnlyImports",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/index.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

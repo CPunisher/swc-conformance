@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "align-detached-buffer-semantics-with-web-reality",
+      "TypedArray"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/TypedArrayConstructors/internals/Delete/indexed-value-ab-strict.js"
+}

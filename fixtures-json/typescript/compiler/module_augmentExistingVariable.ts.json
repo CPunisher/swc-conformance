@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "module_augmentExistingVariable.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es2015"
+  },
+  "path": "compiler/module_augmentExistingVariable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "module_augmentExistingVariable.ts"
+        }
+      ],
+      "name": "module_augmentExistingVariable",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

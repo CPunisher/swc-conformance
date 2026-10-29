@@ -1,0 +1,92 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "file.tsx"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        21
+      ],
+      "name": "node_modules/@types/react/jsx-runtime.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        24
+      ],
+      "name": "node_modules/@types/react/jsx-dev-runtime.d.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx",
+    "module": "nodenext",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxClassAttributeResolution.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "file.tsx"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/react/package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/react/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/react/jsx-runtime.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/@types/react/jsx-dev-runtime.d.ts"
+        }
+      ],
+      "name": "jsxClassAttributeResolution",
+      "options": {
+        "filename": "node_modules/@types/react/jsx-dev-runtime.d.ts",
+        "jsx": "react-jsx",
+        "module": "nodenext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

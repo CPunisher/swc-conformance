@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/foo/foo.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithExtensions_unexpected2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2882
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        }
+      ],
+      "name": "moduleResolutionWithExtensions_unexpected2",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

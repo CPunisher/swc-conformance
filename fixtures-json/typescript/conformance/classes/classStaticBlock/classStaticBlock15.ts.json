@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "classStaticBlock15.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es2015",
+    "usedefineforclassfields": "true"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock15.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "classStaticBlock15(target=esnext)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "classStaticBlock15(target=es2022)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "classStaticBlock15(target=es2015)",
+      "options": {
+        "target": "es2015",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

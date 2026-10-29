@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "labeledStatementExportDeclarationNoCrash1.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext, commonjs, system",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/statements/labeledStatements/labeledStatementExportDeclarationNoCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1155,
+            1344,
+            1184,
+            1155
+          ],
+          "file": "labeledStatementExportDeclarationNoCrash1.ts"
+        }
+      ],
+      "name": "labeledStatementExportDeclarationNoCrash1(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [
+            1155,
+            1344,
+            1184,
+            1155
+          ],
+          "file": "labeledStatementExportDeclarationNoCrash1.ts"
+        }
+      ],
+      "name": "labeledStatementExportDeclarationNoCrash1(module=commonjs)",
+      "options": {
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "labeledStatementExportDeclarationNoCrash1(module=system)",
+      "options": {
+        "module": "system",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

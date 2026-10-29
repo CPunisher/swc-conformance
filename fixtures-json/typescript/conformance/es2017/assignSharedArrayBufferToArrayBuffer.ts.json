@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "assignSharedArrayBufferToArrayBuffer.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015,es2017.sharedmemory",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2017/assignSharedArrayBufferToArrayBuffer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "assignSharedArrayBufferToArrayBuffer(target=es5)",
+      "options": {
+        "lib": "es2015,es2017.sharedmemory",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322
+          ],
+          "file": "assignSharedArrayBufferToArrayBuffer.ts"
+        }
+      ],
+      "name": "assignSharedArrayBufferToArrayBuffer(target=es2015)",
+      "options": {
+        "lib": "es2015,es2017.sharedmemory",
+        "target": "es2015"
+      }
+    }
+  ]
+}

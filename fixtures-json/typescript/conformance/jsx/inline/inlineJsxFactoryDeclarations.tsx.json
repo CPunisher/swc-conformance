@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "renderer.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "otherreacty.tsx"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "other.tsx"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "othernoalias.tsx"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30
+      ],
+      "name": "reacty.tsx"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/inline/inlineJsxFactoryDeclarations.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "inlineJsxFactoryDeclarations",
+      "options": {
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

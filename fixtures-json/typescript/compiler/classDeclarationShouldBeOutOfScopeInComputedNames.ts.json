@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "classDeclarationShouldBeOutOfScopeInComputedNames.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "target": "es2015"
+  },
+  "path": "compiler/classDeclarationShouldBeOutOfScopeInComputedNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2449,
+            2449,
+            2449,
+            2449
+          ],
+          "file": "classDeclarationShouldBeOutOfScopeInComputedNames.ts"
+        }
+      ],
+      "name": "classDeclarationShouldBeOutOfScopeInComputedNames",
+      "options": {
+        "lib": "es6",
+        "target": "es2015"
+      }
+    }
+  ]
+}

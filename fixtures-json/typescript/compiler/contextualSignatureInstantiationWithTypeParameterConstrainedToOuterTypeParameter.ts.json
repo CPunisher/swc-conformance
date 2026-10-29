@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "contextualSignatureInstantiationWithTypeParameterConstrainedToOuterTypeParameter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/contextualSignatureInstantiationWithTypeParameterConstrainedToOuterTypeParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2454
+          ],
+          "file": "contextualSignatureInstantiationWithTypeParameterConstrainedToOuterTypeParameter.ts"
+        }
+      ],
+      "name": "contextualSignatureInstantiationWithTypeParameterConstrainedToOuterTypeParameter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

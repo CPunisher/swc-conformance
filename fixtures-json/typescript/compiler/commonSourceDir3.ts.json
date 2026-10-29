@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "A:/foo/bar.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "a:/foo/baz.ts"
+    }
+  ],
+  "options": {
+    "outdir": "A:/",
+    "target": "es2015",
+    "usecasesensitivefilenames": "false"
+  },
+  "path": "compiler/commonSourceDir3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commonSourceDir3",
+      "options": {
+        "filename": "a:/foo/baz.ts",
+        "outdir": "A:/",
+        "target": "es2015",
+        "usecasesensitivefilenames": "false"
+      }
+    }
+  ]
+}

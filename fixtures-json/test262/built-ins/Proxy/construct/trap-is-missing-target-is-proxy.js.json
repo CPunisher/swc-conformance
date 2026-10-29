@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "Proxy",
+      "Reflect",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/construct/trap-is-missing-target-is-proxy.js"
+}

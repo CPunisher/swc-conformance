@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "unusedParametersInLambda1.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedParametersInLambda1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "unusedParametersInLambda1.ts"
+        }
+      ],
+      "name": "unusedParametersInLambda1",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

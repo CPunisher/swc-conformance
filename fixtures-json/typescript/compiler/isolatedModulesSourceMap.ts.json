@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "sourcemap": "true",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesSourceMap.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesSourceMap",
+      "options": {
+        "filename": "file1.ts",
+        "isolatedmodules": "true",
+        "sourcemap": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

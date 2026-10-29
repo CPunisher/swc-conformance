@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "circularBaseTypes.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/circularBaseTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2310,
+            2456,
+            2313,
+            2310
+          ],
+          "file": "circularBaseTypes.ts"
+        }
+      ],
+      "name": "circularBaseTypes",
+      "options": {
+        "declaration": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

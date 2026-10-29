@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "taggedTemplatesWithIncompleteNoSubstitutionTemplate2.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/taggedTemplatesWithIncompleteNoSubstitutionTemplate2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1160
+          ],
+          "file": "taggedTemplatesWithIncompleteNoSubstitutionTemplate2.ts"
+        }
+      ],
+      "name": "taggedTemplatesWithIncompleteNoSubstitutionTemplate2",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

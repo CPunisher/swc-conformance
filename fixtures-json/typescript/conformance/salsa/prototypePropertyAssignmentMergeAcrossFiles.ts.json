@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "prototypePropertyAssignmentMergeAcrossFiles.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "other.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/prototypePropertyAssignmentMergeAcrossFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2683
+          ],
+          "file": "prototypePropertyAssignmentMergeAcrossFiles.js"
+        },
+        {
+          "codes": [],
+          "file": "other.js"
+        }
+      ],
+      "name": "prototypePropertyAssignmentMergeAcrossFiles",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "other.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "commaOperatorWithoutOperand.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/commaOperator/commaOperatorWithoutOperand.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            2695,
+            1109,
+            1109
+          ],
+          "file": "commaOperatorWithoutOperand.ts"
+        }
+      ],
+      "name": "commaOperatorWithoutOperand",
+      "options": {
+        "allowunreachablecode": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

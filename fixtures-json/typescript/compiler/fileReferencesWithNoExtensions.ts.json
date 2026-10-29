@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "t.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "c.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/fileReferencesWithNoExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "fileReferencesWithNoExtensions",
+      "options": {
+        "filename": "c.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

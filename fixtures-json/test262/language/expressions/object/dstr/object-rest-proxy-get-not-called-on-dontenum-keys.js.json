@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "destructuring-binding",
+      "Proxy",
+      "Symbol"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/dstr/object-rest-proxy-get-not-called-on-dontenum-keys.js"
+}

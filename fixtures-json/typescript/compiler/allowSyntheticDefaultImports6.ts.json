@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "b.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowsyntheticdefaultimports": "false",
+    "module": "system",
+    "target": "es2015"
+  },
+  "path": "compiler/allowSyntheticDefaultImports6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "allowSyntheticDefaultImports6",
+      "options": {
+        "allowsyntheticdefaultimports": "false",
+        "filename": "a.ts",
+        "module": "system",
+        "target": "es2015"
+      }
+    }
+  ]
+}

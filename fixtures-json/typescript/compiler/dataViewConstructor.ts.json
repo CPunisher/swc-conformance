@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "dataViewConstructor.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/dataViewConstructor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345,
+            2345,
+            2345
+          ],
+          "file": "dataViewConstructor.ts"
+        }
+      ],
+      "name": "dataViewConstructor",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "err1.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "err2.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "err3.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "err4.d.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "err5.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/umd-errors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1314
+          ],
+          "file": "err1.d.ts"
+        },
+        {
+          "codes": [
+            1316
+          ],
+          "file": "err2.d.ts"
+        },
+        {
+          "codes": [
+            1184,
+            1184,
+            1184,
+            1389
+          ],
+          "file": "err3.d.ts"
+        },
+        {
+          "codes": [
+            1316
+          ],
+          "file": "err4.d.ts"
+        },
+        {
+          "codes": [
+            1315
+          ],
+          "file": "err5.ts"
+        }
+      ],
+      "name": "umd-errors",
+      "options": {
+        "filename": "err5.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

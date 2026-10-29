@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "some-path/index.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "named-import.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true"
+  },
+  "path": "compiler/pathsEntryReferencesDtsViaTsExtensionNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathsEntryReferencesDtsViaTsExtensionNoCrash",
+      "options": {
+        "filename": "named-import.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true"
+      }
+    }
+  ]
+}

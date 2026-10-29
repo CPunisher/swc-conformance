@@ -1,0 +1,107 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/node_modules/pkg/import.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        22,
+        23
+      ],
+      "name": "/node_modules/pkg/require.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "noimplicitreferences": "true",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesTripleSlashReferenceModeDeclarationEmit1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [],
+      "name": "nodeModulesTripleSlashReferenceModeDeclarationEmit1(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "node16",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nodeModulesTripleSlashReferenceModeDeclarationEmit1(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "node18",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesTripleSlashReferenceModeDeclarationEmit1(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "node20",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesTripleSlashReferenceModeDeclarationEmit1(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "nodenext",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

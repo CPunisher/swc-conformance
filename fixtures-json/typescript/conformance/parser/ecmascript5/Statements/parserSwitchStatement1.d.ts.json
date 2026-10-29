@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserSwitchStatement1.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserSwitchStatement1.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1036,
+            2304
+          ],
+          "file": "parserSwitchStatement1.d.ts"
+        }
+      ],
+      "name": "parserSwitchStatement1.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

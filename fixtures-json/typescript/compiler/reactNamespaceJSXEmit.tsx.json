@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "reactNamespaceJSXEmit.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "reactnamespace": "myReactLib",
+    "target": "es2015"
+  },
+  "path": "compiler/reactNamespaceJSXEmit.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7026,
+            7026
+          ],
+          "file": "reactNamespaceJSXEmit.tsx"
+        }
+      ],
+      "name": "reactNamespaceJSXEmit",
+      "options": {
+        "jsx": "react",
+        "reactnamespace": "myReactLib",
+        "target": "es2015"
+      }
+    }
+  ]
+}

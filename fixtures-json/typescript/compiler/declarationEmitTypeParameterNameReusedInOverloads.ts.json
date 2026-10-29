@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "declarationEmitTypeParameterNameReusedInOverloads.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "skiplibcheck": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitTypeParameterNameReusedInOverloads.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2564,
+            2564
+          ],
+          "file": "declarationEmitTypeParameterNameReusedInOverloads.ts"
+        }
+      ],
+      "name": "declarationEmitTypeParameterNameReusedInOverloads",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "skiplibcheck": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-public",
+      "computed-property-names"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/comp-name-init-err-contains-super.js"
+}

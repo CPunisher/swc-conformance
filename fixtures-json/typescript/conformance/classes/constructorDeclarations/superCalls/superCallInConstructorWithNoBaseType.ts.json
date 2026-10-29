@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "superCallInConstructorWithNoBaseType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/constructorDeclarations/superCalls/superCallInConstructorWithNoBaseType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2335,
+            2335
+          ],
+          "file": "superCallInConstructorWithNoBaseType.ts"
+        }
+      ],
+      "name": "superCallInConstructorWithNoBaseType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

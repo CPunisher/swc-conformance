@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasUsage1_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "aliasUsage1_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "aliasUsage1_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/aliasUsageInAccessorsOfClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "aliasUsageInAccessorsOfClass(target=es5)",
+      "options": {
+        "filename": "aliasUsage1_main.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsage1_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsage1_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "aliasUsage1_moduleA.ts"
+        }
+      ],
+      "name": "aliasUsageInAccessorsOfClass(target=es2015)",
+      "options": {
+        "filename": "aliasUsage1_main.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

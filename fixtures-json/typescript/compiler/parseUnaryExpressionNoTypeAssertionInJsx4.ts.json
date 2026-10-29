@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/parseUnaryExpressionNoTypeAssertionInJsx4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17008,
+            17014,
+            1003,
+            1382,
+            1005
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "parseUnaryExpressionNoTypeAssertionInJsx4",
+      "options": {
+        "filename": "index.tsx",
+        "jsx": "preserve",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

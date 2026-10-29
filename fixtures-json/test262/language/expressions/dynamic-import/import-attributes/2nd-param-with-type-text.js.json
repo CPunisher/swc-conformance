@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import",
+      "import-attributes",
+      "import-text"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/import-attributes/2nd-param-with-type-text.js"
+}

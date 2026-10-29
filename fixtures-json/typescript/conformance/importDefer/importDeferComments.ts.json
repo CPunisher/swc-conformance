@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/importDefer/importDeferComments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importDeferComments",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

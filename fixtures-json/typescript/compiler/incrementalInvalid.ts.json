@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "incrementalInvalid.ts"
+    }
+  ],
+  "options": {
+    "incremental": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/incrementalInvalid.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5074
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "incrementalInvalid.ts"
+        }
+      ],
+      "name": "incrementalInvalid",
+      "options": {
+        "incremental": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

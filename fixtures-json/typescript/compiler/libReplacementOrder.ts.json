@@ -1,0 +1,148 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8
+      ],
+      "name": "/node_modules/@typescript/lib-es2015/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/@typescript/lib-es2016/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/@typescript/lib-es2017/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/@typescript/lib-es2018/index.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/node_modules/@typescript/lib-es2019/index.d.ts"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "/node_modules/@typescript/lib-es2020/index.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/node_modules/@typescript/lib-es2021/index.d.ts"
+    },
+    {
+      "lines": [
+        28,
+        29
+      ],
+      "name": "/node_modules/@typescript/lib-es2022/index.d.ts"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "/node_modules/@typescript/lib-es2023/index.d.ts"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "/node_modules/@typescript/lib-es2024/index.d.ts"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "/node_modules/@typescript/lib-es2025/index.d.ts"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "/node_modules/@typescript/lib-esnext/index.d.ts"
+    },
+    {
+      "lines": [
+        43,
+        44
+      ],
+      "name": "/node_modules/@typescript/lib-dom/index.d.ts"
+    },
+    {
+      "lines": [
+        46,
+        47
+      ],
+      "name": "/node_modules/@typescript/lib-scripthost/index.d.ts"
+    },
+    {
+      "lines": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015,es2016,es2017,es2018,es2019,es2020,es2021,es2022,es2023,es2024,es2025,esnext,dom,scripthost",
+    "libreplacement": "true",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/libReplacementOrder.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "libReplacementOrder",
+      "options": {
+        "filename": "/src/index.ts",
+        "lib": "es5,es2015,es2016,es2017,es2018,es2019,es2020,es2021,es2022,es2023,es2024,es2025,esnext,dom,scripthost",
+        "libreplacement": "true",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

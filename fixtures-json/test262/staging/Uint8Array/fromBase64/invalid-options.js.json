@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "uint8array-base64",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/Uint8Array/fromBase64/invalid-options.js"
+}

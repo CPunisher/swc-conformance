@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "server.ts"
+    },
+    {
+      "lines": [
+        16
+      ],
+      "name": "client.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ExportAll.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "server.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "client.ts"
+        }
+      ],
+      "name": "es6ExportAll",
+      "options": {
+        "declaration": "true",
+        "filename": "client.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

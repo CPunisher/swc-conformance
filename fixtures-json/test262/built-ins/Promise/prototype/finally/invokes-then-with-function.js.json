@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally",
+      "Reflect.construct",
+      "arrow-function"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/invokes-then-with-function.js"
+}

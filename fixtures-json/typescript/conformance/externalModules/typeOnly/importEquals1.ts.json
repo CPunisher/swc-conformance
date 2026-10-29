@@ -1,0 +1,118 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/e.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "/f.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30
+      ],
+      "name": "/g.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/importEquals1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [
+            1361
+          ],
+          "file": "/d.ts"
+        },
+        {
+          "codes": [
+            1361
+          ],
+          "file": "/e.ts"
+        },
+        {
+          "codes": [
+            1361
+          ],
+          "file": "/f.ts"
+        },
+        {
+          "codes": [
+            1361
+          ],
+          "file": "/g.ts"
+        }
+      ],
+      "name": "importEquals1",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "/g.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

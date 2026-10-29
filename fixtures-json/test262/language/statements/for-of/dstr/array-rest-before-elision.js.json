@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-of/dstr/array-rest-before-elision.js"
+}

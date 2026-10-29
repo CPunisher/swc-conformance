@@ -1,0 +1,130 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/a/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/a/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "/node_modules/a/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "/node_modules/a/node_modules/peer-a/index.d.ts"
+    },
+    {
+      "lines": [
+        21
+      ],
+      "name": "/node_modules/a/node_modules/peer-a/package.json"
+    },
+    {
+      "lines": [
+        23
+      ],
+      "name": "/node_modules/a/node_modules/peer-b/index.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/node_modules/a/node_modules/peer-b/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/b/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/b/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        34
+      ],
+      "name": "/node_modules/b/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "/node_modules/b/node_modules/peer-a/index.d.ts"
+    },
+    {
+      "lines": [
+        21
+      ],
+      "name": "/node_modules/b/node_modules/peer-a/package.json"
+    },
+    {
+      "lines": [
+        23
+      ],
+      "name": "/node_modules/b/node_modules/peer-b/index.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/node_modules/b/node_modules/peer-b/package.json"
+    },
+    {
+      "lines": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "name": "/src/a.ts"
+    }
+  ],
+  "options": {
+    "module": "node16",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/duplicatePackage_peerDependencies.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "duplicatePackage_peerDependencies",
+      "options": {
+        "filename": "/src/a.ts",
+        "module": "node16",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

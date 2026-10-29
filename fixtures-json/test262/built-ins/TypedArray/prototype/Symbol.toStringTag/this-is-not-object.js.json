@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "Symbol.toStringTag",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/Symbol.toStringTag/this-is-not-object.js"
+}

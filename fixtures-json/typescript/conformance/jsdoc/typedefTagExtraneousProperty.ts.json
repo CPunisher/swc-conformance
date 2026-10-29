@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "typedefTagExtraneousProperty.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "es5",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefTagExtraneousProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typedefTagExtraneousProperty",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "typedefTagExtraneousProperty.js",
+        "lib": "es5",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

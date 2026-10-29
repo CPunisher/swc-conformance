@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "assignFromStringInterface.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/primitives/string/assignFromStringInterface.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "assignFromStringInterface.ts"
+        }
+      ],
+      "name": "assignFromStringInterface",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

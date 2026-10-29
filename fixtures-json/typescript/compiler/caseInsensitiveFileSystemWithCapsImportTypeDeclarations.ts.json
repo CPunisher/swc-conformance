@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "Uppercased_Dir/src/index.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "Uppercased_Dir/src/type-b.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "Uppercased_Dir/src/type-a.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "Uppercased_Dir/src/types.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015",
+    "usecasesensitivefilenames": "false"
+  },
+  "path": "compiler/caseInsensitiveFileSystemWithCapsImportTypeDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "caseInsensitiveFileSystemWithCapsImportTypeDeclarations",
+      "options": {
+        "declaration": "true",
+        "filename": "Uppercased_Dir/src/types.ts",
+        "module": "commonjs",
+        "target": "es2015",
+        "usecasesensitivefilenames": "false"
+      }
+    }
+  ]
+}

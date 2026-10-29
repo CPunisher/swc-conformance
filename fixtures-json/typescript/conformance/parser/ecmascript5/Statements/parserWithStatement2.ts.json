@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserWithStatement2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserWithStatement2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1101,
+            2410
+          ],
+          "file": "parserWithStatement2.ts"
+        }
+      ],
+      "name": "parserWithStatement2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

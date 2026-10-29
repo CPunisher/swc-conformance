@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "2.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "target": "esnext"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionInSystem2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpressionInSystem2",
+      "options": {
+        "filename": "2.ts",
+        "module": "system",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "file.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "something.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "commonjs",
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsTypeDefNoUnusedLocalMarked.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "file.ts"
+        },
+        {
+          "codes": [
+            2352
+          ],
+          "file": "something.js"
+        }
+      ],
+      "name": "checkJsTypeDefNoUnusedLocalMarked",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "something.js",
+        "module": "commonjs",
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "classExtendsItselfIndirectly_file1.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "classExtendsItselfIndirectly_file2.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "classExtendsItselfIndirectly_file3.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "classExtendsItselfIndirectly_file4.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "classExtendsItselfIndirectly_file5.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "classExtendsItselfIndirectly_file6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classHeritageSpecification/classExtendsItselfIndirectly3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file1.ts"
+        },
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file2.ts"
+        },
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file3.ts"
+        },
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file4.ts"
+        },
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file5.ts"
+        },
+        {
+          "codes": [
+            2506,
+            2564
+          ],
+          "file": "classExtendsItselfIndirectly_file6.ts"
+        }
+      ],
+      "name": "classExtendsItselfIndirectly3",
+      "options": {
+        "filename": "classExtendsItselfIndirectly_file6.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

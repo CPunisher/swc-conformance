@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "reachabilityChecks3.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/reachabilityChecks3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7028,
+            7028,
+            7028
+          ],
+          "file": "reachabilityChecks3.ts"
+        }
+      ],
+      "name": "reachabilityChecks3",
+      "options": {
+        "allowunusedlabels": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

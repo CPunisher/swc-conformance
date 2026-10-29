@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Atomics"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/sm/Atomics/detached-buffers.js"
+}

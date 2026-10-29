@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserSymbolIndexer5.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/parser/ecmascript6/Symbols/parserSymbolIndexer5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1005,
+            2552,
+            1005,
+            1136,
+            1005
+          ],
+          "file": "parserSymbolIndexer5.ts"
+        }
+      ],
+      "name": "parserSymbolIndexer5",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

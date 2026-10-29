@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "bug27025.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAliasUnknown.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2339,
+            2304
+          ],
+          "file": "bug27025.js"
+        }
+      ],
+      "name": "moduleExportAliasUnknown",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug27025.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

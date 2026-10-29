@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled"
+    ],
+    "flags": [],
+    "includes": [
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/resolve-before-loop-exit-from-same.js"
+}

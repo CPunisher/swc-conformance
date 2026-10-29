@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "Reflect.construct"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-generator/yield-thenable-create-resolving-functions-resolve.js"
+}

@@ -1,0 +1,86 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "file.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "lib": "es5,dom",
+    "module": "commonjs",
+    "skiplibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxStatelessFunctionComponents2.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2322,
+            2322,
+            2551,
+            2339,
+            2339
+          ],
+          "file": "file.tsx"
+        }
+      ],
+      "name": "tsxStatelessFunctionComponents2",
+      "options": {
+        "filename": "file.tsx",
+        "jsx": "preserve",
+        "lib": "es5,dom",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

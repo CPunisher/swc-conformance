@@ -1,0 +1,74 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "exportNonInitializedVariablesInIfThenStatementNoCrash1.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext, commonjs, system",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/exportNonInitializedVariablesInIfThenStatementNoCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            1184,
+            1155,
+            2304
+          ],
+          "file": "exportNonInitializedVariablesInIfThenStatementNoCrash1.ts"
+        }
+      ],
+      "name": "exportNonInitializedVariablesInIfThenStatementNoCrash1(module=esnext)",
+      "options": {
+        "module": "esnext",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [
+            1184,
+            1155,
+            2304
+          ],
+          "file": "exportNonInitializedVariablesInIfThenStatementNoCrash1.ts"
+        }
+      ],
+      "name": "exportNonInitializedVariablesInIfThenStatementNoCrash1(module=commonjs)",
+      "options": {
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=system",
+      "diagnostics": [],
+      "name": "exportNonInitializedVariablesInIfThenStatementNoCrash1(module=system)",
+      "options": {
+        "module": "system",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

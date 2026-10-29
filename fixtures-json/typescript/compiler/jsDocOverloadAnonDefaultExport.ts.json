@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "jsDocOverloadAnonDefaultExport.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "outdir": "dist/",
+    "target": "es2015"
+  },
+  "path": "compiler/jsDocOverloadAnonDefaultExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDocOverloadAnonDefaultExport",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "jsDocOverloadAnonDefaultExport.js",
+        "outdir": "dist/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

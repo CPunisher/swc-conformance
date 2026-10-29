@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "class-methods-private"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/class/elements/async-gen-private-method/yield-identifier-strict.js"
+}

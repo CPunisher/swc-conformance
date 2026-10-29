@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "jsxFactoryButNoJsxFragmentFactory.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "jsxfactory": "h",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxFactoryButNoJsxFragmentFactory.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            17016,
+            17016,
+            7026,
+            7026,
+            17016,
+            7026,
+            7026,
+            7026,
+            7026
+          ],
+          "file": "jsxFactoryButNoJsxFragmentFactory.tsx"
+        }
+      ],
+      "name": "jsxFactoryButNoJsxFragmentFactory",
+      "options": {
+        "jsx": "react",
+        "jsxfactory": "h",
+        "target": "es2015"
+      }
+    }
+  ]
+}

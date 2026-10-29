@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "obj.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "id.d.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "rewriterelativeimportextensions": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitNoInvalidCommentReuse2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitNoInvalidCommentReuse2",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "id.d.ts",
+        "rewriterelativeimportextensions": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

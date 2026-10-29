@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "dist/bar.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "types/main.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "compiler/resolutionCandidateFromPackageJsonField2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "dist/bar.ts"
+        },
+        {
+          "codes": [],
+          "file": "types/main.d.ts"
+        },
+        {
+          "codes": [
+            5097
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "resolutionCandidateFromPackageJsonField2",
+      "options": {
+        "filename": "test.ts",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

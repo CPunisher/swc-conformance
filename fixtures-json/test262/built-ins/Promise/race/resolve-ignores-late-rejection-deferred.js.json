@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js"
+}

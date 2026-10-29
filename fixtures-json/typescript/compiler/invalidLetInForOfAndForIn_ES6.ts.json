@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "invalidLetInForOfAndForIn_ES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/invalidLetInForOfAndForIn_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1181,
+            2695,
+            2695,
+            1005,
+            1128
+          ],
+          "file": "invalidLetInForOfAndForIn_ES6.ts"
+        }
+      ],
+      "name": "invalidLetInForOfAndForIn_ES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

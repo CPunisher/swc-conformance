@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/src/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/src/b.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/src/d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/src/jquery.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "/src/jquery_user_1.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/src/jquery_user_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/externalModules/moduleResolutionWithExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithExtensions",
+      "options": {
+        "filename": "/src/jquery_user_1.ts",
+        "module": "commonjs",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

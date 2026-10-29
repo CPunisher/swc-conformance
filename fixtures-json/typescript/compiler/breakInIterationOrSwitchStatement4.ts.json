@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "breakInIterationOrSwitchStatement4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/breakInIterationOrSwitchStatement4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "breakInIterationOrSwitchStatement4.ts"
+        }
+      ],
+      "name": "breakInIterationOrSwitchStatement4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

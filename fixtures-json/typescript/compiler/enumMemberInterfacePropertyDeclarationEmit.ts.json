@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "enum.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "base.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "isolateddeclarations": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/enumMemberInterfacePropertyDeclarationEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "enumMemberInterfacePropertyDeclarationEmit",
+      "options": {
+        "declaration": "true",
+        "filename": "base.ts",
+        "isolateddeclarations": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

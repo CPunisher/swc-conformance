@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "top-level-await"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/evaluation-top-level-await/import-defer-transitive-async-module/main.js"
+}

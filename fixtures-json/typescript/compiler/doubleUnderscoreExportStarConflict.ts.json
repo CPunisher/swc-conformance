@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "index.tsx"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/doubleUnderscoreExportStarConflict.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2308
+          ],
+          "file": "index.tsx"
+        },
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [],
+          "file": "c.ts"
+        }
+      ],
+      "name": "doubleUnderscoreExportStarConflict",
+      "options": {
+        "filename": "c.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

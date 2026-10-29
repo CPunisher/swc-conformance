@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "ParameterList5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/ParameterList5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2355,
+            2369,
+            7006,
+            2304
+          ],
+          "file": "ParameterList5.ts"
+        }
+      ],
+      "name": "ParameterList5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

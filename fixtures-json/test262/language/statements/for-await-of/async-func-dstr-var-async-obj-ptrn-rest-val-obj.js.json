@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "destructuring-binding",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-await-of/async-func-dstr-var-async-obj-ptrn-rest-val-obj.js"
+}

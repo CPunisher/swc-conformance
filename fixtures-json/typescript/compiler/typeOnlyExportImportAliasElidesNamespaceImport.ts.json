@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/typeOnlyExportImportAliasElidesNamespaceImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeOnlyExportImportAliasElidesNamespaceImport",
+      "options": {
+        "filename": "/b.ts",
+        "module": "esnext",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

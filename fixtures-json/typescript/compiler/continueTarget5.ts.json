@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "continueTarget5.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/continueTarget5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1107
+          ],
+          "file": "continueTarget5.ts"
+        }
+      ],
+      "name": "continueTarget5",
+      "options": {
+        "allowunusedlabels": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

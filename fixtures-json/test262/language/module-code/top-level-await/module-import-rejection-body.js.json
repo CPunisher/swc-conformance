@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "TypeError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/module-import-rejection-body.js"
+}

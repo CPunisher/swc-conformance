@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "indexedAccessImplicitlyAny.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/indexedAccessImplicitlyAny.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2551,
+            2551
+          ],
+          "file": "indexedAccessImplicitlyAny.ts"
+        }
+      ],
+      "name": "indexedAccessImplicitlyAny",
+      "options": {
+        "noimplicitany": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

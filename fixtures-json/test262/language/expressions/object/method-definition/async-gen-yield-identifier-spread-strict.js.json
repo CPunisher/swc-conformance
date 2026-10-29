@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "object-spread",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/async-gen-yield-identifier-spread-strict.js"
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "restElementMustBeLast.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/rest/restElementMustBeLast.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2462,
+            2462
+          ],
+          "file": "restElementMustBeLast.ts"
+        }
+      ],
+      "name": "restElementMustBeLast",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

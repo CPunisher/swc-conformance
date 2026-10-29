@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "new.target",
+      "async-functions"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/new.target/unary-expr.js"
+}

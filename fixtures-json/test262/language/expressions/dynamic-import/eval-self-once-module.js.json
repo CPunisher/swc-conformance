@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import"
+    ],
+    "flags": [
+      "async",
+      "module"
+    ],
+    "includes": [
+      "fnGlobalObject.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/dynamic-import/eval-self-once-module.js"
+}

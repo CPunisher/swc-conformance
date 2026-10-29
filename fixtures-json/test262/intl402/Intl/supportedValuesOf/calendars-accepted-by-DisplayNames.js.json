@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Intl.DisplayNames-v2",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/calendars-accepted-by-DisplayNames.js"
+}

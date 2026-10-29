@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "fakelib.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "file1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "nolib": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/declarationEmit/libReferenceNoLib.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "fakelib.ts"
+        },
+        {
+          "codes": [],
+          "file": "file1.ts"
+        }
+      ],
+      "name": "libReferenceNoLib",
+      "options": {
+        "declaration": "true",
+        "filename": "file1.ts",
+        "module": "commonjs",
+        "nolib": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

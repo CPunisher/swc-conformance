@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "iterableArrayPattern28.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/destructuring/iterableArrayPattern28.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769
+          ],
+          "file": "iterableArrayPattern28.ts"
+        }
+      ],
+      "name": "iterableArrayPattern28",
+      "options": {
+        "lib": "es2015",
+        "target": "ES6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "module": "ES2015",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/reexportMissingDefault7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "reexportMissingDefault7",
+      "options": {
+        "filename": "a.ts",
+        "module": "ES2015",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

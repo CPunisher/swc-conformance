@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "interfaceDeclaration6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/interfaceDeclaration6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2430,
+            2430,
+            2430
+          ],
+          "file": "interfaceDeclaration6.ts"
+        }
+      ],
+      "name": "interfaceDeclaration6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "dependentDestructuredVariablesNoCrash2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true"
+  },
+  "path": "conformance/controlFlow/dependentDestructuredVariablesNoCrash2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            1003,
+            2488,
+            2371,
+            7022,
+            2373
+          ],
+          "file": "dependentDestructuredVariablesNoCrash2.ts"
+        }
+      ],
+      "name": "dependentDestructuredVariablesNoCrash2",
+      "options": {
+        "declaration": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

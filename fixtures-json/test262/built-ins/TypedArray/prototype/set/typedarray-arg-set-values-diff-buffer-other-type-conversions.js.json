@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "byteConversionValues.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/set/typedarray-arg-set-values-diff-buffer-other-type-conversions.js"
+}

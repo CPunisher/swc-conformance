@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/test.js"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsExportMemberMergedWithModuleAugmentation2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/test.js"
+        },
+        {
+          "codes": [
+            2671,
+            2551
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "jsExportMemberMergedWithModuleAugmentation2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/index.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

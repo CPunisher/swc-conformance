@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/importDefer/importDeferDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importDeferDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "constWithNonNull.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/constWithNonNull.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2588
+          ],
+          "file": "constWithNonNull.ts"
+        }
+      ],
+      "name": "constWithNonNull",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

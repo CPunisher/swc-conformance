@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "exporter.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "lib": "es6",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsCrossfileMerge.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsCrossfileMerge(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "exporter.js",
+        "lib": "es6",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "exporter.js"
+        }
+      ],
+      "name": "jsDeclarationsCrossfileMerge(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "exporter.js",
+        "lib": "es6",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

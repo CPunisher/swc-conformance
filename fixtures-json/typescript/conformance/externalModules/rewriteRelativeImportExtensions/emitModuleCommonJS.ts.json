@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        8,
+        10,
+        12,
+        13,
+        14
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "module": "commonjs,nodenext",
+    "notypesandsymbols": "true",
+    "outdir": "dist",
+    "rewriterelativeimportextensions": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/externalModules/rewriteRelativeImportExtensions/emitModuleCommonJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "emitModuleCommonJS(module=commonjs)",
+      "options": {
+        "checkjs": "true",
+        "filename": "b.ts",
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "rewriterelativeimportextensions": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2307
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "emitModuleCommonJS(module=nodenext)",
+      "options": {
+        "checkjs": "true",
+        "filename": "b.ts",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "rewriterelativeimportextensions": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

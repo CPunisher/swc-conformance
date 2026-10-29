@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "for-inStatementsDestructuring2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/statements/for-inStatements/for-inStatementsDestructuring2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2491,
+            2339,
+            2339
+          ],
+          "file": "for-inStatementsDestructuring2.ts"
+        }
+      ],
+      "name": "for-inStatementsDestructuring2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Intl.RelativeTimeFormat",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/numberingSystems-accepted-by-RelativeTimeFormat.js"
+}

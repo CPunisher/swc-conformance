@@ -1,0 +1,151 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/dir/index.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/redirect/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/foo/index.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "/types/esm.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        20,
+        21
+      ],
+      "name": "/types/cjs.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext, preserve",
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerRelative1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/dir/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/redirect/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/esm.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/cjs.d.ts"
+        },
+        {
+          "codes": [
+            5097,
+            2307
+          ],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "bundlerRelative1(module=esnext)",
+      "options": {
+        "filename": "/main.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/dir/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/redirect/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/esm.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types/cjs.d.ts"
+        },
+        {
+          "codes": [
+            5097,
+            2307
+          ],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "bundlerRelative1(module=preserve)",
+      "options": {
+        "filename": "/main.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

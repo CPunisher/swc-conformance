@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "commentsMultiModuleMultiFile_0.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "commentsMultiModuleMultiFile_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "removecomments": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/commentsMultiModuleMultiFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commentsMultiModuleMultiFile(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "commentsMultiModuleMultiFile_1.ts",
+        "module": "commonjs",
+        "removecomments": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "commentsMultiModuleMultiFile_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "commentsMultiModuleMultiFile_0.ts"
+        }
+      ],
+      "name": "commentsMultiModuleMultiFile(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "commentsMultiModuleMultiFile_1.ts",
+        "module": "commonjs",
+        "removecomments": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

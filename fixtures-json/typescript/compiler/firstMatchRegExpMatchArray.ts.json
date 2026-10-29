@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "firstMatchRegExpMatchArray.ts"
+    }
+  ],
+  "options": {
+    "nouncheckedindexedaccess": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/firstMatchRegExpMatchArray.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "firstMatchRegExpMatchArray.ts"
+        }
+      ],
+      "name": "firstMatchRegExpMatchArray",
+      "options": {
+        "nouncheckedindexedaccess": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

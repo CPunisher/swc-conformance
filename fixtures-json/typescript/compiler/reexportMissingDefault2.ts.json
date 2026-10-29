@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "allowsyntheticdefaultimports": "true",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/reexportMissingDefault2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "reexportMissingDefault2",
+      "options": {
+        "allowsyntheticdefaultimports": "true",
+        "filename": "a.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/@types/angular2/package.json"
+    },
+    {
+      "lines": [],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/typings/typingsLookup2.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      8,
+      9
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typingsLookup2",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

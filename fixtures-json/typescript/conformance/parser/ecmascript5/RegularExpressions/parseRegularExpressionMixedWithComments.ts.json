@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "parseRegularExpressionMixedWithComments.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegularExpressions/parseRegularExpressionMixedWithComments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2362,
+            2363,
+            2362,
+            2363
+          ],
+          "file": "parseRegularExpressionMixedWithComments.ts"
+        }
+      ],
+      "name": "parseRegularExpressionMixedWithComments",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

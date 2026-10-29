@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled",
+      "Symbol.iterator"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/invoke-resolve-error-close.js"
+}

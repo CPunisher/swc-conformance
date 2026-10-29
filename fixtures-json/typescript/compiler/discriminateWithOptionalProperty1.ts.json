@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "discriminateWithOptionalProperty1.ts"
+    }
+  ],
+  "options": {
+    "exactoptionalpropertytypes": "true, false",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/discriminateWithOptionalProperty1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "exactoptionalpropertytypes=true",
+      "diagnostics": [],
+      "name": "discriminateWithOptionalProperty1(exactoptionalpropertytypes=true)",
+      "options": {
+        "exactoptionalpropertytypes": "true",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "exactoptionalpropertytypes=false",
+      "diagnostics": [],
+      "name": "discriminateWithOptionalProperty1(exactoptionalpropertytypes=false)",
+      "options": {
+        "exactoptionalpropertytypes": "false",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

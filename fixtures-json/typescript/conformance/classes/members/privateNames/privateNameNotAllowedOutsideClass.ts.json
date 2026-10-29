@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "privateNameNotAllowedOutsideClass.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameNotAllowedOutsideClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18029
+          ],
+          "file": "privateNameNotAllowedOutsideClass.ts"
+        }
+      ],
+      "name": "privateNameNotAllowedOutsideClass",
+      "options": {
+        "strict": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

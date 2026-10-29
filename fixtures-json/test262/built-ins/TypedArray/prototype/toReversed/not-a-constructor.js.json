@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "change-array-by-copy",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/toReversed/not-a-constructor.js"
+}

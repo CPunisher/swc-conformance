@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "parametersSyntaxErrorNoCrash1.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/parametersSyntaxErrorNoCrash1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2391,
+            7010,
+            2300,
+            1005,
+            7006,
+            1005,
+            1005,
+            2300,
+            2842,
+            1005,
+            1005
+          ],
+          "file": "parametersSyntaxErrorNoCrash1.ts"
+        }
+      ],
+      "name": "parametersSyntaxErrorNoCrash1",
+      "options": {
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

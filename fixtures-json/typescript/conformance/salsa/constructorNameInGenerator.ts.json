@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "constructorNameInGenerator.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "conformance/salsa/constructorNameInGenerator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1368
+          ],
+          "file": "constructorNameInGenerator.ts"
+        }
+      ],
+      "name": "constructorNameInGenerator",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

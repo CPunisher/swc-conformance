@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "privateNamesAndDecorators.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesAndDecorators.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206,
+            1206
+          ],
+          "file": "privateNamesAndDecorators.ts"
+        }
+      ],
+      "name": "privateNamesAndDecorators",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

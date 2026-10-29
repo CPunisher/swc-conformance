@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/jquery/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/typings/typingsLookup1.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      7
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5024
+          ],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/jquery/index.d.ts"
+        }
+      ],
+      "name": "typingsLookup1",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

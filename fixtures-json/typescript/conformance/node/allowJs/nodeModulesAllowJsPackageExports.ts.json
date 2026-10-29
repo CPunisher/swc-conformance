@@ -1,0 +1,326 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "index.mjs"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "index.cjs"
+    },
+    {
+      "lines": [
+        36,
+        51
+      ],
+      "name": "node_modules/inner/index.d.ts"
+    },
+    {
+      "lines": [
+        36,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "name": "node_modules/inner/test.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        62
+      ],
+      "name": "node_modules/inner/index.d.mts"
+    },
+    {
+      "lines": [
+        8,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "name": "node_modules/inner/test.d.mts"
+    },
+    {
+      "lines": [
+        36,
+        73
+      ],
+      "name": "node_modules/inner/index.d.cts"
+    },
+    {
+      "lines": [
+        36,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "name": "node_modules/inner/test.d.cts"
+    },
+    {
+      "lines": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        83,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "rootdir": ".",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsPackageExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            1479,
+            1479,
+            1479
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsPackageExports(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.mjs"
+        },
+        {
+          "codes": [
+            1479,
+            1479,
+            1479
+          ],
+          "file": "index.cjs"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.ts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/test.d.mts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.d.cts"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "node_modules/inner/test.d.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsPackageExports(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsPackageExports(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nodeModulesAllowJsPackageExports(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "rootdir": ".",
+        "target": "es2022"
+      }
+    }
+  ]
+}

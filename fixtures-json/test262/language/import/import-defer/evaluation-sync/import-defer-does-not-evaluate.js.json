@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/import/import-defer/evaluation-sync/import-defer-does-not-evaluate.js"
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "commentsOnObjectLiteral5.ts"
+    }
+  ],
+  "options": {
+    "removecomments": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/commentsOnObjectLiteral5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commentsOnObjectLiteral5(target=es5)",
+      "options": {
+        "removecomments": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "commentsOnObjectLiteral5(target=es2015)",
+      "options": {
+        "removecomments": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

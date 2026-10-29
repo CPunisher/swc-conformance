@@ -1,0 +1,342 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "/node_modules/exports-and-types-versions/package.json"
+    },
+    {
+      "lines": [
+        32,
+        33
+      ],
+      "name": "/node_modules/exports-and-types-versions/dist/foo.js"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "/node_modules/exports-and-types-versions/types/foo.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "/node_modules/just-types-versions/package.json"
+    },
+    {
+      "lines": [
+        35,
+        36
+      ],
+      "name": "/node_modules/just-types-versions/types/foo.d.ts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "name": "/main.cts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "name": "/main.mts"
+    }
+  ],
+  "options": {
+    "module": "node16,node18,node20,nodenext",
+    "noimplicitany": "true",
+    "target": "es2022",
+    "traceresolution": "true"
+  },
+  "path": "conformance/node/nodeModulesExportsBlocksTypesVersions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/dist/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.cts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsBlocksTypesVersions(module=node16)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "node16",
+        "noimplicitany": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/dist/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.cts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsBlocksTypesVersions(module=node18)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "node18",
+        "noimplicitany": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/dist/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.cts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsBlocksTypesVersions(module=node20)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "node20",
+        "noimplicitany": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/dist/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/exports-and-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/just-types-versions/types/foo.d.ts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.cts"
+        },
+        {
+          "codes": [
+            7016,
+            7016,
+            2307,
+            2307
+          ],
+          "file": "/main.mts"
+        }
+      ],
+      "name": "nodeModulesExportsBlocksTypesVersions(module=nodenext)",
+      "options": {
+        "filename": "/main.mts",
+        "module": "nodenext",
+        "noimplicitany": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

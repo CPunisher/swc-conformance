@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "for-inStatementsDestructuring.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/for-inStatements/for-inStatementsDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "for-inStatementsDestructuring(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2491
+          ],
+          "file": "for-inStatementsDestructuring.ts"
+        }
+      ],
+      "name": "for-inStatementsDestructuring(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

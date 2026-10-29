@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "asyncFunctionDeclaration10_es6.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/async/es6/functionDeclarations/asyncFunctionDeclaration10_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2524,
+            1109
+          ],
+          "file": "asyncFunctionDeclaration10_es6.ts"
+        }
+      ],
+      "name": "asyncFunctionDeclaration10_es6",
+      "options": {
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

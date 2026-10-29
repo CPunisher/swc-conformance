@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "c.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "m.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "m2.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "dist",
+    "target": "es2015"
+  },
+  "path": "compiler/requireAsFunctionInExternalModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireAsFunctionInExternalModule",
+      "options": {
+        "allowjs": "true",
+        "filename": "m2.ts",
+        "module": "commonjs",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    }
+  ]
+}

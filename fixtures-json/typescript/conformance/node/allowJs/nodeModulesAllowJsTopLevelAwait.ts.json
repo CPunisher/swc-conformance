@@ -1,0 +1,195 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "subfolder/index.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        18,
+        25,
+        26
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsTopLevelAwait.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            1309,
+            1309
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsTopLevelAwait(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            1309,
+            1309
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsTopLevelAwait(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            1309,
+            1309
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsTopLevelAwait(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            1309,
+            1309
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsTopLevelAwait(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2022"
+      }
+    }
+  ]
+}

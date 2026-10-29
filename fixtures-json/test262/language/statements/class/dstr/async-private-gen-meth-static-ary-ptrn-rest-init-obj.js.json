@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-static-methods-private",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/async-private-gen-meth-static-ary-ptrn-rest-init-obj.js"
+}

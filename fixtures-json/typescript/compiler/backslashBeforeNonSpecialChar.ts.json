@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "backslashBeforeNonSpecialChar.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "compiler/backslashBeforeNonSpecialChar.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "backslashBeforeNonSpecialChar",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

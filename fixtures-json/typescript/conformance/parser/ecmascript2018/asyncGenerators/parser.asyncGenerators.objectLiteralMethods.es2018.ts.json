@@ -1,0 +1,413 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "methodIsOk.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "awaitMethodNameIsOk.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "yieldMethodNameIsOk.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "awaitParameterIsError.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "yieldParameterIsError.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "awaitInParameterInitializerIsError.ts"
+    },
+    {
+      "lines": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "yieldInParameterInitializerIsError.ts"
+    },
+    {
+      "lines": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "nestedAsyncGeneratorIsOk.ts"
+    },
+    {
+      "lines": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "name": "nestedFunctionDeclarationNamedYieldIsError.ts"
+    },
+    {
+      "lines": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "name": "nestedFunctionExpressionNamedYieldIsError.ts"
+    },
+    {
+      "lines": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "name": "nestedFunctionDeclarationNamedAwaitIsError.ts"
+    },
+    {
+      "lines": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "name": "nestedFunctionExpressionNamedAwaitIsError.ts"
+    },
+    {
+      "lines": [
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "name": "yieldIsOk.ts"
+    },
+    {
+      "lines": [
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "name": "yieldWithValueIsOk.ts"
+    },
+    {
+      "lines": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "name": "yieldStarMissingValueIsError.ts"
+    },
+    {
+      "lines": [
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "name": "yieldStarWithValueIsOk.ts"
+    },
+    {
+      "lines": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "name": "awaitWithValueIsOk.ts"
+    },
+    {
+      "lines": [
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "name": "awaitMissingValueIsError.ts"
+    },
+    {
+      "lines": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "name": "awaitAsTypeIsOk.ts"
+    },
+    {
+      "lines": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "name": "yieldAsTypeIsOk.ts"
+    },
+    {
+      "lines": [
+        128,
+        129,
+        130,
+        131,
+        132
+      ],
+      "name": "yieldInNestedComputedPropertyIsOk.ts"
+    },
+    {
+      "lines": [
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "name": "asyncGeneratorGetAccessorIsError.ts"
+    },
+    {
+      "lines": [
+        140,
+        141,
+        142,
+        143
+      ],
+      "name": "asyncGeneratorSetAccessorIsError.ts"
+    },
+    {
+      "lines": [
+        145,
+        146,
+        147,
+        148
+      ],
+      "name": "asyncGeneratorPropertyIsError.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "lib": "esnext",
+    "noemit": "true",
+    "skiplibcheck": "true",
+    "strict": "false",
+    "target": "es2018"
+  },
+  "path": "conformance/parser/ecmascript2018/asyncGenerators/parser.asyncGenerators.objectLiteralMethods.es2018.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "methodIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "awaitMethodNameIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "yieldMethodNameIsOk.ts"
+        },
+        {
+          "codes": [
+            1359
+          ],
+          "file": "awaitParameterIsError.ts"
+        },
+        {
+          "codes": [
+            1212
+          ],
+          "file": "yieldParameterIsError.ts"
+        },
+        {
+          "codes": [
+            2524
+          ],
+          "file": "awaitInParameterInitializerIsError.ts"
+        },
+        {
+          "codes": [
+            2523
+          ],
+          "file": "yieldInParameterInitializerIsError.ts"
+        },
+        {
+          "codes": [],
+          "file": "nestedAsyncGeneratorIsOk.ts"
+        },
+        {
+          "codes": [
+            1212
+          ],
+          "file": "nestedFunctionDeclarationNamedYieldIsError.ts"
+        },
+        {
+          "codes": [
+            1212
+          ],
+          "file": "nestedFunctionExpressionNamedYieldIsError.ts"
+        },
+        {
+          "codes": [
+            1359
+          ],
+          "file": "nestedFunctionDeclarationNamedAwaitIsError.ts"
+        },
+        {
+          "codes": [
+            1359
+          ],
+          "file": "nestedFunctionExpressionNamedAwaitIsError.ts"
+        },
+        {
+          "codes": [],
+          "file": "yieldIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "yieldWithValueIsOk.ts"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "yieldStarMissingValueIsError.ts"
+        },
+        {
+          "codes": [],
+          "file": "yieldStarWithValueIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "awaitWithValueIsOk.ts"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "awaitMissingValueIsError.ts"
+        },
+        {
+          "codes": [],
+          "file": "awaitAsTypeIsOk.ts"
+        },
+        {
+          "codes": [
+            1212,
+            1212
+          ],
+          "file": "yieldAsTypeIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "yieldInNestedComputedPropertyIsOk.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "asyncGeneratorGetAccessorIsError.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "asyncGeneratorSetAccessorIsError.ts"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "asyncGeneratorPropertyIsError.ts"
+        }
+      ],
+      "name": "parser.asyncGenerators.objectLiteralMethods.es2018(alwaysstrict=true)",
+      "options": {
+        "alwaysstrict": "true",
+        "filename": "asyncGeneratorPropertyIsError.ts",
+        "ignoredeprecations": "6.0",
+        "lib": "esnext",
+        "noemit": "true",
+        "skiplibcheck": "true",
+        "strict": "false",
+        "target": "es2018"
+      }
+    },
+    {
+      "config": "alwaysstrict=false",
+      "diagnostics": [],
+      "name": "parser.asyncGenerators.objectLiteralMethods.es2018(alwaysstrict=false)",
+      "options": {
+        "alwaysstrict": "false",
+        "filename": "asyncGeneratorPropertyIsError.ts",
+        "ignoredeprecations": "6.0",
+        "lib": "esnext",
+        "noemit": "true",
+        "skiplibcheck": "true",
+        "strict": "false",
+        "target": "es2018"
+      }
+    }
+  ]
+}

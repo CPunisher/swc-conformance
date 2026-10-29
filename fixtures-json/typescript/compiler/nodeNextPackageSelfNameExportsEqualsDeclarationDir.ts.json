@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "/dist/main.d.cts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/main.cts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationdir": "/dist",
+    "module": "nodenext",
+    "rootdir": "/"
+  },
+  "path": "compiler/nodeNextPackageSelfNameExportsEqualsDeclarationDir.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/dist/main.d.cts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/main.cts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        }
+      ],
+      "name": "nodeNextPackageSelfNameExportsEqualsDeclarationDir",
+      "options": {
+        "declaration": "true",
+        "declarationdir": "/dist",
+        "filename": "/package.json",
+        "module": "nodenext",
+        "rootdir": "/"
+      }
+    }
+  ]
+}

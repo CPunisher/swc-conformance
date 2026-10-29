@@ -1,0 +1,186 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/@types/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/node_modules/foo/sub.js"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/node_modules/bar/sub.js"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/node_modules/bar/package.json"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/node_modules/@types/scope__foo/index.d.ts"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/node_modules/@types/scope__foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/node_modules/@scope/foo/sub.js"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/node_modules/@scope/foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/node_modules/@scope/bar/sub.js"
+    },
+    {
+      "lines": [
+        39,
+        40
+      ],
+      "name": "/node_modules/@scope/bar/package.json"
+    },
+    {
+      "lines": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/moduleResolution/untypedModuleImport_noImplicitAny_typesForPackageExist.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7016,
+            7016,
+            7016,
+            7016,
+            7016,
+            7016,
+            7016,
+            7016
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/sub.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/sub.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/scope__foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/scope__foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@scope/foo/sub.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@scope/foo/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@scope/bar/sub.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@scope/bar/package.json"
+        }
+      ],
+      "name": "untypedModuleImport_noImplicitAny_typesForPackageExist",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

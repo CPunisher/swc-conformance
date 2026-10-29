@@ -1,0 +1,121 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        5,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/d.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/e.d.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "/f.ts"
+    },
+    {
+      "lines": [
+        33
+      ],
+      "name": "/z.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/verbatimModuleSyntaxNoElisionCJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1282
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            1484
+          ],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [
+            1283
+          ],
+          "file": "/d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/e.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/f.ts"
+        },
+        {
+          "codes": [],
+          "file": "/z.ts"
+        }
+      ],
+      "name": "verbatimModuleSyntaxNoElisionCJS",
+      "options": {
+        "filename": "/z.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

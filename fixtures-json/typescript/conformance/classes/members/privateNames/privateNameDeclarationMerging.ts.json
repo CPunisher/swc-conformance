@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "privateNameDeclarationMerging.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameDeclarationMerging.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "privateNameDeclarationMerging.ts"
+        }
+      ],
+      "name": "privateNameDeclarationMerging",
+      "options": {
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

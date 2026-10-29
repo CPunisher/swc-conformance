@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "downlevelIterationDeprecated.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true,false",
+    "target": "es5"
+  },
+  "path": "compiler/downlevelIterationDeprecated.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "downleveliteration=true",
+      "diagnostics": [],
+      "name": "downlevelIterationDeprecated(downleveliteration=true)",
+      "options": {
+        "downleveliteration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "downleveliteration=false",
+      "diagnostics": [],
+      "name": "downlevelIterationDeprecated(downleveliteration=false)",
+      "options": {
+        "downleveliteration": "false",
+        "target": "es5"
+      }
+    }
+  ]
+}

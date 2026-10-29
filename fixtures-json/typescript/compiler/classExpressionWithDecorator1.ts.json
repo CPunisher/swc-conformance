@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "classExpressionWithDecorator1.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/classExpressionWithDecorator1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "classExpressionWithDecorator1.ts"
+        }
+      ],
+      "name": "classExpressionWithDecorator1",
+      "options": {
+        "experimentaldecorators": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "target": "es2017"
+  },
+  "path": "compiler/destructuringEmptyBinding.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1003,
+            2304
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "destructuringEmptyBinding",
+      "options": {
+        "filename": "a.ts",
+        "target": "es2017"
+      }
+    }
+  ]
+}

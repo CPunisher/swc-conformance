@@ -1,0 +1,105 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/package1/index.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        15
+      ],
+      "name": "/package2/index.ts"
+    },
+    {
+      "lines": [
+        2,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        28,
+        29
+      ],
+      "name": "/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        31
+      ],
+      "name": "/node_modules/tslib/tslib.js"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/tslibMissingHelper.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/package1/index.ts"
+        },
+        {
+          "codes": [
+            2343
+          ],
+          "file": "/package2/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/tslib.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/tslib/tslib.js"
+        }
+      ],
+      "name": "tslibMissingHelper",
+      "options": {
+        "filename": "/node_modules/tslib/tslib.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

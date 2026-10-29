@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "templateStringInModulo.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInModulo.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2363
+          ],
+          "file": "templateStringInModulo.ts"
+        }
+      ],
+      "name": "templateStringInModulo",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

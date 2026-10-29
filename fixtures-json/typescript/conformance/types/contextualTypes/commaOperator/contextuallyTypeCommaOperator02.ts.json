@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "contextuallyTypeCommaOperator02.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/contextualTypes/commaOperator/contextuallyTypeCommaOperator02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322
+          ],
+          "file": "contextuallyTypeCommaOperator02.ts"
+        }
+      ],
+      "name": "contextuallyTypeCommaOperator02",
+      "options": {
+        "allowunreachablecode": "true",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

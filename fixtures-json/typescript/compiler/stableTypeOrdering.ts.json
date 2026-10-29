@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "stableTypeOrdering.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "stabletypeordering": "true,false",
+    "strict": "true"
+  },
+  "path": "compiler/stableTypeOrdering.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "stabletypeordering=true",
+      "diagnostics": [],
+      "name": "stableTypeOrdering(stabletypeordering=true)",
+      "options": {
+        "noemit": "true",
+        "stabletypeordering": "true",
+        "strict": "true"
+      }
+    },
+    {
+      "config": "stabletypeordering=false",
+      "diagnostics": [],
+      "name": "stableTypeOrdering(stabletypeordering=false)",
+      "options": {
+        "noemit": "true",
+        "stabletypeordering": "false",
+        "strict": "true"
+      }
+    }
+  ]
+}

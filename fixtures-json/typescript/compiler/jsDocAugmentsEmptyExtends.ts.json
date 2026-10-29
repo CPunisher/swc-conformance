@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "file.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true"
+  },
+  "path": "compiler/jsDocAugmentsEmptyExtends.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1097,
+            1097
+          ],
+          "file": "file.js"
+        }
+      ],
+      "name": "jsDocAugmentsEmptyExtends",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "file.js",
+        "noemit": "true"
+      }
+    }
+  ]
+}

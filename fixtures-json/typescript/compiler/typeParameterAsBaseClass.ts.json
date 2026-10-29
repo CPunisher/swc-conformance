@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "typeParameterAsBaseClass.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeParameterAsBaseClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2422
+          ],
+          "file": "typeParameterAsBaseClass.ts"
+        }
+      ],
+      "name": "typeParameterAsBaseClass",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

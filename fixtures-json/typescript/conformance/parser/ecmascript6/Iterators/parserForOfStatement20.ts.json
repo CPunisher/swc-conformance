@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "parserForOfStatement20.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "conformance/parser/ecmascript6/Iterators/parserForOfStatement20.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1189
+          ],
+          "file": "parserForOfStatement20.ts"
+        }
+      ],
+      "name": "parserForOfStatement20",
+      "options": {
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

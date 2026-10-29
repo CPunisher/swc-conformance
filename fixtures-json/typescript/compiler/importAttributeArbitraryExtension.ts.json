@@ -1,0 +1,109 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/file.d.ext.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        31,
+        32,
+        33
+      ],
+      "name": "/foo.ts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "/bar.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "allowimportingtsextensions": "true",
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeArbitraryExtension.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/file.d.ext.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "/bar.ts"
+        }
+      ],
+      "name": "importAttributeArbitraryExtension",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "allowimportingtsextensions": "true",
+        "filename": "/bar.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "file0.ts"
+    },
+    {
+      "lines": [],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "removecomments": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/doNotEmitTripleSlashCommentsInEmptyFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "doNotEmitTripleSlashCommentsInEmptyFile",
+      "options": {
+        "filename": "file2.ts",
+        "removecomments": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

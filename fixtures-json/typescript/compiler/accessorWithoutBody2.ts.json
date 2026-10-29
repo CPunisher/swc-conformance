@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "accessorWithoutBody2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/accessorWithoutBody2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "accessorWithoutBody2(target=es5)",
+      "options": {
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "accessorWithoutBody2.ts"
+        }
+      ],
+      "name": "accessorWithoutBody2(target=es2015)",
+      "options": {
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

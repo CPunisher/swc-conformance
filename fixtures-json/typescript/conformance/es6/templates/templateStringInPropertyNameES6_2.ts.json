@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "templateStringInPropertyNameES6_2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/templates/templateStringInPropertyNameES6_2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349,
+            1136,
+            1005,
+            1134,
+            1128
+          ],
+          "file": "templateStringInPropertyNameES6_2.ts"
+        }
+      ],
+      "name": "templateStringInPropertyNameES6_2",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

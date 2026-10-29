@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "privateNameStaticAndStaticInitializer.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es2015",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameStaticAndStaticInitializer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "privateNameStaticAndStaticInitializer(target=esnext)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "privateNameStaticAndStaticInitializer(target=es2022)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "privateNameStaticAndStaticInitializer(target=es2015)",
+      "options": {
+        "target": "es2015",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

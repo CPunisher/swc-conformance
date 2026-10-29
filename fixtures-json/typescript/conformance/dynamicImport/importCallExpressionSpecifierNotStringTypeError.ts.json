@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "importCallExpressionSpecifierNotStringTypeError.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "false",
+    "target": "es6"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionSpecifierNotStringTypeError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7036,
+            7036,
+            7036,
+            7036,
+            7036
+          ],
+          "file": "importCallExpressionSpecifierNotStringTypeError.ts"
+        }
+      ],
+      "name": "importCallExpressionSpecifierNotStringTypeError",
+      "options": {
+        "module": "commonjs",
+        "noimplicitany": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

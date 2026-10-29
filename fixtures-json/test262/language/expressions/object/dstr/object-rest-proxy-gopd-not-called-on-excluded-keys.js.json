@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "object-rest",
+      "destructuring-binding",
+      "Proxy",
+      "Symbol"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/dstr/object-rest-proxy-gopd-not-called-on-excluded-keys.js"
+}

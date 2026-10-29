@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "interfaceThatInheritsFromItself.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/interfaces/interfaceDeclarations/interfaceThatInheritsFromItself.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2310,
+            2310,
+            2310,
+            1176
+          ],
+          "file": "interfaceThatInheritsFromItself.ts"
+        }
+      ],
+      "name": "interfaceThatInheritsFromItself",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

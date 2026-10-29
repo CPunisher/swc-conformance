@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-with-not-extensible-args.js"
+}

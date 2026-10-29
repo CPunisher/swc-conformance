@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "host-gc-required"
+    ],
+    "flags": [],
+    "includes": [
+      "detachArrayBuffer.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/sm/extensions/typedarray-set-detach.js"
+}

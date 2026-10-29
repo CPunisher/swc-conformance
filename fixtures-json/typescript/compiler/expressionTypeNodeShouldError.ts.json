@@ -1,0 +1,118 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "base.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "string.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "number.ts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "boolean.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/expressionTypeNodeShouldError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005
+          ],
+          "file": "base.d.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1389,
+            1005
+          ],
+          "file": "string.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1389,
+            1005
+          ],
+          "file": "number.ts"
+        },
+        {
+          "codes": [
+            1005,
+            1389,
+            1005
+          ],
+          "file": "boolean.ts"
+        }
+      ],
+      "name": "expressionTypeNodeShouldError",
+      "options": {
+        "filename": "boolean.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

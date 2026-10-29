@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "node_modules/troublesome-lib/package.json"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "node_modules/troublesome-lib/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        13
+      ],
+      "name": "node_modules/troublesome-lib/lib/utilities/positioning.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "node_modules/troublesome-lib/lib/utilities/positioning/index.d.ts"
+    },
+    {
+      "lines": [
+        19
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleLocalImportNotIncorrectlyRedirected.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleLocalImportNotIncorrectlyRedirected",
+      "options": {
+        "filename": "index.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-v-flag"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/unicodeSets/breaking-change-from-u-to-v-17.js"
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "accessorsOverrideProperty2.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext",
+    "usedefineforclassfields": "true"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/accessorsOverrideProperty2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2611
+          ],
+          "file": "accessorsOverrideProperty2.ts"
+        }
+      ],
+      "name": "accessorsOverrideProperty2",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

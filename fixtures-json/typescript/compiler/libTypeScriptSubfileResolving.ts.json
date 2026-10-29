@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "/node_modules/@typescript/lib-dom/index.d.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "/node_modules/@typescript/lib-dom/iterable.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "libreplacement": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/libTypeScriptSubfileResolving.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@typescript/lib-dom/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@typescript/lib-dom/iterable.d.ts"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "index.ts"
+        }
+      ],
+      "name": "libTypeScriptSubfileResolving",
+      "options": {
+        "filename": "index.ts",
+        "libreplacement": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

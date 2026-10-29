@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/packages/search/package.json"
+    },
+    {
+      "lines": [
+        14
+      ],
+      "name": "/packages/search/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/packages/search-prefix/src/API/NotificationAPIUtils.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/packages/search-prefix/src/Store/NotificationStore.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "/packages/search-prefix/lib",
+    "rootdir": "/packages/search-prefix/src",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/declarationEmitSymlinkPaths.ts",
+  "symlinks": {
+    "/node_modules/search": "/packages/search",
+    "/node_modules/search-prefix": "/packages/search-prefix"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declarationEmitSymlinkPaths(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "/packages/search-prefix/src/Store/NotificationStore.ts",
+        "link": "/packages/search-prefix -> /node_modules/search-prefix",
+        "module": "commonjs",
+        "outdir": "/packages/search-prefix/lib",
+        "rootdir": "/packages/search-prefix/src",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "declarationEmitSymlinkPaths(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "/packages/search-prefix/src/Store/NotificationStore.ts",
+        "link": "/packages/search-prefix -> /node_modules/search-prefix",
+        "module": "commonjs",
+        "outdir": "/packages/search-prefix/lib",
+        "rootdir": "/packages/search-prefix/src",
+        "target": "es2015"
+      }
+    }
+  ]
+}

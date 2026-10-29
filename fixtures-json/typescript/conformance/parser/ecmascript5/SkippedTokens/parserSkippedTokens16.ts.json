@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "parserSkippedTokens16.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/SkippedTokens/parserSkippedTokens16.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2552,
+            1005,
+            1434,
+            2304,
+            7010,
+            1127,
+            1109,
+            1138,
+            7006,
+            1109
+          ],
+          "file": "parserSkippedTokens16.ts"
+        }
+      ],
+      "name": "parserSkippedTokens16",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

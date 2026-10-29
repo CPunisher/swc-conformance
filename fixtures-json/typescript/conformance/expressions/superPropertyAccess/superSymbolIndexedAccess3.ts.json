@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "superSymbolIndexedAccess3.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/expressions/superPropertyAccess/superSymbolIndexedAccess3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2538
+          ],
+          "file": "superSymbolIndexedAccess3.ts"
+        }
+      ],
+      "name": "superSymbolIndexedAccess3",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

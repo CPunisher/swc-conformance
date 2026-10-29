@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "nonGenericTypeReferenceWithTypeArguments.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/typeReferences/nonGenericTypeReferenceWithTypeArguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2315,
+            2315,
+            2315,
+            2315,
+            2315,
+            2315,
+            2315,
+            2315,
+            2315
+          ],
+          "file": "nonGenericTypeReferenceWithTypeArguments.ts"
+        }
+      ],
+      "name": "nonGenericTypeReferenceWithTypeArguments",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

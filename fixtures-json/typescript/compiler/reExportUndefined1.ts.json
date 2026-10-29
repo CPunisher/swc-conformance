@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/reExportUndefined1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2661
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "reExportUndefined1",
+      "options": {
+        "filename": "a.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

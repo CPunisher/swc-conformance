@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "helloInterface.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "helloNamespace.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "world.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/typeUsedAsValueError2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693,
+            2708
+          ],
+          "file": "world.ts"
+        },
+        {
+          "codes": [],
+          "file": "helloInterface.ts"
+        },
+        {
+          "codes": [],
+          "file": "helloNamespace.ts"
+        }
+      ],
+      "name": "typeUsedAsValueError2",
+      "options": {
+        "filename": "world.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

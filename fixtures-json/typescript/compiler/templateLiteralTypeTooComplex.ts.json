@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "templateLiteralTypeTooComplex.ts"
+    }
+  ],
+  "options": {
+    "strict": "true"
+  },
+  "path": "compiler/templateLiteralTypeTooComplex.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2590
+          ],
+          "file": "templateLiteralTypeTooComplex.ts"
+        }
+      ],
+      "name": "templateLiteralTypeTooComplex",
+      "options": {
+        "strict": "true"
+      }
+    }
+  ]
+}

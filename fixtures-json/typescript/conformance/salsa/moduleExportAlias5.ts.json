@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "bug24754.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAlias5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309,
+            2339
+          ],
+          "file": "bug24754.js"
+        }
+      ],
+      "name": "moduleExportAlias5",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug24754.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

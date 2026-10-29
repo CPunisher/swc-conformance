@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "importTypeNonString.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "conformance/types/import/importTypeNonString.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1141
+          ],
+          "file": "importTypeNonString.ts"
+        }
+      ],
+      "name": "importTypeNonString",
+      "options": {
+        "declaration": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

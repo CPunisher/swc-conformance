@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parserSuperExpression3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/SuperExpressions/parserSuperExpression3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2304
+          ],
+          "file": "parserSuperExpression3.ts"
+        }
+      ],
+      "name": "parserSuperExpression3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

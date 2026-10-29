@@ -1,0 +1,91 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "src/foo.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "src/index.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "package.json"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/packageJsonImportsWildcardTsExtensionError.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      21,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "src/foo.ts"
+        },
+        {
+          "codes": [
+            5097
+          ],
+          "file": "src/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "packageJsonImportsWildcardTsExtensionError",
+      "options": {
+        "filename": "tsconfig.json",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

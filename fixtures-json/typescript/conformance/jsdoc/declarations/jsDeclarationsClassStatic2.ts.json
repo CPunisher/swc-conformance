@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "Foo.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "Bar.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "outdir": "./out/",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsClassStatic2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationsClassStatic2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "Bar.ts",
+        "outdir": "./out/",
+        "target": "es2015"
+      }
+    }
+  ]
+}

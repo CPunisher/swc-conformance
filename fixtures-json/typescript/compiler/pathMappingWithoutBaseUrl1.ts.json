@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/project/lib/p1/index.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/project/index.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/pathMappingWithoutBaseUrl1.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "name": "/project/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingWithoutBaseUrl1",
+      "options": {
+        "filename": "/project/index.ts",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

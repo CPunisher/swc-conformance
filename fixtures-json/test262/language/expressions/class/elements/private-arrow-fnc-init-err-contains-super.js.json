@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-public",
+      "arrow-function",
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/private-arrow-fnc-init-err-contains-super.js"
+}

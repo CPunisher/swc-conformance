@@ -1,0 +1,110 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/@types/redux/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/packages/a/node_modules/react/index.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/packages/a/node_modules/redux/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/packages/a/node_modules/redux/index.js"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/packages/a/index.ts"
+    }
+  ],
+  "options": {
+    "module": "node16",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2022",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/nodeModulesAtTypesPriority.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/react/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/redux/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/node_modules/react/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/node_modules/redux/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/node_modules/redux/index.js"
+        },
+        {
+          "codes": [],
+          "file": "/packages/a/index.ts"
+        }
+      ],
+      "name": "nodeModulesAtTypesPriority",
+      "options": {
+        "filename": "/packages/a/index.ts",
+        "module": "node16",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

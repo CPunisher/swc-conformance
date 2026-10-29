@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "defaultExportsCannotMerge04.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/modules/defaultExportsCannotMerge04.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "defaultExportsCannotMerge04(target=es5)",
+      "options": {
+        "module": "commonjs",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2652,
+            2652,
+            2395,
+            2395
+          ],
+          "file": "defaultExportsCannotMerge04.ts"
+        }
+      ],
+      "name": "defaultExportsCannotMerge04(target=es2015)",
+      "options": {
+        "module": "commonjs",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

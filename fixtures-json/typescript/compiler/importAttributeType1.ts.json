@@ -1,0 +1,116 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "/valid.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/valid.ts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "/checkErrors.d.ts"
+    },
+    {
+      "lines": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "/augmentation.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeType1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1555
+          ],
+          "file": "/valid.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/valid.ts"
+        },
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            1555,
+            2322,
+            2322,
+            2322,
+            1555,
+            1555,
+            1555,
+            1555
+          ],
+          "file": "/checkErrors.d.ts"
+        },
+        {
+          "codes": [
+            1551
+          ],
+          "file": "/augmentation.ts"
+        }
+      ],
+      "name": "importAttributeType1",
+      "options": {
+        "filename": "/augmentation.ts",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

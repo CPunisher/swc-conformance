@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "decoratorOnTypeAlias.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnTypeAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "decoratorOnTypeAlias.ts"
+        }
+      ],
+      "name": "decoratorOnTypeAlias",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "/tsx.tsx"
+    },
+    {
+      "lines": [],
+      "name": "/jsx.jsx"
+    },
+    {
+      "lines": [],
+      "name": "/js.js"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/moduleResolutionWithExtensions_notSupported.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6142,
+            6142
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tsx.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/jsx.jsx"
+        },
+        {
+          "codes": [],
+          "file": "/js.js"
+        }
+      ],
+      "name": "moduleResolutionWithExtensions_notSupported",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

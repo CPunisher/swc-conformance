@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "mod.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "first.js"
+    },
+    {
+      "lines": [
+        10,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "second.js"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/exportNestedNamespaces2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "mod.js"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "first.js"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "second.js"
+        },
+        {
+          "codes": [],
+          "file": "use.js"
+        }
+      ],
+      "name": "exportNestedNamespaces2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

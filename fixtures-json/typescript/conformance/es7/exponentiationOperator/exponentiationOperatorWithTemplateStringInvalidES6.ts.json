@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "exponentiationOperatorWithTemplateStringInvalidES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es7/exponentiationOperator/exponentiationOperatorWithTemplateStringInvalidES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2363,
+            2363,
+            2363,
+            2363,
+            2362,
+            2362,
+            2362,
+            2362,
+            2363,
+            2363,
+            2363,
+            2304,
+            2363
+          ],
+          "file": "exponentiationOperatorWithTemplateStringInvalidES6.ts"
+        }
+      ],
+      "name": "exponentiationOperatorWithTemplateStringInvalidES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

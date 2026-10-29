@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserInvocationOfMemberAccessOffOfObjectCreationExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parserInvocationOfMemberAccessOffOfObjectCreationExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "parserInvocationOfMemberAccessOffOfObjectCreationExpression1.ts"
+        }
+      ],
+      "name": "parserInvocationOfMemberAccessOffOfObjectCreationExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

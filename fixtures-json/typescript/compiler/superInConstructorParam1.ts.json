@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "superInConstructorParam1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/superInConstructorParam1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2377,
+            2336,
+            17011
+          ],
+          "file": "superInConstructorParam1.ts"
+        }
+      ],
+      "name": "superInConstructorParam1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

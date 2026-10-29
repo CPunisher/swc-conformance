@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "arrayConcatMap.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/arrayConcatMap.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2769,
+            2769,
+            2769,
+            2339
+          ],
+          "file": "arrayConcatMap.ts"
+        }
+      ],
+      "name": "arrayConcatMap",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

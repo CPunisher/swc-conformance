@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "templateStringInNewExpression.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInNewExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351
+          ],
+          "file": "templateStringInNewExpression.ts"
+        }
+      ],
+      "name": "templateStringInNewExpression",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

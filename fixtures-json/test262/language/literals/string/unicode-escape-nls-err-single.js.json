@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "numeric-separator-literal"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/literals/string/unicode-escape-nls-err-single.js"
+}

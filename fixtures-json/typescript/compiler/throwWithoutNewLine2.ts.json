@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "throwWithoutNewLine2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/throwWithoutNewLine2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1142,
+            2304
+          ],
+          "file": "throwWithoutNewLine2.ts"
+        }
+      ],
+      "name": "throwWithoutNewLine2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

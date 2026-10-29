@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "file.tsx"
+    },
+    {
+      "lines": [
+        5,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "node_modules/@types/react/package.json"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "node_modules/@types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        26
+      ],
+      "name": "node_modules/@types/react/jsx-runtime.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        29
+      ],
+      "name": "node_modules/@types/react/jsx-dev-runtime.d.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx",
+    "module": "nodenext",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/reactJsxReactResolvedNodeNextEsm.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reactJsxReactResolvedNodeNextEsm",
+      "options": {
+        "filename": "node_modules/@types/react/jsx-dev-runtime.d.ts",
+        "jsx": "react-jsx",
+        "module": "nodenext",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

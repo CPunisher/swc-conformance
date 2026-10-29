@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/ref.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "/types/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/app.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "declaration": "true",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/types",
+    "types": "*"
+  },
+  "path": "compiler/typeReferenceDirectives6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeReferenceDirectives6",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/app.ts",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/types",
+        "types": "*"
+      }
+    }
+  ]
+}

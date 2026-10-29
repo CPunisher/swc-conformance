@@ -1,0 +1,97 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "findLast.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "esnext, es2022"
+  },
+  "path": "compiler/findLast.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "findLast(target=esnext)",
+      "options": {
+        "strict": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550
+          ],
+          "file": "findLast.ts"
+        }
+      ],
+      "name": "findLast(target=es2022)",
+      "options": {
+        "strict": "false",
+        "target": "es2022"
+      }
+    }
+  ]
+}

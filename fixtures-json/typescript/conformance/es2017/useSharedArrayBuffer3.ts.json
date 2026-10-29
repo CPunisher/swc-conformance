@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "useSharedArrayBuffer3.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es2017/useSharedArrayBuffer3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2583
+          ],
+          "file": "useSharedArrayBuffer3.ts"
+        }
+      ],
+      "name": "useSharedArrayBuffer3",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

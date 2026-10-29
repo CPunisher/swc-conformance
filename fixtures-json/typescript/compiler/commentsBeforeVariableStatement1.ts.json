@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "commentsBeforeVariableStatement1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "removecomments": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/commentsBeforeVariableStatement1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "commentsBeforeVariableStatement1",
+      "options": {
+        "module": "commonjs",
+        "removecomments": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "symbolType5.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolType5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2362,
+            2363,
+            2362,
+            2363,
+            2362,
+            2363,
+            2362,
+            2363
+          ],
+          "file": "symbolType5.ts"
+        }
+      ],
+      "name": "symbolType5",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

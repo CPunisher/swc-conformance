@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "yieldInForInInDownlevelGenerator.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/yieldInForInInDownlevelGenerator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "yieldInForInInDownlevelGenerator(target=es5)",
+      "options": {
+        "lib": "esnext",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "yieldInForInInDownlevelGenerator(target=es2015)",
+      "options": {
+        "lib": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

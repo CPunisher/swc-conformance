@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "resizable-arraybuffer",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "resizableArrayBufferUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/sort/comparefn-shrink.js"
+}

@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "/tsconfig1.json"
+    },
+    {
+      "lines": [
+        2,
+        3,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/tsconfig2.json"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/configFileExtendsAsList.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      17,
+      18,
+      19
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [
+            7006,
+            2454
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/tsconfig1.json"
+        },
+        {
+          "codes": [],
+          "file": "/tsconfig2.json"
+        }
+      ],
+      "name": "configFileExtendsAsList",
+      "options": {
+        "filename": "/index.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

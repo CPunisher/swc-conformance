@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/a/index.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/a/test.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/a/b/test.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/importWithTrailingSlash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/index.ts"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "/a/test.ts"
+        },
+        {
+          "codes": [
+            2339
+          ],
+          "file": "/a/b/test.ts"
+        }
+      ],
+      "name": "importWithTrailingSlash",
+      "options": {
+        "filename": "/a/b/test.ts",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

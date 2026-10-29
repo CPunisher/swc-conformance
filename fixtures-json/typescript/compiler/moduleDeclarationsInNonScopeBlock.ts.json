@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "moduleDeclarationsInNonScopeBlock.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/moduleDeclarationsInNonScopeBlock.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1233,
+            2307,
+            1233,
+            2307,
+            1232,
+            2307,
+            1232,
+            2307,
+            1232
+          ],
+          "file": "moduleDeclarationsInNonScopeBlock.ts"
+        }
+      ],
+      "name": "moduleDeclarationsInNonScopeBlock",
+      "options": {}
+    }
+  ]
+}

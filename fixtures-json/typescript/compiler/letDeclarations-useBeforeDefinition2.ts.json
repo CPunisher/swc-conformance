@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "outdir": "out",
+    "target": "ES6"
+  },
+  "path": "compiler/letDeclarations-useBeforeDefinition2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "letDeclarations-useBeforeDefinition2",
+      "options": {
+        "filename": "file2.ts",
+        "outdir": "out",
+        "target": "ES6"
+      }
+    }
+  ]
+}

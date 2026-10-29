@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-named-groups"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/literals/regexp/named-groups/invalid-incomplete-groupname-2-u.js"
+}

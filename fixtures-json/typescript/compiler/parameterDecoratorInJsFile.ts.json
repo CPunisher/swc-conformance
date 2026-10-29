@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true,false",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/parameterDecoratorInJsFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "checkjs=true",
+      "diagnostics": [
+        {
+          "codes": [
+            7006,
+            7006,
+            7006,
+            1206,
+            7006
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "parameterDecoratorInJsFile(checkjs=true)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    },
+    {
+      "config": "checkjs=false",
+      "diagnostics": [
+        {
+          "codes": [
+            1206
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "parameterDecoratorInJsFile(checkjs=false)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "a.js",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

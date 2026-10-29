@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [
+      "sm/non262-TypedArray-shell.js",
+      "deepEqual.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "staging/sm/TypedArray/map-and-filter.js"
+}

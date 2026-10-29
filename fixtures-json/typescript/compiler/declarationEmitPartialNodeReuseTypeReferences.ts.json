@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "true",
+    "target": "es2020"
+  },
+  "path": "compiler/declarationEmitPartialNodeReuseTypeReferences.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitPartialNodeReuseTypeReferences",
+      "options": {
+        "declaration": "true",
+        "filename": "c.ts",
+        "strict": "true",
+        "target": "es2020"
+      }
+    }
+  ]
+}

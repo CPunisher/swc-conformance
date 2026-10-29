@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "destructuringObjectBindingPatternAndAssignment6.ts"
+    }
+  ],
+  "options": {
+    "target": "es5,esnext"
+  },
+  "path": "conformance/es6/destructuring/destructuringObjectBindingPatternAndAssignment6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringObjectBindingPatternAndAssignment6(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "destructuringObjectBindingPatternAndAssignment6(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

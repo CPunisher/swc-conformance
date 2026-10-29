@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "first.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "second.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "barrel.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "compiler/starDefaultAssignmentCollision.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "starDefaultAssignmentCollision",
+      "options": {
+        "filename": "barrel.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

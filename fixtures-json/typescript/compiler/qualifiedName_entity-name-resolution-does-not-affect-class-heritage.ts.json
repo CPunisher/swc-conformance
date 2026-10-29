@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "qualifiedName_entity-name-resolution-does-not-affect-class-heritage.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/qualifiedName_entity-name-resolution-does-not-affect-class-heritage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2507
+          ],
+          "file": "qualifiedName_entity-name-resolution-does-not-affect-class-heritage.ts"
+        }
+      ],
+      "name": "qualifiedName_entity-name-resolution-does-not-affect-class-heritage",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

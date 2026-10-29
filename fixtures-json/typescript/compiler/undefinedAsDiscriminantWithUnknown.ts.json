@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "undefinedAsDiscriminantWithUnknown.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true,false",
+    "target": "es2015"
+  },
+  "path": "compiler/undefinedAsDiscriminantWithUnknown.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strictnullchecks=true",
+      "diagnostics": [],
+      "name": "undefinedAsDiscriminantWithUnknown(strictnullchecks=true)",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strictnullchecks=false",
+      "diagnostics": [],
+      "name": "undefinedAsDiscriminantWithUnknown(strictnullchecks=false)",
+      "options": {
+        "strictnullchecks": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

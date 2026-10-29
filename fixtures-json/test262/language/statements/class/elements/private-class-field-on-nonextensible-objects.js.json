@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private",
+      "class-fields-public",
+      "nonextensible-applies-to-private"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/class/elements/private-class-field-on-nonextensible-objects.js"
+}

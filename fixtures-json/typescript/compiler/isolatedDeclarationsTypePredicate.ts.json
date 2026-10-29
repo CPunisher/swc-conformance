@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "isolatedDeclarationsTypePredicate.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "isolateddeclarations": "true"
+  },
+  "path": "compiler/isolatedDeclarationsTypePredicate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            9007
+          ],
+          "file": "isolatedDeclarationsTypePredicate.ts"
+        }
+      ],
+      "name": "isolatedDeclarationsTypePredicate",
+      "options": {
+        "declaration": "true",
+        "isolateddeclarations": "true"
+      }
+    }
+  ]
+}

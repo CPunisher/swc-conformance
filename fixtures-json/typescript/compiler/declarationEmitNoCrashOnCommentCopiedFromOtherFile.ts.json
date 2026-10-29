@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "export.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "import.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationmap": "true",
+    "esmoduleinterop": "true",
+    "strict": "true",
+    "target": "es2017"
+  },
+  "path": "compiler/declarationEmitNoCrashOnCommentCopiedFromOtherFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitNoCrashOnCommentCopiedFromOtherFile",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "true",
+        "esmoduleinterop": "true",
+        "filename": "import.ts",
+        "strict": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

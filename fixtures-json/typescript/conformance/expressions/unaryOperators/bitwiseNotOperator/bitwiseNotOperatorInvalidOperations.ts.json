@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "bitwiseNotOperatorInvalidOperations.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/unaryOperators/bitwiseNotOperator/bitwiseNotOperatorInvalidOperations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1109,
+            1134,
+            1109
+          ],
+          "file": "bitwiseNotOperatorInvalidOperations.ts"
+        }
+      ],
+      "name": "bitwiseNotOperatorInvalidOperations",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

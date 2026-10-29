@@ -1,0 +1,208 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "topLevelWithDeclIsError.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "topLevelWithExprIsError.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "forAwaitInWithDeclIsError.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "forAwaitInWithExprIsError.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "inFunctionDeclWithDeclIsError.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "inFunctionDeclWithExprIsError.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "inAsyncFunctionWithDeclIsOk.ts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "inAsyncFunctionWithExprIsOk.ts"
+    },
+    {
+      "lines": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "inAsyncGeneratorWithDeclIsOk.ts"
+    },
+    {
+      "lines": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "name": "inAsyncGeneratorWithExpressionIsOk.ts"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "name": "inGeneratorWithDeclIsError.ts"
+    },
+    {
+      "lines": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "name": "inGeneratorWithExprIsError.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "noemit": "true",
+    "target": "es2018"
+  },
+  "path": "conformance/parser/ecmascript2018/forAwait/parser.forAwait.es2018.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1431,
+            1432,
+            2304
+          ],
+          "file": "topLevelWithDeclIsError.ts"
+        },
+        {
+          "codes": [
+            1431,
+            1432,
+            2304,
+            2304
+          ],
+          "file": "topLevelWithExprIsError.ts"
+        },
+        {
+          "codes": [
+            1005,
+            2304
+          ],
+          "file": "forAwaitInWithDeclIsError.ts"
+        },
+        {
+          "codes": [
+            2304,
+            1005,
+            2304
+          ],
+          "file": "forAwaitInWithExprIsError.ts"
+        },
+        {
+          "codes": [
+            1103
+          ],
+          "file": "inFunctionDeclWithDeclIsError.ts"
+        },
+        {
+          "codes": [
+            1103
+          ],
+          "file": "inFunctionDeclWithExprIsError.ts"
+        },
+        {
+          "codes": [],
+          "file": "inAsyncFunctionWithDeclIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "inAsyncFunctionWithExprIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "inAsyncGeneratorWithDeclIsOk.ts"
+        },
+        {
+          "codes": [],
+          "file": "inAsyncGeneratorWithExpressionIsOk.ts"
+        },
+        {
+          "codes": [
+            1103
+          ],
+          "file": "inGeneratorWithDeclIsError.ts"
+        },
+        {
+          "codes": [
+            1103
+          ],
+          "file": "inGeneratorWithExprIsError.ts"
+        }
+      ],
+      "name": "parser.forAwait.es2018",
+      "options": {
+        "filename": "inGeneratorWithExprIsError.ts",
+        "lib": "esnext",
+        "noemit": "true",
+        "target": "es2018"
+      }
+    }
+  ]
+}

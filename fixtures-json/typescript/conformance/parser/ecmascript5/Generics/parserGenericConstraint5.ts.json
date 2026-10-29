@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserGenericConstraint5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserGenericConstraint5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "parserGenericConstraint5.ts"
+        }
+      ],
+      "name": "parserGenericConstraint5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

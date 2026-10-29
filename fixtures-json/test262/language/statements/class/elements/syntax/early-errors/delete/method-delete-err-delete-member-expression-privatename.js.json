@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/delete/method-delete-err-delete-member-expression-privatename.js"
+}

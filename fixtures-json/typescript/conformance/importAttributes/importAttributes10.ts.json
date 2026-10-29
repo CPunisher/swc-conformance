@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "./a.json"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "./b.ts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "target": "esnext"
+  },
+  "path": "conformance/importAttributes/importAttributes10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.json"
+        },
+        {
+          "codes": [
+            1005,
+            1128,
+            1128,
+            1478
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "importAttributes10",
+      "options": {
+        "filename": "./b.ts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

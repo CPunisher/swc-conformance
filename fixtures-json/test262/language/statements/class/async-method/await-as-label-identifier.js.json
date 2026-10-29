@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/async-method/await-as-label-identifier.js"
+}

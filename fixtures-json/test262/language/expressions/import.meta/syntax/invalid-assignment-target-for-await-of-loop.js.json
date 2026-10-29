@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "import.meta",
+      "async-iteration"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/expressions/import.meta/syntax/invalid-assignment-target-for-await-of-loop.js"
+}

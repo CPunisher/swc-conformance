@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "arrayFlatNoCrashInference.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2020",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/arrayFlatNoCrashInference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "arrayFlatNoCrashInference",
+      "options": {
+        "lib": "es2020",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

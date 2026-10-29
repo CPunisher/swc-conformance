@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "file.tsx"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "test.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "react-consumer.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxPreserveEmit3.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file.tsx"
+        },
+        {
+          "codes": [
+            7005
+          ],
+          "file": "test.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "react-consumer.tsx"
+        }
+      ],
+      "name": "tsxPreserveEmit3",
+      "options": {
+        "filename": "react-consumer.tsx",
+        "jsx": "preserve",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

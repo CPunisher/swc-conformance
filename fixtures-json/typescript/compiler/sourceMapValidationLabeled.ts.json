@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "sourceMapValidationLabeled.ts"
+    }
+  ],
+  "options": {
+    "allowunusedlabels": "true",
+    "sourcemap": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/sourceMapValidationLabeled.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1344
+          ],
+          "file": "sourceMapValidationLabeled.ts"
+        }
+      ],
+      "name": "sourceMapValidationLabeled",
+      "options": {
+        "allowunusedlabels": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

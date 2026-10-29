@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "c:/root/src/file1.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "c:/root/src/file2.d.ts"
+    },
+    {
+      "lines": [
+        24
+      ],
+      "name": "c:/root/generated/src/project/file3.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution6_classic.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "c:/root/src/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution6_classic",
+      "options": {
+        "filename": "c:/root/generated/src/project/file3.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

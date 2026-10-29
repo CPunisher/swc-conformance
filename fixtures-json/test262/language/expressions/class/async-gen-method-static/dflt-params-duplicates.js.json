@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "default-parameters",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/async-gen-method-static/dflt-params-duplicates.js"
+}

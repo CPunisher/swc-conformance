@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributePlainStringAmbientModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1550
+          ],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "importAttributePlainStringAmbientModule",
+      "options": {
+        "filename": "/index.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

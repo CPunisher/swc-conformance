@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.species",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/slice/set-values-from-different-ctor-type.js"
+}

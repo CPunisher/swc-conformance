@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "systemJsForInNoException.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,dom",
+    "module": "system",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/systemJsForInNoException.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "systemJsForInNoException",
+      "options": {
+        "lib": "es6,dom",
+        "module": "system",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

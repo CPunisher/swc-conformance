@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "enumShadowedInfinityNaN.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/enums/enumShadowedInfinityNaN.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18033,
+            18033
+          ],
+          "file": "enumShadowedInfinityNaN.ts"
+        }
+      ],
+      "name": "enumShadowedInfinityNaN",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

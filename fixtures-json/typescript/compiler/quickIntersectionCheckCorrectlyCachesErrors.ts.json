@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "quickIntersectionCheckCorrectlyCachesErrors.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "compiler/quickIntersectionCheckCorrectlyCachesErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345,
+            2345,
+            2345,
+            2345,
+            2874
+          ],
+          "file": "quickIntersectionCheckCorrectlyCachesErrors.tsx"
+        }
+      ],
+      "name": "quickIntersectionCheckCorrectlyCachesErrors",
+      "options": {
+        "filename": "quickIntersectionCheckCorrectlyCachesErrors.tsx",
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-if-braceless-import-call-unknown.js"
+}

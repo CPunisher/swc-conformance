@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "esnextmodulekindWithES5Target5.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "preserveconstenums": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/externalModules/esnext/esnextmodulekindWithES5Target5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "esnextmodulekindWithES5Target5(target=es5)",
+      "options": {
+        "module": "esnext",
+        "preserveconstenums": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esnextmodulekindWithES5Target5(target=es2015)",
+      "options": {
+        "module": "esnext",
+        "preserveconstenums": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

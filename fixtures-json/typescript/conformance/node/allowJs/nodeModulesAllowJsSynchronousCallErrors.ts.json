@@ -1,0 +1,222 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "subfolder/index.js"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        29,
+        36,
+        37
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsSynchronousCallErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            1479,
+            1479,
+            8002,
+            1471,
+            8002
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [
+            8002,
+            1471,
+            8002
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsSynchronousCallErrors(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            1479,
+            1479,
+            8002,
+            1471,
+            8002
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [
+            8002,
+            1471,
+            8002
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsSynchronousCallErrors(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            8002,
+            8002
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [
+            8002,
+            8002
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsSynchronousCallErrors(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            8002,
+            8002
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [
+            8002,
+            8002
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsSynchronousCallErrors(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "/node_modules/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/@types/lib-extender/index.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/augmentExportEquals7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/lib/index.d.ts"
+        },
+        {
+          "codes": [
+            2649
+          ],
+          "file": "/node_modules/@types/lib-extender/index.d.ts"
+        }
+      ],
+      "name": "augmentExportEquals7",
+      "options": {
+        "filename": "/node_modules/@types/lib-extender/index.d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

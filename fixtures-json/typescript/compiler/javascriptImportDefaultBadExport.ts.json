@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/javascriptImportDefaultBadExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "javascriptImportDefaultBadExport",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/b.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

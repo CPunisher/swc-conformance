@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "objectGroupBy.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "compiler/objectGroupBy.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "objectGroupBy.ts"
+        }
+      ],
+      "name": "objectGroupBy",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

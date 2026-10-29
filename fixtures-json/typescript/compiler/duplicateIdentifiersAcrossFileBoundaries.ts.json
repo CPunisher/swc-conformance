@@ -1,0 +1,84 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateIdentifiersAcrossFileBoundaries.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2813,
+            2814,
+            2300
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2814,
+            2813,
+            2433,
+            2300
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "duplicateIdentifiersAcrossFileBoundaries",
+      "options": {
+        "declaration": "true",
+        "filename": "file2.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

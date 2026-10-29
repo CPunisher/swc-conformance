@@ -1,0 +1,121 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/jsx.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/test.tsx"
+    },
+    {
+      "lines": [
+        27
+      ],
+      "name": "/jsx/jsx-runtime.ts"
+    },
+    {
+      "lines": [
+        27,
+        30
+      ],
+      "name": "/jsx/jsx-dev-runtime.ts"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "jsximportsource": "/jsx",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxNamespaceElementChildrenAttributeIgnoredWhenReactJsx.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/jsx.d.ts"
+        },
+        {
+          "codes": [
+            2741
+          ],
+          "file": "/test.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/jsx/jsx-runtime.ts"
+        },
+        {
+          "codes": [],
+          "file": "/jsx/jsx-dev-runtime.ts"
+        }
+      ],
+      "name": "jsxNamespaceElementChildrenAttributeIgnoredWhenReactJsx(jsx=react-jsx)",
+      "options": {
+        "filename": "/jsx/jsx-dev-runtime.ts",
+        "jsx": "react-jsx",
+        "jsximportsource": "/jsx",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/jsx.d.ts"
+        },
+        {
+          "codes": [
+            2741
+          ],
+          "file": "/test.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/jsx/jsx-runtime.ts"
+        },
+        {
+          "codes": [],
+          "file": "/jsx/jsx-dev-runtime.ts"
+        }
+      ],
+      "name": "jsxNamespaceElementChildrenAttributeIgnoredWhenReactJsx(jsx=react-jsxdev)",
+      "options": {
+        "filename": "/jsx/jsx-dev-runtime.ts",
+        "jsx": "react-jsxdev",
+        "jsximportsource": "/jsx",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

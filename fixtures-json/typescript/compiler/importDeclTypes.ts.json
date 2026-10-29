@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/node_modules/@types/foo-bar/index.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importDeclTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@types/foo-bar/index.d.ts"
+        },
+        {
+          "codes": [
+            6137
+          ],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "importDeclTypes",
+      "options": {
+        "filename": "/a.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

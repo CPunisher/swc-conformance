@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "duplicateLocalVariable4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateLocalVariable4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2403
+          ],
+          "file": "duplicateLocalVariable4.ts"
+        }
+      ],
+      "name": "duplicateLocalVariable4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

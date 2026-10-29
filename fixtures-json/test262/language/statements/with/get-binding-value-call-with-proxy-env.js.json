@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Reflect"
+    ],
+    "flags": [
+      "noStrict"
+    ],
+    "includes": [
+      "compareArray.js",
+      "proxyTrapsHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/statements/with/get-binding-value-call-with-proxy-env.js"
+}

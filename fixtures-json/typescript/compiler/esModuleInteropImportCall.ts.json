@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "foo.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "lib": "es6",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/esModuleInteropImportCall.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esModuleInteropImportCall",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

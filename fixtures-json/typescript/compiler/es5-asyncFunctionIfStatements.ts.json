@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "es5-asyncFunctionIfStatements.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es5-asyncFunctionIfStatements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5-asyncFunctionIfStatements(target=es5)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "es5-asyncFunctionIfStatements(target=es2015)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

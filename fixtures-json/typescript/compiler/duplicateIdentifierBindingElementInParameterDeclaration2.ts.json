@@ -1,0 +1,94 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "duplicateIdentifierBindingElementInParameterDeclaration2.ts"
+    }
+  ],
+  "options": {
+    "target": "es5, es2015"
+  },
+  "path": "compiler/duplicateIdentifierBindingElementInParameterDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "duplicateIdentifierBindingElementInParameterDeclaration2(target=es5)",
+      "options": {
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            7006,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            7031,
+            2300,
+            7031,
+            2300,
+            7031,
+            7019,
+            2300,
+            2300,
+            7031,
+            2300,
+            7031,
+            7006,
+            7006
+          ],
+          "file": "duplicateIdentifierBindingElementInParameterDeclaration2.ts"
+        }
+      ],
+      "name": "duplicateIdentifierBindingElementInParameterDeclaration2(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "awaitUsingDeclarations.9.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2022",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/awaitUsingDeclarations.9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "awaitUsingDeclarations.9.ts"
+        }
+      ],
+      "name": "awaitUsingDeclarations.9",
+      "options": {
+        "lib": "es2022",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "subtypingWithCallSignaturesA.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/typeRelationships/subtypesAndSuperTypes/subtypingWithCallSignaturesA.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "subtypingWithCallSignaturesA.ts"
+        }
+      ],
+      "name": "subtypingWithCallSignaturesA",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

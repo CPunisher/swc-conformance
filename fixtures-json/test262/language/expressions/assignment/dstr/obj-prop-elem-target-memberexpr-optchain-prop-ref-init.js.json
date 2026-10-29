@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "optional-chaining",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/assignment/dstr/obj-prop-elem-target-memberexpr-optchain-prop-ref-init.js"
+}

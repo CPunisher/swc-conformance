@@ -1,0 +1,145 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/node_modules/@types/dedent/package.json"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/@types/dedent2/package.json"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/node_modules/@types/dedent3/package.json"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/@types/dedent4/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/dedent/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/dedent2/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/dedent3/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/dedent4/index.d.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/index.mts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/index.cts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "target": "es2015"
+  },
+  "path": "compiler/nodeNextImportModeImplicitIndexResolution2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent2/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent3/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent4/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent2/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent3/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/dedent4/index.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.mts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/index.cts"
+        }
+      ],
+      "name": "nodeNextImportModeImplicitIndexResolution2",
+      "options": {
+        "filename": "/index.cts",
+        "module": "nodenext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

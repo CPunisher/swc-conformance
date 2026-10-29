@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "typeRootsRelativePath.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "typeroots": "t",
+    "types": "n"
+  },
+  "path": "compiler/typeRootsRelativePath.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2688,
+            2688,
+            2688
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "typeRootsRelativePath.ts"
+        }
+      ],
+      "name": "typeRootsRelativePath",
+      "options": {
+        "noemit": "true",
+        "typeroots": "t",
+        "types": "n"
+      }
+    }
+  ]
+}

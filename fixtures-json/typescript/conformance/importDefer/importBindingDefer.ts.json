@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2020"
+  },
+  "path": "conformance/importDefer/importBindingDefer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importBindingDefer",
+      "options": {
+        "filename": "b.ts",
+        "module": "esnext",
+        "target": "es2020"
+      }
+    }
+  ]
+}

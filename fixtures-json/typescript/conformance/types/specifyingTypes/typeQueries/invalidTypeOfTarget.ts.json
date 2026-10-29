@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "invalidTypeOfTarget.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/typeQueries/invalidTypeOfTarget.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1003,
+            1003,
+            1005,
+            1003,
+            1003,
+            1003,
+            2304,
+            2552,
+            1005,
+            1005,
+            1005,
+            1003
+          ],
+          "file": "invalidTypeOfTarget.ts"
+        }
+      ],
+      "name": "invalidTypeOfTarget",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

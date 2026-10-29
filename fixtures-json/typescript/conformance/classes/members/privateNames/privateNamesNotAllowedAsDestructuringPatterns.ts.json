@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "privateNamesNotAllowedAsDestructuringPatterns.ts"
+    }
+  ],
+  "options": {
+    "target": "es2022"
+  },
+  "path": "conformance/classes/members/privateNames/privateNamesNotAllowedAsDestructuringPatterns.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18064,
+            18064
+          ],
+          "file": "privateNamesNotAllowedAsDestructuringPatterns.ts"
+        }
+      ],
+      "name": "privateNamesNotAllowedAsDestructuringPatterns",
+      "options": {
+        "target": "es2022"
+      }
+    }
+  ]
+}

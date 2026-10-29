@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "src/a.cts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "src/foo.mts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/nodeNextCjsNamespaceImportDefault2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nodeNextCjsNamespaceImportDefault2",
+      "options": {
+        "declaration": "true",
+        "filename": "src/foo.mts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

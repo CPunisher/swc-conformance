@@ -1,0 +1,94 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6_moduleC.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6_moduleD.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6_moduleE.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6_moduleB.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6_moduleA.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveExportAssignmentAndFindAliasedType6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "recursiveExportAssignmentAndFindAliasedType6_moduleA.ts"
+        },
+        {
+          "codes": [
+            2303,
+            2303
+          ],
+          "file": "recursiveExportAssignmentAndFindAliasedType6_moduleC.ts"
+        },
+        {
+          "codes": [
+            2303,
+            2303
+          ],
+          "file": "recursiveExportAssignmentAndFindAliasedType6_moduleD.ts"
+        },
+        {
+          "codes": [
+            2303,
+            2303
+          ],
+          "file": "recursiveExportAssignmentAndFindAliasedType6_moduleE.ts"
+        },
+        {
+          "codes": [],
+          "file": "recursiveExportAssignmentAndFindAliasedType6_moduleB.ts"
+        }
+      ],
+      "name": "recursiveExportAssignmentAndFindAliasedType6",
+      "options": {
+        "filename": "recursiveExportAssignmentAndFindAliasedType6_moduleA.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

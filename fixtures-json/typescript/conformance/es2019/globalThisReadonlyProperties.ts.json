@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "globalThisReadonlyProperties.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es2019/globalThisReadonlyProperties.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2540,
+            2339
+          ],
+          "file": "globalThisReadonlyProperties.ts"
+        }
+      ],
+      "name": "globalThisReadonlyProperties",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "logicalAssignment11.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "esnext, es2020, es2015"
+  },
+  "path": "conformance/esnext/logicalAssignment/logicalAssignment11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "logicalAssignment11(target=esnext)",
+      "options": {
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [],
+      "name": "logicalAssignment11(target=es2020)",
+      "options": {
+        "strict": "true",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "logicalAssignment11(target=es2015)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

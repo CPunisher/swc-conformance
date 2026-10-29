@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "objectLiteralWithSemicolons2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLiteralWithSemicolons2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18004,
+            1005,
+            18004,
+            1005,
+            18004
+          ],
+          "file": "objectLiteralWithSemicolons2.ts"
+        }
+      ],
+      "name": "objectLiteralWithSemicolons2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "test.json"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "strict": "true",
+    "target": "es2017"
+  },
+  "path": "compiler/requireOfJsonFileWithoutEsModuleInterop.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileWithoutEsModuleInterop",
+      "options": {
+        "filename": "test.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "strict": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

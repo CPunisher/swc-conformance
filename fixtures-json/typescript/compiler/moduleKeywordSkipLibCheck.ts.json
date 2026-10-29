@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "decl.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "skiplibcheck": "true",
+    "strict": "true"
+  },
+  "path": "compiler/moduleKeywordSkipLibCheck.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleKeywordSkipLibCheck",
+      "options": {
+        "filename": "main.ts",
+        "skiplibcheck": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

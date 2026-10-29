@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.asyncIterator",
+      "async-iteration"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-await-of/iterator-close-non-throw-get-method-is-null.js"
+}

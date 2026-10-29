@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "types.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "true",
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "esnext",
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importTag24.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        },
+        {
+          "codes": [
+            6133,
+            6133,
+            6133,
+            2322
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "importTag24",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "lib": "esnext",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/resolves-empty-array.js"
+}

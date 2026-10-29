@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "renderer.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "reacty.tsx"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/inline/inlineJsxFactoryWithFragmentIsError.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "renderer.d.ts"
+        },
+        {
+          "codes": [
+            17017
+          ],
+          "file": "reacty.tsx"
+        },
+        {
+          "codes": [
+            2874,
+            2879,
+            17017
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "inlineJsxFactoryWithFragmentIsError",
+      "options": {
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

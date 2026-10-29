@@ -1,0 +1,112 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/module.mts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/tsExtension.ts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/jsExtension.js"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/ctsExtension.cts"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "/tsxExtension.tsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "jsx": "preserve",
+    "module": "node16",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesCJSResolvingToESM1_emptyPackageJson.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/module.mts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/tsExtension.ts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/jsExtension.js"
+        },
+        {
+          "codes": [
+            1479
+          ],
+          "file": "/ctsExtension.cts"
+        },
+        {
+          "codes": [
+            1479,
+            1479
+          ],
+          "file": "/tsxExtension.tsx"
+        }
+      ],
+      "name": "nodeModulesCJSResolvingToESM1_emptyPackageJson",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/tsxExtension.tsx",
+        "jsx": "preserve",
+        "module": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

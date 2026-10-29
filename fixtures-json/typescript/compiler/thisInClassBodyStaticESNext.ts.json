@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "thisInClassBodyStaticESNext.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext",
+    "usedefineforclassfields": "true"
+  },
+  "path": "compiler/thisInClassBodyStaticESNext.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2683
+          ],
+          "file": "thisInClassBodyStaticESNext.ts"
+        }
+      ],
+      "name": "thisInClassBodyStaticESNext",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "class-static-methods-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/async-gen-private-method-static/await-as-identifier-reference.js"
+}

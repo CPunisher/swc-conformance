@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "taggedTemplatesWithIncompleteTemplateExpressions1.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/taggedTemplatesWithIncompleteTemplateExpressions1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "taggedTemplatesWithIncompleteTemplateExpressions1.ts"
+        }
+      ],
+      "name": "taggedTemplatesWithIncompleteTemplateExpressions1",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

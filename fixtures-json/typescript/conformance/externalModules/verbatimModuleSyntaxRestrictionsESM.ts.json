@@ -1,0 +1,112 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/decl.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/ambient.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19
+      ],
+      "name": "/types.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/main.ts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "/ns.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true, false",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/verbatimModuleSyntaxRestrictionsESM.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "esmoduleinterop=true",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/decl.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/ambient.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/types.ts"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [],
+          "file": "/ns.ts"
+        }
+      ],
+      "name": "verbatimModuleSyntaxRestrictionsESM(esmoduleinterop=true)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "/ns.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false",
+      "diagnostics": [],
+      "name": "verbatimModuleSyntaxRestrictionsESM(esmoduleinterop=false)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "/ns.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

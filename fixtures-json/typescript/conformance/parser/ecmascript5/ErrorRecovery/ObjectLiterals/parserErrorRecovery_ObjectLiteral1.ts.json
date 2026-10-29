@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserErrorRecovery_ObjectLiteral1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ObjectLiterals/parserErrorRecovery_ObjectLiteral1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005
+          ],
+          "file": "parserErrorRecovery_ObjectLiteral1.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_ObjectLiteral1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

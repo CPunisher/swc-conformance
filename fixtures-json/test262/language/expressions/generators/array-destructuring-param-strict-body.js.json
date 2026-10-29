@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "rest-parameters",
+      "generators"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/generators/array-destructuring-param-strict-body.js"
+}

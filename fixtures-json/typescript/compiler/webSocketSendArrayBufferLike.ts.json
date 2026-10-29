@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "webSocketSendArrayBufferLike.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2024, dom",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/webSocketSendArrayBufferLike.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2345,
+            2345,
+            2345,
+            2345
+          ],
+          "file": "webSocketSendArrayBufferLike.ts"
+        }
+      ],
+      "name": "webSocketSendArrayBufferLike",
+      "options": {
+        "lib": "es2024, dom",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

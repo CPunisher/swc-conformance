@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "decoratorOnEnum2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/decorators/invalid/decoratorOnEnum2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1132,
+            1146,
+            2304,
+            1128
+          ],
+          "file": "decoratorOnEnum2.ts"
+        }
+      ],
+      "name": "decoratorOnEnum2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

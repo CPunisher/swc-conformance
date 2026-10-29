@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "symbolType1.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolType1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2358,
+            2359,
+            2358,
+            2359
+          ],
+          "file": "symbolType1.ts"
+        }
+      ],
+      "name": "symbolType1",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

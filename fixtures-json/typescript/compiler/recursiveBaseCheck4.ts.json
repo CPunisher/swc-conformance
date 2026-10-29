@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "recursiveBaseCheck4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveBaseCheck4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2339
+          ],
+          "file": "recursiveBaseCheck4.ts"
+        }
+      ],
+      "name": "recursiveBaseCheck4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

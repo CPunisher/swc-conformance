@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "destructuringEvaluationOrder.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es5,es2015"
+  },
+  "path": "conformance/es6/destructuring/destructuringEvaluationOrder.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringEvaluationOrder(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "destructuringEvaluationOrder(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

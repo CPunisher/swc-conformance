@@ -1,0 +1,134 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true,false",
+    "importhelpers": "true",
+    "module": "commonjs,system,es2015,es2020",
+    "target": "es2017"
+  },
+  "path": "compiler/importHelpersWithExportStarAs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "esmoduleinterop=true,module=commonjs",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=true,module=commonjs)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=system",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=true,module=system)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "system",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=es2015",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=true,module=es2015)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=true,module=es2020",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=true,module=es2020)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "es2020",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=commonjs",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=false,module=commonjs)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=system",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=false,module=system)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "system",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=es2015",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=false,module=es2015)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "es2015",
+        "target": "es2017"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false,module=es2020",
+      "diagnostics": [],
+      "name": "importHelpersWithExportStarAs(esmoduleinterop=false,module=es2020)",
+      "options": {
+        "esmoduleinterop": "false",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "module": "es2020",
+        "target": "es2017"
+      }
+    }
+  ]
+}

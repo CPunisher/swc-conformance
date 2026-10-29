@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "exportAsNamespace_nonExistent.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2020/modules/exportAsNamespace_nonExistent.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "exportAsNamespace_nonExistent.ts"
+        }
+      ],
+      "name": "exportAsNamespace_nonExistent",
+      "options": {
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

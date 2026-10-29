@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "ReferenceError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/using/global-use-before-initialization-in-declaration-statement.js"
+}

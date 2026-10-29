@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "modularizeLibrary_Worker.iterable.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,webworker,webworker.iterable",
+    "skiplibcheck": "true",
+    "target": "es6"
+  },
+  "path": "compiler/modularizeLibrary_Worker.iterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modularizeLibrary_Worker.iterable",
+      "options": {
+        "lib": "es6,webworker,webworker.iterable",
+        "skiplibcheck": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

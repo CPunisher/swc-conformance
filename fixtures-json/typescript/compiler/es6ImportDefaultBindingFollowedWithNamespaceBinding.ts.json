@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamespaceBinding_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamespaceBinding_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportDefaultBindingFollowedWithNamespaceBinding.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportDefaultBindingFollowedWithNamespaceBinding_0.ts"
+        },
+        {
+          "codes": [
+            1192
+          ],
+          "file": "es6ImportDefaultBindingFollowedWithNamespaceBinding_1.ts"
+        }
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamespaceBinding",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportDefaultBindingFollowedWithNamespaceBinding_1.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

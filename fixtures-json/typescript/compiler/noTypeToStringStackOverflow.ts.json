@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "noTypeToStringStackOverflow.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true"
+  },
+  "path": "compiler/noTypeToStringStackOverflow.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7023,
+            1360
+          ],
+          "file": "noTypeToStringStackOverflow.ts"
+        }
+      ],
+      "name": "noTypeToStringStackOverflow",
+      "options": {
+        "noemit": "true"
+      }
+    }
+  ]
+}

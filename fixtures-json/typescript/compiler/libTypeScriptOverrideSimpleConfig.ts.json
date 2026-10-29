@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "/somepath/node_modules/@typescript/lib-dom/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/somepath/index.ts"
+    }
+  ],
+  "options": {
+    "libreplacement": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/libTypeScriptOverrideSimpleConfig.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      7
+    ],
+    "name": "/somepath/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/somepath/tsconfig.json"
+        },
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/somepath/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/somepath/node_modules/@typescript/lib-dom/index.d.ts"
+        }
+      ],
+      "name": "libTypeScriptOverrideSimpleConfig",
+      "options": {
+        "filename": "/somepath/index.ts",
+        "libreplacement": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

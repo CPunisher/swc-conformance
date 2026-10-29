@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "generators"
+    ],
+    "flags": [
+      "generated",
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/generators/yield-identifier-strict.js"
+}

@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/project",
+  "files": [
+    {
+      "lines": [
+        3,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/project/tsconfig.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/project/src/index.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/project"
+  },
+  "path": "compiler/defaultRootDirInheritedInclude.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "name": "/project/example/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5011,
+            5011,
+            6059,
+            6059,
+            6059
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/project/example/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/project/src/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/project/tsconfig.json"
+        }
+      ],
+      "name": "defaultRootDirInheritedInclude",
+      "options": {
+        "currentdirectory": "/project",
+        "filename": "/project/src/index.ts"
+      }
+    }
+  ]
+}

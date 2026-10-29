@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "BaseA.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "SubA.js"
+    },
+    {
+      "lines": [
+        10,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "BaseB.js"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "SubB.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/fillInMissingTypeArgsOnJSConstructCalls.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "BaseA.js"
+        },
+        {
+          "codes": [],
+          "file": "SubA.js"
+        },
+        {
+          "codes": [
+            8004,
+            1005,
+            2304,
+            8010,
+            2304,
+            8010
+          ],
+          "file": "BaseB.js"
+        },
+        {
+          "codes": [
+            8011
+          ],
+          "file": "SubB.js"
+        }
+      ],
+      "name": "fillInMissingTypeArgsOnJSConstructCalls",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "SubB.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

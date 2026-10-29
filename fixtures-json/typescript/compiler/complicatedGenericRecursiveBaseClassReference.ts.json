@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "complicatedGenericRecursiveBaseClassReference.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/complicatedGenericRecursiveBaseClassReference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2506,
+            2554,
+            2339
+          ],
+          "file": "complicatedGenericRecursiveBaseClassReference.ts"
+        }
+      ],
+      "name": "complicatedGenericRecursiveBaseClassReference",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

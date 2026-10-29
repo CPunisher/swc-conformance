@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "loneSurrogateStringLiteralTypes.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true"
+  },
+  "path": "compiler/loneSurrogateStringLiteralTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "loneSurrogateStringLiteralTypes.ts"
+        }
+      ],
+      "name": "loneSurrogateStringLiteralTypes",
+      "options": {
+        "noemit": "true"
+      }
+    }
+  ]
+}

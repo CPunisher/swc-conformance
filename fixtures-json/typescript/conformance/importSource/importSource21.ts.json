@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "esnext",
+    "target": "esnext",
+    "verbatimmodulesyntax": "false, true"
+  },
+  "path": "conformance/importSource/importSource21.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "verbatimmodulesyntax=false",
+      "diagnostics": [],
+      "name": "importSource21(verbatimmodulesyntax=false)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "esnext",
+        "target": "esnext",
+        "verbatimmodulesyntax": "false"
+      }
+    },
+    {
+      "config": "verbatimmodulesyntax=true",
+      "diagnostics": [],
+      "name": "importSource21(verbatimmodulesyntax=true)",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "esnext",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

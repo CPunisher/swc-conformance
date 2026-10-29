@@ -1,0 +1,146 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/node_modules/@restart/hooks/package.json"
+    },
+    {
+      "lines": [
+        8,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/node_modules/@restart/hooks/useMergedRefs/package.json"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/node_modules/@restart/hooks/esm/useMergedRefs.d.ts"
+    },
+    {
+      "lines": [
+        29,
+        30
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "node16,nodenext,bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/nestedPackageJsonRedirect.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "moduleresolution=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/useMergedRefs/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/esm/useMergedRefs.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "nestedPackageJsonRedirect(moduleresolution=node16)",
+      "options": {
+        "filename": "/main.ts",
+        "moduleresolution": "node16",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "moduleresolution=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/useMergedRefs/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@restart/hooks/esm/useMergedRefs.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "nestedPackageJsonRedirect(moduleresolution=nodenext)",
+      "options": {
+        "filename": "/main.ts",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "moduleresolution=bundler",
+      "diagnostics": [],
+      "name": "nestedPackageJsonRedirect(moduleresolution=bundler)",
+      "options": {
+        "filename": "/main.ts",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

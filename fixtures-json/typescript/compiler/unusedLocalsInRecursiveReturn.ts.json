@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "unusedLocalsInRecursiveReturn.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "nounusedlocals": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedLocalsInRecursiveReturn.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "unusedLocalsInRecursiveReturn",
+      "options": {
+        "noemit": "true",
+        "nounusedlocals": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

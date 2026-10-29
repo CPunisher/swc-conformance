@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "source-phase-imports",
+      "dynamic-import"
+    ],
+    "flags": [
+      "generated",
+      "noStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/invalid/nested-with-import-source-assignment-expr-not-optional.js"
+}

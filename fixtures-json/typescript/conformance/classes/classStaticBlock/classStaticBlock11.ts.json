@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "classStaticBlock11.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es2015"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "classStaticBlock11(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "classStaticBlock11(target=es2022)",
+      "options": {
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "classStaticBlock11(target=es2015)",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

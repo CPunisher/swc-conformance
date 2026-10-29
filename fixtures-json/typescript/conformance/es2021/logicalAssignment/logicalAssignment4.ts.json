@@ -1,0 +1,141 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "name": "logicalAssignment4.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "false",
+    "strict": "true",
+    "target": "esnext, es2021, es2020, es2015"
+  },
+  "path": "conformance/es2021/logicalAssignment/logicalAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            18048,
+            18048
+          ],
+          "file": "logicalAssignment4.ts"
+        }
+      ],
+      "name": "logicalAssignment4(target=esnext)",
+      "options": {
+        "allowunreachablecode": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2021",
+      "diagnostics": [
+        {
+          "codes": [
+            18048,
+            18048
+          ],
+          "file": "logicalAssignment4.ts"
+        }
+      ],
+      "name": "logicalAssignment4(target=es2021)",
+      "options": {
+        "allowunreachablecode": "false",
+        "strict": "true",
+        "target": "es2021"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [
+        {
+          "codes": [
+            18048,
+            18048
+          ],
+          "file": "logicalAssignment4.ts"
+        }
+      ],
+      "name": "logicalAssignment4(target=es2020)",
+      "options": {
+        "allowunreachablecode": "false",
+        "strict": "true",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            18048,
+            18048
+          ],
+          "file": "logicalAssignment4.ts"
+        }
+      ],
+      "name": "logicalAssignment4(target=es2015)",
+      "options": {
+        "allowunreachablecode": "false",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

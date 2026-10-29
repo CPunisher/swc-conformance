@@ -1,0 +1,219 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "subfolder/index.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        16,
+        23,
+        24
+      ],
+      "name": "subfolder/package.json"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "types.d.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "importhelpers": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsImportHelpersCollisions2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesAllowJsImportHelpersCollisions2(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesAllowJsImportHelpersCollisions2(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesAllowJsImportHelpersCollisions2(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2343,
+            2343
+          ],
+          "file": "subfolder/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        },
+        {
+          "codes": [],
+          "file": "types.d.ts"
+        }
+      ],
+      "name": "nodeModulesAllowJsImportHelpersCollisions2(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "types.d.ts",
+        "importhelpers": "true",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

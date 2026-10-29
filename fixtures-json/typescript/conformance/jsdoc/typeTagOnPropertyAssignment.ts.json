@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "typeTagOnPropertyAssignment.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typeTagOnPropertyAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeTagOnPropertyAssignment",
+      "options": {
+        "checkjs": "true",
+        "filename": "typeTagOnPropertyAssignment.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

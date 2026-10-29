@@ -1,0 +1,74 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "arrayLiteralSpreadES5iterable.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "strict": "false",
+    "target": "es5,es2015"
+  },
+  "path": "conformance/es6/spread/arrayLiteralSpreadES5iterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "arrayLiteralSpreadES5iterable(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "arrayLiteralSpreadES5iterable.ts"
+        }
+      ],
+      "name": "arrayLiteralSpreadES5iterable(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "1.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "2.ts"
+    }
+  ],
+  "options": {
+    "module": "es2020",
+    "strictnullchecks": "true",
+    "target": "es2020"
+  },
+  "path": "conformance/dynamicImport/importCallExpression5ES2020.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [],
+          "file": "1.ts"
+        },
+        {
+          "codes": [
+            7036,
+            7036,
+            7036,
+            7036
+          ],
+          "file": "2.ts"
+        }
+      ],
+      "name": "importCallExpression5ES2020",
+      "options": {
+        "filename": "2.ts",
+        "module": "es2020",
+        "strictnullchecks": "true",
+        "target": "es2020"
+      }
+    }
+  ]
+}

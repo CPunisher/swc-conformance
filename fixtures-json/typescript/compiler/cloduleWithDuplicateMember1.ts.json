@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "cloduleWithDuplicateMember1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/cloduleWithDuplicateMember1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300,
+            2300,
+            2300,
+            2300
+          ],
+          "file": "cloduleWithDuplicateMember1.ts"
+        }
+      ],
+      "name": "cloduleWithDuplicateMember1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

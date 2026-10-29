@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "declarationEmitInterfaceWithNonEntityNameExpressionHeritage.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitInterfaceWithNonEntityNameExpressionHeritage.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2499
+          ],
+          "file": "declarationEmitInterfaceWithNonEntityNameExpressionHeritage.ts"
+        }
+      ],
+      "name": "declarationEmitInterfaceWithNonEntityNameExpressionHeritage",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "undefinedTypeArgument1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/undefinedTypeArgument1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "undefinedTypeArgument1.ts"
+        }
+      ],
+      "name": "undefinedTypeArgument1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "comparisonOperatorWithIntersectionType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/binaryOperators/comparisonOperator/comparisonOperatorWithIntersectionType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2365,
+            2365
+          ],
+          "file": "comparisonOperatorWithIntersectionType.ts"
+        }
+      ],
+      "name": "comparisonOperatorWithIntersectionType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "default-parameters"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/async-arrow-function/dflt-params-duplicates.js"
+}

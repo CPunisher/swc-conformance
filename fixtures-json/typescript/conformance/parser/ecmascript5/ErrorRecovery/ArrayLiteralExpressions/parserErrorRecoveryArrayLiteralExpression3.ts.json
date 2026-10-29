@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserErrorRecoveryArrayLiteralExpression3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/ArrayLiteralExpressions/parserErrorRecoveryArrayLiteralExpression3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            2695,
+            2695,
+            1005
+          ],
+          "file": "parserErrorRecoveryArrayLiteralExpression3.ts"
+        }
+      ],
+      "name": "parserErrorRecoveryArrayLiteralExpression3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

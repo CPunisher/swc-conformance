@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-static-methods-private",
+      "generators",
+      "destructuring-binding"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/dstr/private-gen-meth-static-ary-ptrn-rest-not-final-ary.js"
+}

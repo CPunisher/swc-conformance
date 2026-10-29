@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "importTypeAmbientMissing.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es6",
+    "target": "es2015"
+  },
+  "path": "conformance/types/import/importTypeAmbientMissing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "importTypeAmbientMissing.ts"
+        }
+      ],
+      "name": "importTypeAmbientMissing",
+      "options": {
+        "declaration": "true",
+        "lib": "es6",
+        "target": "es2015"
+      }
+    }
+  ]
+}

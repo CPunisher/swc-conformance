@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "es2015",
+    "target": "esnext"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionErrorInES2015.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            1323,
+            1323,
+            1323
+          ],
+          "file": "1.ts"
+        }
+      ],
+      "name": "importCallExpressionErrorInES2015",
+      "options": {
+        "filename": "1.ts",
+        "module": "es2015",
+        "target": "esnext"
+      }
+    }
+  ]
+}

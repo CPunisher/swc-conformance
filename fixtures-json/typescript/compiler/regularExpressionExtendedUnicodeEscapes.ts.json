@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "regularExpressionExtendedUnicodeEscapes.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "compiler/regularExpressionExtendedUnicodeEscapes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1538,
+            1538
+          ],
+          "file": "regularExpressionExtendedUnicodeEscapes.ts"
+        }
+      ],
+      "name": "regularExpressionExtendedUnicodeEscapes",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

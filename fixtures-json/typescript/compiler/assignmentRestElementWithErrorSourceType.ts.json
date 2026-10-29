@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "assignmentRestElementWithErrorSourceType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/assignmentRestElementWithErrorSourceType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2552
+          ],
+          "file": "assignmentRestElementWithErrorSourceType.ts"
+        }
+      ],
+      "name": "assignmentRestElementWithErrorSourceType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

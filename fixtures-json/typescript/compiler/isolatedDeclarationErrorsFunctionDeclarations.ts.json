@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "isolatedDeclarationErrorsFunctionDeclarations.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationmap": "false",
+    "isolateddeclarations": "true",
+    "strict": "false",
+    "target": "ESNext"
+  },
+  "path": "compiler/isolatedDeclarationErrorsFunctionDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            9007,
+            9011,
+            9011,
+            9013,
+            9013,
+            9013
+          ],
+          "file": "isolatedDeclarationErrorsFunctionDeclarations.ts"
+        }
+      ],
+      "name": "isolatedDeclarationErrorsFunctionDeclarations",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "false",
+        "isolateddeclarations": "true",
+        "strict": "false",
+        "target": "ESNext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "nestedClassDeclaration.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/nestedClassDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            1068,
+            1128,
+            1005,
+            2304,
+            1005,
+            1128
+          ],
+          "file": "nestedClassDeclaration.ts"
+        }
+      ],
+      "name": "nestedClassDeclaration",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

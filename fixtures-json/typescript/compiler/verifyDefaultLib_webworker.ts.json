@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7
+      ],
+      "name": "verifyDefaultLib_webworker.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015,es2016,es2017,webworker",
+    "noimplicitany": "true",
+    "noimplicitthis": "true",
+    "skipdefaultlibcheck": "false",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/verifyDefaultLib_webworker.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "verifyDefaultLib_webworker",
+      "options": {
+        "lib": "es2015,es2016,es2017,webworker",
+        "noimplicitany": "true",
+        "noimplicitthis": "true",
+        "skipdefaultlibcheck": "false",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

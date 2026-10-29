@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "asyncSetter_es5.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/async/es5/asyncSetter_es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "asyncSetter_es5(target=es5)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1042
+          ],
+          "file": "asyncSetter_es5.ts"
+        }
+      ],
+      "name": "asyncSetter_es5(target=es2015)",
+      "options": {
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

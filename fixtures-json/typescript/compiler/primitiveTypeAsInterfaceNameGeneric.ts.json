@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "primitiveTypeAsInterfaceNameGeneric.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/primitiveTypeAsInterfaceNameGeneric.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2427
+          ],
+          "file": "primitiveTypeAsInterfaceNameGeneric.ts"
+        }
+      ],
+      "name": "primitiveTypeAsInterfaceNameGeneric",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

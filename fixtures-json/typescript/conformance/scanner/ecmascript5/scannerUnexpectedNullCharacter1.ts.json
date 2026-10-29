@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "scannerUnexpectedNullCharacter1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerUnexpectedNullCharacter1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1127,
+            1127,
+            2304
+          ],
+          "file": "scannerUnexpectedNullCharacter1.ts"
+        }
+      ],
+      "name": "scannerUnexpectedNullCharacter1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

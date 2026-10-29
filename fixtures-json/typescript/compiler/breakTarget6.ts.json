@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "breakTarget6.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/breakTarget6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1116
+          ],
+          "file": "breakTarget6.ts"
+        }
+      ],
+      "name": "breakTarget6",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

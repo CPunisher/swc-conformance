@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Proxy",
+      "Reflect",
+      "proxy-missing-checks"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Proxy/deleteProperty/targetdesc-is-configurable-target-is-not-extensible.js"
+}

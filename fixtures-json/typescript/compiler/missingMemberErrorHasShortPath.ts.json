@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "C:/foo/bar/Baz/src/utils.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "C:/foo/bar/Baz/src/sample.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015",
+    "usecasesensitivefilenames": "false"
+  },
+  "path": "compiler/missingMemberErrorHasShortPath.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "C:/foo/bar/Baz/src/utils.ts"
+        },
+        {
+          "codes": [
+            2724
+          ],
+          "file": "C:/foo/bar/Baz/src/sample.ts"
+        }
+      ],
+      "name": "missingMemberErrorHasShortPath",
+      "options": {
+        "filename": "C:/foo/bar/Baz/src/sample.ts",
+        "module": "commonjs",
+        "target": "es2015",
+        "usecasesensitivefilenames": "false"
+      }
+    }
+  ]
+}

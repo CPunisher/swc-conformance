@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "harness/isConstructor.js"
+}

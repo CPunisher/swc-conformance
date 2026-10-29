@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "settingsSimpleTest.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true;",
+    "moduleresolution": "classic",
+    "strict": "*",
+    "strictbuiltiniteratorreturn": "*, !true",
+    "target": "es2020"
+  },
+  "path": "compiler/settingsSimpleTest.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true",
+      "diagnostics": [],
+      "name": "settingsSimpleTest(strict=true)",
+      "options": {
+        "declaration": "true",
+        "moduleresolution": "classic",
+        "strict": "true",
+        "strictbuiltiniteratorreturn": "false",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "strict=false",
+      "diagnostics": [],
+      "name": "settingsSimpleTest(strict=false)",
+      "options": {
+        "declaration": "true",
+        "moduleresolution": "classic",
+        "strict": "false",
+        "strictbuiltiniteratorreturn": "false",
+        "target": "es2020"
+      }
+    }
+  ]
+}

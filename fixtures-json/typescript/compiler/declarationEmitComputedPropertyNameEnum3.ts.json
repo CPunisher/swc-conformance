@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "type.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitComputedPropertyNameEnum3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2464
+          ],
+          "file": "type.ts"
+        },
+        {
+          "codes": [],
+          "file": "index.ts"
+        }
+      ],
+      "name": "declarationEmitComputedPropertyNameEnum3",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "index.ts",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "ES5For-of34.ts"
+    }
+  ],
+  "options": {
+    "downleveliteration": "true",
+    "sourcemap": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/for-ofStatements/ES5For-of34.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES5For-of34(target=es5)",
+      "options": {
+        "downleveliteration": "true",
+        "sourcemap": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "ES5For-of34.ts"
+        }
+      ],
+      "name": "ES5For-of34(target=es2015)",
+      "options": {
+        "downleveliteration": "true",
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

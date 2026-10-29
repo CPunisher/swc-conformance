@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "foo.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "bar.d.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationWithNonExistentNamedImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "foo.d.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "bar.d.ts"
+        }
+      ],
+      "name": "moduleAugmentationWithNonExistentNamedImport",
+      "options": {
+        "filename": "bar.d.ts",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

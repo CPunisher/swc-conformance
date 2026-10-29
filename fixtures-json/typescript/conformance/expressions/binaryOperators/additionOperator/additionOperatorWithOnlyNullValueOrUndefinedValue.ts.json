@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "additionOperatorWithOnlyNullValueOrUndefinedValue.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/binaryOperators/additionOperator/additionOperatorWithOnlyNullValueOrUndefinedValue.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18050,
+            18050,
+            18050,
+            18050,
+            18050,
+            18050,
+            18050,
+            18050
+          ],
+          "file": "additionOperatorWithOnlyNullValueOrUndefinedValue.ts"
+        }
+      ],
+      "name": "additionOperatorWithOnlyNullValueOrUndefinedValue",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "b.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "esnext",
+    "module": "esnext",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource12.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importSource12",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.js",
+        "lib": "esnext",
+        "module": "esnext",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

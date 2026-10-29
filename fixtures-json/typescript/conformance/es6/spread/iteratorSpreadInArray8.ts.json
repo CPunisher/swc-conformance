@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "iteratorSpreadInArray8.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/spread/iteratorSpreadInArray8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2488
+          ],
+          "file": "iteratorSpreadInArray8.ts"
+        }
+      ],
+      "name": "iteratorSpreadInArray8",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

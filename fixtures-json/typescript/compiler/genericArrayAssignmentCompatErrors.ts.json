@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "genericArrayAssignmentCompatErrors.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericArrayAssignmentCompatErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351,
+            2314
+          ],
+          "file": "genericArrayAssignmentCompatErrors.ts"
+        }
+      ],
+      "name": "genericArrayAssignmentCompatErrors",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

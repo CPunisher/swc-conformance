@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "b.mts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "c.cts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "nodenext",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource13.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.mts"
+        },
+        {
+          "codes": [
+            18115
+          ],
+          "file": "c.cts"
+        }
+      ],
+      "name": "importSource13",
+      "options": {
+        "filename": "c.cts",
+        "lib": "esnext",
+        "module": "nodenext",
+        "target": "esnext"
+      }
+    }
+  ]
+}

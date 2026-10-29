@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "import-defer",
+      "dynamic-import",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/dynamic-import/syntax/valid/nested-async-gen-await-import-defer-empty-str-is-valid-assign-expr.js"
+}

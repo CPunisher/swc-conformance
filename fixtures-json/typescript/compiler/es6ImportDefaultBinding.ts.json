@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "es6ImportDefaultBinding_0.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "es6ImportDefaultBinding_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportDefaultBinding.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "es6ImportDefaultBinding",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportDefaultBinding_1.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

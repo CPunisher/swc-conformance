@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Reflect.construct",
+      "arrow-function",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js",
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/sort/not-a-constructor.js"
+}

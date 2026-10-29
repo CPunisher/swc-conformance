@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "stringLiteralMatchedInSwitch01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/stringLiteral/stringLiteralMatchedInSwitch01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454
+          ],
+          "file": "stringLiteralMatchedInSwitch01.ts"
+        }
+      ],
+      "name": "stringLiteralMatchedInSwitch01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

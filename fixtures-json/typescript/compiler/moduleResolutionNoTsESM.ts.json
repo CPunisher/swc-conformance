@@ -1,0 +1,83 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "x.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "y.tsx"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "z.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "user.ts"
+    }
+  ],
+  "options": {
+    "jsx": "Preserve",
+    "module": "es2015",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolutionNoTsESM.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "x.ts"
+        },
+        {
+          "codes": [],
+          "file": "y.tsx"
+        },
+        {
+          "codes": [],
+          "file": "z.d.ts"
+        },
+        {
+          "codes": [
+            5097,
+            5097,
+            2846
+          ],
+          "file": "user.ts"
+        }
+      ],
+      "name": "moduleResolutionNoTsESM",
+      "options": {
+        "filename": "user.ts",
+        "jsx": "Preserve",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "arrowFunctionWithObjectLiteralBody1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/arrowFunctionWithObjectLiteralBody1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7006
+          ],
+          "file": "arrowFunctionWithObjectLiteralBody1.ts"
+        }
+      ],
+      "name": "arrowFunctionWithObjectLiteralBody1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

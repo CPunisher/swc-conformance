@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasUsageInVarAssignment_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "aliasUsageInVarAssignment_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "aliasUsageInVarAssignment_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasUsageInVarAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "aliasUsageInVarAssignment_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsageInVarAssignment_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "aliasUsageInVarAssignment_moduleA.ts"
+        }
+      ],
+      "name": "aliasUsageInVarAssignment",
+      "options": {
+        "filename": "aliasUsageInVarAssignment_main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

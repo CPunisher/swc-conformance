@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "file2.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "compiler/letDeclarations-scopes-duplicates4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2451
+          ],
+          "file": "file1.ts"
+        },
+        {
+          "codes": [
+            2451
+          ],
+          "file": "file2.ts"
+        }
+      ],
+      "name": "letDeclarations-scopes-duplicates4",
+      "options": {
+        "filename": "file2.ts",
+        "target": "ES6"
+      }
+    }
+  ]
+}

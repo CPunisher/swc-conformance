@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "jsxAttributeWithoutExpressionReact.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxAttributeWithoutExpressionReact.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            17000,
+            7017,
+            17000,
+            2304,
+            2304
+          ],
+          "file": "jsxAttributeWithoutExpressionReact.tsx"
+        }
+      ],
+      "name": "jsxAttributeWithoutExpressionReact",
+      "options": {
+        "jsx": "react",
+        "target": "es2015"
+      }
+    }
+  ]
+}

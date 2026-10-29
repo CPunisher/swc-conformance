@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "A.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "B.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/dependencyViaImportAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "B.ts"
+        },
+        {
+          "codes": [],
+          "file": "A.ts"
+        }
+      ],
+      "name": "dependencyViaImportAlias",
+      "options": {
+        "filename": "B.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

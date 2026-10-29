@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "false",
+    "target": "es6"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionWithTypeArgument.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "0.ts"
+        },
+        {
+          "codes": [
+            1326,
+            1326
+          ],
+          "file": "1.ts"
+        }
+      ],
+      "name": "importCallExpressionWithTypeArgument",
+      "options": {
+        "filename": "1.ts",
+        "module": "commonjs",
+        "noimplicitany": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

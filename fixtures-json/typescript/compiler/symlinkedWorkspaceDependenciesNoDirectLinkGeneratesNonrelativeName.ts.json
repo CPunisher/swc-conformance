@@ -1,0 +1,77 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "workspace/packageA/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "workspace/packageB/package.json"
+    },
+    {
+      "lines": [
+        15,
+        16
+      ],
+      "name": "workspace/packageB/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "workspace/packageC/package.json"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28
+      ],
+      "name": "workspace/packageC/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/symlinkedWorkspaceDependenciesNoDirectLinkGeneratesNonrelativeName.ts",
+  "symlinks": {
+    "workspace/packageB/node_modules/package-a": "workspace/packageA",
+    "workspace/packageC/node_modules/package-a": "workspace/packageA",
+    "workspace/packageC/node_modules/package-b": "workspace/packageB"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "symlinkedWorkspaceDependenciesNoDirectLinkGeneratesNonrelativeName",
+      "options": {
+        "declaration": "true",
+        "filename": "workspace/packageC/index.ts",
+        "link": "workspace/packageB -> workspace/packageC/node_modules/package-b",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

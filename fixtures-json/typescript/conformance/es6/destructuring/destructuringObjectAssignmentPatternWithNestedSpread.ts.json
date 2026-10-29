@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "destructuringObjectAssignmentPatternWithNestedSpread.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "target": "es5, es2015, es2018"
+  },
+  "path": "conformance/es6/destructuring/destructuringObjectAssignmentPatternWithNestedSpread.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringObjectAssignmentPatternWithNestedSpread(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "destructuringObjectAssignmentPatternWithNestedSpread(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es2018",
+      "diagnostics": [],
+      "name": "destructuringObjectAssignmentPatternWithNestedSpread(target=es2018)",
+      "options": {
+        "notypesandsymbols": "true",
+        "target": "es2018"
+      }
+    }
+  ]
+}

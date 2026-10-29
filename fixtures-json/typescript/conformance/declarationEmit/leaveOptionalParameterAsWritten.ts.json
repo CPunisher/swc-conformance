@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "c.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "esnext",
+    "outdir": "dist",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/declarationEmit/leaveOptionalParameterAsWritten.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "leaveOptionalParameterAsWritten",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "c.ts",
+        "module": "esnext",
+        "outdir": "dist",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

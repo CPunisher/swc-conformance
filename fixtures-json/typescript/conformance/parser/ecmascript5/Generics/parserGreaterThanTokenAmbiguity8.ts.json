@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserGreaterThanTokenAmbiguity8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Generics/parserGreaterThanTokenAmbiguity8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109
+          ],
+          "file": "parserGreaterThanTokenAmbiguity8.ts"
+        }
+      ],
+      "name": "parserGreaterThanTokenAmbiguity8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

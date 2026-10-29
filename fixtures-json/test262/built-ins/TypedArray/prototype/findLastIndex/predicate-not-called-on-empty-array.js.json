@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLastIndex/predicate-not-called-on-empty-array.js"
+}

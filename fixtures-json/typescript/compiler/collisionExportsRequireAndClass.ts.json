@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "collisionExportsRequireAndClass_externalmodule.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "collisionExportsRequireAndClass_globalFile.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/collisionExportsRequireAndClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2441,
+            2441
+          ],
+          "file": "collisionExportsRequireAndClass_externalmodule.ts"
+        },
+        {
+          "codes": [],
+          "file": "collisionExportsRequireAndClass_globalFile.ts"
+        }
+      ],
+      "name": "collisionExportsRequireAndClass",
+      "options": {
+        "filename": "collisionExportsRequireAndClass_globalFile.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

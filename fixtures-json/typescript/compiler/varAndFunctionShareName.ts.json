@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "varAndFunctionShareName.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/varAndFunctionShareName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "varAndFunctionShareName.ts"
+        }
+      ],
+      "name": "varAndFunctionShareName",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

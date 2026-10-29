@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserMissingToken1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/MissingTokens/parserMissingToken1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1109,
+            1005
+          ],
+          "file": "parserMissingToken1.ts"
+        }
+      ],
+      "name": "parserMissingToken1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

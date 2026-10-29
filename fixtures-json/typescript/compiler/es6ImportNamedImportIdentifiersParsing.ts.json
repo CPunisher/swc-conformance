@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "es6ImportNamedImportIdentifiersParsing.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/es6ImportNamedImportIdentifiersParsing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2307,
+            1003,
+            2300,
+            2307,
+            1003,
+            2300,
+            2307,
+            2300,
+            2307,
+            1003,
+            2300,
+            2307
+          ],
+          "file": "es6ImportNamedImportIdentifiersParsing.ts"
+        }
+      ],
+      "name": "es6ImportNamedImportIdentifiersParsing",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

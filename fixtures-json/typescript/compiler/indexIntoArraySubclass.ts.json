@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "indexIntoArraySubclass.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/indexIntoArraySubclass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "indexIntoArraySubclass.ts"
+        }
+      ],
+      "name": "indexIntoArraySubclass",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

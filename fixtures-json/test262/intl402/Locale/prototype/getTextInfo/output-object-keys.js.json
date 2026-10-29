@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl.Locale",
+      "Intl.Locale-info"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Locale/prototype/getTextInfo/output-object-keys.js"
+}

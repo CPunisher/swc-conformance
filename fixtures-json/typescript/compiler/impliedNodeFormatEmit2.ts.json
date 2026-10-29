@@ -1,0 +1,195 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/b.mts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/c.cts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/d.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/e.mjs"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/f.mjs"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32
+      ],
+      "name": "/g.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32
+      ],
+      "name": "/h.mts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32
+      ],
+      "name": "/i.cts"
+    },
+    {
+      "lines": [
+        42,
+        43
+      ],
+      "name": "/dummy.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "esnext, commonjs, preserve",
+    "moduleresolution": "bundler",
+    "notypesandsymbols": "true",
+    "outdir": "dist",
+    "target": "es2015"
+  },
+  "path": "compiler/impliedNodeFormatEmit2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.mts"
+        },
+        {
+          "codes": [],
+          "file": "/c.cts"
+        },
+        {
+          "codes": [],
+          "file": "/d.js"
+        },
+        {
+          "codes": [],
+          "file": "/e.mjs"
+        },
+        {
+          "codes": [],
+          "file": "/f.mjs"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/g.ts"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/h.mts"
+        },
+        {
+          "codes": [
+            1202
+          ],
+          "file": "/i.cts"
+        },
+        {
+          "codes": [],
+          "file": "/dummy.ts"
+        }
+      ],
+      "name": "impliedNodeFormatEmit2(module=esnext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit2(module=commonjs)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [],
+      "name": "impliedNodeFormatEmit2(module=preserve)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/dummy.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "outdir": "dist",
+        "target": "es2015"
+      }
+    }
+  ]
+}

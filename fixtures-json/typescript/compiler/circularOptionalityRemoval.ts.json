@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "circularOptionalityRemoval.ts"
+    }
+  ],
+  "options": {
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/circularOptionalityRemoval.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2502,
+            2372,
+            18048,
+            2372,
+            1015,
+            2502,
+            2304,
+            2372
+          ],
+          "file": "circularOptionalityRemoval.ts"
+        }
+      ],
+      "name": "circularOptionalityRemoval",
+      "options": {
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

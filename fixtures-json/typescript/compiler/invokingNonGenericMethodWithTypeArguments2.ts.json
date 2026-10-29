@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "invokingNonGenericMethodWithTypeArguments2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/invokingNonGenericMethodWithTypeArguments2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2347
+          ],
+          "file": "invokingNonGenericMethodWithTypeArguments2.ts"
+        }
+      ],
+      "name": "invokingNonGenericMethodWithTypeArguments2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

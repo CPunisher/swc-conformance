@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "misspelledIdentifierInEnumComputedNameNoFlake.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/misspelledIdentifierInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1164,
+            2552
+          ],
+          "file": "misspelledIdentifierInEnumComputedNameNoFlake.ts"
+        }
+      ],
+      "name": "misspelledIdentifierInEnumComputedNameNoFlake",
+      "options": {
+        "declaration": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "server.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "client.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es6ImportDefaultBindingFollowedWithNamedImportWithExport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportWithExport(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "client.ts",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "server.ts"
+        },
+        {
+          "codes": [
+            1191,
+            1191,
+            2323,
+            1191,
+            2323,
+            1191,
+            2323,
+            2323,
+            1191,
+            2323,
+            1191,
+            2323
+          ],
+          "file": "client.ts"
+        }
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportWithExport(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "client.ts",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "typedefModuleExportsIndirect1.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "dist",
+    "strict": "true"
+  },
+  "path": "conformance/salsa/typedefModuleExportsIndirect1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typedefModuleExportsIndirect1",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "use.js",
+        "outdir": "dist",
+        "strict": "true"
+      }
+    }
+  ]
+}

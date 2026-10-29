@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary",
+      "Reflect"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allKeyed/non-enumerable-properties-only.js"
+}

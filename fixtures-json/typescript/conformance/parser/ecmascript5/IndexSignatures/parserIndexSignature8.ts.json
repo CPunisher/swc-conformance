@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserIndexSignature8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/IndexSignatures/parserIndexSignature8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1268,
+            1268
+          ],
+          "file": "parserIndexSignature8.ts"
+        }
+      ],
+      "name": "parserIndexSignature8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "errorHandlingInInstanceOf.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/errorHandlingInInstanceOf.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "errorHandlingInInstanceOf.ts"
+        }
+      ],
+      "name": "errorHandlingInInstanceOf",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

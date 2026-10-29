@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "mod.js"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "npm.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAssignment3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleExportAssignment3",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "npm.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

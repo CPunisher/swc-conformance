@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "deleteOperatorInvalidOperations.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/unaryOperators/deleteOperator/deleteOperatorInvalidOperations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1102,
+            2703,
+            1109,
+            1102,
+            2703,
+            1109,
+            1102,
+            2703
+          ],
+          "file": "deleteOperatorInvalidOperations.ts"
+        }
+      ],
+      "name": "deleteOperatorInvalidOperations",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

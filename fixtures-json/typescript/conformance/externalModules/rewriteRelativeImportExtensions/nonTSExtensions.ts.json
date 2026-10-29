@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "example.json"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "styles.d.css.ts"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "index.mts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "module": "node18,node20,nodenext",
+    "notypesandsymbols": "true",
+    "resolvejsonmodule": "true",
+    "rewriterelativeimportextensions": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/rewriteRelativeImportExtensions/nonTSExtensions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [],
+      "name": "nonTSExtensions(module=node18)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "index.mts",
+        "module": "node18",
+        "notypesandsymbols": "true",
+        "resolvejsonmodule": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [],
+      "name": "nonTSExtensions(module=node20)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "index.mts",
+        "module": "node20",
+        "notypesandsymbols": "true",
+        "resolvejsonmodule": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [],
+      "name": "nonTSExtensions(module=nodenext)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "index.mts",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "resolvejsonmodule": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

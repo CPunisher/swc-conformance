@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "unusedDestructuring.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6198,
+            6133,
+            6133,
+            6133,
+            6199,
+            6133,
+            6198,
+            6133,
+            6133
+          ],
+          "file": "unusedDestructuring.ts"
+        }
+      ],
+      "name": "unusedDestructuring",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

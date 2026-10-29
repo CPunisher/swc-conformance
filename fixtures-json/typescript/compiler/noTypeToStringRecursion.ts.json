@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "noTypeToStringRecursion.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true"
+  },
+  "path": "compiler/noTypeToStringRecursion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7023,
+            1360
+          ],
+          "file": "noTypeToStringRecursion.ts"
+        }
+      ],
+      "name": "noTypeToStringRecursion",
+      "options": {
+        "noemit": "true"
+      }
+    }
+  ]
+}

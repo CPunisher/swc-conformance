@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "withStatementNestedScope.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/withStatementNestedScope.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1101,
+            2410
+          ],
+          "file": "withStatementNestedScope.ts"
+        }
+      ],
+      "name": "withStatementNestedScope",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

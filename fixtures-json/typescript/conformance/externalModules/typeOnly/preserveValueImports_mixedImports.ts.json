@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/exports.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/index.fixed.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "es2015",
+    "preservevalueimports": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/preserveValueImports_mixedImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": []
+}

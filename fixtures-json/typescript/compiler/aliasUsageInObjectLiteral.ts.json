@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "aliasUsageInObjectLiteral_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "aliasUsageInObjectLiteral_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "aliasUsageInObjectLiteral_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/aliasUsageInObjectLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "aliasUsageInObjectLiteral_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "aliasUsageInObjectLiteral_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "aliasUsageInObjectLiteral_moduleA.ts"
+        }
+      ],
+      "name": "aliasUsageInObjectLiteral",
+      "options": {
+        "filename": "aliasUsageInObjectLiteral_main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

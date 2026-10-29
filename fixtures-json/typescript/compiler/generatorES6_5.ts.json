@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "generatorES6_5.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/generatorES6_5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304
+          ],
+          "file": "generatorES6_5.ts"
+        }
+      ],
+      "name": "generatorES6_5",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

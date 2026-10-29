@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/mylib/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "/node_modules/mylib/lib/Box.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "/helper.ts"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "/mod.ts"
+    }
+  ],
+  "options": {
+    "allowimportingtsextensions": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "nodenext"
+  },
+  "path": "compiler/declarationEmitImportSpecifierWithTsExtensionRelativeImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitImportSpecifierWithTsExtensionRelativeImport",
+      "options": {
+        "allowimportingtsextensions": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/mod.ts",
+        "module": "nodenext"
+      }
+    }
+  ]
+}

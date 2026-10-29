@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserPrivateIdentifierInArrayAssignment.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parserPrivateIdentifierInArrayAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2364,
+            1109
+          ],
+          "file": "parserPrivateIdentifierInArrayAssignment.ts"
+        }
+      ],
+      "name": "parserPrivateIdentifierInArrayAssignment",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "typeofTypeParameter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/typeQueries/typeofTypeParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693
+          ],
+          "file": "typeofTypeParameter.ts"
+        }
+      ],
+      "name": "typeofTypeParameter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

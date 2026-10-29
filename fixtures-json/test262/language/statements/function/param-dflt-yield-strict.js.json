@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "default-parameters"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/statements/function/param-dflt-yield-strict.js"
+}

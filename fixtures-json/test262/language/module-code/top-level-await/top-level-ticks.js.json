@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "top-level-await"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/top-level-await/top-level-ticks.js"
+}

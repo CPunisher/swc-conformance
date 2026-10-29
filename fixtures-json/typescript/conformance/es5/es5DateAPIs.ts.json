@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "es5DateAPIs.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es5/es5DateAPIs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5DateAPIs(target=es5)",
+      "options": {
+        "lib": "es5",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2554
+          ],
+          "file": "es5DateAPIs.ts"
+        }
+      ],
+      "name": "es5DateAPIs(target=es2015)",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

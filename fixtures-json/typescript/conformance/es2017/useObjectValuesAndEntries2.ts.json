@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "useObjectValuesAndEntries2.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es2017/useObjectValuesAndEntries2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "useObjectValuesAndEntries2(target=es5)",
+      "options": {
+        "lib": "es5",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2550,
+            2550
+          ],
+          "file": "useObjectValuesAndEntries2.ts"
+        }
+      ],
+      "name": "useObjectValuesAndEntries2(target=es2015)",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

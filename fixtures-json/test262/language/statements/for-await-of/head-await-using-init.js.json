@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "async-iteration",
+      "explicit-resource-management"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-await-of/head-await-using-init.js"
+}

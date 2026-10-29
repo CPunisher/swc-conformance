@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "ES5For-of25.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/statements/for-ofStatements/ES5For-of25.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES5For-of25(target=es5)",
+      "options": {
+        "sourcemap": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "ES5For-of25(target=es2015)",
+      "options": {
+        "sourcemap": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

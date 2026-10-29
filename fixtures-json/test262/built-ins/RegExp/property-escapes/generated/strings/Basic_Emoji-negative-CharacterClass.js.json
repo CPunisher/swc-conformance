@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-unicode-property-escapes",
+      "regexp-v-flag"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/property-escapes/generated/strings/Basic_Emoji-negative-CharacterClass.js"
+}

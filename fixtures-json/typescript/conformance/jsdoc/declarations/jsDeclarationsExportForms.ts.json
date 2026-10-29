@@ -1,0 +1,155 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "cls.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "func.js"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "bar.js"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18
+      ],
+      "name": "bar2.js"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22
+      ],
+      "name": "baz.js"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26
+      ],
+      "name": "bat.js"
+    },
+    {
+      "lines": [
+        24,
+        29,
+        30
+      ],
+      "name": "ban.js"
+    },
+    {
+      "lines": [
+        24,
+        33,
+        34
+      ],
+      "name": "bol.js"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38
+      ],
+      "name": "cjs.js"
+    },
+    {
+      "lines": [
+        36,
+        41,
+        42
+      ],
+      "name": "cjs2.js"
+    },
+    {
+      "lines": [
+        36,
+        45,
+        46
+      ],
+      "name": "cjs3.js"
+    },
+    {
+      "lines": [
+        36,
+        49,
+        50
+      ],
+      "name": "cjs4.js"
+    },
+    {
+      "lines": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "name": "includeAll.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsExportForms.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportForms(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "includeAll.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportForms(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "includeAll.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

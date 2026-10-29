@@ -1,0 +1,70 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "classExtendingPrimitive.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/classDeclarations/classHeritageSpecification/classExtendingPrimitive.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2863,
+            2863,
+            2863,
+            2304,
+            1109,
+            2304,
+            2507,
+            2552,
+            2507,
+            2863,
+            2863,
+            2863,
+            2863,
+            2863,
+            2863
+          ],
+          "file": "classExtendingPrimitive.ts"
+        }
+      ],
+      "name": "classExtendingPrimitive",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "nonNullableAndObjectIntersections.ts"
+    }
+  ],
+  "options": {
+    "strict": "true, false",
+    "target": "es2015"
+  },
+  "path": "compiler/nonNullableAndObjectIntersections.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "strict=true",
+      "diagnostics": [],
+      "name": "nonNullableAndObjectIntersections(strict=true)",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "strict=false",
+      "diagnostics": [],
+      "name": "nonNullableAndObjectIntersections(strict=false)",
+      "options": {
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

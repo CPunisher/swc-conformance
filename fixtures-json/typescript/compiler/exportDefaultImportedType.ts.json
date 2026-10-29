@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "/exported.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "module": "es2015",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDefaultImportedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDefaultImportedType",
+      "options": {
+        "filename": "/main.ts",
+        "module": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

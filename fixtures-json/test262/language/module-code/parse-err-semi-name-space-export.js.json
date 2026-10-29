@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "export-star-as-namespace-from-module"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/parse-err-semi-name-space-export.js"
+}

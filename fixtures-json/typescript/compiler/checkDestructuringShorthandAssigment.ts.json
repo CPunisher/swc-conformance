@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "bug25434.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/checkDestructuringShorthandAssigment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18004
+          ],
+          "file": "bug25434.js"
+        }
+      ],
+      "name": "checkDestructuringShorthandAssigment",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug25434.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

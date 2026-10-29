@@ -1,0 +1,125 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "es5-asyncFunctionWithStatements.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "lib": "es5,es2015.promise",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es5-asyncFunctionWithStatements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true,target=es5",
+      "diagnostics": [],
+      "name": "es5-asyncFunctionWithStatements(alwaysstrict=true,target=es5)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "alwaysstrict=true,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1101,
+            1300,
+            2410,
+            1101,
+            1300,
+            2410,
+            1101,
+            1300,
+            2410,
+            1101,
+            1300,
+            2410,
+            1101
+          ],
+          "file": "es5-asyncFunctionWithStatements.ts"
+        }
+      ],
+      "name": "es5-asyncFunctionWithStatements(alwaysstrict=true,target=es2015)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    },
+    {
+      "config": "alwaysstrict=false,target=es5",
+      "diagnostics": [],
+      "name": "es5-asyncFunctionWithStatements(alwaysstrict=false,target=es5)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "alwaysstrict=false,target=es2015",
+      "diagnostics": [],
+      "name": "es5-asyncFunctionWithStatements(alwaysstrict=false,target=es2015)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "lib": "es5,es2015.promise",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "esnextmodulekindWithES5Target3.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "module": "esnext",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/externalModules/esnext/esnextmodulekindWithES5Target3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "esnextmodulekindWithES5Target3(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "module": "esnext",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esnextmodulekindWithES5Target3(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

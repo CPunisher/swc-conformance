@@ -1,0 +1,102 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/src/foo.tsx"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "/src/bar.mts"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "node18,node20,nodenext",
+    "moduleresolution": "nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/externalModules/moduleResolutionWithoutExtension4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/foo.tsx"
+        },
+        {
+          "codes": [
+            2835
+          ],
+          "file": "/src/bar.mts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension4(module=node18)",
+      "options": {
+        "filename": "/src/bar.mts",
+        "jsx": "react",
+        "module": "node18",
+        "moduleresolution": "nodenext",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/foo.tsx"
+        },
+        {
+          "codes": [
+            2835
+          ],
+          "file": "/src/bar.mts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension4(module=node20)",
+      "options": {
+        "filename": "/src/bar.mts",
+        "jsx": "react",
+        "module": "node20",
+        "moduleresolution": "nodenext",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/foo.tsx"
+        },
+        {
+          "codes": [
+            2835
+          ],
+          "file": "/src/bar.mts"
+        }
+      ],
+      "name": "moduleResolutionWithoutExtension4(module=nodenext)",
+      "options": {
+        "filename": "/src/bar.mts",
+        "jsx": "react",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

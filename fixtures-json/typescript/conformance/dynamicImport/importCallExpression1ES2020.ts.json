@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "1.ts"
+    }
+  ],
+  "options": {
+    "module": "es2020",
+    "target": "es2020"
+  },
+  "path": "conformance/dynamicImport/importCallExpression1ES2020.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "importCallExpression1ES2020",
+      "options": {
+        "filename": "1.ts",
+        "module": "es2020",
+        "target": "es2020"
+      }
+    }
+  ]
+}

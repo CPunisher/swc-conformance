@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "bug25097.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocTypeReferenceUseBeforeDef.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsdocTypeReferenceUseBeforeDef",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug25097.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

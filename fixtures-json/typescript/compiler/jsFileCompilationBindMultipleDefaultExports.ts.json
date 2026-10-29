@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es6"
+  },
+  "path": "compiler/jsFileCompilationBindMultipleDefaultExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2528,
+            2652,
+            2528,
+            1109,
+            2652
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationBindMultipleDefaultExports",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

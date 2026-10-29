@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "webworkerIterable.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2020,webworker,webworker.iterable",
+    "skiplibcheck": "true",
+    "target": "es2020"
+  },
+  "path": "compiler/webworkerIterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "webworkerIterable",
+      "options": {
+        "lib": "es2020,webworker,webworker.iterable",
+        "skiplibcheck": "true",
+        "target": "es2020"
+      }
+    }
+  ]
+}

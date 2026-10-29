@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "/node_modules/A/index.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "/src/app.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleAugmentationInDependency2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2664
+          ],
+          "file": "/node_modules/A/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/src/app.ts"
+        }
+      ],
+      "name": "moduleAugmentationInDependency2",
+      "options": {
+        "filename": "/src/app.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

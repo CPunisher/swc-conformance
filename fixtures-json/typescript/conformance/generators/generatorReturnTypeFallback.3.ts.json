@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "generatorReturnTypeFallback.3.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.iterable",
+    "noemit": "true",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/generators/generatorReturnTypeFallback.3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "generatorReturnTypeFallback.3",
+      "options": {
+        "lib": "es5,es2015.iterable",
+        "noemit": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

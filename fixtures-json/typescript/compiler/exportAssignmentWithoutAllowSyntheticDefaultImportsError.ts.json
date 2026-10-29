@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "/bar.ts"
+    },
+    {
+      "lines": [
+        8
+      ],
+      "name": "/foo.ts"
+    }
+  ],
+  "options": {
+    "module": "es2015",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentWithoutAllowSyntheticDefaultImportsError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1203
+          ],
+          "file": "/bar.ts"
+        },
+        {
+          "codes": [],
+          "file": "/foo.ts"
+        }
+      ],
+      "name": "exportAssignmentWithoutAllowSyntheticDefaultImportsError",
+      "options": {
+        "filename": "/foo.ts",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

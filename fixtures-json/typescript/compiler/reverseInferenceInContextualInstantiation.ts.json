@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "reverseInferenceInContextualInstantiation.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/reverseInferenceInContextualInstantiation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "reverseInferenceInContextualInstantiation.ts"
+        }
+      ],
+      "name": "reverseInferenceInContextualInstantiation",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

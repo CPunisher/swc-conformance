@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "contextuallyTypeLogicalAnd03.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/contextualTypes/logicalAnd/contextuallyTypeLogicalAnd03.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2872,
+            7006
+          ],
+          "file": "contextuallyTypeLogicalAnd03.ts"
+        }
+      ],
+      "name": "contextuallyTypeLogicalAnd03",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

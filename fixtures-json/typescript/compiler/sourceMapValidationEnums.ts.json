@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "sourceMapValidationEnums.ts"
+    }
+  ],
+  "options": {
+    "sourcemap": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/sourceMapValidationEnums.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300
+          ],
+          "file": "sourceMapValidationEnums.ts"
+        }
+      ],
+      "name": "sourceMapValidationEnums",
+      "options": {
+        "sourcemap": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

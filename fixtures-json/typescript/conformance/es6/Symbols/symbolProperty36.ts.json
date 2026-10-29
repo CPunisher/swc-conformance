@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "symbolProperty36.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolProperty36.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1117
+          ],
+          "file": "symbolProperty36.ts"
+        }
+      ],
+      "name": "symbolProperty36",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

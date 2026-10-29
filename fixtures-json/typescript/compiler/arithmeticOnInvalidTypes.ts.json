@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "arithmeticOnInvalidTypes.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/arithmeticOnInvalidTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2365,
+            2454,
+            2362,
+            2454,
+            2363,
+            2454,
+            2362,
+            2454,
+            2363,
+            2454,
+            2362,
+            2454,
+            2363,
+            2454
+          ],
+          "file": "arithmeticOnInvalidTypes.ts"
+        }
+      ],
+      "name": "arithmeticOnInvalidTypes",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

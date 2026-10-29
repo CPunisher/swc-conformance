@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "propertyAccessStringIndexSignature.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true, false",
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/propertyAccess/propertyAccessStringIndexSignature.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "noimplicitany=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            7053,
+            7053
+          ],
+          "file": "propertyAccessStringIndexSignature.ts"
+        }
+      ],
+      "name": "propertyAccessStringIndexSignature(noimplicitany=true)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "noimplicitany=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "propertyAccessStringIndexSignature.ts"
+        }
+      ],
+      "name": "propertyAccessStringIndexSignature(noimplicitany=false)",
+      "options": {
+        "noimplicitany": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

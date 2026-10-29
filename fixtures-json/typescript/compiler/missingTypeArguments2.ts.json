@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "missingTypeArguments2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingTypeArguments2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2314,
+            2314,
+            2314,
+            2314
+          ],
+          "file": "missingTypeArguments2.ts"
+        }
+      ],
+      "name": "missingTypeArguments2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

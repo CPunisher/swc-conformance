@@ -1,0 +1,29 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "forLoopWithDestructuringDoesNotElideFollowingStatement.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/forLoopWithDestructuringDoesNotElideFollowingStatement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "forLoopWithDestructuringDoesNotElideFollowingStatement",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "node_modules/react/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "node_modules/create-emotion-styled/types/react/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "node_modules/create-emotion-styled/index.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28
+      ],
+      "name": "node_modules/react-emotion/index.d.ts"
+    },
+    {
+      "lines": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/reactTransitiveImportHasValidDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reactTransitiveImportHasValidDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

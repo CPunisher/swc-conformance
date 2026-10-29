@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "logical-assignment-operators"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/logical-assignment/lgcl-and-arguments-strict.js"
+}

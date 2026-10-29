@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "templateStringInPropertyName1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/templates/templateStringInPropertyName1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349,
+            1136,
+            1005,
+            1134,
+            1128
+          ],
+          "file": "templateStringInPropertyName1.ts"
+        }
+      ],
+      "name": "templateStringInPropertyName1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

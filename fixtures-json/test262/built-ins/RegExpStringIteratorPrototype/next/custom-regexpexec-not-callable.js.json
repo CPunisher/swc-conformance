@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol.matchAll"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "compareIterator.js",
+      "regExpUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExpStringIteratorPrototype/next/custom-regexpexec-not-callable.js"
+}

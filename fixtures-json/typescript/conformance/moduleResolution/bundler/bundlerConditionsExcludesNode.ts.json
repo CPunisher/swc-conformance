@@ -1,0 +1,166 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/node_modules/conditions/package.json"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/node_modules/conditions/index.node.js"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/node_modules/conditions/index.node.d.ts"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/node_modules/conditions/index.web.js"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/node_modules/conditions/index.web.d.ts"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext, preserve",
+    "moduleresolution": "bundler",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/bundler/bundlerConditionsExcludesNode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.node.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.node.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.web.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.web.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "bundlerConditionsExcludesNode(module=esnext)",
+      "options": {
+        "filename": "/main.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    },
+    {
+      "config": "module=preserve",
+      "diagnostics": [
+        {
+          "codes": [
+            6504,
+            6504,
+            6504,
+            6504,
+            6504,
+            6504
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.node.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.node.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.web.js"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/conditions/index.web.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "bundlerConditionsExcludesNode(module=preserve)",
+      "options": {
+        "filename": "/main.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "forOfSelfReferentialDottedName.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/forOfSelfReferentialDottedName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7022,
+            2448
+          ],
+          "file": "forOfSelfReferentialDottedName.ts"
+        }
+      ],
+      "name": "forOfSelfReferentialDottedName",
+      "options": {}
+    }
+  ]
+}

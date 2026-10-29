@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class",
+      "class-fields-private",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/delete/field-delete-err-delete-member-expression-private-method-accessor-get.js"
+}

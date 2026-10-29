@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "privateNameReadonly.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameReadonly.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2803
+          ],
+          "file": "privateNameReadonly.ts"
+        }
+      ],
+      "name": "privateNameReadonly",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

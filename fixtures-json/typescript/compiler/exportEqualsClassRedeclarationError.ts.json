@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "exportEqualsClassRedeclarationError.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "path": "compiler/exportEqualsClassRedeclarationError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2300,
+            2300,
+            2300
+          ],
+          "file": "exportEqualsClassRedeclarationError.ts"
+        }
+      ],
+      "name": "exportEqualsClassRedeclarationError",
+      "options": {
+        "module": "commonjs",
+        "target": "es6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "exportDefaultClassNameWithObject.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/externalModules/exportDefaultClassNameWithObject.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "exportDefaultClassNameWithObject(target=es5)",
+      "options": {
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2725
+          ],
+          "file": "exportDefaultClassNameWithObject.ts"
+        }
+      ],
+      "name": "exportDefaultClassNameWithObject(target=es2015)",
+      "options": {
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

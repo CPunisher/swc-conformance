@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "generatorTypeCheck50.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/yieldExpressions/generatorTypeCheck50.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7057
+          ],
+          "file": "generatorTypeCheck50.ts"
+        }
+      ],
+      "name": "generatorTypeCheck50",
+      "options": {
+        "noimplicitany": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

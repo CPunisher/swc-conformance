@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "constEnumInNamespace.ts"
+    }
+  ],
+  "options": {
+    "preserveconstenums": "true,false"
+  },
+  "path": "conformance/constEnums/constEnumInNamespace.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "preserveconstenums=true",
+      "diagnostics": [],
+      "name": "constEnumInNamespace(preserveconstenums=true)",
+      "options": {
+        "preserveconstenums": "true"
+      }
+    },
+    {
+      "config": "preserveconstenums=false",
+      "diagnostics": [],
+      "name": "constEnumInNamespace(preserveconstenums=false)",
+      "options": {
+        "preserveconstenums": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "negatedUnicodeSetUnionMayContainStrings.ts"
+    }
+  ],
+  "options": {
+    "target": "es2024"
+  },
+  "path": "compiler/negatedUnicodeSetUnionMayContainStrings.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1518,
+            1518,
+            1518
+          ],
+          "file": "negatedUnicodeSetUnionMayContainStrings.ts"
+        }
+      ],
+      "name": "negatedUnicodeSetUnionMayContainStrings",
+      "options": {
+        "target": "es2024"
+      }
+    }
+  ]
+}

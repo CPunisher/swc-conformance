@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "ES5SymbolProperty5.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/Symbols/ES5SymbolProperty5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "ES5SymbolProperty5(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2403,
+            2554
+          ],
+          "file": "ES5SymbolProperty5.ts"
+        }
+      ],
+      "name": "ES5SymbolProperty5(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

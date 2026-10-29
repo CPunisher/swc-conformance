@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        18
+      ],
+      "name": "root/src/folder1/file1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/pathMappingBasedModuleResolution2_node.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "name": "root/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "pathMappingBasedModuleResolution2_node",
+      "options": {
+        "filename": "root/src/folder1/file1.ts",
+        "module": "commonjs",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

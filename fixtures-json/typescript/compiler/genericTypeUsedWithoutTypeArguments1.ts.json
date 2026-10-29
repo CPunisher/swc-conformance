@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "genericTypeUsedWithoutTypeArguments1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericTypeUsedWithoutTypeArguments1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2314
+          ],
+          "file": "genericTypeUsedWithoutTypeArguments1.ts"
+        }
+      ],
+      "name": "genericTypeUsedWithoutTypeArguments1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

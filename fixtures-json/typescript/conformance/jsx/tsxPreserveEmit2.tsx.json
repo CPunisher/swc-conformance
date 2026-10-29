@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "test.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "module": "commonjs",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/jsx/tsxPreserveEmit2.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "tsxPreserveEmit2(target=es5)",
+      "options": {
+        "filename": "test.tsx",
+        "jsx": "preserve",
+        "module": "commonjs",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "tsxPreserveEmit2(target=es2015)",
+      "options": {
+        "filename": "test.tsx",
+        "jsx": "preserve",
+        "module": "commonjs",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        17
+      ],
+      "name": "/index.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/foo.ios.js"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        26,
+        27,
+        28
+      ],
+      "name": "/foo.js"
+    }
+  ],
+  "options": {
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolutionWithSuffixes_one_jsModule.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolutionWithSuffixes_one_jsModule",
+      "options": {
+        "filename": "/foo.js",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

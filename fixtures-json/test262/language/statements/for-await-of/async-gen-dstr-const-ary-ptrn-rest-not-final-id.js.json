@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "destructuring-binding",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/for-await-of/async-gen-dstr-const-ary-ptrn-rest-not-final-id.js"
+}

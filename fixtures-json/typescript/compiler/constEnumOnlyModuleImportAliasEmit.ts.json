@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "mappa.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "types.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "sensmap.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "target": "esnext"
+  },
+  "path": "compiler/constEnumOnlyModuleImportAliasEmit.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "constEnumOnlyModuleImportAliasEmit",
+      "options": {
+        "filename": "sensmap.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext"
+      }
+    }
+  ]
+}

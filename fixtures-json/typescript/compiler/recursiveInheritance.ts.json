@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "recursiveInheritance.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/recursiveInheritance.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2310,
+            2310,
+            2310
+          ],
+          "file": "recursiveInheritance.ts"
+        }
+      ],
+      "name": "recursiveInheritance",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

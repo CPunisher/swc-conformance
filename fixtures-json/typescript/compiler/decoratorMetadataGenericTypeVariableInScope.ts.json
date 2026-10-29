@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "decoratorMetadataGenericTypeVariableInScope.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/decoratorMetadataGenericTypeVariableInScope.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2564
+          ],
+          "file": "decoratorMetadataGenericTypeVariableInScope.ts"
+        }
+      ],
+      "name": "decoratorMetadataGenericTypeVariableInScope",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

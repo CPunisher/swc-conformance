@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "moduleExportAliasElementAccessExpression.js"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/moduleExportAliasElementAccessExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleExportAliasElementAccessExpression",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "moduleExportAliasElementAccessExpression.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

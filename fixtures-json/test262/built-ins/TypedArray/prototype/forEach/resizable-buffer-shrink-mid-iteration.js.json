@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "resizableArrayBufferUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/forEach/resizable-buffer-shrink-mid-iteration.js"
+}

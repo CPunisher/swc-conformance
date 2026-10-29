@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "classExtendsInterfaceInModule.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/classExtendsInterfaceInModule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2689,
+            2689,
+            2689
+          ],
+          "file": "classExtendsInterfaceInModule.ts"
+        }
+      ],
+      "name": "classExtendsInterfaceInModule",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

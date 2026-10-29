@@ -1,0 +1,67 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/pkg/untyped.js"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/pkg/definitely-not-index.d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "node10",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "notypesandsymbols": "true",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/node10Alternateresult_noTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "node10Alternateresult_noTypes",
+      "options": {
+        "filename": "/index.ts",
+        "moduleresolution": "node10",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

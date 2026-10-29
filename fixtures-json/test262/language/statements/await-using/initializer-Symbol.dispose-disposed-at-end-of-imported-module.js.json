@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "explicit-resource-management",
+      "top-level-await"
+    ],
+    "flags": [
+      "module",
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/statements/await-using/initializer-Symbol.dispose-disposed-at-end-of-imported-module.js"
+}

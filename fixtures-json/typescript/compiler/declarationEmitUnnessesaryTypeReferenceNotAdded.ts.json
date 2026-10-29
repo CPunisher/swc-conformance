@@ -1,0 +1,95 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/@types/minimist/minimist.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/node_modules/@types/minimist/package.json"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/node_modules/@types/process/process.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/node_modules/@types/process/package.json"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "declaration": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/declarationEmitUnnessesaryTypeReferenceNotAdded.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declarationEmitUnnessesaryTypeReferenceNotAdded(target=es5)",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "declarationEmitUnnessesaryTypeReferenceNotAdded(target=es2015)",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

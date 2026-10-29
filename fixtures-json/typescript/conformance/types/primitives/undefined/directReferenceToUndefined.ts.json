@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "directReferenceToUndefined.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/primitives/undefined/directReferenceToUndefined.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "directReferenceToUndefined.ts"
+        }
+      ],
+      "name": "directReferenceToUndefined",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

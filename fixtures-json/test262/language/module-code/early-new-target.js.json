@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "new.target"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/early-new-target.js"
+}

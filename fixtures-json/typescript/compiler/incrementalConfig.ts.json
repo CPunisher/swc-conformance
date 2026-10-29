@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "incremental": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/incrementalConfig.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      7,
+      8,
+      9
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "incrementalConfig",
+      "options": {
+        "filename": "/tsconfig.json",
+        "incremental": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

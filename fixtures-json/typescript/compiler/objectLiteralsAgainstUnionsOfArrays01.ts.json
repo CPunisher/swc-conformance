@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "objectLiteralsAgainstUnionsOfArrays01.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectLiteralsAgainstUnionsOfArrays01.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "objectLiteralsAgainstUnionsOfArrays01.ts"
+        }
+      ],
+      "name": "objectLiteralsAgainstUnionsOfArrays01",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

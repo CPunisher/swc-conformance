@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "globals.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "react-native.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/invalidGlobalAugmentation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2669
+          ],
+          "file": "globals.ts"
+        },
+        {
+          "codes": [
+            2664
+          ],
+          "file": "react-native.ts"
+        }
+      ],
+      "name": "invalidGlobalAugmentation",
+      "options": {
+        "filename": "react-native.ts",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

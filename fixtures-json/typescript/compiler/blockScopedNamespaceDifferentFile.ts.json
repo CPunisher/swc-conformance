@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "test.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "typings.d.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "outdir": "out",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/blockScopedNamespaceDifferentFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "blockScopedNamespaceDifferentFile(target=es5)",
+      "options": {
+        "filename": "typings.d.ts",
+        "module": "commonjs",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "blockScopedNamespaceDifferentFile(target=es2015)",
+      "options": {
+        "filename": "typings.d.ts",
+        "module": "commonjs",
+        "outdir": "out",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

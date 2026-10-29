@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "exportDefaultExpressionComments.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/declarationEmit/exportDefaultExpressionComments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDefaultExpressionComments",
+      "options": {
+        "declaration": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

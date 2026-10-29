@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "yieldStringLiteral.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/yieldStringLiteral.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1163
+          ],
+          "file": "yieldStringLiteral.ts"
+        }
+      ],
+      "name": "yieldStringLiteral",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

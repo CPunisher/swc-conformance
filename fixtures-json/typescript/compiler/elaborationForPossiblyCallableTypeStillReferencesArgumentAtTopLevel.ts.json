@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "elaborationForPossiblyCallableTypeStillReferencesArgumentAtTopLevel.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/elaborationForPossiblyCallableTypeStillReferencesArgumentAtTopLevel.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "elaborationForPossiblyCallableTypeStillReferencesArgumentAtTopLevel.ts"
+        }
+      ],
+      "name": "elaborationForPossiblyCallableTypeStillReferencesArgumentAtTopLevel",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

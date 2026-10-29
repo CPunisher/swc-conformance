@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "class-fields-private",
+      "class-methods-private",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/delete/method-delete-twice-covered-err-delete-call-expression-private-method-accessor-set.js"
+}

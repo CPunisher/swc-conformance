@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "recursiveIndexedAccessSimplification.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true"
+  },
+  "path": "compiler/recursiveIndexedAccessSimplification.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4109,
+            2536,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2322,
+            2589,
+            2589
+          ],
+          "file": "recursiveIndexedAccessSimplification.ts"
+        }
+      ],
+      "name": "recursiveIndexedAccessSimplification",
+      "options": {
+        "noemit": "true"
+      }
+    }
+  ]
+}

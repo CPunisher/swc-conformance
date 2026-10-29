@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "0.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "1.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "2.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/commentsOnRequireStatement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "commentsOnRequireStatement(target=es5)",
+      "options": {
+        "filename": "2.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "commentsOnRequireStatement(target=es2015)",
+      "options": {
+        "filename": "2.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

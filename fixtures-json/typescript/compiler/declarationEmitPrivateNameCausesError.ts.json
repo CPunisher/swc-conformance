@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "file.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "lib": "es6",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitPrivateNameCausesError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitPrivateNameCausesError",
+      "options": {
+        "declaration": "true",
+        "filename": "file.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

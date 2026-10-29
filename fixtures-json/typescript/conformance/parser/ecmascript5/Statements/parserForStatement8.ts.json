@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserForStatement8.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/parserForStatement8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2405,
+            2304
+          ],
+          "file": "parserForStatement8.ts"
+        }
+      ],
+      "name": "parserForStatement8",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

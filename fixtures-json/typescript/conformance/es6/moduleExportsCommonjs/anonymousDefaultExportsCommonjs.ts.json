@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/moduleExportsCommonjs/anonymousDefaultExportsCommonjs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "anonymousDefaultExportsCommonjs",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "target": "ES6"
+      }
+    }
+  ]
+}

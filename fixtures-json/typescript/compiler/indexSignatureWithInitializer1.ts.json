@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "indexSignatureWithInitializer1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/indexSignatureWithInitializer1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1020,
+            2371
+          ],
+          "file": "indexSignatureWithInitializer1.ts"
+        }
+      ],
+      "name": "indexSignatureWithInitializer1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "FunctionDeclaration4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/FunctionDeclaration4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            2389
+          ],
+          "file": "FunctionDeclaration4.ts"
+        }
+      ],
+      "name": "FunctionDeclaration4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

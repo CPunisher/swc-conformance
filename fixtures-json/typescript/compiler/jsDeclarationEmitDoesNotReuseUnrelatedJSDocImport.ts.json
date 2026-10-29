@@ -1,0 +1,123 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        11,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "name": "/node_modules/external/package.json"
+    },
+    {
+      "lines": [
+        39,
+        40
+      ],
+      "name": "/node_modules/external/types/index.d.ts"
+    },
+    {
+      "lines": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "name": "/node_modules/external/src/types.d.ts"
+    },
+    {
+      "lines": [],
+      "name": "/node_modules/external/src/index.js"
+    },
+    {
+      "lines": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "name": "/src/types.d.ts"
+    },
+    {
+      "lines": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "name": "/src/index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "currentdirectory": "/",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "nodenext",
+    "notypesandsymbols": "true",
+    "outdir": "/out",
+    "strict": "true"
+  },
+  "path": "compiler/jsDeclarationEmitDoesNotReuseUnrelatedJSDocImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationEmitDoesNotReuseUnrelatedJSDocImport",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "currentdirectory": "/",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/src/index.js",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "outdir": "/out",
+        "strict": "true"
+      }
+    }
+  ]
+}

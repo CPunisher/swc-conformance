@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "initial.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "final.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/noSymbolForMergeCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "initial.ts"
+        },
+        {
+          "codes": [
+            2649
+          ],
+          "file": "final.ts"
+        }
+      ],
+      "name": "noSymbolForMergeCrash",
+      "options": {
+        "filename": "final.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

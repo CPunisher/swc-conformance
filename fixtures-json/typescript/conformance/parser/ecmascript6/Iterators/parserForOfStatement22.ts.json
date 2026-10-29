@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "parserForOfStatement22.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext"
+  },
+  "path": "conformance/parser/ecmascript6/Iterators/parserForOfStatement22.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1106
+          ],
+          "file": "parserForOfStatement22.ts"
+        }
+      ],
+      "name": "parserForOfStatement22",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

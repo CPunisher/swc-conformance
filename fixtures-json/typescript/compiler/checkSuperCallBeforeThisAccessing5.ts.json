@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "checkSuperCallBeforeThisAccessing5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/checkSuperCallBeforeThisAccessing5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7019,
+            17009
+          ],
+          "file": "checkSuperCallBeforeThisAccessing5.ts"
+        }
+      ],
+      "name": "checkSuperCallBeforeThisAccessing5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

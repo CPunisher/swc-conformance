@@ -1,0 +1,211 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "b.js"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "c.js"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "d.js"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "e.js"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "f.js"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "g.js"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "h.js"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "i.js"
+    },
+    {
+      "lines": [
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "j.js"
+    },
+    {
+      "lines": [
+        49,
+        50,
+        51
+      ],
+      "name": "k.js"
+    },
+    {
+      "lines": [
+        53,
+        54,
+        55
+      ],
+      "name": "l.js"
+    },
+    {
+      "lines": [
+        57,
+        58
+      ],
+      "name": "m.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "esnext",
+    "noemit": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/importSource/importSource11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "b.js"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "c.js"
+        },
+        {
+          "codes": [
+            18112
+          ],
+          "file": "d.js"
+        },
+        {
+          "codes": [
+            18111
+          ],
+          "file": "e.js"
+        },
+        {
+          "codes": [
+            1005,
+            1005,
+            1005,
+            1005,
+            18114,
+            1005,
+            1325
+          ],
+          "file": "f.js"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "g.js"
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "h.js"
+        },
+        {
+          "codes": [
+            18061
+          ],
+          "file": "i.js"
+        },
+        {
+          "codes": [],
+          "file": "j.js"
+        },
+        {
+          "codes": [],
+          "file": "k.js"
+        },
+        {
+          "codes": [],
+          "file": "l.js"
+        },
+        {
+          "codes": [
+            1260
+          ],
+          "file": "m.js"
+        }
+      ],
+      "name": "importSource11",
+      "options": {
+        "allowjs": "true",
+        "filename": "m.js",
+        "module": "esnext",
+        "noemit": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

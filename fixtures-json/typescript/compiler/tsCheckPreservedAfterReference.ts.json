@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/checked.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        14,
+        15,
+        16
+      ],
+      "name": "/checked.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/tsCheckPreservedAfterReference.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322
+          ],
+          "file": "/checked.ts"
+        },
+        {
+          "codes": [
+            2322
+          ],
+          "file": "/checked.js"
+        }
+      ],
+      "name": "tsCheckPreservedAfterReference",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/checked.js",
+        "noemit": "true",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

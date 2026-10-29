@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "super"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/global-code/super-prop.js"
+}

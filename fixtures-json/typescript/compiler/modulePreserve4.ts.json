@@ -1,0 +1,261 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/a.js"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        21,
+        22
+      ],
+      "name": "/d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/e.mts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/f.cts"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/g.js"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "name": "/main1.ts"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "name": "/main2.mts"
+    },
+    {
+      "lines": [
+        33,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "name": "/main3.cjs"
+    },
+    {
+      "lines": [
+        109,
+        110
+      ],
+      "name": "/main4.cjs"
+    },
+    {
+      "lines": [
+        112,
+        113
+      ],
+      "name": "/dummy.ts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "preserve",
+    "outdir": "dist",
+    "strict": "true",
+    "target": "esnext",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "compiler/modulePreserve4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2591
+          ],
+          "file": "/a.js"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/e.mts"
+        },
+        {
+          "codes": [
+            1286
+          ],
+          "file": "/f.cts"
+        },
+        {
+          "codes": [],
+          "file": "/g.js"
+        },
+        {
+          "codes": [
+            2305,
+            2591,
+            2339,
+            1192
+          ],
+          "file": "/main1.ts"
+        },
+        {
+          "codes": [
+            2305,
+            2339,
+            2591,
+            1192
+          ],
+          "file": "/main2.mts"
+        },
+        {
+          "codes": [
+            1293,
+            2305,
+            8002,
+            1293,
+            1293,
+            1293,
+            1293,
+            1293,
+            1293
+          ],
+          "file": "/main3.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/main4.cjs"
+        },
+        {
+          "codes": [],
+          "file": "/dummy.ts"
+        }
+      ],
+      "name": "modulePreserve4",
+      "options": {
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "/dummy.ts",
+        "module": "preserve",
+        "outdir": "dist",
+        "strict": "true",
+        "target": "esnext",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

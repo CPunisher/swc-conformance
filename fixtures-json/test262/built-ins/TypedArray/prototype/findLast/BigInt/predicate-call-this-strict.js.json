@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt",
+      "TypedArray",
+      "array-find-from-last"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/findLast/BigInt/predicate-call-this-strict.js"
+}

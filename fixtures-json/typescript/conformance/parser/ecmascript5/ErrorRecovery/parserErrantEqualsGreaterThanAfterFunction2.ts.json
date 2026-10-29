@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserErrantEqualsGreaterThanAfterFunction2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserErrantEqualsGreaterThanAfterFunction2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            2304,
+            1144,
+            2304
+          ],
+          "file": "parserErrantEqualsGreaterThanAfterFunction2.ts"
+        }
+      ],
+      "name": "parserErrantEqualsGreaterThanAfterFunction2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

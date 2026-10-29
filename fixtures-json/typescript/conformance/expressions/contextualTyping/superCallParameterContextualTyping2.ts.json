@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "superCallParameterContextualTyping2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/contextualTyping/superCallParameterContextualTyping2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2349,
+            2349
+          ],
+          "file": "superCallParameterContextualTyping2.ts"
+        }
+      ],
+      "name": "superCallParameterContextualTyping2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

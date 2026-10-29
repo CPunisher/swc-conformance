@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/typedefMultipleTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2741,
+            2314
+          ],
+          "file": "a.js"
+        },
+        {
+          "codes": [
+            2741
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "typedefMultipleTypeParameters",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "test.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

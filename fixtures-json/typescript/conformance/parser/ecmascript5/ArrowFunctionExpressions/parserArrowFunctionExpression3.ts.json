@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserArrowFunctionExpression3.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ArrowFunctionExpressions/parserArrowFunctionExpression3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2872,
+            1005,
+            2304,
+            1005
+          ],
+          "file": "parserArrowFunctionExpression3.ts"
+        }
+      ],
+      "name": "parserArrowFunctionExpression3",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

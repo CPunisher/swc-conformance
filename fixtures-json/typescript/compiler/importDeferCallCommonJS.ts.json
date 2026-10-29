@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        3,
+        7,
+        8
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs"
+  },
+  "path": "compiler/importDeferCallCommonJS.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            18060
+          ],
+          "file": "main.ts"
+        }
+      ],
+      "name": "importDeferCallCommonJS",
+      "options": {
+        "filename": "main.ts",
+        "module": "commonjs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/foo/a.ts"
+    }
+  ],
+  "options": {
+    "typescriptversion": "6.0"
+  },
+  "path": "compiler/deprecatedCompilerOptions3.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "name": "/foo/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6046,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023,
+            5023
+          ],
+          "file": "/foo/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo/a.ts"
+        }
+      ],
+      "name": "deprecatedCompilerOptions3",
+      "options": {
+        "filename": "/foo/a.ts",
+        "typescriptversion": "6.0"
+      }
+    }
+  ]
+}

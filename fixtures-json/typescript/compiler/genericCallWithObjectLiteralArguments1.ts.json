@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "genericCallWithObjectLiteralArguments1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericCallWithObjectLiteralArguments1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "genericCallWithObjectLiteralArguments1.ts"
+        }
+      ],
+      "name": "genericCallWithObjectLiteralArguments1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

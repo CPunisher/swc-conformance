@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "compiler/nodeResolution1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "nodeResolution1",
+      "options": {
+        "filename": "b.ts",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

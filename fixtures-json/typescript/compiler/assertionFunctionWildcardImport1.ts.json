@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "src/core/_namespaces/ts.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "src/core/debug.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "src/core/foo.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23
+      ],
+      "name": "src/other/_namespaces/ts.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "src/other/bar.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/assertionFunctionWildcardImport1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "assertionFunctionWildcardImport1",
+      "options": {
+        "filename": "src/other/bar.ts",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

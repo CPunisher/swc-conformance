@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "classIndexer5.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext",
+    "usedefineforclassfields": "false"
+  },
+  "path": "compiler/classIndexer5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "classIndexer5.ts"
+        }
+      ],
+      "name": "classIndexer5",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

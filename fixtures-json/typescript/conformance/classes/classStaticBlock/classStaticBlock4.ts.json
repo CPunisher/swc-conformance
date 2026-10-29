@@ -1,0 +1,65 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "classStaticBlock4.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022"
+  },
+  "path": "conformance/classes/classStaticBlock/classStaticBlock4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2729,
+            2729
+          ],
+          "file": "classStaticBlock4.ts"
+        }
+      ],
+      "name": "classStaticBlock4(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [
+        {
+          "codes": [
+            2729,
+            2729
+          ],
+          "file": "classStaticBlock4.ts"
+        }
+      ],
+      "name": "classStaticBlock4(target=es2022)",
+      "options": {
+        "target": "es2022"
+      }
+    }
+  ]
+}

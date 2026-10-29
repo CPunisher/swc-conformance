@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "usingDeclarationsWithImportHelpers.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "lib": "esnext",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "es2022"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsWithImportHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2354
+          ],
+          "file": "usingDeclarationsWithImportHelpers.ts"
+        }
+      ],
+      "name": "usingDeclarationsWithImportHelpers",
+      "options": {
+        "importhelpers": "true",
+        "lib": "esnext",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "es2022"
+      }
+    }
+  ]
+}

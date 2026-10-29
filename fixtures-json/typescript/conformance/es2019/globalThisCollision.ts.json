@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "globalThisCollision.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es2019/globalThisCollision.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2397
+          ],
+          "file": "globalThisCollision.js"
+        }
+      ],
+      "name": "globalThisCollision",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "globalThisCollision.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

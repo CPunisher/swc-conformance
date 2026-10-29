@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "stringLiteralTypesWithVariousOperators02.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/types/stringLiteral/stringLiteralTypesWithVariousOperators02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2365,
+            2365,
+            2365,
+            2365,
+            2365,
+            2356,
+            2356,
+            2362,
+            2362,
+            2367,
+            2367
+          ],
+          "file": "stringLiteralTypesWithVariousOperators02.ts"
+        }
+      ],
+      "name": "stringLiteralTypesWithVariousOperators02",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

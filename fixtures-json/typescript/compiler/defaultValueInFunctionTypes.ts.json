@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "defaultValueInFunctionTypes.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/defaultValueInFunctionTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2371,
+            2371,
+            2352,
+            2371
+          ],
+          "file": "defaultValueInFunctionTypes.ts"
+        }
+      ],
+      "name": "defaultValueInFunctionTypes",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

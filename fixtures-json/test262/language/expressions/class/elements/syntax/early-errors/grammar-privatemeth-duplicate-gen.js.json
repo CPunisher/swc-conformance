@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class-fields-private",
+      "generators",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/grammar-privatemeth-duplicate-gen.js"
+}

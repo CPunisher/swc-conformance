@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "crashOnMethodSignatures.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/crashOnMethodSignatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2391
+          ],
+          "file": "crashOnMethodSignatures.ts"
+        }
+      ],
+      "name": "crashOnMethodSignatures",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

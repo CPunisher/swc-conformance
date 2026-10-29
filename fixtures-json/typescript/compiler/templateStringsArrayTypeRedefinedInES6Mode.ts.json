@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "templateStringsArrayTypeRedefinedInES6Mode.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/templateStringsArrayTypeRedefinedInES6Mode.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2740
+          ],
+          "file": "templateStringsArrayTypeRedefinedInES6Mode.ts"
+        }
+      ],
+      "name": "templateStringsArrayTypeRedefinedInES6Mode",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

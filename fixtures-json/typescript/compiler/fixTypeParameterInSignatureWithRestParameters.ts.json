@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "fixTypeParameterInSignatureWithRestParameters.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/fixTypeParameterInSignatureWithRestParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "fixTypeParameterInSignatureWithRestParameters.ts"
+        }
+      ],
+      "name": "fixTypeParameterInSignatureWithRestParameters",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

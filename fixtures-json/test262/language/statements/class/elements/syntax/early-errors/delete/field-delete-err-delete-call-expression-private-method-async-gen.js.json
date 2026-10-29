@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "async-iteration",
+      "class",
+      "class-fields-private",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/syntax/early-errors/delete/field-delete-err-delete-call-expression-private-method-async-gen.js"
+}

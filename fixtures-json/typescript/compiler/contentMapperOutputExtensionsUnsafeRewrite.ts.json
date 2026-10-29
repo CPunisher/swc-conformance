@@ -1,0 +1,110 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/node_modules/mapper/package.json"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/components.astro/index.ts"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/actual.astro"
+    },
+    {
+      "lines": [
+        33,
+        34
+      ],
+      "name": "/ambient.d.astro.ts"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "runexternalcode": "true"
+  },
+  "path": "compiler/contentMapperOutputExtensionsUnsafeRewrite.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/components.astro/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/ambient.d.astro.ts"
+        },
+        {
+          "codes": [
+            2876,
+            2876,
+            2877
+          ],
+          "file": "/main.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mapper/package.json"
+        }
+      ],
+      "name": "contentMapperOutputExtensionsUnsafeRewrite",
+      "options": {
+        "filename": "/main.ts",
+        "runexternalcode": "true"
+      }
+    }
+  ]
+}

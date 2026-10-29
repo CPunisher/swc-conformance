@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/types.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "name": "/index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "module": "preserve",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeTypesJsImports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/types.d.ts"
+        },
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "/index.js"
+        }
+      ],
+      "name": "importAttributeTypesJsImports",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/index.js",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "b.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "c.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "a.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "compiler/es6UseOfTopLevelRequire.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "es6UseOfTopLevelRequire",
+      "options": {
+        "filename": "a.ts",
+        "target": "ES6"
+      }
+    }
+  ]
+}

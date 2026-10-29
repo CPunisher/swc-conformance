@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "reachabilityChecks10.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "false",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/reachabilityChecks10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7027
+          ],
+          "file": "reachabilityChecks10.ts"
+        }
+      ],
+      "name": "reachabilityChecks10",
+      "options": {
+        "allowunreachablecode": "false",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

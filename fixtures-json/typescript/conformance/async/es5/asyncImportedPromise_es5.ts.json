@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "task.ts"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "test.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5,es2015.promise",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/async/es5/asyncImportedPromise_es5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "asyncImportedPromise_es5(target=es5)",
+      "options": {
+        "filename": "test.ts",
+        "lib": "es5,es2015.promise",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "task.ts"
+        },
+        {
+          "codes": [
+            1064,
+            2322,
+            2322
+          ],
+          "file": "test.ts"
+        }
+      ],
+      "name": "asyncImportedPromise_es5(target=es2015)",
+      "options": {
+        "filename": "test.ts",
+        "lib": "es5,es2015.promise",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserRegularExpressionDivideAmbiguity4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegularExpressions/parserRegularExpressionDivideAmbiguity4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            1161
+          ],
+          "file": "parserRegularExpressionDivideAmbiguity4.ts"
+        }
+      ],
+      "name": "parserRegularExpressionDivideAmbiguity4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

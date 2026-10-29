@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/jsdoc/thisTag2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "thisTag2",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "a.js",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class",
+      "explicit-resource-management"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js",
+      "asyncHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/await-using/fn-name-class.js"
+}

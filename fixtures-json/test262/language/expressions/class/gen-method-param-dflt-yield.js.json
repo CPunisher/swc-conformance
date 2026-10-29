@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "generators",
+      "default-parameters"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/gen-method-param-dflt-yield.js"
+}

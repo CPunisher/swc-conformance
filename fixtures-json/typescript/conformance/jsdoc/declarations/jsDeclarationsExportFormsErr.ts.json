@@ -1,0 +1,114 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "cls.js"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "bar.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "bin.js"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "globalNs.js"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "includeAll.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsExportFormsErr.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "jsDeclarationsExportFormsErr(target=es5)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "includeAll.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "cls.js"
+        },
+        {
+          "codes": [
+            8002,
+            8003
+          ],
+          "file": "bar.js"
+        },
+        {
+          "codes": [
+            2591
+          ],
+          "file": "bin.js"
+        },
+        {
+          "codes": [
+            1315
+          ],
+          "file": "globalNs.js"
+        },
+        {
+          "codes": [],
+          "file": "includeAll.js"
+        }
+      ],
+      "name": "jsDeclarationsExportFormsErr(target=es2015)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "includeAll.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

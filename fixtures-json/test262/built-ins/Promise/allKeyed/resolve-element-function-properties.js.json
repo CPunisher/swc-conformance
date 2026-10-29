@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "await-dictionary",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js",
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allKeyed/resolve-element-function-properties.js"
+}

@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "constDeclarations-useBeforeDefinition.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "ES6"
+  },
+  "path": "compiler/constDeclarations-useBeforeDefinition.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2448,
+            2448
+          ],
+          "file": "constDeclarations-useBeforeDefinition.ts"
+        }
+      ],
+      "name": "constDeclarations-useBeforeDefinition",
+      "options": {
+        "strict": "false",
+        "target": "ES6"
+      }
+    }
+  ]
+}

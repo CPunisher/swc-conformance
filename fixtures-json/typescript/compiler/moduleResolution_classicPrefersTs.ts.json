@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/dir1/dir2/dir3/a.js"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/dir1/dir2/a.ts"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/dir1/dir2/dir3/index.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "moduleresolution": "classic",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolution_classicPrefersTs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolution_classicPrefersTs",
+      "options": {
+        "allowjs": "true",
+        "filename": "/dir1/dir2/dir3/index.ts",
+        "moduleresolution": "classic",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

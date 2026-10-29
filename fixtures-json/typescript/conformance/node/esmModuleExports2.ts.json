@@ -1,0 +1,99 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/importer-cjs.cjs"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/importer-cts.cts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/exporter.mts"
+    }
+  ],
+  "options": {
+    "checkjs": "true",
+    "esmoduleinterop": "true,false",
+    "module": "node20",
+    "noemit": "true",
+    "target": "es2023"
+  },
+  "path": "conformance/node/esmModuleExports2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "esmoduleinterop=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2351,
+            2351
+          ],
+          "file": "/importer-cjs.cjs"
+        },
+        {
+          "codes": [
+            2351,
+            2351,
+            2351,
+            2351,
+            2351,
+            2351,
+            2614
+          ],
+          "file": "/importer-cts.cts"
+        },
+        {
+          "codes": [],
+          "file": "/exporter.mts"
+        }
+      ],
+      "name": "esmModuleExports2(esmoduleinterop=true)",
+      "options": {
+        "checkjs": "true",
+        "esmoduleinterop": "true",
+        "filename": "/exporter.mts",
+        "module": "node20",
+        "noemit": "true",
+        "target": "es2023"
+      }
+    },
+    {
+      "config": "esmoduleinterop=false",
+      "diagnostics": [],
+      "name": "esmModuleExports2(esmoduleinterop=false)",
+      "options": {
+        "checkjs": "true",
+        "esmoduleinterop": "false",
+        "filename": "/exporter.mts",
+        "module": "node20",
+        "noemit": "true",
+        "target": "es2023"
+      }
+    }
+  ]
+}

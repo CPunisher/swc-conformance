@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "missingRequiredDeclare.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingRequiredDeclare.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1046,
+            1039
+          ],
+          "file": "missingRequiredDeclare.d.ts"
+        }
+      ],
+      "name": "missingRequiredDeclare.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

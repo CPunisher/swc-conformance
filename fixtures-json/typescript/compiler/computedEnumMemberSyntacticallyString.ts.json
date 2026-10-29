@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "computedEnumMemberSyntacticallyString.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true,false",
+    "notypesandsymbols": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/computedEnumMemberSyntacticallyString.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "isolatedmodules=true",
+      "diagnostics": [
+        {
+          "codes": [
+            18033,
+            18033,
+            18033,
+            18033,
+            18033,
+            18033
+          ],
+          "file": "computedEnumMemberSyntacticallyString.ts"
+        }
+      ],
+      "name": "computedEnumMemberSyntacticallyString(isolatedmodules=true)",
+      "options": {
+        "isolatedmodules": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "isolatedmodules=false",
+      "diagnostics": [
+        {
+          "codes": [
+            18033,
+            18033,
+            18033,
+            18033,
+            18033,
+            18033
+          ],
+          "file": "computedEnumMemberSyntacticallyString.ts"
+        }
+      ],
+      "name": "computedEnumMemberSyntacticallyString(isolatedmodules=false)",
+      "options": {
+        "isolatedmodules": "false",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

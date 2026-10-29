@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "enum.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "alias.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importedEnumMemberMergedWithExportedAliasIsError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "enum.ts"
+        },
+        {
+          "codes": [
+            2440,
+            2395,
+            2395
+          ],
+          "file": "alias.ts"
+        }
+      ],
+      "name": "importedEnumMemberMergedWithExportedAliasIsError",
+      "options": {
+        "filename": "alias.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

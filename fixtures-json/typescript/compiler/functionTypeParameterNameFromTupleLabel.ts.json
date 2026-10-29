@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "functionTypeParameterNameFromTupleLabel.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strictfunctiontypes": "true"
+  },
+  "path": "compiler/functionTypeParameterNameFromTupleLabel.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322
+          ],
+          "file": "functionTypeParameterNameFromTupleLabel.ts"
+        }
+      ],
+      "name": "functionTypeParameterNameFromTupleLabel",
+      "options": {
+        "noemit": "true",
+        "strictfunctiontypes": "true"
+      }
+    }
+  ]
+}

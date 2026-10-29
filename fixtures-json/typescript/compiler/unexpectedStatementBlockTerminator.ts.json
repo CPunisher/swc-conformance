@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "unexpectedStatementBlockTerminator.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/unexpectedStatementBlockTerminator.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1128
+          ],
+          "file": "unexpectedStatementBlockTerminator.ts"
+        }
+      ],
+      "name": "unexpectedStatementBlockTerminator",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

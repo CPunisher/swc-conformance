@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/json.json"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/js.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "/user.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "resolvejsonmodule": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileInJsFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2741,
+            2339,
+            2741
+          ],
+          "file": "/user.js"
+        },
+        {
+          "codes": [],
+          "file": "/json.json"
+        },
+        {
+          "codes": [],
+          "file": "/js.js"
+        }
+      ],
+      "name": "requireOfJsonFileInJsFile",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/user.js",
+        "noemit": "true",
+        "resolvejsonmodule": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

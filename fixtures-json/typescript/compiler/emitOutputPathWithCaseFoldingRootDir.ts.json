@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/a",
+  "files": [
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/a/kkkk/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/a",
+    "outdir": "/a/out",
+    "rootdir": "/a/KKKK",
+    "usecasesensitivefilenames": "false"
+  },
+  "path": "compiler/emitOutputPathWithCaseFoldingRootDir.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "emitOutputPathWithCaseFoldingRootDir",
+      "options": {
+        "currentdirectory": "/a",
+        "filename": "/a/kkkk/a.ts",
+        "outdir": "/a/out",
+        "rootdir": "/a/KKKK",
+        "usecasesensitivefilenames": "false"
+      }
+    }
+  ]
+}

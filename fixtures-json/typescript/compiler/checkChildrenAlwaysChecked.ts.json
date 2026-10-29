@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "yieldOutsideGenerator.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "returnInStaticBlock.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "exportAssignmentInNamespace.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/checkChildrenAlwaysChecked.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1163,
+            2304
+          ],
+          "file": "yieldOutsideGenerator.ts"
+        },
+        {
+          "codes": [
+            18041,
+            2304
+          ],
+          "file": "returnInStaticBlock.ts"
+        },
+        {
+          "codes": [
+            1063,
+            2304
+          ],
+          "file": "exportAssignmentInNamespace.ts"
+        }
+      ],
+      "name": "checkChildrenAlwaysChecked",
+      "options": {
+        "filename": "exportAssignmentInNamespace.ts",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

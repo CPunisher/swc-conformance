@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "asyncImportNestedYield.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/asyncImportNestedYield.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "asyncImportNestedYield",
+      "options": {
+        "lib": "esnext",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "jsxEmptyExpressionNotCountedAsChild.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react,react-jsx,react-jsxdev",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxEmptyExpressionNotCountedAsChild.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react",
+      "diagnostics": [],
+      "name": "jsxEmptyExpressionNotCountedAsChild(jsx=react)",
+      "options": {
+        "jsx": "react",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [],
+      "name": "jsxEmptyExpressionNotCountedAsChild(jsx=react-jsx)",
+      "options": {
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [],
+      "name": "jsxEmptyExpressionNotCountedAsChild(jsx=react-jsxdev)",
+      "options": {
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "importCallExpressionGrammarError.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noimplicitany": "false",
+    "target": "es6"
+  },
+  "path": "conformance/dynamicImport/importCallExpressionGrammarError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1325,
+            1325,
+            2307,
+            1324,
+            2559
+          ],
+          "file": "importCallExpressionGrammarError.ts"
+        }
+      ],
+      "name": "importCallExpressionGrammarError",
+      "options": {
+        "module": "commonjs",
+        "noimplicitany": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

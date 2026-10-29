@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "emitCapturingThisInTupleDestructuring1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/emitCapturingThisInTupleDestructuring1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7010,
+            7041,
+            7017,
+            7041,
+            2493,
+            7017,
+            7041,
+            2493,
+            7017
+          ],
+          "file": "emitCapturingThisInTupleDestructuring1.ts"
+        }
+      ],
+      "name": "emitCapturingThisInTupleDestructuring1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

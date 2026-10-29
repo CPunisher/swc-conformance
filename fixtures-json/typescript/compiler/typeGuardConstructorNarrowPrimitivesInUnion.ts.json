@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "typeGuardConstructorNarrowPrimitivesInUnion.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeGuardConstructorNarrowPrimitivesInUnion.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454,
+            2454,
+            2454
+          ],
+          "file": "typeGuardConstructorNarrowPrimitivesInUnion.ts"
+        }
+      ],
+      "name": "typeGuardConstructorNarrowPrimitivesInUnion",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

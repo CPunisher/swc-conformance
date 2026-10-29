@@ -1,0 +1,202 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "subfolder/index.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        21,
+        28,
+        29
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsGeneratedNameCollisions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2441,
+            2441,
+            2725,
+            1216
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsGeneratedNameCollisions(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2441,
+            2441,
+            2725,
+            1216
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsGeneratedNameCollisions(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2441,
+            2441,
+            2725,
+            1216
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsGeneratedNameCollisions(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2441,
+            2441,
+            2725,
+            1216
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "index.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsGeneratedNameCollisions(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

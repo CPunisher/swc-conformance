@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "objectCreationExpressionInFunctionParameter.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/objectCreationExpressionInFunctionParameter.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            1128
+          ],
+          "file": "objectCreationExpressionInFunctionParameter.ts"
+        }
+      ],
+      "name": "objectCreationExpressionInFunctionParameter",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

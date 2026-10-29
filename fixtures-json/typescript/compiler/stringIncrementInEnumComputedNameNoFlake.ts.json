@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "stringIncrementInEnumComputedNameNoFlake.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/stringIncrementInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1164,
+            2356
+          ],
+          "file": "stringIncrementInEnumComputedNameNoFlake.ts"
+        }
+      ],
+      "name": "stringIncrementInEnumComputedNameNoFlake",
+      "options": {
+        "declaration": "true"
+      }
+    }
+  ]
+}

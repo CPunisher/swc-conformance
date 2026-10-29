@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "tslib.d.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "importhelpers": "true",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "compiler/importHelpersES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2354
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "tslib.d.ts"
+        }
+      ],
+      "name": "importHelpersES6",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "tslib.d.ts",
+        "importhelpers": "true",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

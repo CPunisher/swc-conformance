@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "typeGuardRedundancy.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeGuards/typeGuardRedundancy.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454,
+            2454,
+            2339,
+            2339,
+            2454,
+            2454,
+            2339,
+            2339,
+            2454,
+            2454,
+            2454,
+            2339,
+            2339,
+            2454,
+            2454,
+            2454,
+            2339,
+            2339
+          ],
+          "file": "typeGuardRedundancy.ts"
+        }
+      ],
+      "name": "typeGuardRedundancy",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "foo.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "foo.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "consumer.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/externalModuleResolution2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "externalModuleResolution2",
+      "options": {
+        "filename": "consumer.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

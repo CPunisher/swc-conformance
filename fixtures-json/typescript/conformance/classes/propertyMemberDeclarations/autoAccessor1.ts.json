@@ -1,0 +1,62 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "autoAccessor1.ts"
+    }
+  ],
+  "options": {
+    "noemitonerror": "true",
+    "target": "esnext, es2022, es2015, es5"
+  },
+  "path": "conformance/classes/propertyMemberDeclarations/autoAccessor1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "autoAccessor1(target=esnext)",
+      "options": {
+        "noemitonerror": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "autoAccessor1(target=es2022)",
+      "options": {
+        "noemitonerror": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "autoAccessor1(target=es2015)",
+      "options": {
+        "noemitonerror": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "autoAccessor1(target=es5)",
+      "options": {
+        "noemitonerror": "true",
+        "target": "es5"
+      }
+    }
+  ]
+}

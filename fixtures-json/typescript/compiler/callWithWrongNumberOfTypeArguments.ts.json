@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "callWithWrongNumberOfTypeArguments.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/callWithWrongNumberOfTypeArguments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2558,
+            2558
+          ],
+          "file": "callWithWrongNumberOfTypeArguments.ts"
+        }
+      ],
+      "name": "callWithWrongNumberOfTypeArguments",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

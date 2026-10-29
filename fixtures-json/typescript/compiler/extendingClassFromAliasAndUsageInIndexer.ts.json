@@ -1,0 +1,92 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "extendingClassFromAliasAndUsageInIndexer_backbone.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "extendingClassFromAliasAndUsageInIndexer_moduleA.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        16,
+        17,
+        18
+      ],
+      "name": "extendingClassFromAliasAndUsageInIndexer_moduleB.ts"
+    },
+    {
+      "lines": [
+        8,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "extendingClassFromAliasAndUsageInIndexer_main.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/extendingClassFromAliasAndUsageInIndexer.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "extendingClassFromAliasAndUsageInIndexer_main.ts"
+        },
+        {
+          "codes": [
+            2564
+          ],
+          "file": "extendingClassFromAliasAndUsageInIndexer_backbone.ts"
+        },
+        {
+          "codes": [],
+          "file": "extendingClassFromAliasAndUsageInIndexer_moduleA.ts"
+        },
+        {
+          "codes": [],
+          "file": "extendingClassFromAliasAndUsageInIndexer_moduleB.ts"
+        }
+      ],
+      "name": "extendingClassFromAliasAndUsageInIndexer",
+      "options": {
+        "filename": "extendingClassFromAliasAndUsageInIndexer_main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationImportEqualsSyntax.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            8002
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationImportEqualsSyntax",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

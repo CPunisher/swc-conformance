@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "emptyAssignmentPatterns01_ES5iterable.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "downleveliteration": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/destructuring/emptyAssignmentPatterns01_ES5iterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emptyAssignmentPatterns01_ES5iterable(target=es5)",
+      "options": {
+        "declaration": "true",
+        "downleveliteration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5102
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "emptyAssignmentPatterns01_ES5iterable.ts"
+        }
+      ],
+      "name": "emptyAssignmentPatterns01_ES5iterable(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "downleveliteration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

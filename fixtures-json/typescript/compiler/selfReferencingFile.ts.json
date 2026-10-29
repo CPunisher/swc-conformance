@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "selfReferencingFile.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/selfReferencingFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1006
+          ],
+          "file": "selfReferencingFile.ts"
+        }
+      ],
+      "name": "selfReferencingFile",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

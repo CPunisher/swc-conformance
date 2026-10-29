@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any",
+      "Symbol.iterator",
+      "Symbol",
+      "computed-property-names"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/iter-assigned-true-reject.js"
+}

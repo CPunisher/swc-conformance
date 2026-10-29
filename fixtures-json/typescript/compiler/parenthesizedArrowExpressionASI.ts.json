@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parenthesizedArrowExpressionASI.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parenthesizedArrowExpressionASI.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2352
+          ],
+          "file": "parenthesizedArrowExpressionASI.ts"
+        }
+      ],
+      "name": "parenthesizedArrowExpressionASI",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

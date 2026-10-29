@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "prefixPostfix.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/jsdocPrefixPostfixParsing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1005,
+            1005
+          ],
+          "file": "prefixPostfix.js"
+        }
+      ],
+      "name": "jsdocPrefixPostfixParsing",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "prefixPostfix.js",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

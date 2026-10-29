@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "coalesce-expression"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/coalesce/cannot-chain-tail-with-logical-and.js"
+}

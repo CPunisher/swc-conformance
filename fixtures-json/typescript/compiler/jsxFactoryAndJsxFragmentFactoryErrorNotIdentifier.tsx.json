@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "jsxFactoryAndJsxFragmentFactoryErrorNotIdentifier.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "jsxfactory": "h",
+    "jsxfragmentfactory": "234",
+    "target": "es2015"
+  },
+  "path": "compiler/jsxFactoryAndJsxFragmentFactoryErrorNotIdentifier.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18035
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            7026,
+            7026,
+            7026,
+            7026,
+            7026,
+            7026
+          ],
+          "file": "jsxFactoryAndJsxFragmentFactoryErrorNotIdentifier.tsx"
+        }
+      ],
+      "name": "jsxFactoryAndJsxFragmentFactoryErrorNotIdentifier",
+      "options": {
+        "jsx": "react",
+        "jsxfactory": "h",
+        "jsxfragmentfactory": "234",
+        "target": "es2015"
+      }
+    }
+  ]
+}

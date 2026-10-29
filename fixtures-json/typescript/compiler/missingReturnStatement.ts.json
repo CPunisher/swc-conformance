@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "missingReturnStatement.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingReturnStatement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2355
+          ],
+          "file": "missingReturnStatement.ts"
+        }
+      ],
+      "name": "missingReturnStatement",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

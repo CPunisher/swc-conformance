@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/noFlakyDiagnosticsTypeofImportTypeQualifier2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            2694
+          ],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "noFlakyDiagnosticsTypeofImportTypeQualifier2",
+      "options": {
+        "filename": "/a.ts"
+      }
+    }
+  ]
+}

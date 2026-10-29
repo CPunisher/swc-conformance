@@ -1,0 +1,257 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "subfolder/index.js"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        13
+      ],
+      "name": "subfolder/file.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17
+      ],
+      "name": "index.js"
+    },
+    {
+      "lines": [
+        15,
+        20,
+        21,
+        22
+      ],
+      "name": "file.js"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        24,
+        31,
+        32
+      ],
+      "name": "subfolder/package.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "outdir": "out",
+    "target": "es2022"
+  },
+  "path": "conformance/node/allowJs/nodeModulesAllowJsExportAssignment.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            8003
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/file.js"
+        },
+        {
+          "codes": [
+            1203,
+            8003
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2882,
+            2591
+          ],
+          "file": "file.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsExportAssignment(module=node16)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node16",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            8003
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/file.js"
+        },
+        {
+          "codes": [
+            1203,
+            8003
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2882,
+            2591
+          ],
+          "file": "file.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsExportAssignment(module=node18)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node18",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            8003
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/file.js"
+        },
+        {
+          "codes": [
+            1203,
+            8003
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2882,
+            2591
+          ],
+          "file": "file.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsExportAssignment(module=node20)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "node20",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            8003
+          ],
+          "file": "subfolder/index.js"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/file.js"
+        },
+        {
+          "codes": [
+            1203,
+            8003
+          ],
+          "file": "index.js"
+        },
+        {
+          "codes": [
+            2882,
+            2591
+          ],
+          "file": "file.js"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "subfolder/package.json"
+        }
+      ],
+      "name": "nodeModulesAllowJsExportAssignment(module=nodenext)",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "subfolder/package.json",
+        "module": "nodenext",
+        "outdir": "out",
+        "target": "es2022"
+      }
+    }
+  ]
+}

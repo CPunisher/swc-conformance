@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "newNonReferenceType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/newNonReferenceType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2693,
+            2693
+          ],
+          "file": "newNonReferenceType.ts"
+        }
+      ],
+      "name": "newNonReferenceType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

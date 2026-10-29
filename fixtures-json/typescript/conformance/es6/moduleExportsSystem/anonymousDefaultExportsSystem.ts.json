@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "system",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/moduleExportsSystem/anonymousDefaultExportsSystem.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "anonymousDefaultExportsSystem",
+      "options": {
+        "filename": "b.ts",
+        "module": "system",
+        "target": "ES6"
+      }
+    }
+  ]
+}

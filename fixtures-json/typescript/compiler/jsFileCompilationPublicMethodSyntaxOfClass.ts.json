@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationPublicMethodSyntaxOfClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            8009
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationPublicMethodSyntaxOfClass",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

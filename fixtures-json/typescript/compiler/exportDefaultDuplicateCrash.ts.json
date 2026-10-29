@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "exportDefaultDuplicateCrash.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDefaultDuplicateCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2323,
+            2528,
+            2323,
+            2528,
+            2307,
+            2528,
+            2307
+          ],
+          "file": "exportDefaultDuplicateCrash.ts"
+        }
+      ],
+      "name": "exportDefaultDuplicateCrash",
+      "options": {
+        "module": "commonjs",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

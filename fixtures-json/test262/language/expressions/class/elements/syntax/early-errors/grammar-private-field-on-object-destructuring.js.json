@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "features": [
+      "class-fields-private",
+      "destructuring-binding",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/grammar-private-field-on-object-destructuring.js"
+}

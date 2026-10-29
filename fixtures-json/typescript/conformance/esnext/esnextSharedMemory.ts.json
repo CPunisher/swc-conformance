@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "esnextSharedMemory.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "target": "es2015"
+  },
+  "path": "conformance/esnext/esnextSharedMemory.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "esnextSharedMemory",
+      "options": {
+        "lib": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

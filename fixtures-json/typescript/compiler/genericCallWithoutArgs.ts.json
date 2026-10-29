@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "genericCallWithoutArgs.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericCallWithoutArgs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1477,
+            1003
+          ],
+          "file": "genericCallWithoutArgs.ts"
+        }
+      ],
+      "name": "genericCallWithoutArgs",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

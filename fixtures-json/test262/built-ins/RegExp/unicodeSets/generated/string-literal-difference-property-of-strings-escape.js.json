@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-unicode-property-escapes",
+      "regexp-v-flag"
+    ],
+    "flags": [],
+    "includes": [
+      "regExpUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/unicodeSets/generated/string-literal-difference-property-of-strings-escape.js"
+}

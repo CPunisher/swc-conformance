@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "continueTarget1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/continueTarget1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1115
+          ],
+          "file": "continueTarget1.ts"
+        }
+      ],
+      "name": "continueTarget1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

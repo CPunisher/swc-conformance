@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "catchClauseWithInitializer1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/catchClauseWithInitializer1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1197
+          ],
+          "file": "catchClauseWithInitializer1.ts"
+        }
+      ],
+      "name": "catchClauseWithInitializer1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "arrayIterationLibES5TargetDifferent.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "nolib": "true,false",
+    "strict": "true",
+    "target": "es5,es2015,esnext"
+  },
+  "path": "compiler/arrayIterationLibES5TargetDifferent.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "nolib=true,target=es5",
+      "diagnostics": [],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=true,target=es5)",
+      "options": {
+        "lib": "es5",
+        "nolib": "true",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "nolib=true,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            5053,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "arrayIterationLibES5TargetDifferent.ts"
+        }
+      ],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=true,target=es2015)",
+      "options": {
+        "lib": "es5",
+        "nolib": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "nolib=true,target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            5053,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "arrayIterationLibES5TargetDifferent.ts"
+        }
+      ],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=true,target=esnext)",
+      "options": {
+        "lib": "es5",
+        "nolib": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "nolib=false,target=es5",
+      "diagnostics": [],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=false,target=es5)",
+      "options": {
+        "lib": "es5",
+        "nolib": "false",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "nolib=false,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2495,
+            2495
+          ],
+          "file": "arrayIterationLibES5TargetDifferent.ts"
+        }
+      ],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=false,target=es2015)",
+      "options": {
+        "lib": "es5",
+        "nolib": "false",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "nolib=false,target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2495,
+            2495
+          ],
+          "file": "arrayIterationLibES5TargetDifferent.ts"
+        }
+      ],
+      "name": "arrayIterationLibES5TargetDifferent(nolib=false,target=esnext)",
+      "options": {
+        "lib": "es5",
+        "nolib": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

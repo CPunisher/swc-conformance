@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "symbolType3.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/Symbols/symbolType3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2704,
+            2356,
+            2356,
+            2469,
+            2469,
+            2469,
+            2469
+          ],
+          "file": "symbolType3.ts"
+        }
+      ],
+      "name": "symbolType3",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

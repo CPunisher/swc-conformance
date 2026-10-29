@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "file1.js"
+    },
+    {
+      "lines": [
+        5,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "file2.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unmetTypeConstraintInJSDocImportCall.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "file1.js"
+        },
+        {
+          "codes": [
+            2344
+          ],
+          "file": "file2.js"
+        }
+      ],
+      "name": "unmetTypeConstraintInJSDocImportCall",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "file2.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

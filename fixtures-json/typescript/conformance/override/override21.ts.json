@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "override21.ts"
+    }
+  ],
+  "options": {
+    "noimplicitoverride": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/override/override21.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4113
+          ],
+          "file": "override21.ts"
+        }
+      ],
+      "name": "override21",
+      "options": {
+        "noimplicitoverride": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "declarationMapWithInlineSourceMap.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "declarationmap": "true",
+    "inlinesourcemap": "true"
+  },
+  "path": "compiler/declarationMapWithInlineSourceMap.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationMapWithInlineSourceMap",
+      "options": {
+        "declaration": "true",
+        "declarationmap": "true",
+        "inlinesourcemap": "true"
+      }
+    }
+  ]
+}

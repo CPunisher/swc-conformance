@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "other.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/externalModules/topLevelAwaitErrors.11.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1262
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "other.ts"
+        }
+      ],
+      "name": "topLevelAwaitErrors.11",
+      "options": {
+        "filename": "other.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

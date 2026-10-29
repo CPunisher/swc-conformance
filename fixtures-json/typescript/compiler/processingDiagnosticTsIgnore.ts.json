@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/processingDiagnosticTsIgnore.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      6,
+      17,
+      18,
+      19,
+      20
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "processingDiagnosticTsIgnore",
+      "options": {
+        "filename": "/tsconfig.json"
+      }
+    }
+  ]
+}

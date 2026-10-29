@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/typings/package.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/typings/package/index.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/typings",
+    "types": "package/"
+  },
+  "path": "compiler/typeReferenceDirectiveTrailingSlashName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/typings/package.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/typings/package/index.d.ts"
+        }
+      ],
+      "name": "typeReferenceDirectiveTrailingSlashName",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/typings",
+        "types": "package/"
+      }
+    }
+  ]
+}

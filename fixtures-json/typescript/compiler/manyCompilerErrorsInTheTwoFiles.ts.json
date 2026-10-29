@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "pretty": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/manyCompilerErrorsInTheTwoFiles.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18026,
+            1134,
+            18026,
+            1134,
+            18026,
+            18026,
+            2304,
+            1434,
+            2304,
+            1002,
+            1434,
+            2304,
+            1434,
+            2304,
+            2304
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2304,
+            2304,
+            2304
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "manyCompilerErrorsInTheTwoFiles",
+      "options": {
+        "filename": "b.ts",
+        "pretty": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

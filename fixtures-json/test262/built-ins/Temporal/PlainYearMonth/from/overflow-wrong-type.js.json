@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Temporal"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js",
+      "temporalHelpers.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Temporal/PlainYearMonth/from/overflow-wrong-type.js"
+}

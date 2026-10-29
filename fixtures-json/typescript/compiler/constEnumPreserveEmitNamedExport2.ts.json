@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "preserveconstenums": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/constEnumPreserveEmitNamedExport2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "constEnumPreserveEmitNamedExport2",
+      "options": {
+        "filename": "b.ts",
+        "preserveconstenums": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

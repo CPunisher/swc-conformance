@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/invokes-then-with-non-function.js"
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "C:\\a\\b\\c.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "C:\\a\\b\\d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/tripleSlashReferenceAbsoluteWindowsPath.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "tripleSlashReferenceAbsoluteWindowsPath",
+      "options": {
+        "filename": "C:\\a\\b\\d.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "duplicateVarAndImport2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateVarAndImport2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2440
+          ],
+          "file": "duplicateVarAndImport2.ts"
+        }
+      ],
+      "name": "duplicateVarAndImport2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

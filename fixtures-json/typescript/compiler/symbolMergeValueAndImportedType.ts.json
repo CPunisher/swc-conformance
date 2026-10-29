@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        9
+      ],
+      "name": "other.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015,dom",
+    "module": "commonjs",
+    "skiplibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/symbolMergeValueAndImportedType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "symbolMergeValueAndImportedType",
+      "options": {
+        "filename": "other.ts",
+        "lib": "es2015,dom",
+        "module": "commonjs",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

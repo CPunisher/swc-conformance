@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/private-method-cannot-escape-token.js"
+}

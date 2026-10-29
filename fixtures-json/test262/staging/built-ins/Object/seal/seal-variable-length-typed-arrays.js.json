@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "SharedArrayBuffer",
+      "ArrayBuffer",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "resizableArrayBufferUtils.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "staging/built-ins/Object/seal/seal-variable-length-typed-arrays.js"
+}

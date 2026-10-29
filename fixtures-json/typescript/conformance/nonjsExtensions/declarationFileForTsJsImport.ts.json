@@ -1,0 +1,365 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "file.d.js.ts"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "file.d.jsx.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "file.d.ts.ts"
+    },
+    {
+      "lines": [
+        28,
+        29
+      ],
+      "name": "file.d.tsx.ts"
+    },
+    {
+      "lines": [
+        31,
+        32
+      ],
+      "name": "file.d.mjs.ts"
+    },
+    {
+      "lines": [
+        34,
+        35
+      ],
+      "name": "file.d.cjs.ts"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "file.d.mts.ts"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "file.d.cts.ts"
+    },
+    {
+      "lines": [
+        43,
+        44
+      ],
+      "name": "file.d.d.ts.ts"
+    },
+    {
+      "lines": [
+        46,
+        47
+      ],
+      "name": "file.d.d.mts.ts"
+    },
+    {
+      "lines": [
+        49,
+        50
+      ],
+      "name": "file.d.d.cts.ts"
+    },
+    {
+      "lines": [
+        52,
+        53
+      ],
+      "name": "file.d.d.json.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true",
+    "module": "node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/nonjsExtensions/declarationFileForTsJsImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.js.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.jsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.tsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.json.ts"
+        }
+      ],
+      "name": "declarationFileForTsJsImport(module=node18)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "file.d.d.json.ts",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.js.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.jsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.tsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.json.ts"
+        }
+      ],
+      "name": "declarationFileForTsJsImport(module=node20)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "file.d.d.json.ts",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307,
+            2307
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.js.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.jsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.tsx.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cjs.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.ts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.mts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.cts.ts"
+        },
+        {
+          "codes": [],
+          "file": "file.d.d.json.ts"
+        }
+      ],
+      "name": "declarationFileForTsJsImport(module=nodenext)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "file.d.d.json.ts",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

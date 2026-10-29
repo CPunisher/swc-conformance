@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "esDecorators-classDeclaration-accessors-nonStaticPrivate.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "notypesandsymbols": "true",
+    "target": "esnext, es2022, es2015"
+  },
+  "path": "conformance/esDecorators/classDeclaration/accessors/esDecorators-classDeclaration-accessors-nonStaticPrivate.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-accessors-nonStaticPrivate(target=esnext)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-accessors-nonStaticPrivate(target=es2022)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "esDecorators-classDeclaration-accessors-nonStaticPrivate(target=es2015)",
+      "options": {
+        "noemithelpers": "true",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

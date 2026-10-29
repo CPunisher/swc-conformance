@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "noEmitHelpers.ts"
+    }
+  ],
+  "options": {
+    "noemithelpers": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/noEmitHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "noEmitHelpers",
+      "options": {
+        "noemithelpers": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Symbol",
+      "TypedArray"
+    ],
+    "flags": [],
+    "includes": [
+      "testTypedArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/TypedArray/prototype/includes/return-abrupt-tointeger-fromindex-symbol.js"
+}

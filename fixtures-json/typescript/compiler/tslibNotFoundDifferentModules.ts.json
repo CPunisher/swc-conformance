@@ -1,0 +1,119 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/package1/index.ts"
+    },
+    {
+      "lines": [
+        2,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/package1/node_modules/tslib/package.json"
+    },
+    {
+      "lines": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "name": "/package1/node_modules/tslib/tslib.d.ts"
+    },
+    {
+      "lines": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "name": "/package1/node_modules/tslib/tslib.js"
+    },
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/package2/index.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/tslibNotFoundDifferentModules.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/package1/index.ts"
+        },
+        {
+          "codes": [
+            2354
+          ],
+          "file": "/package2/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/tslib.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package1/node_modules/tslib/tslib.js"
+        }
+      ],
+      "name": "tslibNotFoundDifferentModules",
+      "options": {
+        "filename": "/package2/index.ts",
+        "target": "es2015"
+      }
+    }
+  ]
+}

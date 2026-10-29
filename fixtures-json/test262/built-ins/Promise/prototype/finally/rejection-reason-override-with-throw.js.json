@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/rejection-reason-override-with-throw.js"
+}

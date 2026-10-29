@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "arbitrary-module-namespace-names"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/export-expname-import-unpaired-surrogate.js"
+}

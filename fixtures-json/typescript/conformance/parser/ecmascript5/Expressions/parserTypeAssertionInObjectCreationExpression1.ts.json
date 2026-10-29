@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserTypeAssertionInObjectCreationExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Expressions/parserTypeAssertionInObjectCreationExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            2304,
+            2304
+          ],
+          "file": "parserTypeAssertionInObjectCreationExpression1.ts"
+        }
+      ],
+      "name": "parserTypeAssertionInObjectCreationExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

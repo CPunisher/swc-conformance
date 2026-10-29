@@ -1,0 +1,116 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "monorepo/pkg1/dist/index.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "monorepo/pkg1/dist/types.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "monorepo/pkg1/package.json"
+    },
+    {
+      "lines": [
+        2
+      ],
+      "name": "monorepo/pkg2/dist/index.d.ts"
+    },
+    {
+      "lines": [
+        28
+      ],
+      "name": "monorepo/pkg2/dist/types.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "monorepo/pkg2/package.json"
+    },
+    {
+      "lines": [
+        38
+      ],
+      "name": "monorepo/pkg3/src/index.ts"
+    },
+    {
+      "lines": [
+        40,
+        41,
+        42
+      ],
+      "name": "monorepo/pkg3/src/keys.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitReexportedSymlinkReference.ts",
+  "symlinks": {
+    "monorepo/pkg2/node_modules/@raymondfeng/pkg1": "monorepo/pkg1",
+    "monorepo/pkg3/node_modules/@raymondfeng/pkg2": "monorepo/pkg2"
+  },
+  "tsconfig": {
+    "lines": [
+      18,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      57
+    ],
+    "name": "monorepo/pkg3/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitReexportedSymlinkReference",
+      "options": {
+        "filename": "monorepo/pkg3/tsconfig.json",
+        "link": "monorepo/pkg2 -> monorepo/pkg3/node_modules/@raymondfeng/pkg2",
+        "target": "es2015"
+      }
+    }
+  ]
+}

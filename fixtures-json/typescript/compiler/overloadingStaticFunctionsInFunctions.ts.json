@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "overloadingStaticFunctionsInFunctions.ts"
+    }
+  ],
+  "options": {
+    "lib": "es5",
+    "target": "es2015"
+  },
+  "path": "compiler/overloadingStaticFunctionsInFunctions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1128,
+            2593,
+            1128,
+            2593,
+            2304,
+            1005,
+            2693,
+            1128,
+            2593,
+            2304,
+            1109,
+            2693,
+            1005
+          ],
+          "file": "overloadingStaticFunctionsInFunctions.ts"
+        }
+      ],
+      "name": "overloadingStaticFunctionsInFunctions",
+      "options": {
+        "lib": "es5",
+        "target": "es2015"
+      }
+    }
+  ]
+}

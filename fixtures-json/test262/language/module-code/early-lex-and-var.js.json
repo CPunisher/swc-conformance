@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "let"
+    ],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/early-lex-and-var.js"
+}

@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "templateStringInSwitchAndCaseES6.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/templates/templateStringInSwitchAndCaseES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2678,
+            2678
+          ],
+          "file": "templateStringInSwitchAndCaseES6.ts"
+        }
+      ],
+      "name": "templateStringInSwitchAndCaseES6",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

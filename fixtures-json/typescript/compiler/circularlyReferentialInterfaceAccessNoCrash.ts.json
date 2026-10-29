@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "circularlyReferentialInterfaceAccessNoCrash.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/circularlyReferentialInterfaceAccessNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4109,
+            4110,
+            4110
+          ],
+          "file": "circularlyReferentialInterfaceAccessNoCrash.ts"
+        }
+      ],
+      "name": "circularlyReferentialInterfaceAccessNoCrash",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

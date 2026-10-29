@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "regexp-v-flag",
+      "regexp-unicode-property-escapes"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/RegExp/prototype/exec/regexp-builtin-exec-v-u-flag.js"
+}

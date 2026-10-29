@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "unresolvedTypeAssertionSymbol.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/unresolvedTypeAssertionSymbol.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "unresolvedTypeAssertionSymbol.ts"
+        }
+      ],
+      "name": "unresolvedTypeAssertionSymbol",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

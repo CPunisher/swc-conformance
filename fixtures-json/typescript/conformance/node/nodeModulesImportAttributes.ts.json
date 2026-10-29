@@ -1,0 +1,145 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "otherc.cts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "package.json"
+    }
+  ],
+  "options": {
+    "module": "node16,node18,node20,nodenext",
+    "resolvejsonmodule": "true",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesImportAttributes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2823
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2823
+          ],
+          "file": "otherc.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesImportAttributes(module=node16)",
+      "options": {
+        "filename": "package.json",
+        "module": "node16",
+        "resolvejsonmodule": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2856
+          ],
+          "file": "otherc.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesImportAttributes(module=node18)",
+      "options": {
+        "filename": "package.json",
+        "module": "node18",
+        "resolvejsonmodule": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2856
+          ],
+          "file": "otherc.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesImportAttributes(module=node20)",
+      "options": {
+        "filename": "package.json",
+        "module": "node20",
+        "resolvejsonmodule": "true",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.ts"
+        },
+        {
+          "codes": [
+            2856
+          ],
+          "file": "otherc.cts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        }
+      ],
+      "name": "nodeModulesImportAttributes(module=nodenext)",
+      "options": {
+        "filename": "package.json",
+        "module": "nodenext",
+        "resolvejsonmodule": "true",
+        "target": "es2022"
+      }
+    }
+  ]
+}

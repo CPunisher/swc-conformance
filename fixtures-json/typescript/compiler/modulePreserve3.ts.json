@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/react/jsx-runtime.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14
+      ],
+      "name": "/index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx",
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "compiler/modulePreserve3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modulePreserve3",
+      "options": {
+        "filename": "/index.tsx",
+        "jsx": "react-jsx",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

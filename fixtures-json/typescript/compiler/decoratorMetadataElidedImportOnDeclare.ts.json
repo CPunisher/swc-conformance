@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "observable.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "index.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs, esnext",
+    "strict": "true",
+    "target": "es2020"
+  },
+  "path": "compiler/decoratorMetadataElidedImportOnDeclare.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [],
+      "name": "decoratorMetadataElidedImportOnDeclare(module=commonjs)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "index.ts",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [],
+      "name": "decoratorMetadataElidedImportOnDeclare(module=esnext)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "index.ts",
+        "module": "esnext",
+        "strict": "true",
+        "target": "es2020"
+      }
+    }
+  ]
+}

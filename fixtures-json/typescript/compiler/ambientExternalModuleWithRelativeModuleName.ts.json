@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "ambientExternalModuleWithRelativeModuleName.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/ambientExternalModuleWithRelativeModuleName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2436,
+            2436
+          ],
+          "file": "ambientExternalModuleWithRelativeModuleName.ts"
+        }
+      ],
+      "name": "ambientExternalModuleWithRelativeModuleName",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

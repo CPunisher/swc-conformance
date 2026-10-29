@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserConstructorDeclaration10.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ConstructorDeclarations/parserConstructorDeclaration10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1093
+          ],
+          "file": "parserConstructorDeclaration10.ts"
+        }
+      ],
+      "name": "parserConstructorDeclaration10",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

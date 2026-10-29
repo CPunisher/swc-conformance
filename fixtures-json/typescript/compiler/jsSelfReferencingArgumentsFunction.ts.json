@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsSelfReferencingArgumentsFunction.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsSelfReferencingArgumentsFunction",
+      "options": {
+        "allowjs": "true",
+        "filename": "foo.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

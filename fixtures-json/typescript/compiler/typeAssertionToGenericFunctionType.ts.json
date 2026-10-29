@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "typeAssertionToGenericFunctionType.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeAssertionToGenericFunctionType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345,
+            2554
+          ],
+          "file": "typeAssertionToGenericFunctionType.ts"
+        }
+      ],
+      "name": "typeAssertionToGenericFunctionType",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

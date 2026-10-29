@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/types.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/foo.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/importTag13.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1005,
+            1141
+          ],
+          "file": "/foo.js"
+        },
+        {
+          "codes": [],
+          "file": "/types.ts"
+        }
+      ],
+      "name": "importTag13",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "/foo.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

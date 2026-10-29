@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "typeofModuleWithoutExports.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/types/specifyingTypes/typeQueries/typeofModuleWithoutExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "typeofModuleWithoutExports.ts"
+        }
+      ],
+      "name": "typeofModuleWithoutExports",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

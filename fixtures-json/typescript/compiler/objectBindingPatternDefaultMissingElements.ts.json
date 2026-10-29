@@ -1,0 +1,111 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/unchecked.js"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/checked.js"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "name": "/main.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/objectBindingPatternDefaultMissingElements.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/unchecked.js"
+        },
+        {
+          "codes": [
+            7031,
+            7031
+          ],
+          "file": "/checked.js"
+        },
+        {
+          "codes": [
+            7031,
+            7031,
+            7031
+          ],
+          "file": "/main.ts"
+        }
+      ],
+      "name": "objectBindingPatternDefaultMissingElements",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "/main.ts",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

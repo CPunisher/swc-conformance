@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "exportedAliasedEnumTag.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/exportedAliasedEnumTag.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportedAliasedEnumTag",
+      "options": {
+        "allowjs": "true",
+        "filename": "exportedAliasedEnumTag.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

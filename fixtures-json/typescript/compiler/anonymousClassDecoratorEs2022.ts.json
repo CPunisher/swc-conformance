@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "anonymousClassDecoratorEs2022.ts"
+    }
+  ],
+  "options": {
+    "target": "es2022"
+  },
+  "path": "compiler/anonymousClassDecoratorEs2022.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1211,
+            2304
+          ],
+          "file": "anonymousClassDecoratorEs2022.ts"
+        }
+      ],
+      "name": "anonymousClassDecoratorEs2022",
+      "options": {
+        "target": "es2022"
+      }
+    }
+  ]
+}

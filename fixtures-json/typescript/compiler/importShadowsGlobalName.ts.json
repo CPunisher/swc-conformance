@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "Foo.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "Bar.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/importShadowsGlobalName.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "Bar.ts"
+        },
+        {
+          "codes": [],
+          "file": "Foo.ts"
+        }
+      ],
+      "name": "importShadowsGlobalName",
+      "options": {
+        "filename": "Bar.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

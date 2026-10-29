@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "overrideLateBindableIndexSignature1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "lib": "esnext",
+    "noimplicitoverride": "true, false",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/override/overrideLateBindableIndexSignature1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "noimplicitoverride=true",
+      "diagnostics": [
+        {
+          "codes": [
+            4127,
+            4127
+          ],
+          "file": "overrideLateBindableIndexSignature1.ts"
+        }
+      ],
+      "name": "overrideLateBindableIndexSignature1(noimplicitoverride=true)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "lib": "esnext",
+        "noimplicitoverride": "true",
+        "strict": "true",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "noimplicitoverride=false",
+      "diagnostics": [
+        {
+          "codes": [
+            4127,
+            4127
+          ],
+          "file": "overrideLateBindableIndexSignature1.ts"
+        }
+      ],
+      "name": "overrideLateBindableIndexSignature1(noimplicitoverride=false)",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "lib": "esnext",
+        "noimplicitoverride": "false",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

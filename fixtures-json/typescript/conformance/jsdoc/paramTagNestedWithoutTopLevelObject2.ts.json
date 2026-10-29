@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "paramTagNestedWithoutTopLevelObject2.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/paramTagNestedWithoutTopLevelObject2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            8032
+          ],
+          "file": "paramTagNestedWithoutTopLevelObject2.js"
+        }
+      ],
+      "name": "paramTagNestedWithoutTopLevelObject2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "paramTagNestedWithoutTopLevelObject2.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

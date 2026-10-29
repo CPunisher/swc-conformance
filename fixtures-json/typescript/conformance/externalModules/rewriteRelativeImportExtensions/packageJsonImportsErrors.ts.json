@@ -1,0 +1,155 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/foo.ts"
+    },
+    {
+      "lines": [
+        23,
+        24
+      ],
+      "name": "/internal/foo.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "node18,node20,nodenext",
+    "notypesandsymbols": "true",
+    "rewriterelativeimportextensions": "true",
+    "target": "es2022",
+    "verbatimmodulesyntax": "true"
+  },
+  "path": "conformance/externalModules/rewriteRelativeImportExtensions/packageJsonImportsErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "/internal/foo.ts"
+        },
+        {
+          "codes": [
+            2877
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "packageJsonImportsErrors(module=node18)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "node18",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "/internal/foo.ts"
+        },
+        {
+          "codes": [
+            2877
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "packageJsonImportsErrors(module=node20)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "node20",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/foo.ts"
+        },
+        {
+          "codes": [],
+          "file": "/internal/foo.ts"
+        },
+        {
+          "codes": [
+            2877
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "packageJsonImportsErrors(module=nodenext)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "nodenext",
+        "notypesandsymbols": "true",
+        "rewriterelativeimportextensions": "true",
+        "target": "es2022",
+        "verbatimmodulesyntax": "true"
+      }
+    }
+  ]
+}

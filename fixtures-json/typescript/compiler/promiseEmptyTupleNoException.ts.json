@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "promiseEmptyTupleNoException.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2017"
+  },
+  "path": "compiler/promiseEmptyTupleNoException.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "promiseEmptyTupleNoException.ts"
+        }
+      ],
+      "name": "promiseEmptyTupleNoException",
+      "options": {
+        "strict": "false",
+        "target": "es2017"
+      }
+    }
+  ]
+}

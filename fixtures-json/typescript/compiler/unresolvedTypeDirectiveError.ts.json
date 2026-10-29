@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "types": "node"
+  },
+  "path": "compiler/unresolvedTypeDirectiveError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2688,
+            2688,
+            2688
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "unresolvedTypeDirectiveError",
+      "options": {
+        "filename": "/a.ts",
+        "noimplicitreferences": "true",
+        "types": "node"
+      }
+    }
+  ]
+}

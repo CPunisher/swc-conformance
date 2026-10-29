@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.allSettled",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/allSettled/resolve-ignores-late-rejection-deferred.js"
+}

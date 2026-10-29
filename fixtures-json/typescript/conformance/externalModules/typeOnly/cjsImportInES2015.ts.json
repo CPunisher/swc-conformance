@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "/project/node_modules/cjs-dep/index.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10
+      ],
+      "name": "/project/index.ts"
+    }
+  ],
+  "options": {
+    "module": "es2015",
+    "moduleresolution": "bundler",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/cjsImportInES2015.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "cjsImportInES2015",
+      "options": {
+        "filename": "/project/index.ts",
+        "module": "es2015",
+        "moduleresolution": "bundler",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [],
+      "name": "src1/main.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/tsconfigRootdirInclude.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "name": "tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6059,
+            6059,
+            6059
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            1005
+          ],
+          "file": "tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "src1/main.ts"
+        }
+      ],
+      "name": "tsconfigRootdirInclude",
+      "options": {
+        "filename": "src1/main.ts"
+      }
+    }
+  ]
+}

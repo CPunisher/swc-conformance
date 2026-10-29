@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "async-functions",
+      "class-static-methods-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/async-private-method-static/await-as-label-identifier.js"
+}

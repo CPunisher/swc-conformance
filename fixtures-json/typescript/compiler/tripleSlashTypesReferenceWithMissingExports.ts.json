@@ -1,0 +1,163 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "node_modules/pkg/index.d.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "usage.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs,node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "compiler/tripleSlashTypesReferenceWithMissingExports.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/pkg/package.json"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "tripleSlashTypesReferenceWithMissingExports(module=commonjs)",
+      "options": {
+        "filename": "usage.ts",
+        "module": "commonjs",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/pkg/package.json"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "tripleSlashTypesReferenceWithMissingExports(module=node16)",
+      "options": {
+        "filename": "usage.ts",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/pkg/package.json"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "tripleSlashTypesReferenceWithMissingExports(module=node18)",
+      "options": {
+        "filename": "usage.ts",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/pkg/package.json"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "tripleSlashTypesReferenceWithMissingExports(module=node20)",
+      "options": {
+        "filename": "usage.ts",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "node_modules/pkg/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/pkg/package.json"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "usage.ts"
+        }
+      ],
+      "name": "tripleSlashTypesReferenceWithMissingExports(module=nodenext)",
+      "options": {
+        "filename": "usage.ts",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

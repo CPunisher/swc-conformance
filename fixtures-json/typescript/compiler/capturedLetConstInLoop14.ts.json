@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "capturedLetConstInLoop14.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/capturedLetConstInLoop14.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "capturedLetConstInLoop14(target=es5)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2403
+          ],
+          "file": "capturedLetConstInLoop14.ts"
+        }
+      ],
+      "name": "capturedLetConstInLoop14(target=es2015)",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

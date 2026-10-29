@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "constEnumBadPropertyNames.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/constEnumBadPropertyNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "constEnumBadPropertyNames.ts"
+        }
+      ],
+      "name": "constEnumBadPropertyNames",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

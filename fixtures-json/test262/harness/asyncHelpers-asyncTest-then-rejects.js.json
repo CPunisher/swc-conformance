@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "asyncHelpers.js",
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "harness/asyncHelpers-asyncTest-then-rejects.js"
+}

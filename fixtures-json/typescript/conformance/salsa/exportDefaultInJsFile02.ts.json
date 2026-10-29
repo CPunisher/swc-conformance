@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "myFile02.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "es2015",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/exportDefaultInJsFile02.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "myFile02.js"
+        }
+      ],
+      "name": "exportDefaultInJsFile02",
+      "options": {
+        "allowjs": "true",
+        "filename": "myFile02.js",
+        "module": "es2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

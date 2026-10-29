@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "main.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "importhelpers": "true",
+    "lib": "es2018",
+    "module": "commonjs",
+    "moduleresolution": "bundler",
+    "noemit": "true",
+    "outdir": "out",
+    "target": "es2018"
+  },
+  "path": "compiler/tslibInJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "main.js"
+        }
+      ],
+      "name": "tslibInJs",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "main.js",
+        "importhelpers": "true",
+        "lib": "es2018",
+        "module": "commonjs",
+        "moduleresolution": "bundler",
+        "noemit": "true",
+        "outdir": "out",
+        "target": "es2018"
+      }
+    }
+  ]
+}

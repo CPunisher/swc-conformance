@@ -1,33 +1,8 @@
-[package]
-name = "swc-conformance"
-version = "0.1.0"
-edition = "2024"
-rust-version = "1.99"
-
-[[bin]]
-name = "swc-conformance"
-path = "src/main.rs"
-test = false
-
-[dependencies]
-clap = { version = "4.6.6", features = ["derive"] }
-regex = "1"
-saphyr = "0.0.6"
-serde_json = "1"
-swc_experimental_allocator = "0.11.0"
-swc_experimental_ecma_ast = "0.11.0"
-swc_experimental_ecma_parser = { version = "0.11.0", features = ["unstable"] }
-swc_experimental_ecma_semantic = "0.11.0"
-walkdir = "2.5.0"
-v8 = "=152.2.0"
-
-tsrs_ast = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_compiler = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_core = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_diagnostics = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_testrunner = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_tsoptions = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
-tsrs_vfs = { git = "https://github.com/oxc-project/tsrs", rev = "677622d08ef3c12f370b9342623a41d156687c0c" }
+[workspace]
+members = ["crates/fixture-json", "crates/swc-conformance"]
+default-members = ["crates/swc-conformance"]
+exclude = ["vendor/swc_experimental_ecma_ast"]
+resolver = "3"
 
 [patch.crates-io]
 swc_experimental_ecma_ast = { path = "vendor/swc_experimental_ecma_ast" }

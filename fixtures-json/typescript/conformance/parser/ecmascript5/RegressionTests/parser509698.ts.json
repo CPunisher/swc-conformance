@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "parser509698.ts"
+    }
+  ],
+  "options": {
+    "nolib": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegressionTests/parser509698.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318,
+            2318
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "parser509698.ts"
+        }
+      ],
+      "name": "parser509698",
+      "options": {
+        "nolib": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

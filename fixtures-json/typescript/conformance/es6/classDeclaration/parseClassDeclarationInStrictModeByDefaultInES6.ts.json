@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "parseClassDeclarationInStrictModeByDefaultInES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/classDeclaration/parseClassDeclarationInStrictModeByDefaultInES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1210,
+            1210,
+            1210,
+            2322
+          ],
+          "file": "parseClassDeclarationInStrictModeByDefaultInES6.ts"
+        }
+      ],
+      "name": "parseClassDeclarationInStrictModeByDefaultInES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

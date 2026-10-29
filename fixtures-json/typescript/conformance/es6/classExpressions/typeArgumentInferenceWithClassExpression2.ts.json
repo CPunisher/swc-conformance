@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "typeArgumentInferenceWithClassExpression2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/es6/classExpressions/typeArgumentInferenceWithClassExpression2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564,
+            2322,
+            2322,
+            2571,
+            2345,
+            2345
+          ],
+          "file": "typeArgumentInferenceWithClassExpression2.ts"
+        }
+      ],
+      "name": "typeArgumentInferenceWithClassExpression2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

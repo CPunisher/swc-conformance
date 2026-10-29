@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "assignmentToParenthesizedExpression1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/assignmentToParenthesizedExpression1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2364,
+            2695
+          ],
+          "file": "assignmentToParenthesizedExpression1.ts"
+        }
+      ],
+      "name": "assignmentToParenthesizedExpression1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

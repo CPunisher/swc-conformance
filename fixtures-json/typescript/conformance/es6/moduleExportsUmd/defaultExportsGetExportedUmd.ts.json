@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "module": "umd",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/moduleExportsUmd/defaultExportsGetExportedUmd.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "defaultExportsGetExportedUmd",
+      "options": {
+        "filename": "b.ts",
+        "module": "umd",
+        "target": "ES6"
+      }
+    }
+  ]
+}

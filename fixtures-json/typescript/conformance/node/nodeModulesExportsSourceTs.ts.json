@@ -1,0 +1,201 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "index.ts"
+    },
+    {
+      "lines": [
+        4,
+        10
+      ],
+      "name": "node_modules/inner/index.ts"
+    },
+    {
+      "lines": [
+        4,
+        13,
+        14
+      ],
+      "name": "node_modules/inner/other.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "package.json"
+    },
+    {
+      "lines": [
+        16,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "node_modules/inner/package.json"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "node16,node18,node20,nodenext",
+    "target": "es2022"
+  },
+  "path": "conformance/node/nodeModulesExportsSourceTs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=node16",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2883
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSourceTs(module=node16)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node16",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node18",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2883
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSourceTs(module=node18)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node18",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=node20",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2883
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSourceTs(module=node20)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "node20",
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "module=nodenext",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2883
+          ],
+          "file": "index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/other.ts"
+        },
+        {
+          "codes": [],
+          "file": "package.json"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/inner/package.json"
+        }
+      ],
+      "name": "nodeModulesExportsSourceTs(module=nodenext)",
+      "options": {
+        "declaration": "true",
+        "filename": "node_modules/inner/package.json",
+        "module": "nodenext",
+        "target": "es2022"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "errorInUnnamedClassExpression.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/errorInUnnamedClassExpression.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2715,
+            1253,
+            7008
+          ],
+          "file": "errorInUnnamedClassExpression.ts"
+        }
+      ],
+      "name": "errorInUnnamedClassExpression",
+      "options": {
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

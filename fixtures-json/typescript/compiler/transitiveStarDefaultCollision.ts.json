@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "first.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "second.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "nested.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "barrel.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "target": "es2015"
+  },
+  "path": "compiler/transitiveStarDefaultCollision.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "transitiveStarDefaultCollision",
+      "options": {
+        "filename": "barrel.ts",
+        "module": "esnext",
+        "target": "es2015"
+      }
+    }
+  ]
+}

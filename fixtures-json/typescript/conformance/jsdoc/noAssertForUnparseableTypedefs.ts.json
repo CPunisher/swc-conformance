@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "bug26693.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/noAssertForUnparseableTypedefs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2591,
+            1003,
+            1005,
+            2307
+          ],
+          "file": "bug26693.js"
+        }
+      ],
+      "name": "noAssertForUnparseableTypedefs",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug26693.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

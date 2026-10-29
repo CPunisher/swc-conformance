@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "invalidUnicodeEscapeSequance4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/invalidUnicodeEscapeSequance4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1127
+          ],
+          "file": "invalidUnicodeEscapeSequance4.ts"
+        }
+      ],
+      "name": "invalidUnicodeEscapeSequance4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

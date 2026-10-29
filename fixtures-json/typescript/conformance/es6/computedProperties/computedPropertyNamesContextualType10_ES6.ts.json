@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "computedPropertyNamesContextualType10_ES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/computedProperties/computedPropertyNamesContextualType10_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322
+          ],
+          "file": "computedPropertyNamesContextualType10_ES6.ts"
+        }
+      ],
+      "name": "computedPropertyNamesContextualType10_ES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

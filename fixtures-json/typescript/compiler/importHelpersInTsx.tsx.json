@@ -1,0 +1,93 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "external.tsx"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        14,
+        15
+      ],
+      "name": "script.tsx"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "node_modules/tslib/index.d.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "importhelpers": "true",
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/importHelpersInTsx.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "importHelpersInTsx(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            7026
+          ],
+          "file": "external.tsx"
+        },
+        {
+          "codes": [
+            7026
+          ],
+          "file": "script.tsx"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/tslib/index.d.ts"
+        }
+      ],
+      "name": "importHelpersInTsx(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

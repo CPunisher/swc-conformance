@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {},
+  "path": "compiler/processingDiagnostic.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      5,
+      16,
+      17,
+      18,
+      19
+    ],
+    "name": "/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/tsconfig.json"
+        },
+        {
+          "codes": [],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [
+            2688
+          ],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/package.json"
+        }
+      ],
+      "name": "processingDiagnostic",
+      "options": {
+        "filename": "/tsconfig.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "uniqueSymbolsDeclarationsInJsErrors.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "lib": "esnext",
+    "outdir": "out",
+    "target": "esnext",
+    "usedefineforclassfields": "false"
+  },
+  "path": "conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJsErrors.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1331,
+            1331
+          ],
+          "file": "uniqueSymbolsDeclarationsInJsErrors.js"
+        }
+      ],
+      "name": "uniqueSymbolsDeclarationsInJsErrors",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "uniqueSymbolsDeclarationsInJsErrors.js",
+        "lib": "esnext",
+        "outdir": "out",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

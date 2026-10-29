@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "genericTypeAssertions1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/genericTypeAssertions1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322,
+            2322,
+            2322,
+            2352,
+            2352
+          ],
+          "file": "genericTypeAssertions1.ts"
+        }
+      ],
+      "name": "genericTypeAssertions1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

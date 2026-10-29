@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "/node_modules/dep/package.json"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/node_modules/dep/index.d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/node_modules/dep/index.mjs"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/index.mts"
+    }
+  ],
+  "options": {
+    "module": "nodenext",
+    "moduleresolution": "nodenext",
+    "noemit": "true",
+    "noimplicitreferences": "true",
+    "notypesandsymbols": "true",
+    "strict": "true",
+    "target": "es2022",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/conditionalExportsResolutionFallbackNodeNext.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "conditionalExportsResolutionFallbackNodeNext",
+      "options": {
+        "filename": "/index.mts",
+        "module": "nodenext",
+        "moduleresolution": "nodenext",
+        "noemit": "true",
+        "noimplicitreferences": "true",
+        "notypesandsymbols": "true",
+        "strict": "true",
+        "target": "es2022",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

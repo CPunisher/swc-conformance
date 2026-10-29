@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "unusedLocalsOnFunctionExpressionWithinFunctionDeclaration1.ts"
+    }
+  ],
+  "options": {
+    "nounusedlocals": "true",
+    "nounusedparameters": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/unusedLocalsOnFunctionExpressionWithinFunctionDeclaration1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6133,
+            6133,
+            6133,
+            6133,
+            6133,
+            6133
+          ],
+          "file": "unusedLocalsOnFunctionExpressionWithinFunctionDeclaration1.ts"
+        }
+      ],
+      "name": "unusedLocalsOnFunctionExpressionWithinFunctionDeclaration1",
+      "options": {
+        "nounusedlocals": "true",
+        "nounusedparameters": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "BigInt"
+    ],
+    "flags": [],
+    "includes": [
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/BigInt/prototype/toLocaleString/taint-Intl-NumberFormat.js"
+}

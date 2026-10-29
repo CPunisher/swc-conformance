@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "invalidThrowStatement.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/statements/throwStatements/invalidThrowStatement.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1109,
+            1128
+          ],
+          "file": "invalidThrowStatement.ts"
+        }
+      ],
+      "name": "invalidThrowStatement",
+      "options": {
+        "allowunreachablecode": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

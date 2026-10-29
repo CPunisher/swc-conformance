@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "es6ImportNamedImportNoExportMember_0.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "es6ImportNamedImport_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/es6ImportNamedImportNoExportMember.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportNamedImportNoExportMember_0.ts"
+        },
+        {
+          "codes": [
+            2305,
+            2305
+          ],
+          "file": "es6ImportNamedImport_1.ts"
+        }
+      ],
+      "name": "es6ImportNamedImportNoExportMember",
+      "options": {
+        "filename": "es6ImportNamedImport_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

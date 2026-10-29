@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "declarationEmitInvalidReferenceAllowJs.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitInvalidReferenceAllowJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            6231
+          ],
+          "file": "declarationEmitInvalidReferenceAllowJs.ts"
+        }
+      ],
+      "name": "declarationEmitInvalidReferenceAllowJs",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

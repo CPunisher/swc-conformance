@@ -1,0 +1,102 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/package.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/data.json"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/config.json"
+    }
+  ],
+  "options": {
+    "ignoredeprecations": "6.0",
+    "module": "esnext",
+    "notypesandsymbols": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/importAssertionsDeprecatedIgnored.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2880
+          ],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [
+            2880
+          ],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [
+            2880
+          ],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/data.json"
+        },
+        {
+          "codes": [],
+          "file": "/config.json"
+        }
+      ],
+      "name": "importAssertionsDeprecatedIgnored",
+      "options": {
+        "filename": "/config.json",
+        "ignoredeprecations": "6.0",
+        "module": "esnext",
+        "notypesandsymbols": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

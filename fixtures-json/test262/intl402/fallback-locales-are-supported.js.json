@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "testIntl.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/fallback-locales-are-supported.js"
+}

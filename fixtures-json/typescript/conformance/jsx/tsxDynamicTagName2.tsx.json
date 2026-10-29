@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "tsxDynamicTagName2.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/tsxDynamicTagName2.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339,
+            2339
+          ],
+          "file": "tsxDynamicTagName2.tsx"
+        }
+      ],
+      "name": "tsxDynamicTagName2",
+      "options": {
+        "jsx": "preserve",
+        "target": "es2015"
+      }
+    }
+  ]
+}

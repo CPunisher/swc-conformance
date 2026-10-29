@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Intl-enumeration",
+      "Intl.Locale",
+      "Array.prototype.includes"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "intl402/Intl/supportedValuesOf/collations.js"
+}

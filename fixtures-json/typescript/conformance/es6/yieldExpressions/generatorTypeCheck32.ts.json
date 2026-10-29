@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "generatorTypeCheck32.ts"
+    }
+  ],
+  "options": {
+    "target": "ES6"
+  },
+  "path": "conformance/es6/yieldExpressions/generatorTypeCheck32.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1163
+          ],
+          "file": "generatorTypeCheck32.ts"
+        }
+      ],
+      "name": "generatorTypeCheck32",
+      "options": {
+        "target": "ES6"
+      }
+    }
+  ]
+}

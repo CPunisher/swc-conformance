@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.any"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/any/resolved-sequence-extra-ticks.js"
+}

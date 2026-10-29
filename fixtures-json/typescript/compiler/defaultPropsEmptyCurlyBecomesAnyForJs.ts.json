@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "library.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "component.js"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "typed_component.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "./built",
+    "target": "es2015"
+  },
+  "path": "compiler/defaultPropsEmptyCurlyBecomesAnyForJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "defaultPropsEmptyCurlyBecomesAnyForJs",
+      "options": {
+        "allowjs": "true",
+        "filename": "typed_component.ts",
+        "module": "commonjs",
+        "outdir": "./built",
+        "target": "es2015"
+      }
+    }
+  ]
+}

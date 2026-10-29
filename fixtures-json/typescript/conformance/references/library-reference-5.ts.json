@@ -1,0 +1,91 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "/node_modules/foo/node_modules/alpha/index.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        17,
+        18
+      ],
+      "name": "/node_modules/bar/index.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/node_modules/bar/node_modules/alpha/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/src/root.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "types"
+  },
+  "path": "conformance/references/library-reference-5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/src/root.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/node_modules/alpha/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/bar/index.d.ts"
+        },
+        {
+          "codes": [
+            2403
+          ],
+          "file": "/node_modules/bar/node_modules/alpha/index.d.ts"
+        }
+      ],
+      "name": "library-reference-5",
+      "options": {
+        "currentdirectory": "/",
+        "filename": "/src/root.ts",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "types"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "module": "commonjs",
+    "outdir": "./out",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsdocFunctionClassPropertiesDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2683,
+            7009,
+            2683,
+            2683
+          ],
+          "file": "/a.js"
+        }
+      ],
+      "name": "jsdocFunctionClassPropertiesDeclaration",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "/a.js",
+        "module": "commonjs",
+        "outdir": "./out",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

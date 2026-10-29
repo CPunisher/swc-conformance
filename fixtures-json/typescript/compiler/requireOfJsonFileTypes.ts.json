@@ -1,0 +1,108 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "file1.ts"
+    },
+    {
+      "lines": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "name": "b.json"
+    },
+    {
+      "lines": [
+        40,
+        41
+      ],
+      "name": "c.json"
+    },
+    {
+      "lines": [
+        43,
+        44
+      ],
+      "name": "d.json"
+    },
+    {
+      "lines": [
+        46,
+        47
+      ],
+      "name": "e.json"
+    },
+    {
+      "lines": [
+        49,
+        50
+      ],
+      "name": "f.json"
+    },
+    {
+      "lines": [
+        52
+      ],
+      "name": "g.json"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "fullemitpaths": "true",
+    "module": "commonjs",
+    "outdir": "out/",
+    "resolvejsonmodule": "true",
+    "strictnullchecks": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/requireOfJsonFileTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "requireOfJsonFileTypes",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "g.json",
+        "fullemitpaths": "true",
+        "module": "commonjs",
+        "outdir": "out/",
+        "resolvejsonmodule": "true",
+        "strictnullchecks": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

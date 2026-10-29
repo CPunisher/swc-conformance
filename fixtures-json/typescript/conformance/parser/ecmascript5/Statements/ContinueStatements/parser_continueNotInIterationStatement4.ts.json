@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "parser_continueNotInIterationStatement4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/Statements/ContinueStatements/parser_continueNotInIterationStatement4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1107
+          ],
+          "file": "parser_continueNotInIterationStatement4.ts"
+        }
+      ],
+      "name": "parser_continueNotInIterationStatement4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

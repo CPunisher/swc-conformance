@@ -1,0 +1,66 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "typeOfThisInStaticMembers4.ts"
+    }
+  ],
+  "options": {
+    "target": "esnext, es2022, es6, es5",
+    "usedefineforclassfields": "true"
+  },
+  "path": "conformance/classes/members/instanceAndStaticMembers/typeOfThisInStaticMembers4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "typeOfThisInStaticMembers4(target=esnext)",
+      "options": {
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "typeOfThisInStaticMembers4(target=es2022)",
+      "options": {
+        "target": "es2022",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es6",
+      "diagnostics": [],
+      "name": "typeOfThisInStaticMembers4(target=es6)",
+      "options": {
+        "target": "es6",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "typeOfThisInStaticMembers4(target=es5)",
+      "options": {
+        "target": "es5",
+        "usedefineforclassfields": "true"
+      }
+    }
+  ]
+}

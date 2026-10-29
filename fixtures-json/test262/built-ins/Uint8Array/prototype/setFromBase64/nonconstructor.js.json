@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "uint8array-base64",
+      "TypedArray",
+      "Reflect.construct"
+    ],
+    "flags": [],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Uint8Array/prototype/setFromBase64/nonconstructor.js"
+}

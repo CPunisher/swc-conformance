@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "optional-chaining"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/optional-chaining/early-errors-tail-position-optchain-template-string.js"
+}

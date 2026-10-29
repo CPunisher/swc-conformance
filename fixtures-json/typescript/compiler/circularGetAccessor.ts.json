@@ -1,0 +1,55 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "circularGetAccessor.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true, false",
+    "target": "es2015"
+  },
+  "path": "compiler/circularGetAccessor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "noimplicitany=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2502
+          ],
+          "file": "circularGetAccessor.ts"
+        }
+      ],
+      "name": "circularGetAccessor(noimplicitany=true)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "noimplicitany=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2502
+          ],
+          "file": "circularGetAccessor.ts"
+        }
+      ],
+      "name": "circularGetAccessor(noimplicitany=false)",
+      "options": {
+        "noimplicitany": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

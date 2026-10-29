@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "ifElseWithStatements1.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/ifElseWithStatements1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "ifElseWithStatements1.ts"
+        }
+      ],
+      "name": "ifElseWithStatements1",
+      "options": {
+        "allowunreachablecode": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

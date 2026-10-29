@@ -1,0 +1,31 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "isolatedModulesPlainFile-ES6.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "target": "es6"
+  },
+  "path": "compiler/isolatedModulesPlainFile-ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "isolatedModulesPlainFile-ES6",
+      "options": {
+        "isolatedmodules": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

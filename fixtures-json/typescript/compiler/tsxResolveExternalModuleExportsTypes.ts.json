@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "/node_modules/@types/a/index.d.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "name": "/node_modules/@types/b/index.d.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "foo.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "module": "ES2015",
+    "target": "es2015"
+  },
+  "path": "compiler/tsxResolveExternalModuleExportsTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2305
+          ],
+          "file": "foo.tsx"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/a/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/@types/b/index.d.ts"
+        }
+      ],
+      "name": "tsxResolveExternalModuleExportsTypes",
+      "options": {
+        "filename": "foo.tsx",
+        "jsx": "preserve",
+        "module": "ES2015",
+        "target": "es2015"
+      }
+    }
+  ]
+}

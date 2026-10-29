@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "global.d.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12
+      ],
+      "name": "module.d.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "some_module.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20
+      ],
+      "name": "emits.ts"
+    }
+  ],
+  "options": {
+    "module": "esnext",
+    "strict": "true",
+    "target": "es2018"
+  },
+  "path": "compiler/umdGlobalAugmentationNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2451
+          ],
+          "file": "global.d.ts"
+        },
+        {
+          "codes": [
+            2451
+          ],
+          "file": "module.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "some_module.ts"
+        },
+        {
+          "codes": [],
+          "file": "emits.ts"
+        }
+      ],
+      "name": "umdGlobalAugmentationNoCrash",
+      "options": {
+        "filename": "emits.ts",
+        "module": "esnext",
+        "strict": "true",
+        "target": "es2018"
+      }
+    }
+  ]
+}

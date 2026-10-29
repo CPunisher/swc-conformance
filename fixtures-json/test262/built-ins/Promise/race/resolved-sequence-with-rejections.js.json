@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "compareArray.js",
+      "promiseHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/race/resolved-sequence-with-rejections.js"
+}

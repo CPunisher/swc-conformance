@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "missingCommaInTemplateStringsArray.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/missingCommaInTemplateStringsArray.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2796
+          ],
+          "file": "missingCommaInTemplateStringsArray.ts"
+        }
+      ],
+      "name": "missingCommaInTemplateStringsArray",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

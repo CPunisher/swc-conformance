@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5
+      ],
+      "name": "c:/test.d.ts"
+    },
+    {
+      "lines": [
+        7
+      ],
+      "name": "c:/app/main.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/keepImportsInDts1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "c:/test.d.ts"
+        },
+        {
+          "codes": [
+            2882
+          ],
+          "file": "c:/app/main.ts"
+        }
+      ],
+      "name": "keepImportsInDts1",
+      "options": {
+        "declaration": "true",
+        "filename": "c:/app/main.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

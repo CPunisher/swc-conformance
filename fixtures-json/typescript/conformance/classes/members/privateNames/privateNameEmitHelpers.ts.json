@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "main.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "node_modules/tslib/index.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "isolatedmodules": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameEmitHelpers.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2807,
+            2807
+          ],
+          "file": "main.ts"
+        },
+        {
+          "codes": [],
+          "file": "node_modules/tslib/index.d.ts"
+        }
+      ],
+      "name": "privateNameEmitHelpers",
+      "options": {
+        "filename": "node_modules/tslib/index.d.ts",
+        "importhelpers": "true",
+        "isolatedmodules": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "test1.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "test2.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "test3.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "removecomments": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/declarationEmitDetachedComment2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "declarationEmitDetachedComment2(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "test3.ts",
+        "module": "commonjs",
+        "removecomments": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "declarationEmitDetachedComment2(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "test3.ts",
+        "module": "commonjs",
+        "removecomments": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

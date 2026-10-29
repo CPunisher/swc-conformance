@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "functionsWithModifiersInBlocks1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionsWithModifiersInBlocks1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1184,
+            2393,
+            1183,
+            1184,
+            2393,
+            1184,
+            2393,
+            1183
+          ],
+          "file": "functionsWithModifiersInBlocks1.ts"
+        }
+      ],
+      "name": "functionsWithModifiersInBlocks1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

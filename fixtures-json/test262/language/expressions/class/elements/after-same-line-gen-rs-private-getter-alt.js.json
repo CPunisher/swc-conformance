@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class-fields-private",
+      "generators",
+      "class",
+      "class-fields-public"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/after-same-line-gen-rs-private-getter-alt.js"
+}

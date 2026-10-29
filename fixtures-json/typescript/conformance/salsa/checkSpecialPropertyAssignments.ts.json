@@ -1,0 +1,52 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "bug24252.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/checkSpecialPropertyAssignments.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2322,
+            2322
+          ],
+          "file": "bug24252.js"
+        }
+      ],
+      "name": "checkSpecialPropertyAssignments",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "bug24252.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

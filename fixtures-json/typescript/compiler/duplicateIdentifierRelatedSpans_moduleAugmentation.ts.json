@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/dir/a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/dir/b.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/duplicateIdentifierRelatedSpans_moduleAugmentation.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2451
+          ],
+          "file": "/dir/a.ts"
+        },
+        {
+          "codes": [
+            2451,
+            2451
+          ],
+          "file": "/dir/b.ts"
+        }
+      ],
+      "name": "duplicateIdentifierRelatedSpans_moduleAugmentation",
+      "options": {
+        "filename": "/dir/b.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

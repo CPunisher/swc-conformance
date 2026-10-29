@@ -1,0 +1,49 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "privateNameUncheckedJsOptionalChain.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "false",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameUncheckedJsOptionalChain.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18030,
+            18030
+          ],
+          "file": "privateNameUncheckedJsOptionalChain.js"
+        }
+      ],
+      "name": "privateNameUncheckedJsOptionalChain",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "false",
+        "filename": "privateNameUncheckedJsOptionalChain.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

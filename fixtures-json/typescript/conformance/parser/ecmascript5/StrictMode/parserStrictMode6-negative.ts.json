@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "parserStrictMode6-negative.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/StrictMode/parserStrictMode6-negative.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1100,
+            2630
+          ],
+          "file": "parserStrictMode6-negative.ts"
+        }
+      ],
+      "name": "parserStrictMode6-negative",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

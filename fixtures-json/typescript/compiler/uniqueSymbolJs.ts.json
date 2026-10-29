@@ -1,0 +1,50 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "./a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "strict": "false",
+    "target": "esnext"
+  },
+  "path": "compiler/uniqueSymbolJs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1268,
+            2749,
+            1005
+          ],
+          "file": "a.js"
+        }
+      ],
+      "name": "uniqueSymbolJs",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "./a.js",
+        "noemit": "true",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

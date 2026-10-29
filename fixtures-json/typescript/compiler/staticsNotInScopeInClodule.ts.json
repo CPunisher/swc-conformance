@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "staticsNotInScopeInClodule.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/staticsNotInScopeInClodule.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "staticsNotInScopeInClodule.ts"
+        }
+      ],
+      "name": "staticsNotInScopeInClodule",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

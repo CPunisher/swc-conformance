@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "db.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "service.ts"
+    }
+  ],
+  "options": {
+    "emitdecoratormetadata": "true",
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "noemithelpers": "true",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/decoratorMetadataWithImportDeclarationNameCollision7.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorMetadataWithImportDeclarationNameCollision7(target=es5)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "service.ts",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "db.ts"
+        },
+        {
+          "codes": [
+            2702,
+            2702
+          ],
+          "file": "service.ts"
+        }
+      ],
+      "name": "decoratorMetadataWithImportDeclarationNameCollision7(target=es2015)",
+      "options": {
+        "emitdecoratormetadata": "true",
+        "experimentaldecorators": "true",
+        "filename": "service.ts",
+        "module": "commonjs",
+        "noemithelpers": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

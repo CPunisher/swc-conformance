@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments05.ts"
+    }
+  ],
+  "options": {
+    "alwaysstrict": "true, false",
+    "ignoredeprecations": "6.0",
+    "strict": "false",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/arrowFunction/emitArrowFunctionWhenUsingArguments05.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "alwaysstrict=true,target=es5",
+      "diagnostics": [],
+      "name": "emitArrowFunctionWhenUsingArguments05(alwaysstrict=true,target=es5)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "alwaysstrict=true,target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            1100
+          ],
+          "file": "emitArrowFunctionWhenUsingArguments05.ts"
+        }
+      ],
+      "name": "emitArrowFunctionWhenUsingArguments05(alwaysstrict=true,target=es2015)",
+      "options": {
+        "alwaysstrict": "true",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "alwaysstrict=false,target=es5",
+      "diagnostics": [],
+      "name": "emitArrowFunctionWhenUsingArguments05(alwaysstrict=false,target=es5)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "alwaysstrict=false,target=es2015",
+      "diagnostics": [],
+      "name": "emitArrowFunctionWhenUsingArguments05(alwaysstrict=false,target=es2015)",
+      "options": {
+        "alwaysstrict": "false",
+        "ignoredeprecations": "6.0",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

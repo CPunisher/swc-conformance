@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "indexAt.ts"
+    }
+  ],
+  "options": {
+    "target": "es2021, es2022, esnext"
+  },
+  "path": "compiler/indexAt.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2021",
+      "diagnostics": [
+        {
+          "codes": [
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550,
+            2550
+          ],
+          "file": "indexAt.ts"
+        }
+      ],
+      "name": "indexAt(target=es2021)",
+      "options": {
+        "target": "es2021"
+      }
+    },
+    {
+      "config": "target=es2022",
+      "diagnostics": [],
+      "name": "indexAt(target=es2022)",
+      "options": {
+        "target": "es2022"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "indexAt(target=esnext)",
+      "options": {
+        "target": "esnext"
+      }
+    }
+  ]
+}

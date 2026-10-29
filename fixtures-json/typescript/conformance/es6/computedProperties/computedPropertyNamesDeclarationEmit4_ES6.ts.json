@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "computedPropertyNamesDeclarationEmit4_ES6.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es6"
+  },
+  "path": "conformance/es6/computedProperties/computedPropertyNamesDeclarationEmit4_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1170
+          ],
+          "file": "computedPropertyNamesDeclarationEmit4_ES6.ts"
+        }
+      ],
+      "name": "computedPropertyNamesDeclarationEmit4_ES6",
+      "options": {
+        "declaration": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

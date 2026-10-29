@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "multipleBaseInterfaesWithIncompatibleProperties2.ts"
+    }
+  ],
+  "options": {
+    "exactoptionalpropertytypes": "true, false",
+    "noemit": "true",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/multipleBaseInterfaesWithIncompatibleProperties2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "exactoptionalpropertytypes=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2320,
+            2320
+          ],
+          "file": "multipleBaseInterfaesWithIncompatibleProperties2.ts"
+        }
+      ],
+      "name": "multipleBaseInterfaesWithIncompatibleProperties2(exactoptionalpropertytypes=true)",
+      "options": {
+        "exactoptionalpropertytypes": "true",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "exactoptionalpropertytypes=false",
+      "diagnostics": [],
+      "name": "multipleBaseInterfaesWithIncompatibleProperties2(exactoptionalpropertytypes=false)",
+      "options": {
+        "exactoptionalpropertytypes": "false",
+        "noemit": "true",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

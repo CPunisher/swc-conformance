@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "missingIdentifierInEnumComputedNameNoFlake.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true"
+  },
+  "path": "compiler/missingIdentifierInEnumComputedNameNoFlake.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1164,
+            2304
+          ],
+          "file": "missingIdentifierInEnumComputedNameNoFlake.ts"
+        }
+      ],
+      "name": "missingIdentifierInEnumComputedNameNoFlake",
+      "options": {
+        "declaration": "true"
+      }
+    }
+  ]
+}

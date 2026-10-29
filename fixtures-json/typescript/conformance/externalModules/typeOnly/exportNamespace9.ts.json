@@ -1,0 +1,113 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "/a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "/b.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/c.ts"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "/d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "/e.ts"
+    },
+    {
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "name": "/f.ts"
+    },
+    {
+      "lines": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "/g.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/typeOnly/exportNamespace9.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/a.ts"
+        },
+        {
+          "codes": [],
+          "file": "/b.ts"
+        },
+        {
+          "codes": [],
+          "file": "/c.ts"
+        },
+        {
+          "codes": [],
+          "file": "/d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/e.ts"
+        },
+        {
+          "codes": [
+            2308
+          ],
+          "file": "/f.ts"
+        },
+        {
+          "codes": [
+            2749
+          ],
+          "file": "/g.ts"
+        }
+      ],
+      "name": "exportNamespace9",
+      "options": {
+        "filename": "/g.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

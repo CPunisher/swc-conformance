@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "VariableDeclaration6_es6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "conformance/es6/variableDeclarations/VariableDeclaration6_es6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            2304
+          ],
+          "file": "VariableDeclaration6_es6.ts"
+        }
+      ],
+      "name": "VariableDeclaration6_es6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

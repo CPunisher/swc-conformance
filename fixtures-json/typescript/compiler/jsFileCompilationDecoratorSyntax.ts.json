@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "experimentaldecorators": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationDecoratorSyntax.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationDecoratorSyntax",
+      "options": {
+        "allowjs": "true",
+        "experimentaldecorators": "true",
+        "filename": "a.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "jsDeclarationsNonIdentifierInferredNames.jsx"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "declaration": "true",
+    "jsx": "react",
+    "outdir": "./out",
+    "strict": "false",
+    "target": "es6"
+  },
+  "path": "conformance/jsdoc/declarations/jsDeclarationsNonIdentifierInferredNames.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsDeclarationsNonIdentifierInferredNames",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "declaration": "true",
+        "filename": "jsDeclarationsNonIdentifierInferredNames.jsx",
+        "jsx": "react",
+        "outdir": "./out",
+        "strict": "false",
+        "target": "es6"
+      }
+    }
+  ]
+}

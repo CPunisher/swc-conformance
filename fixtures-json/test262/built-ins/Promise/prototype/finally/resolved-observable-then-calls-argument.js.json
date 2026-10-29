@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "features": [
+      "Promise.prototype.finally",
+      "Reflect.construct",
+      "arrow-function"
+    ],
+    "flags": [
+      "async"
+    ],
+    "includes": [
+      "isConstructor.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/Promise/prototype/finally/resolved-observable-then-calls-argument.js"
+}

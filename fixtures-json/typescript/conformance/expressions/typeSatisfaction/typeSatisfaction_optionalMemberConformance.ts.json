@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "typeSatisfaction_optionalMemberConformance.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/expressions/typeSatisfaction/typeSatisfaction_optionalMemberConformance.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2339
+          ],
+          "file": "typeSatisfaction_optionalMemberConformance.ts"
+        }
+      ],
+      "name": "typeSatisfaction_optionalMemberConformance",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

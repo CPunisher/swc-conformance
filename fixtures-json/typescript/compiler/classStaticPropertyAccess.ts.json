@@ -1,0 +1,63 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "classStaticPropertyAccess.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/classStaticPropertyAccess.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "classStaticPropertyAccess(target=es5)",
+      "options": {
+        "strict": "true",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2576,
+            2576,
+            2576,
+            2341,
+            2339
+          ],
+          "file": "classStaticPropertyAccess.ts"
+        }
+      ],
+      "name": "classStaticPropertyAccess(target=es2015)",
+      "options": {
+        "strict": "true",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

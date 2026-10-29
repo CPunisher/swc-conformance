@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "/node_modules/foo/index.js"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "maxnodemodulejsdepth": "1",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/moduleResolution_explicitNodeModulesImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "moduleResolution_explicitNodeModulesImport",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/index.ts",
+        "maxnodemodulejsdepth": "1",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

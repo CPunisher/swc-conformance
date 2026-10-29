@@ -1,0 +1,147 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/exportT.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/exportValue.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "/exportEqualsT.ts"
+    },
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/node_modules/foo/bar.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "name": "/node_modules/baz/index.d.ts"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/reExportValueAsTypeOnly.ts"
+    },
+    {
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "name": "/user.ts"
+    }
+  ],
+  "options": {
+    "isolatedmodules": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/isolatedModulesReExportType.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1205,
+            1269,
+            1205,
+            1448
+          ],
+          "file": "/user.ts"
+        },
+        {
+          "codes": [],
+          "file": "/exportT.ts"
+        },
+        {
+          "codes": [],
+          "file": "/exportValue.ts"
+        },
+        {
+          "codes": [],
+          "file": "/exportEqualsT.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/bar.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/foo/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/baz/index.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/reExportValueAsTypeOnly.ts"
+        }
+      ],
+      "name": "isolatedModulesReExportType",
+      "options": {
+        "filename": "/user.ts",
+        "isolatedmodules": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

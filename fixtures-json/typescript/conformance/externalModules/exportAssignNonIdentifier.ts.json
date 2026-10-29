@@ -1,0 +1,117 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "foo1.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "foo2.ts"
+    },
+    {
+      "lines": [
+        10,
+        11
+      ],
+      "name": "foo3.ts"
+    },
+    {
+      "lines": [
+        13,
+        14
+      ],
+      "name": "foo4.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "foo5.ts"
+    },
+    {
+      "lines": [
+        19,
+        20
+      ],
+      "name": "foo6.ts"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "foo7.ts"
+    },
+    {
+      "lines": [
+        25,
+        26,
+        27
+      ],
+      "name": "foo8.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/externalModules/exportAssignNonIdentifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "foo1.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo2.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo3.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo4.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo5.ts"
+        },
+        {
+          "codes": [
+            1109
+          ],
+          "file": "foo6.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo7.ts"
+        },
+        {
+          "codes": [],
+          "file": "foo8.ts"
+        }
+      ],
+      "name": "exportAssignNonIdentifier",
+      "options": {
+        "filename": "foo8.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

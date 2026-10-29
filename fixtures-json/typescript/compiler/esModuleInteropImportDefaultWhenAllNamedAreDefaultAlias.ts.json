@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "esModuleInteropImportDefaultWhenAllNamedAreDefaultAlias.ts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/esModuleInteropImportDefaultWhenAllNamedAreDefaultAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "esModuleInteropImportDefaultWhenAllNamedAreDefaultAlias.ts"
+        }
+      ],
+      "name": "esModuleInteropImportDefaultWhenAllNamedAreDefaultAlias",
+      "options": {
+        "esmoduleinterop": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

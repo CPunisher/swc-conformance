@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "jsDocOptionality.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/signaturesUseJSDocForOptionalParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "signaturesUseJSDocForOptionalParameters",
+      "options": {
+        "allowjs": "true",
+        "filename": "jsDocOptionality.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

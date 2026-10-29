@@ -1,0 +1,68 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "types.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "testA.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "testB.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientDeclarationsPatterns_merging1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "types.ts"
+        },
+        {
+          "codes": [],
+          "file": "testA.ts"
+        },
+        {
+          "codes": [
+            2305
+          ],
+          "file": "testB.ts"
+        }
+      ],
+      "name": "ambientDeclarationsPatterns_merging1",
+      "options": {
+        "filename": "testB.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "/node_modules/@types/dopey/index.d.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "/foo/node_modules/@types/grumpy/index.d.ts"
+    },
+    {
+      "lines": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/foo/node_modules/@types/sneezy/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/foo/bar/a.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/src",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "target": "es2015",
+    "traceresolution": "true",
+    "types": "*"
+  },
+  "path": "compiler/typeRootsFromMultipleNodeModulesDirectories.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      29,
+      30
+    ],
+    "name": "/foo/bar/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeRootsFromMultipleNodeModulesDirectories",
+      "options": {
+        "currentdirectory": "/src",
+        "filename": "/foo/bar/tsconfig.json",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "target": "es2015",
+        "traceresolution": "true",
+        "types": "*"
+      }
+    }
+  ]
+}

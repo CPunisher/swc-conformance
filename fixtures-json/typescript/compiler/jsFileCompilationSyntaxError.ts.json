@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationSyntaxError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5055,
+            5055
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.js"
+        }
+      ],
+      "name": "jsFileCompilationSyntaxError",
+      "options": {
+        "allowjs": "true",
+        "filename": "a.js",
+        "target": "es2015"
+      }
+    }
+  ]
+}

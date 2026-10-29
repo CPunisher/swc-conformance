@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parseErrorDoubleCommaInCall.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/parseErrorDoubleCommaInCall.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1136
+          ],
+          "file": "parseErrorDoubleCommaInCall.ts"
+        }
+      ],
+      "name": "parseErrorDoubleCommaInCall",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

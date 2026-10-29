@@ -1,0 +1,89 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "preact.tsx"
+    },
+    {
+      "lines": [
+        5,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "react.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react-jsx,react-jsxdev",
+    "module": "commonjs",
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/jsxs/jsxJsxsCjsTransformKeyPropCustomImportPragma.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "react.tsx"
+        },
+        {
+          "codes": [
+            2875
+          ],
+          "file": "preact.tsx"
+        }
+      ],
+      "name": "jsxJsxsCjsTransformKeyPropCustomImportPragma(jsx=react-jsx)",
+      "options": {
+        "filename": "react.tsx",
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "react.tsx"
+        },
+        {
+          "codes": [
+            2875
+          ],
+          "file": "preact.tsx"
+        }
+      ],
+      "name": "jsxJsxsCjsTransformKeyPropCustomImportPragma(jsx=react-jsxdev)",
+      "options": {
+        "filename": "react.tsx",
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "renderer.d.ts"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "renderer2.d.ts"
+    },
+    {
+      "lines": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "name": "component.tsx"
+    },
+    {
+      "lines": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/jsx/inline/inlineJsxFactoryLocalTypeGlobalFallback.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "renderer.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "renderer2.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "component.tsx"
+        },
+        {
+          "codes": [
+            2741
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "inlineJsxFactoryLocalTypeGlobalFallback",
+      "options": {
+        "filename": "index.tsx",
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

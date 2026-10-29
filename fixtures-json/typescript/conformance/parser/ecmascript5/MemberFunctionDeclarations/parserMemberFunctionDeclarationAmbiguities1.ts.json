@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "parserMemberFunctionDeclarationAmbiguities1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/MemberFunctionDeclarations/parserMemberFunctionDeclarationAmbiguities1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2393,
+            2393,
+            2393,
+            2393,
+            2393,
+            2393,
+            2393,
+            2393
+          ],
+          "file": "parserMemberFunctionDeclarationAmbiguities1.ts"
+        }
+      ],
+      "name": "parserMemberFunctionDeclarationAmbiguities1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

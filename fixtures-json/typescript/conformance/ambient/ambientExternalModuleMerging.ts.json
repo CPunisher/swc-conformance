@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "ambientExternalModuleMerging_use.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "ambientExternalModuleMerging_declare.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "conformance/ambient/ambientExternalModuleMerging.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "ambientExternalModuleMerging",
+      "options": {
+        "filename": "ambientExternalModuleMerging_declare.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/private-name-early-error-method.js"
+}

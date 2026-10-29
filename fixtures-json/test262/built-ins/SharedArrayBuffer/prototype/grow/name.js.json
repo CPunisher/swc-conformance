@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "SharedArrayBuffer",
+      "resizable-arraybuffer"
+    ],
+    "flags": [],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "built-ins/SharedArrayBuffer/prototype/grow/name.js"
+}

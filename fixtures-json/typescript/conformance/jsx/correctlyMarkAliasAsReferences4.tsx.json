@@ -1,0 +1,58 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "declaration.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "0.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "moduleresolution": "bundler",
+    "skiplibcheck": "true",
+    "target": "es2017"
+  },
+  "path": "conformance/jsx/correctlyMarkAliasAsReferences4.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "0.tsx"
+        },
+        {
+          "codes": [],
+          "file": "declaration.d.ts"
+        }
+      ],
+      "name": "correctlyMarkAliasAsReferences4",
+      "options": {
+        "filename": "0.tsx",
+        "jsx": "react",
+        "moduleresolution": "bundler",
+        "skiplibcheck": "true",
+        "target": "es2017"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "parserEnum5.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/EnumDeclarations/parserEnum5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1357,
+            2452,
+            1357,
+            2452,
+            1357,
+            2452
+          ],
+          "file": "parserEnum5.ts"
+        }
+      ],
+      "name": "parserEnum5",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

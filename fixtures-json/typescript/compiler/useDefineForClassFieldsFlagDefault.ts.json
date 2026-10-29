@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "useDefineForClassFieldsFlagDefault.ts"
+    }
+  ],
+  "options": {
+    "target": "esNext,es2020"
+  },
+  "path": "compiler/useDefineForClassFieldsFlagDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=esnext",
+      "diagnostics": [],
+      "name": "useDefineForClassFieldsFlagDefault(target=esnext)",
+      "options": {
+        "target": "esNext"
+      }
+    },
+    {
+      "config": "target=es2020",
+      "diagnostics": [],
+      "name": "useDefineForClassFieldsFlagDefault(target=es2020)",
+      "options": {
+        "target": "es2020"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/a/node_modules/foo.d.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/a/b/c/d/e/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16
+      ],
+      "name": "/a/b/c/d/e/app.ts"
+    }
+  ],
+  "options": {
+    "moduleresolution": "nodenext",
+    "target": "es2015",
+    "traceresolution": "true"
+  },
+  "path": "compiler/nodeNextModuleResolution1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5110
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "/a/node_modules/foo.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/a/b/c/d/e/package.json"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "/a/b/c/d/e/app.ts"
+        }
+      ],
+      "name": "nodeNextModuleResolution1",
+      "options": {
+        "filename": "/a/b/c/d/e/app.ts",
+        "moduleresolution": "nodenext",
+        "target": "es2015",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

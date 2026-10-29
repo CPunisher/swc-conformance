@@ -1,0 +1,60 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4
+      ],
+      "name": "second.d.ts"
+    },
+    {
+      "lines": [
+        6,
+        7
+      ],
+      "name": "first.d.ts"
+    },
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "crash.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/reexportedMissingAlias.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2503
+          ],
+          "file": "second.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "first.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "crash.ts"
+        }
+      ],
+      "name": "reexportedMissingAlias",
+      "options": {
+        "filename": "crash.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

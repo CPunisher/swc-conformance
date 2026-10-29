@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "checkInheritedProperty.ts"
+    }
+  ],
+  "options": {
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/checkInheritedProperty.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2729
+          ],
+          "file": "checkInheritedProperty.ts"
+        }
+      ],
+      "name": "checkInheritedProperty",
+      "options": {
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

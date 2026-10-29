@@ -1,0 +1,82 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "/node_modules/pkg/index.d.ts"
+    },
+    {
+      "lines": [
+        25,
+        26
+      ],
+      "name": "/node_modules/pkg/index.d.cts"
+    },
+    {
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "/makeC.ts"
+    },
+    {
+      "lines": [
+        34,
+        35,
+        36
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "module": "esnext",
+    "moduleresolution": "bundler",
+    "notypesandsymbols": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitBundlerConditions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitBundlerConditions",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "filename": "/index.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

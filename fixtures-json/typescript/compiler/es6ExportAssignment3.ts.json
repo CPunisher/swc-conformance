@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5
+      ],
+      "name": "a.d.ts"
+    },
+    {
+      "lines": [
+        7,
+        8
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/es6ExportAssignment3.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "a.d.ts"
+        },
+        {
+          "codes": [
+            2307
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "es6ExportAssignment3",
+      "options": {
+        "filename": "b.ts",
+        "target": "es6"
+      }
+    }
+  ]
+}

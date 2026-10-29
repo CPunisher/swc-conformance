@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "def.js"
+    },
+    {
+      "lines": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "use.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/exportedEnumTypeAndValue.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "def.js"
+        },
+        {
+          "codes": [
+            2749
+          ],
+          "file": "use.js"
+        }
+      ],
+      "name": "exportedEnumTypeAndValue",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "use.js",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

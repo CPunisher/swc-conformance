@@ -1,0 +1,57 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs"
+  },
+  "path": "compiler/exportAssignmentMerging4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "b.ts"
+        },
+        {
+          "codes": [
+            2309
+          ],
+          "file": "a.ts"
+        }
+      ],
+      "name": "exportAssignmentMerging4",
+      "options": {
+        "declaration": "true",
+        "filename": "b.ts",
+        "module": "commonjs"
+      }
+    }
+  ]
+}

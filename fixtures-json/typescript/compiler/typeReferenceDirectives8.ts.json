@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/",
+  "files": [
+    {
+      "lines": [
+        12,
+        13
+      ],
+      "name": "/types/lib/index.d.ts"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "/mod1.ts"
+    },
+    {
+      "lines": [
+        20,
+        21
+      ],
+      "name": "/mod2.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/",
+    "declaration": "true",
+    "module": "commonjs",
+    "noimplicitreferences": "true",
+    "strict": "false",
+    "target": "es2015",
+    "traceresolution": "true",
+    "typeroots": "/types",
+    "types": "lib"
+  },
+  "path": "compiler/typeReferenceDirectives8.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typeReferenceDirectives8",
+      "options": {
+        "currentdirectory": "/",
+        "declaration": "true",
+        "filename": "/mod2.ts",
+        "module": "commonjs",
+        "noimplicitreferences": "true",
+        "strict": "false",
+        "target": "es2015",
+        "traceresolution": "true",
+        "typeroots": "/types",
+        "types": "lib"
+      }
+    }
+  ]
+}

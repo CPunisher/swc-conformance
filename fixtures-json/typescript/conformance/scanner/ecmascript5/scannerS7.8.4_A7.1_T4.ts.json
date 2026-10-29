@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "scannerS7.8.4_A7.1_T4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript5/scannerS7.8.4_A7.1_T4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1125
+          ],
+          "file": "scannerS7.8.4_A7.1_T4.ts"
+        }
+      ],
+      "name": "scannerS7.8.4_A7.1_T4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.d.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,dom",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "skipdefaultlibcheck": "false, true",
+    "skiplibcheck": "false, true",
+    "strictnullchecks": "true"
+  },
+  "path": "conformance/interfaces/declarationMerging/mergedInterfaceDefaultLibraryDiagnostics.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "skipdefaultlibcheck=false,skiplibcheck=false",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "index.d.ts"
+        }
+      ],
+      "name": "mergedInterfaceDefaultLibraryDiagnostics(skipdefaultlibcheck=false,skiplibcheck=false)",
+      "options": {
+        "filename": "index.d.ts",
+        "lib": "es6,dom",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skipdefaultlibcheck": "false",
+        "skiplibcheck": "false",
+        "strictnullchecks": "true"
+      }
+    },
+    {
+      "config": "skipdefaultlibcheck=false,skiplibcheck=true",
+      "diagnostics": [],
+      "name": "mergedInterfaceDefaultLibraryDiagnostics(skipdefaultlibcheck=false,skiplibcheck=true)",
+      "options": {
+        "filename": "index.d.ts",
+        "lib": "es6,dom",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skipdefaultlibcheck": "false",
+        "skiplibcheck": "true",
+        "strictnullchecks": "true"
+      }
+    },
+    {
+      "config": "skipdefaultlibcheck=true,skiplibcheck=false",
+      "diagnostics": [],
+      "name": "mergedInterfaceDefaultLibraryDiagnostics(skipdefaultlibcheck=true,skiplibcheck=false)",
+      "options": {
+        "filename": "index.d.ts",
+        "lib": "es6,dom",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skipdefaultlibcheck": "true",
+        "skiplibcheck": "false",
+        "strictnullchecks": "true"
+      }
+    },
+    {
+      "config": "skipdefaultlibcheck=true,skiplibcheck=true",
+      "diagnostics": [],
+      "name": "mergedInterfaceDefaultLibraryDiagnostics(skipdefaultlibcheck=true,skiplibcheck=true)",
+      "options": {
+        "filename": "index.d.ts",
+        "lib": "es6,dom",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "skipdefaultlibcheck": "true",
+        "skiplibcheck": "true",
+        "strictnullchecks": "true"
+      }
+    }
+  ]
+}

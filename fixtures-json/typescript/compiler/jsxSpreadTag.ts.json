@@ -1,0 +1,83 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/a.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "strict": "false",
+    "target": "es2015,esnext"
+  },
+  "path": "compiler/jsxSpreadTag.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "/a.tsx"
+        }
+      ],
+      "name": "jsxSpreadTag(target=es2015)",
+      "options": {
+        "filename": "/a.tsx",
+        "jsx": "react",
+        "strict": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "target=esnext",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304,
+            2304,
+            2304
+          ],
+          "file": "/a.tsx"
+        }
+      ],
+      "name": "jsxSpreadTag(target=esnext)",
+      "options": {
+        "filename": "/a.tsx",
+        "jsx": "react",
+        "strict": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3
+      ],
+      "name": "mappedTypeNoTypeNoCrash.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/mappedTypeNoTypeNoCrash.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304,
+            2304
+          ],
+          "file": "mappedTypeNoTypeNoCrash.ts"
+        }
+      ],
+      "name": "mappedTypeNoTypeNoCrash",
+      "options": {
+        "declaration": "true",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

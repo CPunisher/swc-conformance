@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "async-functions",
+      "class",
+      "class-fields-private"
+    ],
+    "flags": [
+      "generated"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/class/elements/syntax/early-errors/delete/method-delete-covered-err-delete-member-expression-private-method-async.js"
+}

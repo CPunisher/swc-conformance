@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "noImplicitAnyMissingSetAccessor.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/noImplicitAnyMissingSetAccessor.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "noImplicitAnyMissingSetAccessor(target=es5)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            7033
+          ],
+          "file": "noImplicitAnyMissingSetAccessor.ts"
+        }
+      ],
+      "name": "noImplicitAnyMissingSetAccessor(target=es2015)",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

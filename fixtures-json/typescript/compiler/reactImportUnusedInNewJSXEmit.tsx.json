@@ -1,0 +1,76 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "index.tsx"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "jsx": "react-jsx,react-jsxdev",
+    "module": "commonjs",
+    "nounusedlocals": "true",
+    "skiplibcheck": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/reactImportUnusedInNewJSXEmit.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "jsx=react-jsx",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "reactImportUnusedInNewJSXEmit(jsx=react-jsx)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.tsx",
+        "jsx": "react-jsx",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "jsx=react-jsxdev",
+      "diagnostics": [
+        {
+          "codes": [
+            6133
+          ],
+          "file": "index.tsx"
+        }
+      ],
+      "name": "reactImportUnusedInNewJSXEmit(jsx=react-jsxdev)",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "index.tsx",
+        "jsx": "react-jsxdev",
+        "module": "commonjs",
+        "nounusedlocals": "true",
+        "skiplibcheck": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

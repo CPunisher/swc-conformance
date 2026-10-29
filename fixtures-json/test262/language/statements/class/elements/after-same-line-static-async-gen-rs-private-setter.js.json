@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "class-fields-private",
+      "class",
+      "class-fields-public",
+      "async-iteration"
+    ],
+    "flags": [
+      "generated",
+      "async"
+    ],
+    "includes": [
+      "propertyHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/statements/class/elements/after-same-line-static-async-gen-rs-private-setter.js"
+}

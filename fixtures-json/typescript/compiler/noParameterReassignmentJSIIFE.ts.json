@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "index.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "noimplicitthis": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/noParameterReassignmentJSIIFE.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2740
+          ],
+          "file": "index.js"
+        }
+      ],
+      "name": "noParameterReassignmentJSIIFE",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "index.js",
+        "noemit": "true",
+        "noimplicitthis": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

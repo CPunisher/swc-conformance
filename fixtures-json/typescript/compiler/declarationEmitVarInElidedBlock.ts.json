@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "declarationEmitVarInElidedBlock.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitVarInElidedBlock.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4025
+          ],
+          "file": "declarationEmitVarInElidedBlock.ts"
+        }
+      ],
+      "name": "declarationEmitVarInElidedBlock",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

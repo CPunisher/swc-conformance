@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "TypeError"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/eval-rqstd-abrupt.js"
+}

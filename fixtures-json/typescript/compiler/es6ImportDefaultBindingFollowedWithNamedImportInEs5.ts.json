@@ -1,0 +1,80 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_0.ts"
+    },
+    {
+      "lines": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_1.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/es6ImportDefaultBindingFollowedWithNamedImportInEs5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportInEs5(target=es5)",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_1.ts",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_0.ts"
+        },
+        {
+          "codes": [
+            1192,
+            1192,
+            1192,
+            1192,
+            1192,
+            1192
+          ],
+          "file": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_1.ts"
+        }
+      ],
+      "name": "es6ImportDefaultBindingFollowedWithNamedImportInEs5(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "filename": "es6ImportDefaultBindingFollowedWithNamedImportInEs5_1.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

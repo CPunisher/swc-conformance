@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "undefinedTypeAssignment4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/undefinedTypeAssignment4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2414,
+            2564,
+            2427,
+            2397
+          ],
+          "file": "undefinedTypeAssignment4.ts"
+        }
+      ],
+      "name": "undefinedTypeAssignment4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

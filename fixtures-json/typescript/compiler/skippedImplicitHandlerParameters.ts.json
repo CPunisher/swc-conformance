@@ -1,0 +1,61 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "handlers.d.ts"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "main.ts"
+    }
+  ],
+  "options": {
+    "skiplibcheck": "true",
+    "strict": "false",
+    "strictfunctiontypes": "true"
+  },
+  "path": "compiler/skippedImplicitHandlerParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "handlers.d.ts"
+        },
+        {
+          "codes": [
+            2345,
+            2345
+          ],
+          "file": "main.ts"
+        }
+      ],
+      "name": "skippedImplicitHandlerParameters",
+      "options": {
+        "filename": "main.ts",
+        "skiplibcheck": "true",
+        "strict": "false",
+        "strictfunctiontypes": "true"
+      }
+    }
+  ]
+}

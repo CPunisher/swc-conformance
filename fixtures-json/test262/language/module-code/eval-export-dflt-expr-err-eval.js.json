@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "features": [],
+    "flags": [
+      "module"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "runtime",
+      "type": "Test262Error"
+    }
+  },
+  "modes": [
+    "module"
+  ],
+  "path": "language/module-code/eval-export-dflt-expr-err-eval.js"
+}

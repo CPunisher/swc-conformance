@@ -1,0 +1,56 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "es5-system.ts"
+    }
+  ],
+  "options": {
+    "declaration": "false",
+    "module": "system",
+    "sourcemap": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "compiler/es5-system.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "es5-system(target=es5)",
+      "options": {
+        "declaration": "false",
+        "module": "system",
+        "sourcemap": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "es5-system(target=es2015)",
+      "options": {
+        "declaration": "false",
+        "module": "system",
+        "sourcemap": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}

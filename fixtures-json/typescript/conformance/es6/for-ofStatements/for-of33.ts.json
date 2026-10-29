@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "for-of33.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/for-ofStatements/for-of33.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7023,
+            7022
+          ],
+          "file": "for-of33.ts"
+        }
+      ],
+      "name": "for-of33",
+      "options": {
+        "noimplicitany": "true",
+        "target": "ES6"
+      }
+    }
+  ]
+}

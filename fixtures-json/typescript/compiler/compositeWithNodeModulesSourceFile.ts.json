@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/foo/node_modules/myModule/index.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "/foo/test.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/compositeWithNodeModulesSourceFile.ts",
+  "symlinks": {},
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "name": "/foo/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "compositeWithNodeModulesSourceFile",
+      "options": {
+        "filename": "/foo/test.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

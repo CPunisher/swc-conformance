@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "functionExpressionInWithBlock.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/functionExpressionInWithBlock.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1101,
+            2410
+          ],
+          "file": "functionExpressionInWithBlock.ts"
+        }
+      ],
+      "name": "functionExpressionInWithBlock",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

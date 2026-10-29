@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "typeArgumentsOnFunctionsWithNoTypeParameters.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/typeArgumentsOnFunctionsWithNoTypeParameters.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2558,
+            2345,
+            2345,
+            2558,
+            2345,
+            2345
+          ],
+          "file": "typeArgumentsOnFunctionsWithNoTypeParameters.ts"
+        }
+      ],
+      "name": "typeArgumentsOnFunctionsWithNoTypeParameters",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

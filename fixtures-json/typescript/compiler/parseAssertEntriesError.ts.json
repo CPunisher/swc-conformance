@@ -1,0 +1,118 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "/node_modules/pkg/package.json"
+    },
+    {
+      "lines": [
+        15
+      ],
+      "name": "/node_modules/pkg/import.d.ts"
+    },
+    {
+      "lines": [
+        17
+      ],
+      "name": "/node_modules/pkg/require.d.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "nodenext",
+    "noimplicitreferences": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/parseAssertEntriesError.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1340,
+            1478,
+            2695,
+            1005,
+            1128,
+            1128,
+            1128,
+            1128,
+            2304,
+            1005,
+            2339,
+            1340,
+            1478,
+            2695,
+            1005,
+            1128,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128,
+            1340,
+            1478,
+            2695,
+            1005,
+            1128,
+            1128,
+            1128,
+            1128,
+            1434,
+            2304,
+            1128
+          ],
+          "file": "/index.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/import.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/pkg/require.d.ts"
+        }
+      ],
+      "name": "parseAssertEntriesError",
+      "options": {
+        "declaration": "true",
+        "filename": "/index.ts",
+        "module": "nodenext",
+        "noimplicitreferences": "true",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

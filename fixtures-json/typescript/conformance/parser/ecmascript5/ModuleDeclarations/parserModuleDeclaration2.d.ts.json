@@ -1,0 +1,35 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserModuleDeclaration2.d.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ModuleDeclarations/parserModuleDeclaration2.d.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1046
+          ],
+          "file": "parserModuleDeclaration2.d.ts"
+        }
+      ],
+      "name": "parserModuleDeclaration2.d",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

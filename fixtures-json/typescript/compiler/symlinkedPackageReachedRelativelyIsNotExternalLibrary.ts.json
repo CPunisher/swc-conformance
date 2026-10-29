@@ -1,0 +1,73 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        9,
+        10,
+        11
+      ],
+      "name": "/src/a.ts"
+    },
+    {
+      "lines": [
+        13,
+        14,
+        15
+      ],
+      "name": "/src/b.ts"
+    },
+    {
+      "lines": [
+        18,
+        19
+      ],
+      "name": "/src/lib/package.json"
+    },
+    {
+      "lines": [
+        22,
+        23
+      ],
+      "name": "/src/lib/index.ts"
+    },
+    {
+      "lines": [
+        26,
+        27
+      ],
+      "name": "/src/lib/util.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/symlinkedPackageReachedRelativelyIsNotExternalLibrary.ts",
+  "symlinks": {
+    "/src/node_modules/lib/index.ts": "/src/lib/index.ts",
+    "/src/node_modules/lib/package.json": "/src/lib/package.json",
+    "/src/node_modules/lib/util.ts": "/src/lib/util.ts"
+  },
+  "tsconfig": {
+    "lines": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "name": "/src/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "symlinkedPackageReachedRelativelyIsNotExternalLibrary",
+      "options": {
+        "filename": "/src/lib/util.ts",
+        "notypesandsymbols": "true",
+        "symlink": "/src/node_modules/lib/util.ts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "name": "unreachableFlowAfterThrowingForHead2.ts"
+    }
+  ],
+  "options": {
+    "allowunreachablecode": "true, false",
+    "noemit": "true",
+    "strict": "true"
+  },
+  "path": "compiler/unreachableFlowAfterThrowingForHead2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowunreachablecode=true",
+      "diagnostics": [],
+      "name": "unreachableFlowAfterThrowingForHead2(allowunreachablecode=true)",
+      "options": {
+        "allowunreachablecode": "true",
+        "noemit": "true",
+        "strict": "true"
+      }
+    },
+    {
+      "config": "allowunreachablecode=false",
+      "diagnostics": [
+        {
+          "codes": [
+            7027,
+            7027
+          ],
+          "file": "unreachableFlowAfterThrowingForHead2.ts"
+        }
+      ],
+      "name": "unreachableFlowAfterThrowingForHead2(allowunreachablecode=false)",
+      "options": {
+        "allowunreachablecode": "false",
+        "noemit": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

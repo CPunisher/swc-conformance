@@ -1,0 +1,111 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "sideEffectImports1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs,nodenext,preserve",
+    "nouncheckedsideeffectimports": "true,false",
+    "target": "es2015"
+  },
+  "path": "compiler/sideEffectImports1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=commonjs,nouncheckedsideeffectimports=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2882,
+            2882,
+            2882
+          ],
+          "file": "sideEffectImports1.ts"
+        }
+      ],
+      "name": "sideEffectImports1(module=commonjs,nouncheckedsideeffectimports=true)",
+      "options": {
+        "module": "commonjs",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=commonjs,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports1(module=commonjs,nouncheckedsideeffectimports=false)",
+      "options": {
+        "module": "commonjs",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=nodenext,nouncheckedsideeffectimports=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2882,
+            2882,
+            2882
+          ],
+          "file": "sideEffectImports1.ts"
+        }
+      ],
+      "name": "sideEffectImports1(module=nodenext,nouncheckedsideeffectimports=true)",
+      "options": {
+        "module": "nodenext",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=nodenext,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports1(module=nodenext,nouncheckedsideeffectimports=false)",
+      "options": {
+        "module": "nodenext",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve,nouncheckedsideeffectimports=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2882,
+            2882,
+            2882
+          ],
+          "file": "sideEffectImports1.ts"
+        }
+      ],
+      "name": "sideEffectImports1(module=preserve,nouncheckedsideeffectimports=true)",
+      "options": {
+        "module": "preserve",
+        "nouncheckedsideeffectimports": "true",
+        "target": "es2015"
+      }
+    },
+    {
+      "config": "module=preserve,nouncheckedsideeffectimports=false",
+      "diagnostics": [],
+      "name": "sideEffectImports1(module=preserve,nouncheckedsideeffectimports=false)",
+      "options": {
+        "module": "preserve",
+        "nouncheckedsideeffectimports": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

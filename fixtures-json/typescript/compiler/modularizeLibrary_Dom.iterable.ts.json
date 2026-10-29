@@ -1,0 +1,33 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "modularizeLibrary_Dom.iterable.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6,dom,dom.iterable",
+    "skiplibcheck": "true",
+    "target": "es6"
+  },
+  "path": "compiler/modularizeLibrary_Dom.iterable.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "modularizeLibrary_Dom.iterable",
+      "options": {
+        "lib": "es6,dom,dom.iterable",
+        "skiplibcheck": "true",
+        "target": "es6"
+      }
+    }
+  ]
+}

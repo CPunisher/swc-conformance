@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "importDeclRefereingExternalModuleWithNoResolve.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "noresolve": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/importDeclRefereingExternalModuleWithNoResolve.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307,
+            2664,
+            2307
+          ],
+          "file": "importDeclRefereingExternalModuleWithNoResolve.ts"
+        }
+      ],
+      "name": "importDeclRefereingExternalModuleWithNoResolve",
+      "options": {
+        "module": "commonjs",
+        "noresolve": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

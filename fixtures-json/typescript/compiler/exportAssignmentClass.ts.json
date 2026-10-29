@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "exportAssignmentClass_A.ts"
+    },
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "name": "exportAssignmentClass_B.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportAssignmentClass.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2307
+          ],
+          "file": "exportAssignmentClass_B.ts"
+        },
+        {
+          "codes": [],
+          "file": "exportAssignmentClass_A.ts"
+        }
+      ],
+      "name": "exportAssignmentClass",
+      "options": {
+        "filename": "exportAssignmentClass_B.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

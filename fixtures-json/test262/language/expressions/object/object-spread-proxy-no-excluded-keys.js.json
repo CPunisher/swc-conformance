@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "object-spread",
+      "Proxy",
+      "Symbol"
+    ],
+    "flags": [],
+    "includes": [
+      "compareArray.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/object-spread-proxy-no-excluded-keys.js"
+}

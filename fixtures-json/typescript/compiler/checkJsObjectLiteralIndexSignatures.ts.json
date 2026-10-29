@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "file.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "noimplicitany": "true",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/checkJsObjectLiteralIndexSignatures.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "checkJsObjectLiteralIndexSignatures",
+      "options": {
+        "allowjs": "true",
+        "filename": "file.js",
+        "noimplicitany": "true",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

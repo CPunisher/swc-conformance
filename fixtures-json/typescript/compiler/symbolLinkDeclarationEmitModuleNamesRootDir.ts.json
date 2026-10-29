@@ -1,0 +1,79 @@
+{
+  "currentDirectory": "/monorepo/core",
+  "files": [
+    {
+      "lines": [
+        2
+      ],
+      "name": "/monorepo/context/src/value-promise.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/monorepo/context/src/bindingkey.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "/monorepo/context/index.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25
+      ],
+      "name": "/monorepo/core/src/application.ts"
+    },
+    {
+      "lines": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "name": "/monorepo/core/src/usage.ts"
+    }
+  ],
+  "options": {
+    "currentdirectory": "/monorepo/core"
+  },
+  "path": "compiler/symbolLinkDeclarationEmitModuleNamesRootDir.ts",
+  "symlinks": {
+    "/monorepo/core/node_modules/@loopback/context": "/monorepo/context"
+  },
+  "tsconfig": {
+    "lines": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "name": "/monorepo/core/tsconfig.json"
+  },
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "symbolLinkDeclarationEmitModuleNamesRootDir",
+      "options": {
+        "currentdirectory": "/monorepo/core",
+        "filename": "/monorepo/core/src/usage.ts",
+        "link": "/monorepo/context -> /monorepo/core/node_modules/@loopback/context"
+      }
+    }
+  ]
+}

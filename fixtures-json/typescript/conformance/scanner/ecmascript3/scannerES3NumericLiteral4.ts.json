@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "scannerES3NumericLiteral4.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/scanner/ecmascript3/scannerES3NumericLiteral4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1124
+          ],
+          "file": "scannerES3NumericLiteral4.ts"
+        }
+      ],
+      "name": "scannerES3NumericLiteral4",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

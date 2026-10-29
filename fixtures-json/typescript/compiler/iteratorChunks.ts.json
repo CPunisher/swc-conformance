@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "iteratorChunks.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015, esnext.iterator",
+    "strict": "true",
+    "target": "esnext"
+  },
+  "path": "compiler/iteratorChunks.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2345
+          ],
+          "file": "iteratorChunks.ts"
+        }
+      ],
+      "name": "iteratorChunks",
+      "options": {
+        "lib": "es2015, esnext.iterator",
+        "strict": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

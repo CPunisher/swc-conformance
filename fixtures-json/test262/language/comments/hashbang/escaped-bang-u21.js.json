@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "hashbang"
+    ],
+    "flags": [
+      "raw"
+    ],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy"
+  ],
+  "path": "language/comments/hashbang/escaped-bang-u21.js"
+}

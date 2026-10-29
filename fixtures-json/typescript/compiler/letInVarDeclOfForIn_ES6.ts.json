@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "letInVarDeclOfForIn_ES6.ts"
+    }
+  ],
+  "options": {
+    "target": "es6"
+  },
+  "path": "compiler/letInVarDeclOfForIn_ES6.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1212,
+            1212
+          ],
+          "file": "letInVarDeclOfForIn_ES6.ts"
+        }
+      ],
+      "name": "letInVarDeclOfForIn_ES6",
+      "options": {
+        "target": "es6"
+      }
+    }
+  ]
+}

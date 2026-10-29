@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "declaration": "true",
+    "lib": "es2015",
+    "outdir": "./out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationAwaitModifier.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "jsFileCompilationAwaitModifier",
+      "options": {
+        "allowjs": "true",
+        "declaration": "true",
+        "filename": "a.js",
+        "lib": "es2015",
+        "outdir": "./out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

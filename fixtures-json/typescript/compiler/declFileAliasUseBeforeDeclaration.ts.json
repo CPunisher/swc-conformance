@@ -1,0 +1,40 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "declFileAliasUseBeforeDeclaration_foo.ts"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "declFileAliasUseBeforeDeclaration_test.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/declFileAliasUseBeforeDeclaration.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declFileAliasUseBeforeDeclaration",
+      "options": {
+        "declaration": "true",
+        "filename": "declFileAliasUseBeforeDeclaration_test.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

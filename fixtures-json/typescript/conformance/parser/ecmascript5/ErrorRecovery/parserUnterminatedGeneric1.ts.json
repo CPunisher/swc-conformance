@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserUnterminatedGeneric1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/parserUnterminatedGeneric1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2552,
+            2552,
+            1005
+          ],
+          "file": "parserUnterminatedGeneric1.ts"
+        }
+      ],
+      "name": "parserUnterminatedGeneric1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

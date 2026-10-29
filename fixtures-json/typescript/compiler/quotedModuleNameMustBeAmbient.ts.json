@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3
+      ],
+      "name": "quotedModuleNameMustBeAmbient.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/quotedModuleNameMustBeAmbient.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1035
+          ],
+          "file": "quotedModuleNameMustBeAmbient.ts"
+        }
+      ],
+      "name": "quotedModuleNameMustBeAmbient",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

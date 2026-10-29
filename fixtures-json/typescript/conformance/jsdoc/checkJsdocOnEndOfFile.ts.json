@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "eof.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/jsdoc/checkJsdocOnEndOfFile.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "eof.js"
+        }
+      ],
+      "name": "checkJsdocOnEndOfFile",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "eof.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

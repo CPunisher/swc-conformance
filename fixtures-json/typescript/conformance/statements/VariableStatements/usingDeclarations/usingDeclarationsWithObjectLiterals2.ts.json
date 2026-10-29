@@ -1,0 +1,69 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "usingDeclarationsWithObjectLiterals2.ts"
+    }
+  ],
+  "options": {
+    "lib": "esnext",
+    "module": "esnext",
+    "noemit": "true",
+    "noimplicitany": "true, false",
+    "strictnullchecks": "false",
+    "target": "esnext"
+  },
+  "path": "conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsWithObjectLiterals2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "noimplicitany=true",
+      "diagnostics": [
+        {
+          "codes": [
+            7018,
+            7018
+          ],
+          "file": "usingDeclarationsWithObjectLiterals2.ts"
+        }
+      ],
+      "name": "usingDeclarationsWithObjectLiterals2(noimplicitany=true)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "strictnullchecks": "false",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "noimplicitany=false",
+      "diagnostics": [],
+      "name": "usingDeclarationsWithObjectLiterals2(noimplicitany=false)",
+      "options": {
+        "lib": "esnext",
+        "module": "esnext",
+        "noemit": "true",
+        "noimplicitany": "false",
+        "strictnullchecks": "false",
+        "target": "esnext"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/globals/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/globals/index.d.ts"
+    },
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/foo/package.json"
+    },
+    {
+      "lines": [
+        7,
+        8,
+        9
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/foo/index.d.ts"
+    },
+    {
+      "lines": [
+        24,
+        25
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/globals/package.json"
+    },
+    {
+      "lines": [
+        27,
+        28
+      ],
+      "name": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/globals/index.d.ts"
+    },
+    {
+      "lines": [
+        30,
+        31
+      ],
+      "name": "/node_modules/.pnpm/bar@1.0.0/node_modules/bar/package.json"
+    },
+    {
+      "lines": [
+        33,
+        34,
+        35
+      ],
+      "name": "/node_modules/.pnpm/bar@1.0.0/node_modules/bar/index.d.ts"
+    },
+    {
+      "lines": [
+        37,
+        38
+      ],
+      "name": "/node_modules/.pnpm/baz@1.0.0/node_modules/baz/package.json"
+    },
+    {
+      "lines": [
+        33,
+        41,
+        42,
+        45,
+        48,
+        51
+      ],
+      "name": "/node_modules/.pnpm/baz@1.0.0/node_modules/baz/index.d.ts"
+    },
+    {
+      "lines": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "name": "/src/index.ts"
+    }
+  ],
+  "options": {
+    "noimplicitreferences": "true",
+    "strict": "true"
+  },
+  "path": "compiler/packageDeduplicationDuplicateGlobals.ts",
+  "symlinks": {
+    "/node_modules/.pnpm/bar@1.0.0/node_modules/foo": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/foo",
+    "/node_modules/.pnpm/bar@1.0.0/node_modules/globals": "/node_modules/.pnpm/foo@1.0.0+globals@1.0.0/node_modules/globals",
+    "/node_modules/.pnpm/baz@1.0.0/node_modules/foo": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/foo",
+    "/node_modules/.pnpm/baz@1.0.0/node_modules/globals": "/node_modules/.pnpm/foo@1.0.0+globals@2.0.0/node_modules/globals",
+    "/node_modules/bar": "/node_modules/.pnpm/bar@1.0.0/node_modules/bar",
+    "/node_modules/baz": "/node_modules/.pnpm/baz@1.0.0/node_modules/baz"
+  },
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "packageDeduplicationDuplicateGlobals",
+      "options": {
+        "filename": "/src/index.ts",
+        "link": "/node_modules/.pnpm/baz@1.0.0/node_modules/baz -> /node_modules/baz",
+        "noimplicitreferences": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

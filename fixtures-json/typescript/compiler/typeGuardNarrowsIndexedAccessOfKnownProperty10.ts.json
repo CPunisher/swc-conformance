@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "typeGuardNarrowsIndexedAccessOfKnownProperty10.ts"
+    }
+  ],
+  "options": {
+    "strict": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/typeGuardNarrowsIndexedAccessOfKnownProperty10.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2448
+          ],
+          "file": "typeGuardNarrowsIndexedAccessOfKnownProperty10.ts"
+        }
+      ],
+      "name": "typeGuardNarrowsIndexedAccessOfKnownProperty10",
+      "options": {
+        "strict": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

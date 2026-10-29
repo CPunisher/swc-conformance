@@ -1,0 +1,45 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "profiler.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13
+      ],
+      "name": "main.mts"
+    }
+  ],
+  "options": {
+    "esmoduleinterop": "true",
+    "module": "nodenext",
+    "strict": "true",
+    "target": "es2024"
+  },
+  "path": "compiler/dynamicDeclarationDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "dynamicDeclarationDefault",
+      "options": {
+        "esmoduleinterop": "true",
+        "filename": "main.mts",
+        "module": "nodenext",
+        "strict": "true",
+        "target": "es2024"
+      }
+    }
+  ]
+}

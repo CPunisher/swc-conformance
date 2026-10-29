@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "bug25149.js"
+    },
+    {
+      "lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "name": "alsoFails.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "lib": "esnext",
+    "noemit": "true",
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "conformance/es6/yieldExpressions/yieldExpressionInControlFlow.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            7057
+          ],
+          "file": "bug25149.js"
+        },
+        {
+          "codes": [
+            7034,
+            2322,
+            7005
+          ],
+          "file": "alsoFails.ts"
+        }
+      ],
+      "name": "yieldExpressionInControlFlow",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "alsoFails.ts",
+        "lib": "esnext",
+        "noemit": "true",
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

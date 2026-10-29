@@ -1,0 +1,64 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "override13.ts"
+    }
+  ],
+  "options": {
+    "noimplicitoverride": "true",
+    "target": "esnext"
+  },
+  "path": "conformance/override/override13.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            4114,
+            4114,
+            4114,
+            4114
+          ],
+          "file": "override13.ts"
+        }
+      ],
+      "name": "override13",
+      "options": {
+        "noimplicitoverride": "true",
+        "target": "esnext"
+      }
+    }
+  ]
+}

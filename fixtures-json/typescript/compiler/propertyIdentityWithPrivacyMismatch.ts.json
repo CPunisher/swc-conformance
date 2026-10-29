@@ -1,0 +1,72 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "propertyIdentityWithPrivacyMismatch_0.ts"
+    },
+    {
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "name": "propertyIdentityWithPrivacyMismatch_1.ts"
+    }
+  ],
+  "options": {
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/propertyIdentityWithPrivacyMismatch.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2403,
+            2403
+          ],
+          "file": "propertyIdentityWithPrivacyMismatch_1.ts"
+        },
+        {
+          "codes": [],
+          "file": "propertyIdentityWithPrivacyMismatch_0.ts"
+        }
+      ],
+      "name": "propertyIdentityWithPrivacyMismatch",
+      "options": {
+        "filename": "propertyIdentityWithPrivacyMismatch_1.ts",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

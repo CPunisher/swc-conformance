@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "async-iteration"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/private-name-early-error-async-gen.js"
+}

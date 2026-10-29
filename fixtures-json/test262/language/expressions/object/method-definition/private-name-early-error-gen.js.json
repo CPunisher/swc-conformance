@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "features": [
+      "class-methods-private",
+      "generators"
+    ],
+    "flags": [],
+    "includes": [],
+    "negative": {
+      "phase": "parse",
+      "type": "SyntaxError"
+    }
+  },
+  "modes": [
+    "sloppy",
+    "strict"
+  ],
+  "path": "language/expressions/object/method-definition/private-name-early-error-gen.js"
+}

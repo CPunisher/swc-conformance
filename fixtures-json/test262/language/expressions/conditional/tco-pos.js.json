@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "features": [
+      "tail-call-optimization"
+    ],
+    "flags": [
+      "onlyStrict"
+    ],
+    "includes": [
+      "tcoHelper.js"
+    ],
+    "negative": null
+  },
+  "modes": [
+    "strict"
+  ],
+  "path": "language/expressions/conditional/tco-pos.js"
+}

@@ -1,0 +1,34 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "declarationEmitDuplicateParameterDestructuring.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "emitdeclarationonly": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/declarationEmitDuplicateParameterDestructuring.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "declarationEmitDuplicateParameterDestructuring",
+      "options": {
+        "declaration": "true",
+        "emitdeclarationonly": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

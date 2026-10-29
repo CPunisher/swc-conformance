@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "optionalChainingInLoop.ts"
+    }
+  ],
+  "options": {
+    "lib": "es2015",
+    "notypesandsymbols": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/expressions/optionalChaining/optionalChainingInLoop.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "optionalChainingInLoop(target=es5)",
+      "options": {
+        "lib": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "optionalChainingInLoop(target=es2015)",
+      "options": {
+        "lib": "es2015",
+        "notypesandsymbols": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parser519458.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/RegressionTests/parser519458.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2503,
+            2591,
+            1005
+          ],
+          "file": "parser519458.ts"
+        }
+      ],
+      "name": "parser519458",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

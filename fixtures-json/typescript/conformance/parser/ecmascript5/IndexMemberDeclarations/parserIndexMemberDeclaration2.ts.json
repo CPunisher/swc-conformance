@@ -1,0 +1,37 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "parserIndexMemberDeclaration2.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/IndexMemberDeclarations/parserIndexMemberDeclaration2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2564
+          ],
+          "file": "parserIndexMemberDeclaration2.ts"
+        }
+      ],
+      "name": "parserIndexMemberDeclaration2",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

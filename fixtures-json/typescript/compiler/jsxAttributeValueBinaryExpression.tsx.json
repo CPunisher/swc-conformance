@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4
+      ],
+      "name": "jsxAttributeValueBinaryExpression.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "preserve",
+    "notypesandsymbols": "true"
+  },
+  "path": "compiler/jsxAttributeValueBinaryExpression.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2657,
+            2304,
+            7026,
+            1003,
+            7026,
+            1109,
+            1109
+          ],
+          "file": "jsxAttributeValueBinaryExpression.tsx"
+        }
+      ],
+      "name": "jsxAttributeValueBinaryExpression",
+      "options": {
+        "jsx": "preserve",
+        "notypesandsymbols": "true"
+      }
+    }
+  ]
+}

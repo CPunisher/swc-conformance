@@ -1,0 +1,96 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6
+      ],
+      "name": "/node_modules/mdast-util-to-string/package.json"
+    },
+    {
+      "lines": [
+        8,
+        9
+      ],
+      "name": "/node_modules/mdast-util-to-string/index.d.ts"
+    },
+    {
+      "lines": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "name": "/index.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve, esnext",
+    "moduleresolution": "bundler",
+    "target": "esnext"
+  },
+  "path": "compiler/esmNoSynthesizedDefault.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "module=preserve",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/mdast-util-to-string/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mdast-util-to-string/index.d.ts"
+        },
+        {
+          "codes": [
+            1192,
+            2339
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "esmNoSynthesizedDefault(module=preserve)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "preserve",
+        "moduleresolution": "bundler",
+        "target": "esnext"
+      }
+    },
+    {
+      "config": "module=esnext",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "/node_modules/mdast-util-to-string/package.json"
+        },
+        {
+          "codes": [],
+          "file": "/node_modules/mdast-util-to-string/index.d.ts"
+        },
+        {
+          "codes": [
+            1192,
+            2339
+          ],
+          "file": "/index.ts"
+        }
+      ],
+      "name": "esmNoSynthesizedDefault(module=esnext)",
+      "options": {
+        "filename": "/index.ts",
+        "module": "esnext",
+        "moduleresolution": "bundler",
+        "target": "esnext"
+      }
+    }
+  ]
+}

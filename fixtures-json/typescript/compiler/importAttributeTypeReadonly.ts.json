@@ -1,0 +1,81 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "/readonlyError.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "/otherModifierError.d.ts"
+    },
+    {
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "/valid.d.ts"
+    }
+  ],
+  "options": {
+    "module": "preserve",
+    "noemit": "true",
+    "notypesandsymbols": "true",
+    "strict": "true"
+  },
+  "path": "compiler/importAttributeTypeReadonly.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1558,
+            1558
+          ],
+          "file": "/readonlyError.d.ts"
+        },
+        {
+          "codes": [
+            1070
+          ],
+          "file": "/otherModifierError.d.ts"
+        },
+        {
+          "codes": [],
+          "file": "/valid.d.ts"
+        }
+      ],
+      "name": "importAttributeTypeReadonly",
+      "options": {
+        "filename": "/valid.d.ts",
+        "module": "preserve",
+        "noemit": "true",
+        "notypesandsymbols": "true",
+        "strict": "true"
+      }
+    }
+  ]
+}

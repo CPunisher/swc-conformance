@@ -1,0 +1,42 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1
+      ],
+      "name": "destructuringTypeAssertionsES5_4.ts"
+    }
+  ],
+  "options": {
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/es6/destructuring/destructuringTypeAssertionsES5_4.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "destructuringTypeAssertionsES5_4(target=es5)",
+      "options": {
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [
+        {
+          "codes": [
+            2304
+          ],
+          "file": "destructuringTypeAssertionsES5_4.ts"
+        }
+      ],
+      "name": "destructuringTypeAssertionsES5_4(target=es2015)",
+      "options": {
+        "target": "ES2015"
+      }
+    }
+  ]
+}

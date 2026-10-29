@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "/lib/constants.js"
+    },
+    {
+      "lines": [
+        11,
+        12
+      ],
+      "name": "/src/constants.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "module": "commonjs",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "conformance/salsa/reExportJsFromTs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "reExportJsFromTs",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/constants.ts",
+        "module": "commonjs",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

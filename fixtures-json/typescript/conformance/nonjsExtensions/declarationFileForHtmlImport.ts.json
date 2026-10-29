@@ -1,0 +1,78 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "name": "component.d.html.ts"
+    },
+    {
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "name": "file.ts"
+    }
+  ],
+  "options": {
+    "allowarbitraryextensions": "true,false",
+    "lib": "es2020,dom",
+    "target": "es2020"
+  },
+  "path": "conformance/nonjsExtensions/declarationFileForHtmlImport.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "allowarbitraryextensions=true",
+      "diagnostics": [],
+      "name": "declarationFileForHtmlImport(allowarbitraryextensions=true)",
+      "options": {
+        "allowarbitraryextensions": "true",
+        "filename": "file.ts",
+        "lib": "es2020,dom",
+        "target": "es2020"
+      }
+    },
+    {
+      "config": "allowarbitraryextensions=false",
+      "diagnostics": [
+        {
+          "codes": [],
+          "file": "component.d.html.ts"
+        },
+        {
+          "codes": [
+            6263
+          ],
+          "file": "file.ts"
+        }
+      ],
+      "name": "declarationFileForHtmlImport(allowarbitraryextensions=false)",
+      "options": {
+        "allowarbitraryextensions": "false",
+        "filename": "file.ts",
+        "lib": "es2020,dom",
+        "target": "es2020"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        1,
+        2
+      ],
+      "name": "parserErrorRecovery_VariableList1.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/parser/ecmascript5/ErrorRecovery/VariableLists/parserErrorRecovery_VariableList1.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1009,
+            1108
+          ],
+          "file": "parserErrorRecovery_VariableList1.ts"
+        }
+      ],
+      "name": "parserErrorRecovery_VariableList1",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "classMemberInitializerScoping2.ts"
+    }
+  ],
+  "options": {
+    "strict": "false",
+    "target": "es2017,esnext",
+    "usedefineforclassfields": "true,false"
+  },
+  "path": "compiler/classMemberInitializerScoping2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es2017,usedefineforclassfields=true",
+      "diagnostics": [
+        {
+          "codes": [
+            2301
+          ],
+          "file": "classMemberInitializerScoping2.ts"
+        }
+      ],
+      "name": "classMemberInitializerScoping2(target=es2017,usedefineforclassfields=true)",
+      "options": {
+        "strict": "false",
+        "target": "es2017",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=es2017,usedefineforclassfields=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2301
+          ],
+          "file": "classMemberInitializerScoping2.ts"
+        }
+      ],
+      "name": "classMemberInitializerScoping2(target=es2017,usedefineforclassfields=false)",
+      "options": {
+        "strict": "false",
+        "target": "es2017",
+        "usedefineforclassfields": "false"
+      }
+    },
+    {
+      "config": "target=esnext,usedefineforclassfields=true",
+      "diagnostics": [],
+      "name": "classMemberInitializerScoping2(target=esnext,usedefineforclassfields=true)",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "true"
+      }
+    },
+    {
+      "config": "target=esnext,usedefineforclassfields=false",
+      "diagnostics": [
+        {
+          "codes": [
+            2301
+          ],
+          "file": "classMemberInitializerScoping2.ts"
+        }
+      ],
+      "name": "classMemberInitializerScoping2(target=esnext,usedefineforclassfields=false)",
+      "options": {
+        "strict": "false",
+        "target": "esnext",
+        "usedefineforclassfields": "false"
+      }
+    }
+  ]
+}

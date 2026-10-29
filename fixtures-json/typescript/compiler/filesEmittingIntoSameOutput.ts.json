@@ -1,0 +1,53 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        6,
+        7,
+        8
+      ],
+      "name": "a.tsx"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "compiler/filesEmittingIntoSameOutput.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5056
+          ],
+          "file": null
+        },
+        {
+          "codes": [],
+          "file": "a.ts"
+        },
+        {
+          "codes": [],
+          "file": "a.tsx"
+        }
+      ],
+      "name": "filesEmittingIntoSameOutput",
+      "options": {
+        "filename": "a.tsx",
+        "target": "es2015"
+      }
+    }
+  ]
+}

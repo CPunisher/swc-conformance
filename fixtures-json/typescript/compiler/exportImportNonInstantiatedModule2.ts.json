@@ -1,0 +1,51 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7
+      ],
+      "name": "w1.ts"
+    },
+    {
+      "lines": [
+        9,
+        10
+      ],
+      "name": "exporter.ts"
+    },
+    {
+      "lines": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "consumer.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "module": "commonjs",
+    "target": "es2015"
+  },
+  "path": "compiler/exportImportNonInstantiatedModule2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportImportNonInstantiatedModule2",
+      "options": {
+        "declaration": "true",
+        "filename": "consumer.ts",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

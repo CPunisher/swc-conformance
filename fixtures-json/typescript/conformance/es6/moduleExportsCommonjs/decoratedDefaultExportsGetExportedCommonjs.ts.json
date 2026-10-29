@@ -1,0 +1,59 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "a.ts"
+    },
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        13,
+        14
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "module": "commonjs",
+    "target": "ES6"
+  },
+  "path": "conformance/es6/moduleExportsCommonjs/decoratedDefaultExportsGetExportedCommonjs.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2454
+          ],
+          "file": "a.ts"
+        },
+        {
+          "codes": [
+            2454
+          ],
+          "file": "b.ts"
+        }
+      ],
+      "name": "decoratedDefaultExportsGetExportedCommonjs",
+      "options": {
+        "experimentaldecorators": "true",
+        "filename": "b.ts",
+        "module": "commonjs",
+        "target": "ES6"
+      }
+    }
+  ]
+}

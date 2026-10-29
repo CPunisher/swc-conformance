@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "a.js"
+    },
+    {
+      "lines": [
+        16,
+        17
+      ],
+      "name": "b.ts"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "checkjs": "true",
+    "noemit": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/exportDefaultWithJSDoc2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "exportDefaultWithJSDoc2",
+      "options": {
+        "allowjs": "true",
+        "checkjs": "true",
+        "filename": "b.ts",
+        "noemit": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

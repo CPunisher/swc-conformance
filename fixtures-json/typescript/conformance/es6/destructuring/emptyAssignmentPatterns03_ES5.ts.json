@@ -1,0 +1,41 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "emptyAssignmentPatterns03_ES5.ts"
+    }
+  ],
+  "options": {
+    "declaration": "true",
+    "target": "es5, es2015"
+  },
+  "path": "conformance/es6/destructuring/emptyAssignmentPatterns03_ES5.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "emptyAssignmentPatterns03_ES5(target=es5)",
+      "options": {
+        "declaration": "true",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "emptyAssignmentPatterns03_ES5(target=es2015)",
+      "options": {
+        "declaration": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

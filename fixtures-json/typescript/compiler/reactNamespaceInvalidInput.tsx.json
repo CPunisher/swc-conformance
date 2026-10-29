@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5
+      ],
+      "name": "reactNamespaceInvalidInput.tsx"
+    }
+  ],
+  "options": {
+    "jsx": "react",
+    "reactnamespace": "my-React-Lib",
+    "target": "es2015"
+  },
+  "path": "compiler/reactNamespaceInvalidInput.tsx",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            5059
+          ],
+          "file": null
+        },
+        {
+          "codes": [
+            7026,
+            2874
+          ],
+          "file": "reactNamespaceInvalidInput.tsx"
+        }
+      ],
+      "name": "reactNamespaceInvalidInput",
+      "options": {
+        "jsx": "react",
+        "reactnamespace": "my-React-Lib",
+        "target": "es2015"
+      }
+    }
+  ]
+}

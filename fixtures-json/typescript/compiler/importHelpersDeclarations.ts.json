@@ -1,0 +1,46 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "declaration.d.ts"
+    }
+  ],
+  "options": {
+    "importhelpers": "true",
+    "module": "commonjs",
+    "target": "es5, es2015"
+  },
+  "path": "compiler/importHelpersDeclarations.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "importHelpersDeclarations(target=es5)",
+      "options": {
+        "filename": "declaration.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "target": "es5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "importHelpersDeclarations(target=es2015)",
+      "options": {
+        "filename": "declaration.d.ts",
+        "importhelpers": "true",
+        "module": "commonjs",
+        "target": "es2015"
+      }
+    }
+  ]
+}

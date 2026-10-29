@@ -1,0 +1,48 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "name": "privateNameNestedClassAccessorsShadowing.ts"
+    }
+  ],
+  "options": {
+    "target": "es2015"
+  },
+  "path": "conformance/classes/members/privateNames/privateNameNestedClassAccessorsShadowing.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            18014
+          ],
+          "file": "privateNameNestedClassAccessorsShadowing.ts"
+        }
+      ],
+      "name": "privateNameNestedClassAccessorsShadowing",
+      "options": {
+        "target": "es2015"
+      }
+    }
+  ]
+}

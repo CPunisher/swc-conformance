@@ -1,0 +1,43 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "name": "/src/a.js"
+    }
+  ],
+  "options": {
+    "allowjs": "true",
+    "outdir": "out",
+    "target": "es2015"
+  },
+  "path": "compiler/jsFileCompilationTypeAssertions.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            8016,
+            17008,
+            1005
+          ],
+          "file": "/src/a.js"
+        }
+      ],
+      "name": "jsFileCompilationTypeAssertions",
+      "options": {
+        "allowjs": "true",
+        "filename": "/src/a.js",
+        "outdir": "out",
+        "target": "es2015"
+      }
+    }
+  ]
+}

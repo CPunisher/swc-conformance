@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "/a.ts"
+    }
+  ],
+  "options": {
+    "lib": "es6",
+    "module": "commonjs",
+    "strict": "false",
+    "target": "es2015"
+  },
+  "path": "compiler/errorForConflictingExportEqualsValue.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2309
+          ],
+          "file": "/a.ts"
+        }
+      ],
+      "name": "errorForConflictingExportEqualsValue",
+      "options": {
+        "filename": "/a.ts",
+        "lib": "es6",
+        "module": "commonjs",
+        "strict": "false",
+        "target": "es2015"
+      }
+    }
+  ]
+}

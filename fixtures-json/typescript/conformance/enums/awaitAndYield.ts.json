@@ -1,0 +1,44 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "awaitAndYield.ts"
+    }
+  ],
+  "options": {
+    "notypesandsymbols": "true",
+    "strict": "false",
+    "target": "ES2019"
+  },
+  "path": "conformance/enums/awaitAndYield.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            1308,
+            1163
+          ],
+          "file": "awaitAndYield.ts"
+        }
+      ],
+      "name": "awaitAndYield",
+      "options": {
+        "notypesandsymbols": "true",
+        "strict": "false",
+        "target": "ES2019"
+      }
+    }
+  ]
+}

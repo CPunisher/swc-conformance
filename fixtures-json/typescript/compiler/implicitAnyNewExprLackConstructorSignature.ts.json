@@ -1,0 +1,38 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        2,
+        3
+      ],
+      "name": "implicitAnyNewExprLackConstructorSignature.ts"
+    }
+  ],
+  "options": {
+    "noimplicitany": "true",
+    "target": "es2015"
+  },
+  "path": "compiler/implicitAnyNewExprLackConstructorSignature.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [
+        {
+          "codes": [
+            2683,
+            7009
+          ],
+          "file": "implicitAnyNewExprLackConstructorSignature.ts"
+        }
+      ],
+      "name": "implicitAnyNewExprLackConstructorSignature",
+      "options": {
+        "noimplicitany": "true",
+        "target": "es2015"
+      }
+    }
+  ]
+}

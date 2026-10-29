@@ -1,0 +1,54 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "/a/package.json"
+    },
+    {
+      "lines": [
+        14,
+        15
+      ],
+      "name": "/a/ts3.1/index.d.ts"
+    },
+    {
+      "lines": [
+        17,
+        18
+      ],
+      "name": "/b/user.ts"
+    }
+  ],
+  "options": {
+    "baseurl": "/",
+    "module": "commonjs",
+    "target": "esnext",
+    "traceresolution": "true"
+  },
+  "path": "conformance/moduleResolution/typesVersions.emptyTypes.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "",
+      "diagnostics": [],
+      "name": "typesVersions.emptyTypes",
+      "options": {
+        "baseurl": "/",
+        "filename": "/b/user.ts",
+        "module": "commonjs",
+        "target": "esnext",
+        "traceresolution": "true"
+      }
+    }
+  ]
+}

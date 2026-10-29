@@ -1,0 +1,47 @@
+{
+  "currentDirectory": "/.src",
+  "files": [
+    {
+      "lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "decoratorOnClassMethodOverload2.ts"
+    }
+  ],
+  "options": {
+    "experimentaldecorators": "true",
+    "strict": "false",
+    "target": "ES5, ES2015"
+  },
+  "path": "conformance/decorators/class/method/decoratorOnClassMethodOverload2.ts",
+  "symlinks": {},
+  "tsconfig": null,
+  "variants": [
+    {
+      "config": "target=es5",
+      "diagnostics": [],
+      "name": "decoratorOnClassMethodOverload2(target=es5)",
+      "options": {
+        "experimentaldecorators": "true",
+        "strict": "false",
+        "target": "ES5"
+      }
+    },
+    {
+      "config": "target=es2015",
+      "diagnostics": [],
+      "name": "decoratorOnClassMethodOverload2(target=es2015)",
+      "options": {
+        "experimentaldecorators": "true",
+        "strict": "false",
+        "target": "ES2015"
+      }
+    }
+  ]
+}
